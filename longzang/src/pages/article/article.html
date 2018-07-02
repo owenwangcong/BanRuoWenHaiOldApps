@@ -1,0 +1,35 @@
+<ion-header #header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-buttons end>
+      <button ion-button icon-only (click)="showSettings($event)">
+        <ion-icon name="settings"></ion-icon>
+      </button>
+      <button ion-button icon-only (click)="addBookmark()">
+        <ion-icon name="bookmark"></ion-icon>
+      </button>
+      <button ion-button icon-only (click)="showToc($event)">
+        <ion-icon name="list"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title class="adjustedCenter">{{book.name}}</ion-title>
+  </ion-navbar>  
+</ion-header>
+
+<ion-content padding [class]="selectedBackground">
+
+  <ion-spinner *ngIf="isLoading" name="circles" style="width:30px;height:30px;stroke: #444;height:100%;display:block;margin-left:auto;margin-right:auto;"></ion-spinner>    
+  
+  <div *ngIf="!isLoading">
+      <ion-list class="{{selectedFontSize}}" (click)="scroll()">
+        <div name="paragraphList" id="paragraphList">
+          <div *ngFor="let paragraph of paragraphArray" [innerHtml]="paragraph|safe"></div>
+        </div>
+      </ion-list>  
+      <div ion-item name="bottom" no-lines style="background: transparent"></div>
+  </div>
+
+</ion-content>
+

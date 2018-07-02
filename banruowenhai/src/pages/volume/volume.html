@@ -1,0 +1,44 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+    <ion-title class="adjustedCenter">
+      书籍简介
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h2 class="center" style="padding:20px 0px;margin:0px">
+    <span class="volume-book-title">
+        {{book.name}}           
+    </span>
+  </h2>
+
+  <div class="center" *ngIf="book.author.length>0" style="padding:5px 0px 10px 0px">作者: {{book.author}}</div>
+  <div class="center" *ngIf="book.author.length==0" style="padding:10px 0px"></div>
+
+  <div class="center content-border-background" style="overflow:auto">
+      <img class="center" src="{{book.imageurl}}" *ngIf="!book.imageurl.includes('0000')" style="float: left; margin-right: 7px; border: 1px solid #000000;"/>
+      <p style="margin:0px;position: relative;top: 50%;" align="left">
+          {{book.description}}
+        </p>
+  </div>
+  <br/>
+
+  <div class="center">点击下面的章节按钮开始阅读</div>
+  <br/>
+
+  <ion-list>
+      <button ion-button 
+              class="center" 
+              style="width:100%;padding:5px;margin-bottom:7px" 
+              href="#" 
+              *ngFor="let volume of book.volumes; let i = index" 
+              (click)="gotoArticle(book.name, book.volumes, i)">
+        {{volume.name}}
+      </button >
+      <br />
+  </ion-list>
+</ion-content>

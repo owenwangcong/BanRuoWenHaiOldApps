@@ -1,0 +1,119 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-app-preferences",
+        "scope": null,
+        "escapedName": "cordova-plugin-app-preferences",
+        "name": "cordova-plugin-app-preferences",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Program Files\\nodejs\\node_modules\\npm\\banruowenhai\\node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-app-preferences@latest",
+  "_id": "cordova-plugin-app-preferences@0.99.3",
+  "_inCache": true,
+  "_location": "/cordova-plugin-app-preferences",
+  "_nodeVersion": "0.10.40",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-app-preferences-0.99.3.tgz_1475801593166_0.23312430921941996"
+  },
+  "_npmUser": {
+    "name": "apla",
+    "email": "dot.and.thing@gmail.com"
+  },
+  "_npmVersion": "3.10.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-app-preferences",
+    "scope": null,
+    "escapedName": "cordova-plugin-app-preferences",
+    "name": "cordova-plugin-app-preferences",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-app-preferences/-/cordova-plugin-app-preferences-0.99.3.tgz",
+  "_shasum": "21f63ecb4698b97bdb812e6c1692ba5f32dc8bd0",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-app-preferences",
+  "_where": "C:\\Program Files\\nodejs\\node_modules\\npm\\banruowenhai\\node_modules",
+  "author": {
+    "name": "Ivan Baktsheev"
+  },
+  "bin": {
+    "cordova-app-preferences-generator": "bin/build-app-settings.js"
+  },
+  "bugs": {
+    "url": "https://github.com/apla/me.apla.cordova.app-preferences/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-app-preferences",
+    "platforms": [
+      "android",
+      "ios",
+      "osx",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "blackberry10"
+    ]
+  },
+  "dependencies": {},
+  "description": "Application preferences plugin and preference pane generator",
+  "devDependencies": {
+    "cordova": ">=5.4.1",
+    "elementtree": "^0.1.6",
+    "ios-sim": ">=5.0.5",
+    "jasmine": "^2.3.2",
+    "plist": "1.1.0",
+    "q": "^1.4.1",
+    "serve-me": "^0.8.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "21f63ecb4698b97bdb812e6c1692ba5f32dc8bd0",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-app-preferences/-/cordova-plugin-app-preferences-0.99.3.tgz"
+  },
+  "gitHead": "ac4eae6c07479e3a82c1b63338143fdad527e8e2",
+  "homepage": "https://github.com/apla/me.apla.cordova.app-preferences",
+  "keywords": [
+    "preferences",
+    "settings",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-osx",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows",
+    "cordova-windows8",
+    "cordova-blackberry10"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "apla",
+      "email": "dot.and.thing@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-app-preferences",
+  "optionalDependencies": {},
+  "readme": "Application preferences plugin for Cordova 3+\n-----------------------\n\nWhy you should use this plugin?\n\n * Cordova + Promise interface out of the box\n * Supports many platforms (Android, iOS/macOS, Windows and local storage fallback)\n * Have tests\n (iOS: [![iOS and browser status](https://travis-ci.org/apla/me.apla.cordova.app-preferences.svg)](https://travis-ci.org/apla/me.apla.cordova.app-preferences),\n Android: [![Android status](https://circleci.com/gh/apla/me.apla.cordova.app-preferences.svg?&style=shield&circle-token=f3e5e46c1a698c62f0450bf1d25a3694d4f714c6)](https://circleci.com/gh/apla/me.apla.cordova.app-preferences),\n Windows: [![Windows status](https://ci.appveyor.com/api/projects/status/gl3qxq2o728sqbev?svg=true)](https://ci.appveyor.com/project/apla/me-apla-cordova-app-preferences),\n Browser: [![iOS and browser status](https://travis-ci.org/apla/me.apla.cordova.app-preferences.svg)](https://travis-ci.org/apla/me.apla.cordova.app-preferences))\n * Supports simple and complex data structures\n * Supports removal of the keys\n * Have preference pane generator for application (for Android and iOS) and can show native preferences\n * (Untested) reference change notification [#37](apla/me.apla.cordova.app-preferences#37)\n * (Untested) named preferences files for android and iOS suites [#97](apla/me.apla.cordova.app-preferences#97)\n * (Untested) synchronized preferences via iCloud or windows roaming [#75](apla/me.apla.cordova.app-preferences#75)\n\nInstalling\n---\n\nFrom plugin registry:\n\n\t$ cordova plugin add cordova-plugin-app-preferences\n\nFrom the repo:\n\n\t$ cordova plugin add https://github.com/apla/me.apla.cordova.app-preferences\n\nFrom a local clone:\n\n\t$ cordova plugin add /path/to/me.apla.cordova.app-preferences/folder\n\n\nhttps://github.com/apla/me.apla.cordova.app-preferences/issues/97\n\nMore information:\n[Command-line Interface Guide](http://cordova.apache.org/docs/en/edge/guide_cli_index.md.html#The%20Command-line%20Interface).\n\n[Using Plugman to Manage Plugins](http://cordova.apache.org/docs/en/edge/guide_plugin_ref_plugman.md.html).\n\n\nSynopsis\n---\n\n```javascript\n\nfunction ok (value) {}\nfunction fail (error) {}\n\nvar prefs = plugins.appPreferences;\n\n// cordova interface\n\n// store key => value pair\nprefs.store (ok, fail, 'key', 'value');\n\n// store key => value pair in dict (see notes)\nprefs.store (ok, fail, 'dict', 'key', 'value');\n\n// fetch value by key (value will be delivered through \"ok\" callback)\nprefs.fetch (ok, fail, 'key');\n\n// fetch value by key from dict (see notes)\nprefs.fetch (ok, fail, 'dict', 'key');\n\n// remove value by key\nprefs.remove (ok, fail, 'key');\n\n// show application preferences\nprefs.show (ok, fail);\n\n// instead of cordova interface you can use promise interface\n// you'll receive promise when you won't pass function reference\n// as first and second parameter\n\n// fetch the value for a key using promise\nprefs.fetch ('key').then (ok, fail);\n\n```\n\n[Suites](wiki/Suites)\n\n```javascript\n\n// support for iOS suites or android named preference files (untested)\nvar suitePrefs = prefs.suite (\"suiteName\");\nsuitePrefs.fetch (...);\nsuitePrefs.store (...);\n\n// store preferences in synchronized cloud storage for iOS and windows\nvar cloudSyncedPrefs = prefs.cloudSync ();\ncloudSyncedPrefs.fetch (...);\ncloudSyncedPrefs.store (...);\n\n```\n\nPlatforms\n---\n1. Native execution on iOS/macOS using `NSUserDefaults` — docs for [iOS](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSUserDefaults_Class/index.html) / [macOS](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSUserDefaults_Class/index.html)\n1. Native execution on Android using `android.content.SharedPreferences` — [docs](https://developer.android.com/reference/android/content/SharedPreferences.html)\n1. Native execution on Windows Universal Platform using `Windows.Storage.ApplicationData` — [docs](https://msdn.microsoft.com/en-us/windows.storage.applicationdata)\n1. Native execution on Windows Phone 7 using `IsolatedStorageSettings.ApplicationSettings` — [docs](https://msdn.microsoft.com/library/system.io.isolatedstorage.isolatedstoragesettings.applicationsettings\\(vs.95\\).aspx)\n1. Execution on BlackBerry10 fallback using `localStorage`\n\nNotes\n---\n1. iOS, macOS, Android and Windows Phone basic values (`string`, `number`, `boolean`) are stored using typed fields.\n1. Complex values, such as arrays and objects, are always stored using JSON notation.\n1. Dictionaries are supported on iOS and Windows 8 only, so on other platforms instead of using the real dictionary a composite key will be written like `<dict>.<key>`\n1. On iOS/macOS dictionaries just a key, so appPrefs.store ('dict', 'key', value) and appPrefs.store ('dict', {'key': value}) have same meaning (but different result).\n\nTests\n---\nTests are available in `src/test.js`. After installing plugin you can add test code from this file and then launch `testPlugin()` function.\n\n * iOS pass locally, Travis: ![iOS and browser status](https://travis-ci.org/apla/me.apla.cordova.app-preferences.svg)\n * Android pass locally, CircleCI: ![Android status](https://circleci.com/gh/apla/me.apla.cordova.app-preferences.svg?&style=shield&circle-token=f3e5e46c1a698c62f0450bf1d25a3694d4f714c6)\n * BlackBerry 10 pass locally\n * Windows Phone 8 tests pass locally, Appveyor: ![Windows status](https://ci.appveyor.com/api/projects/status/gl3qxq2o728sqbev?svg=true)\n * Browser pass locally, Travis: ![iOS and browser status](https://travis-ci.org/apla/me.apla.cordova.app-preferences.svg)\n\nModule update for cordova < 5.x\n---\n\nPlease note that plugin id is changed for npm publishing, so if you used\nthis plugin before cordova@5.0.0, you'll have to reinstall it:\n\n$ cordova plugin rm me.apla.cordova.app-preferences\n$ cordova plugin add cordova-plugin-app-preferences\n\n\nShow Preference pane\n---\n\nIf you have generated preferences, you can programmatically show preference pane\n(Android and iOS at this time). On Android your application show native interface for preferences,\non iOS you'll be switched to the Settings.app with application preferences opened for you.\nEither way, you must listen for Cordova resume event to perform preferences synchronization.\n\nPreferences interface generator\n---\n\nPreferences generator installed along with plugin and run every time when you prepare you cordova app.\n\nAfter plugin installation you can find file `app-settings.json` within your app folder.\n\nIf you want to disable this functionality, please remove `app-settings.json`.\n\niOS note: if you have `Settings.bundle` from external source or previous version of generator\n`cordova prepare` will fail. Current version of preference generator trying not to rewrite\nexisting `Settings.bundle` if it is not generated by plugin. It is save to remove `Settings.bundle`\nif it came from previous version of plugin.\n\n### Supported controls for iOS:\n\n* group\n* combo\n* switch\n* textfield\n\n### Supported controls for Android:\n\n* group\n* combo\n* switch - not tested\n* textfield - not tested\n\nTODO: Preferences UI for Windows Phone ([guide](http://blogs.msdn.com/b/glengordon/archive/2012/09/17/managing-settings-in-windows-phone-and-windows-8-store-apps.aspx), [docs](https://msdn.microsoft.com/en-US/library/windows/apps/ff769510\\(v=vs.105\\).aspx))\n\nCredits\n---\n\nOriginal version for iOS:\nhttps://github.com/phonegap/phonegap-plugins/tree/master/iOS/ApplicationPreferences\n\nAnother android implementation for cordova 2.x:\nhttps://github.com/macdonst/AppPreferences\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apla/me.apla.cordova.app-preferences.git"
+  },
+  "scripts": {},
+  "version": "0.99.3"
+}

@@ -1,0 +1,731 @@
+<p align="center" style="text-align:center"><b><span style="font-size:36.0pt;color:#FF6600">茅蓬札记第二辑<span lang="EN-US"></span></span></b></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">圆因法师著<span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a00">序—师父的四个法宝</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a01">1．万德洪名</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US" style="&quot;Courier New&quot;"><a href="#a02">2<span style="&quot;Courier New&quot;">．念佛即是戒定慧</span></a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a03">3．药师经劝放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a04">4．灵山只在汝心头</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a05">5．忏悔回向念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a06">6．如何辨别真伪善知识</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a07">7．以诸法实相为师</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a08">8．杀胎当堕阿鼻地狱</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a09">9．善友罕逢，恶缘偏盛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a10">10．主敬存诚</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a11">11．荣华原是三更梦</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a12">12．学道要诀</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a13">13．科学与宗教</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a14">14．老实值千金</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a15">15．放下自然悠悠</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a16">16．劝君学道莫贪求</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a17">17．改过</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a18">18．梁启超先生说佛教</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a19">19．信愿专持名号</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a20">20．十大愿王导归极乐</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a21">21．学道有三大错</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a22">22．反躬责己</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a23">23．成于慈忍，败于忿躁</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a24">24．专精护戒</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a25">25．莲池大师法语</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a26">26．孙中山先生说佛教</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a27">27．一世奔波梦一宵</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a28">28．净土法门</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a29">29．切莫较得失</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a30">30．天地之大德</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a31">31．等觉菩萨尚需求生西方</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a32">32．水月镜花皆幻相</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a33">33．宇宙观与人生观</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a34">34．深潜不露</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a35">35．人人念佛皆成佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a36">36．劝人念佛求生西方</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a37">37．浮生如梦</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a38">38．宠利勿居人前</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a39">39．有命尽贪生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a40">40．十地始终不离念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a41">41．三障败戒德</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a42">42．心性</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a43">43．持名为正行</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a44">44．务实</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a45">45．欲易行疾至，应当念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a46">46．慎勿造因</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a47">47．贪婪最坏，布施第一</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a48">48．死尽偷心活计</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a49">49．修道世外幽栖</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a50">50．身从业生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a51">51．智与识</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a52">52．大痴人</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a53">53．欲除重障当勤忏悔</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a54">54．莫待临时抱佛脚</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a55">55．忍字无价宝</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a56">56．心不迷不堕生死</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a57">57．一念无生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a58">58．百代流光梦一场</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a59">59．第三世怨</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a60">60．闭口不语</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a61">61．阿字观</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a62">62．心定气聚，心摇气涣</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a63">63．真正伟大乃是平凡</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a64">64．所作所受如影随形</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a65">65．当生成就必修念佛法门</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a66">66．无上法门</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a67">67．戒杀放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a68">68．念佛消除业障之力极大</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a69">69．存诚慎独</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a70">70．离幻即觉</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a71">71．受戒当奉持</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a72">72．三界轮回淫为本</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a73">73．无相光中观自在</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a74">74．有所不足</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a75">75．请转法轮</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a76">76．为人不必苦贪财</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a77">77．自省</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a78">78．常住真心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a79">79．生死大事</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a80">80．治心不乱</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a81">81．灾祸之来因</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a82">82．名与欲</a></span></p>
+<p align="center" style="text-align:center"><a href="#a83">83．传家之宝&nbsp; 醒世歌</a></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a84">84．学道当明事理</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a85">85．烦恼本来空寂</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a86">86．念佛为正行</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a87">87．莫贪财</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a88">88．净心即佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a89">89．劝世人念佛好</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a90">90．色空如梦本同</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a91">91．竭力放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a92">92．不见有德</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a93">93．憨山大师念佛偈</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a94">94．错认红尘是家乡</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a95">95．此身须向今生度</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a96">96．息念返照</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a97">97．真空难解</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a98">98．设身处地扪心想</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a99">99．清净心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a100">100．盲禅不可依从</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a101">101．严以律己，宽以待人</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a102">102．因果分明</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a103">103．念佛为正功夫</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a104">104．等觉犹忏</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a105">105．造寺不如救命</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a106">106．聪明不能敌业</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a107">107．净宗之妙</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a108">108．智者慎勿造因</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a109">109．得意莫忘失意时</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a110">110．出世间大孝</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a111">111．三世诸佛之略戒经</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a112">112．弄巧成拙</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a113">113．李炳南老居土说放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a114">114．依法不依人</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a115">115．无人识本真</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a116">116．一句佛号能消一切业障</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a117">117．戒律的定义</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a118">118．形骸为桎梏情识是戈矛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a119">119．净心念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a120">120．爱因斯坦说</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a121">121．贪求安养厌娑婆</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a122">122．凡心应勤扫</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a123">123．参禅非现今人宜学</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a124">124．放生为众善之先</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a125">125．聪明与智慧之界限</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a126">126．邪魔外道</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a127">127．弘一大师论念佛法门</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a128">128．学道如钻火</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a129">129．柏拉图说</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a130">130．信愿行</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a131">131．明理性不废事修</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a132">132．实践</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a133">133．舍本逐末</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a134">134．弘一大师论放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a135">135．人能退步便无忧</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a136">136．深信因果</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a137">137．华严海众咸求往生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a138">138．不学他法又有何憾</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a139">139．地狱深根</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a140">140．劝持佛名</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a141">141．凡圣良莠一念分</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a142">142．不可执理废事</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a143">143．信愿持名</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a144">144．身心闲淡</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a145">145．八苦为八师</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a146">146．老实者，精诚之捷径</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a147">147．徒自疲劳</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a148">148．胜负之念不可太盛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a149">149．毗庐遮那</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a150">150．真修行人</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a151">151．众生至爱者身命</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a152">152．念佛三昧</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a153">153．妄从真起</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a154">154．导归极乐</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a155">155．知足无求</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a156">156．克己</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a157">157．妄心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a158">158．佛劝父王念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a159">159．念念有如临终日</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a160">160．千日闻教不如一日修道</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a161">161．但问自心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a162">162．神通三妙用</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a163">163．念佛不须观想不必参究</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a164">164．浮生是梦</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a165">165．最要之道</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a166">166．非理之财莫取</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a167">167．仗自力了生死万难万难</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a168">168．我佛异方便</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a169">169．南柯一梦</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a170">170．佛与佛乃能究尽</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a171">171．老实念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a172">172．一即一切</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p><a name="a00"></a><span style="color:#333399">序—师父的四个法宝<span lang="EN-US"></span></span></p>
+<p><b>闲自访高僧，<span lang="EN-US"></span></b></p>
+<p><b>烟山万万层，<span lang="EN-US"></span></b></p>
+<p><b>师亲指归路，<span lang="EN-US"></span></b></p>
+<p><b>月挂一轮灯。</b><b><span lang="EN-US" style="&quot;Courier New&quot;"></span></b></p>
+<p>这是唐朝寒山大师所留下的一首偈，偈中明白清楚地点出了修行路上善知识指导的重要性。因为修行路上最怕走入歧途，一旦修行的方向方法有所偏差，就好像飞机轮船偏离了航道，后果将是不堪设想。</p>
+<p>然而佛法大海。浩瀚无边，三藏十二部经典，部部深奥难测，八万四千法门，门门高妙难解，因此一般学佛大众往往浑浑噩噩，抓不著要点，以致人云亦云，无所适从，丝毫没有定见，一下子听人家说参禅好，就跑去参禅，一下子听人家说学密好，就跑去学密，一下子听人家说研教好，又搬出了一大堆经典研究起经教，像这种东看西学，莫衷一是，糊里糊涂的人，其实到处都是，结果只有白白蹉跎掉宝贵的一生，一辈子的心血努力都是徒劳无功。</p>
+<p>法华经云：‘善知识，一大因缘，所以化导令得见佛。’善知识犹如一盏明灯，让我们在浑沌不明的修行路上找到了依靠。更因为善知识将佛法最重要最精华的部分提纲挈领，精简扼要地教导我们，我们只要按照善知识的指导，就能够顺利地走上修行的捷径，化繁为简，事半功倍。真正得到学佛的实益。</p>
+<p>老实念佛—在千载一时的大因缘中，我们得以逢遇一位难得难逢的善知识，那就是我们的导师—上图下因老法师。师父以年届九十的高龄，迄今仍隐居于深山茅蓬清修达三十多年。修行上师父谨遵佛陀的教诲，知道末法时代一切众生业深障重，根机钝劣，非念佛无法成就。大集经云：‘末法亿亿人修行，罕一得道，唯依念佛，得度生死。’师父教导我们，在佛教所有八万四千法门当中，不管是禅教密律，全都是靠自力修行，成佛须经三大阿僧祇劫，是难行道，想要在今生一生成就是绝对不可能的。唯有净土法门，是佛教一切法门中的特别法门，倚仗佛力，只要具足信愿行三资粮，依靠大慈大悲的阿弥陀佛的本誓愿力，一心执持‘南无阿弥陀佛’圣号，即可当生成就，了生脱死，是易行道，也是末法时代我等下劣凡夫的唯一依靠，末法时代的一切众生，修行如果舍离了念佛法门，亿亿万人中找不到一个成就的。所以师父专修净土法门，老老实实执持一句‘南无阿弥陀佛’圣号，更以净土法门自行化他，普劝一切来访求法者一门深入，老实念佛，绝不三心二意，绝不朝三暮四，如此才能真正在今生成就，否则生死海急，轮回路险，光阴迅速，命不坚久，蹉跎掉了此生，再回头只是苦海无边无止无尽轮回的岁月！</p>
+<p>拜佛礼忏—师父强调‘礼忏’的重要性，教导我们每天一定要礼拜八十八佛求忏悔。因为多生累世以来，我们早已积欠了无数的罪业，罪业若不消灭，以后因果报应是绝对迷不掉的，解决之道唯有忏悔，从内心真实真诚地发惭愧心及忏悔心，每天在佛前礼拜八十八佛洪名求忏悔，因为礼拜八十八佛正是佛陀金口在经典中开示我们忏悔的最佳法宝。每天礼佛，每天忏悔，在拜佛礼忏的过程中，身体佛，口念佛，意念专注在佛号之上，身口意三业清净，并得诸佛依本誓愿力摄受加被，灭罪消愆，消除业障，不可思议！即使师父如今已九十高龄，拜八十八佛仍是每天必作的功课，数十年来如一日，从不间断。</p>
+<p>戒杀吃素—行持上师父律己甚严，山中生活起居一切能劣则省，能简则简，刻苦耐劳，惜福节俭，食衣住行都是朴朴素素。师父教导我们要‘以戒为师’，生活言行处处要严守戒律，处处要小心谨慎，以免犯戒造成自己的功德有失有漏。守一分戒律，得一分清净，成就一分功德；守十分戒律，得十分清净，成就十分功德。戒律守不守得好，关系著我们学佛道业的顺遂与否，学佛的人一定要持戒，千万不可丝毫有所轻忽。</p>
+<p>师父强调学佛的人一定要赶快吃素，因为楞伽经云：‘食肉与杀同罪’，吃肉就是杀生，就是犯杀戒，而众生最宝贵的是自己的生命，杀了他吃了他，所结的怨仇最深最大，将来的果报也最惨最烈，所以持戒第一首须戒杀，赶快要断肉吃素，上等根机的人能够马上完全改过来最好，中下等根机的人即使不能马上改过来，也要减少自己吃肉的次数与份量，赶快督促自己走上完全吃素的正途，否则杀价杀还，血债血还，将来吃亏受苦的还是自己。</p>
+<p>赎命放生—居士们常尊称师父是‘放生师父’，因为师父特别注重放生，数十年来，师父除了殷殷教诲苦劝学佛人常行放生之外，几乎不下山的师父更是身体力行，每月固定下山带领居士们一起去放生。师父教导我们，吃素只是消极地改过，只是不再造新的杀业而已！而放生则是积极地行善，偿还累世以来我们所积欠无数的杀债。而人世间一切灾难不幸，癌症恶疾的最大原因就是来自于杀生，解决之道就是放生，因为众生最宝贵的还是自己的生命，所以放生的功德最大，与众生结的善缘最深，感应最快，是除灾解难，解怨消结最有效最快速的法宝。在放生的善举中，无数物命感恩示谢的画面示现眼前，无数居士的癌症恶疾霍然痊愈，更让每一位参与放生的居士长养了慈悲心，体会到天地万物众生率皆平等，皆具佛性，皆能成佛的真理，从此以慈悲心平等爱护一切生命。要知道佛心就是慈悲心，修行人慈悲心一发，心与佛合，行与佛同，与佛最容易感应道交，学佛道业最容易成就。</p>
+<p>‘老实念佛’、‘拜佛礼忏’、‘戒杀吃素’、‘赎命放生’是师父时常训勉大家修行的四大重点。师父强调实践，教导我们学佛的利益完全是从亲身实践而来，我们要学佛，不要佛学，一个一字不识但力行实践的老实人远远胜过一个博通经论却一点也不实践的大通家，师父绝不谈玄说妙，用高话来凌驾后学，而是希望大家在平凡平实的修行中认真实践，真正得到法益。</p>
+<p>有鉴于时下很多学佛人往往盲修瞎练，抓不著修行的要点，之前师父将平日于山中茅蓬清修，撷取经教中的重点精华集结而成‘茅蓬札记’一书印行与大众结缘，出版之后，获得广大的回响。很多居士表示获益匪浅，纷纷请求师父再出版续集，为了让更多人受益，师父此次特别再集结了一些宝贵的精华印行成为‘茅蓬札记’第二辑，希望能让每一位读者在阅读过后，能更深刻精确地掌握到修行的方向与要点，从此在学佛路上生起坚固的信心，不再傍徨，不再犹豫，躬身力行，日起有功进而成就道业。</p>
+<p>感念大慈大悲的阿弥陀佛，历劫思惟苦行，成就一切诸佛护念赞叹的净土法门，以佛力普被一切后学，让我等末法罪业凡夫犹能倚仗佛力，当生成就，不再流浪生死，遭受轮回之苦！</p>
+<p>感念大慈大悲的本师释迦牟尼佛，于此娑婆世界五浊恶世，难行能行，难言能言，苦心叮咛开示难信难逢的净土法门，让后世一切凡夫，得闻如此不可思议的弥陀大法！</p>
+<p>感念师父，于此正法凋零，邪魔猖獗的末法时代，孜孜不倦地教导我们学佛，并以身教示现给我们一个老实念佛的修行者的绝佳典范，令一切后学见贤思齐，得以背尘合觉，就路还家，一步步走向成功解脱的归程！</p>
+<p>南无阿弥陀佛！</p>
+<p>南无阿弥陀佛！</p>
+<p><a name="a01"></a><span lang="EN-US" style="color:#333399">1．万德洪名</span></p>
+<p>阿弥陀佛所证之菩提觉道，即阿弥陀佛一句万德洪名，包摄净尽。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印光大师》<span>&nbsp; </span></p>
+<p><a name="a02"></a><span lang="EN-US" style="color:#333399">2．念佛即是戒定慧</span></p>
+<p>莲池大师曰：</p>
+<p>大藏经所诠者，不过戒定慧而已，念佛即是戒定慧，何必随文逐字，阅此藏经，光阴迅速，命不坚久，愿诸人以净业为急务。</p>
+<p><a name="a03"></a><span lang="EN-US" style="color:#333399">3．药师经劝放生</span></p>
+<p>药师琉璃光如来本愿功德经云：</p>
+<p>放诸生命，病得除愈，众难解脱</p>
+<p>放生修福，令度苦厄，不遭众难</p>
+<p><a name="a04"></a><span lang="EN-US" style="color:#333399">4．灵山只在汝心头</span></p>
+<p>佛在灵山莫远求，灵山只在汝心头</p>
+<p>人人有个灵山塔，好在灵山塔下修</p>
+<p><a name="a05"></a><span lang="EN-US" style="color:#333399">5．忏悔回向念佛</span></p>
+<p>蕅益大师曰：</p>
+<p>忏悔、回向，再加念佛，无有不成就者。</p>
+<p><a name="a06"></a><span lang="EN-US" style="color:#333399">6．如何辨别真伪善知识</span></p>
+<p>如何辨别认识真伪善知识～<span lang="EN-US" style="&quot;Courier New&quot;"></span></p>
+<p>一．凡自立宗派，自称为活佛，吸引信徒者，非善知识。</p>
+<p>二．凡谓即刻开悟，即生解脱为号召者，非善知识。</p>
+<p>三．凡以神通，通灵为号召，以诳惑世人者，非善知识。</p>
+<p>四．凡以巫术、降神、催眠为号召，以诳惑世人者，非善知识。</p>
+<p>五．以符咒、财星诳称能使人立即致富者，非善知识。</p>
+<p>六．凡以奇术异能，神灵显迹为号召，吸引好奇众生者，非善知识。</p>
+<p>七．凡说肉身不死，身体可以飞腾，长生不死，诳惑世人者，非善知识。</p>
+<p>八．凡以种种奇异苦行，自我伤残，妄称代众生受苦者，非善知识。</p>
+<p>九．凡以奇装异服，神秘传法为号召，以诳惑信众者，非善知识。</p>
+<p>十．凡以占相凶吉，高声现威，附会佛法，非善知识。</p>
+<p><a name="a07"></a><span lang="EN-US" style="color:#333399">7．以诸法实相为师</span></p>
+<p>大智度论云：</p>
+<p>三世诸佛，皆以诸法实相为师，祖师云：一切明中，心明为上。</p>
+<p><a name="a08"></a><span lang="EN-US" style="color:#333399">8．杀胎当堕阿鼻地狱</span></p>
+<p>杀胎当堕阿鼻地狱～<span lang="EN-US" style="&quot;Courier New&quot;"></span></p>
+<p>世间五种，忏悔难灭，何等为五：一者杀父，二者杀母，三者杀胎，四者出佛身血，五者破和合僧，如此恶业，众难消灭，当堕阿鼻地狱。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《佛说长寿灭罪护诸童子陀罗尼经》<span>&nbsp; </span></p>
+<p><a name="a09"></a><span lang="EN-US" style="color:#333399">9．善友罕逢，恶缘偏盛</span></p>
+<p>善友罕逢，恶缘偏盛，非咬钉嚼铁，刻骨镂心，何以自拔哉。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《蕅益大师》<span>&nbsp; </span></p>
+<p><a name="a10"></a><span lang="EN-US" style="color:#333399">10．主敬存诚</span></p>
+<p>印光大师云：当主敬存诚，于二六时中，不使有一念虚浮怠忽之相，及与世人酬酢，唯以忠恕为怀，则一切时一切处，恶念自无从而起。</p>
+<p><a name="a11"></a><span lang="EN-US" style="color:#333399">11．荣华原是三更梦</span></p>
+<p>荣华原是三更梦，富贵还同九月霜</p>
+<p>老病死生谁替得，甜酸苦辣自承当</p>
+<p><a name="a12"></a><span lang="EN-US" style="color:#333399">12．学道要诀</span></p>
+<p>学道人若欲得要诀，但于心上莫著一物。离即是法，知离者即是佛。</p>
+<p><a name="a13"></a><span lang="EN-US" style="color:#333399">13．科学与宗教</span></p>
+<p>大科学家爱因斯坦说：‘没有宗教的科学是跛子，没有科学的宗教是瞎子。’可见科学与宗教是相辅相成的。因此凡是不合理的宗教，才可说是迷信，可惜若干不知佛学真义的人，因不明究竟，混淆不清，岂非大谬不然乎。</p>
+<p><a name="a14"></a><span lang="EN-US" style="color:#333399">14．老实值千金</span></p>
+<p>老实二字，值得千金，若虚浮装点，不成实行，乃业根种子也。</p>
+<p><a name="a15"></a><span lang="EN-US" style="color:#333399">15．放下自然悠悠</span></p>
+<p>目前即是天堂，莫再生心外求，求之不得便生愁。放下自然悠悠，性见苦海顿竭，心明光照十洲，分明那有天和地，一颗灵光尽收。</p>
+<p><a name="a16"></a><span lang="EN-US" style="color:#333399">16．劝君学道莫贪求</span></p>
+<p>劝君学道莫贪求，万事无心道合头。</p>
+<p>无心始体无心道，体得无心道也休。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《宗镜录80页》&nbsp; </p>
+<p><a name="a17"></a><span lang="EN-US" style="color:#333399">17．改过</span></p>
+<p>破戒虽恶，覆藏尤恶。</p>
+<p>无过虽善，改过尤善。</p>
+<p>改过一途，三世诸佛，证菩提之通津也。</p>
+<p><a name="a18"></a><span lang="EN-US" style="color:#333399">18．梁启超先生说佛教</span></p>
+<p>梁启超先生说：</p>
+<p>‘佛教之信仰，乃智信而非迷信，乃兼善而非独善。乃入世而非厌世。’</p>
+<p><a name="a19"></a><span lang="EN-US" style="color:#333399">19．信愿专持名号</span></p>
+<p>蕅益大师云：</p>
+<p>一切念佛法门中，求其至简至稳当者，莫若信愿专持名号，不劳观想，不必参究。</p>
+<p><a name="a20"></a><span lang="EN-US" style="color:#333399">20．十大愿王导归极乐</span></p>
+<p>普贤菩萨十大愿王导归极乐，这是华严经一部大经的指归。</p>
+<p><a name="a21"></a><span lang="EN-US" style="color:#333399">21．学道有三大错</span></p>
+<p>学道有三大错：</p>
+<p>好多不好精，</p>
+<p>逐末不求本，</p>
+<p>求解不求证。</p>
+<p><a name="a22"></a><span lang="EN-US" style="color:#333399">22．反躬责己</span></p>
+<p>小人以己之过为人之过，每怨天而尤人。</p>
+<p>君子以人之过为己之过，每反躬而责己。</p>
+<p><a name="a23"></a><span lang="EN-US" style="color:#333399">23．成于慈忍，败于忿躁</span></p>
+<p>世出世事，莫不成于慈忍，败于忿躁。故君子以慈育德，以忍养情、德育，天地万物皆归我春风和气之中，情养、乖戾妖孽皆消于光天化日之下。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《灵峰宗论卷二之四10548页》&nbsp; </p>
+<p><a name="a24"></a><span lang="EN-US" style="color:#333399">24．专精护戒</span></p>
+<p>专精护戒，微细无亏，即三乘正行也。持戒不发心，止得世间乐果，发心不持戒，难免三途苦轮，故须本末兼举，始终一致，方能保住解脱。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《灵峰宗论卷二之三10560页》&nbsp; </p>
+<p><a name="a25"></a><span lang="EN-US" style="color:#333399">25．莲池大师法语</span></p>
+<p>莲池大师法语～</p>
+<p>莲池大师曰：‘妄念是病，念佛是药，久病非片剂所能疗，积妄非暂念所能除，莫管他妄念纷飞，只贵在念佛精切。’</p>
+<p><a name="a26"></a><span lang="EN-US" style="color:#333399">26．孙中山先生说佛教</span></p>
+<p>孙中山先生说：</p>
+<p>‘佛教以牺牲为主义，救济众生，他的动机是大智、大仁、大勇。’</p>
+<p><a name="a27"></a><span lang="EN-US" style="color:#333399">27．一世奔波梦一宵</span></p>
+<p>春宵梦<span>&nbsp; </span>梦春宵，一梦春宵夜复朝</p>
+<p>昨日少年骑竹马，今朝化作白头翁</p>
+<p>从此去<span>&nbsp; </span>莫心焦，一世奔波梦一宵。</p>
+<p><a name="a28"></a><span lang="EN-US" style="color:#333399">28．净土法门</span></p>
+<p>净土法门，无机不收，九界众生，舍念佛法门，上无法圆佛道；十方诸佛，舍念佛法门，下无法普度群萌。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印光大师》<span>&nbsp; </span></p>
+<p><a name="a29"></a><span lang="EN-US" style="color:#333399">29．切莫较得失</span></p>
+<p>一日复一日，切莫计得失</p>
+<p>取舍忘分别，一切总非实</p>
+<p>处处要圆融，时时宜朴实</p>
+<p>一气走到家，端坐空王室</p>
+<p><a name="a30"></a><span lang="EN-US" style="color:#333399">30．天地之大德</span></p>
+<p>天地之大德，莫大于放生，过莫大于纵杀。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">清．智静大师<span>&nbsp; </span></p>
+<p><a name="a31"></a><span lang="EN-US" style="color:#333399">31．等觉菩萨尚需求生西方</span></p>
+<p>等觉菩萨，尚需求生西方，何况我等凡夫，业根深重，倘不致力于此，是舍易而求难，可惑之甚矣。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印光大师》<span>&nbsp; </span></p>
+<p><a name="a32"></a><span lang="EN-US" style="color:#333399">32．水月镜花皆幻相</span></p>
+<p>灵光独耀本来明，无染无污气自清</p>
+<p>水月镜花皆幻相，知君有日悟归程</p>
+<p><a name="a33"></a><span lang="EN-US" style="color:#333399">33．宇宙观与人生观</span></p>
+<p>爱因斯坦说：‘我尝想一个人的宇宙观，不妨悲观一点，因为一个人难逃生老病死的厄运；但人生观，则该积极进取，同时应了解，人并不仅为自己而活的道理。’</p>
+<p><a name="a34"></a><span lang="EN-US" style="color:#333399">34．深潜不露</span></p>
+<p>深潜不露，是名持戒。若浮于外，未久必败，有口若哑，有耳若聋，绝群离俗，其道乃崇。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《西方确指》<span>&nbsp; </span></p>
+<p><a name="a35"></a><span lang="EN-US" style="color:#333399">35．人人念佛皆成佛</span></p>
+<p>人人念佛皆成佛，动静闲忙莫变差</p>
+<p>念到一心不乱处，众生家是法王家</p>
+<p><a name="a36"></a><span lang="EN-US" style="color:#333399">36．劝人念佛求生西方</span></p>
+<p>劝人念佛求生西方，即是成就凡夫作佛，功德最大。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《净土集》<span>&nbsp; </span></p>
+<p><a name="a37"></a><span lang="EN-US" style="color:#333399">37．浮生如梦</span></p>
+<p>‘浮生如梦’～</p>
+<p>浮生如梦，逆顺苦乐，荣枯得失，乃梦中事。</p>
+<p>一念善，则福因肇始，一念恶，则祸种萌芽。</p>
+<p><a name="a38"></a><span lang="EN-US" style="color:#333399">38．宠利勿居人前</span></p>
+<p>宠利勿居人前，德业勿落人后</p>
+<p>受享勿踰分外，修持勿减分中</p>
+<p><a name="a39"></a><span lang="EN-US" style="color:#333399">39．有命尽贪生</span></p>
+<p>有命尽贪生，无分人与畜</p>
+<p>最怕是杀烹，最苦是割肉</p>
+<p>见死瞪两目，张口不能哭</p>
+<p>念此恻肺肝，何忍纵口腹</p>
+<p><a name="a40"></a><span lang="EN-US" style="color:#333399">40．十地始终不离念佛</span></p>
+<p>弥陀疏钞云：故知念佛菩萨之父，生育法身，乃至十地，始终不念佛。</p>
+<p><a name="a41"></a><span lang="EN-US" style="color:#333399">41．三障败戒德</span></p>
+<p>蕅益大师云：</p>
+<p>有三障能败戒德，使心退没：</p>
+<p>（一）嗔恚横于自他，而生恼害。</p>
+<p>（二）我慢于诸僧宝而生轻忽。</p>
+<p>（三）懈怠于诸妙法，不肯学习。</p>
+<p>三法有一，牵入恶道，忘失信心。</p>
+<p><a name="a42"></a><span lang="EN-US" style="color:#333399">42．心性</span></p>
+<p>不动者曰性，见境而动心者曰心。</p>
+<p><a name="a43"></a><span lang="EN-US" style="color:#333399">43．持名为正行</span></p>
+<p>只今持名一法，亦止慕直持去，不用三心两意，深信净土可生，发愿决定往生。以持名为正行，以六度等为助行，万修万人去，断断可保任者。若一点好胜之心涉入参究，谓为向上，则脚跟不稳，禅净两失之矣，智者不可不决定其所趋也。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">灵峰宗论卷二之三10471页&nbsp; </p>
+<p><a name="a44"></a><span lang="EN-US" style="color:#333399">44．务实</span></p>
+<p>佛法盛时，人争务实，逮其衰也，众咸竞名，实故超生死证菩提，名必争人我、长魔业，志士不可不熟审也。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">灵峰宗论卷二之三10473页&nbsp; </p>
+<p><a name="a45"></a><span lang="EN-US" style="color:#333399">45．欲易行疾至，应当念佛</span></p>
+<p>佛法有无量门，有难有易，却易行疾至，应当念佛，称阿弥陀佛名号，疾得无上菩提。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">行策大师<span>&nbsp; </span></p>
+<p><a name="a46"></a><span lang="EN-US" style="color:#333399">46．慎勿造因</span></p>
+<p>人可欺，鬼神不可欺。佛言一切众生，慎勿造因。</p>
+<p><a name="a47"></a><span lang="EN-US" style="color:#333399">47．贪婪最坏，布施第一</span></p>
+<p>天下最坏的事，莫过贪婪，明吞暗取纯为己。世上第一功德，首推布施，舍物散财在利他。</p>
+<p><a name="a48"></a><span lang="EN-US" style="color:#333399">48．死尽偷心活计</span></p>
+<p>死尽偷心活计，做成没用生涯；</p>
+<p>收拾无穷妄想，换将一朵莲花。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《紫柏大师》<span>&nbsp; </span></p>
+<p><a name="a49"></a><span lang="EN-US" style="color:#333399">49．修道世外幽栖</span></p>
+<p>修道世外幽栖，始精神坚定，如往来城市，则嗜欲日生。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《草堂集》<span>&nbsp; </span></p>
+<p><a name="a50"></a><span lang="EN-US" style="color:#333399">50．身从业生</span></p>
+<p>病从身生，身从业生，不造诸业，祸消福增。</p>
+<p>娑婆念佛，极乐标名，一心不乱，上品位登。</p>
+<p><a name="a51"></a><span lang="EN-US" style="color:#333399">51．智与识</span></p>
+<p>有分别是识，无分别是智；</p>
+<p>识从生死，智会涅槃。</p>
+<p><a name="a52"></a><span lang="EN-US" style="color:#333399">52．大痴人</span></p>
+<p>若能心中自见真，有真即是成佛因。</p>
+<p>不见自性外觅佛，起心总是大痴人。</p>
+<p><a name="a53"></a><span lang="EN-US" style="color:#333399">53．欲除重障当勤忏悔</span></p>
+<p>欲除重障，当勤忏悔，众生累劫之重障，</p>
+<p>忏则能除，如何忏之？勤而已矣！</p>
+<p><a name="a54"></a><span lang="EN-US" style="color:#333399">54．莫待临时抱佛脚</span></p>
+<p>莫待临时抱佛脚，须知不弃好时光。</p>
+<p><a name="a55"></a><span lang="EN-US" style="color:#333399">55．忍字无价宝</span></p>
+<p>有人来打我，我自先睡倒，他也省力气，我也无烦恼</p>
+<p>这个波罗密，就是无价宝，能依这忍字，一生过到老。</p>
+<p><a name="a56"></a><span lang="EN-US" style="color:#333399">56．心不迷不堕生死</span></p>
+<p>心不迷不堕生死，业不系不受形质；</p>
+<p>爱不重不入娑婆，念不起不生业累。</p>
+<p><a name="a57"></a><span lang="EN-US" style="color:#333399">57．一念无生</span></p>
+<p>远法师云：但内一不生，则无诸有欲，塞烦恼之窟穴，截生之根株，但能内观一念无生，则空华三界，如风卷烟，幻影六尘，犹汤沃雪，廓然无际，唯一真心矣。</p>
+<p><a name="a58"></a><span lang="EN-US" style="color:#333399">58．百代流光梦一场</span></p>
+<p>古德诗云：</p>
+<p>大千世界空花影，百代流光梦一场，</p>
+<p>放下身心无人我，个中何事用思量。</p>
+<p><a name="a59"></a><span lang="EN-US" style="color:#333399">59．第三世怨</span></p>
+<p>截流禅师云：</p>
+<p>修行之人，若无正信，求生西方，泛修诸善，名为第三世怨。</p>
+<p><a name="a60"></a><span lang="EN-US" style="color:#333399">60．闭口不语</span></p>
+<p>闭口不语三十年，此是上乘上上上。</p>
+<p><a name="a61"></a><span lang="EN-US" style="color:#333399">61．阿字观</span></p>
+<p>东密‘阿字观’云：自‘阿’字出一切陀罗尼，自一切陀罗尼生一切佛。’阿字王也。</p>
+<p><a name="a62"></a><span lang="EN-US" style="color:#333399">62．心定气聚，心摇气涣</span></p>
+<p>心定则气聚而形固；心摇则气涣而形萎。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">草堂集<span>&nbsp; </span></p>
+<p><a name="a63"></a><span lang="EN-US" style="color:#333399">63．真正伟大乃是平凡</span></p>
+<p>一个真正伟大的人，他会说他是很平凡的人。</p>
+<p><a name="a64"></a><span lang="EN-US" style="color:#333399">64．所作所受如影随形</span></p>
+<p>六道乘除不能尽测，所作所受如影随形。</p>
+<p><a name="a65"></a><span lang="EN-US" style="color:#333399">65．当生成就必修念佛法门</span></p>
+<p>众生修行成佛，须经三僧祇劫，而末法众生，于五浊恶世，修学尤其困难，若求当生成就，必修念佛法门，先求往生西方，以期不退，始有成佛之望。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《雪公法语》<span>&nbsp; </span></p>
+<p><a name="a66"></a><span lang="EN-US" style="color:#333399">66．无上法门</span></p>
+<p>‘弥陀要解’谓持名法门深妙，破尽一切戏论，斩尽一切意见。唯马鸣、龙树、智者、永明之流，澈底担荷得去，盖因持名一法，乃至圆至顿，无上法门，非思量分别之所能及。</p>
+<p><a name="a67"></a><span lang="EN-US" style="color:#333399">67．戒杀放生</span></p>
+<p>戒杀不结众恶缘，再能放生惜物命，</p>
+<p>回此功德向法界，必登西方九品莲。</p>
+<p><a name="a68"></a><span lang="EN-US" style="color:#333399">68．念佛消除业障之力极大</span></p>
+<p>念佛法门，虽为求生净土，了脱生死而设，但其消除业障之力，极其钜大。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《净土集》<span>&nbsp; </span></p>
+<p><a name="a69"></a><span lang="EN-US" style="color:#333399">69．存诚慎独</span></p>
+<p>心不妄念，口不妄言，身不妄动。君子所以存诚。</p>
+<p>外不欺人，上不欺天，君子所以慎独。</p>
+<p><a name="a70"></a><span lang="EN-US" style="color:#333399">70．离幻即觉</span></p>
+<p>知幻即离，离幻即觉，狂心若歇，歇即菩提。</p>
+<p><a name="a71"></a><span lang="EN-US" style="color:#333399">71．受戒当奉持</span></p>
+<p>江味农老居士云：</p>
+<p>受戒便当奉持，倘受而不持，招罪不小。必应细意审量，而后受之。</p>
+<p><a name="a72"></a><span lang="EN-US" style="color:#333399">72．三界轮回淫为本</span></p>
+<p>三界轮回淫为本，六道往返爱为基。</p>
+<p><a name="a73"></a><span lang="EN-US" style="color:#333399">73．无相光中观自在</span></p>
+<p>无相光中观自在，回光返照见如来。</p>
+<p><a name="a74"></a><span lang="EN-US" style="color:#333399">74．有所不足</span></p>
+<p>今世之所享，皆前生之所积，日中必昃，月盈必亏，有所不足，正君之福。</p>
+<p><a name="a75"></a><span lang="EN-US" style="color:#333399">75．请转法轮</span></p>
+<p>请转法轮～</p>
+<p>我代佛说法，即转法轮也。诸大居士之请，即请转法轮也。大众当众当深信无上清净心，在闻法时，始显然出现，为来日随喜而生功德，今日之请转法轮，诚有无量之功德也。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《谛闲大师语录247页》&nbsp; </p>
+<p><a name="a76"></a><span lang="EN-US" style="color:#333399">76．为人不必苦贪财</span></p>
+<p>为人不必苦贪财，物物都是命中该。</p>
+<p>贪得财来灾祸到，心机用尽变成灰。</p>
+<p><a name="a77"></a><span lang="EN-US" style="color:#333399">77．自省</span></p>
+<p>朝也忍，暮也忍，</p>
+<p>辱也忍，苦也苦，</p>
+<p>方寸之间当自省。</p>
+<p><a name="a78"></a><span lang="EN-US" style="color:#333399">78．常住真心</span></p>
+<p>大佛顶经云：</p>
+<p>众生生死相续，皆由不知常住真心，性净明体，用诸妄想，此想不真，故有轮转。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">灵峰宗论卷二之三10468页&nbsp; </p>
+<p><a name="a79"></a><span lang="EN-US" style="color:#333399">79．生死大事</span></p>
+<p>生死大事，人皆有之。惟颠沛患难中历过，倍应亲切，乃有历苦难而生死心仍未切者，虚妄我执，情计深厚，埋没本有智光故也。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">灵峰宗论卷二之三10483页&nbsp; </p>
+<p><a name="a80"></a><span lang="EN-US" style="color:#333399">80．治心不乱</span></p>
+<p>古德云：心为一身之主，万行之本，心不妙悟，妄情自生，妄情既生，见理不明，见理不明，是非谬乱。所以治心不乱，须求妙悟，‘悟’则神和气静，妄想情虑成为真心。</p>
+<p><a name="a81"></a><span lang="EN-US" style="color:#333399">81．灾祸之来因</span></p>
+<p>印光大师说：</p>
+<p>若推究灾祸之来因，多由杀生而起。欲止杀业，须从戒杀吃素，护惜物命，及买放物命。</p>
+<p><a name="a82"></a><span lang="EN-US" style="color:#333399">82．名与欲</span></p>
+<p>‘名’为招祸之本，</p>
+<p>‘欲’乃散志之媒。</p>
+<p><font color="#333399"><a name="a83"></a>83．传家之宝&nbsp; 醒世歌</font></p>
+<p>传家之宝<span>&nbsp; </span>醒世歌～</p>
+<p>人生本是一场戏，凡事何需常生气。</p>
+<p>夫妻子女缘相聚，为邻同事皆不易。</p>
+<p>不管顺境或逆境，为人终得活下去。</p>
+<p>大家欢天又喜地，一切何必太在意。</p>
+<p>包容体谅加和气，快乐人生有意义。</p>
+<p><a name="a84"></a><span lang="EN-US" style="color:#333399">84．学道当明事理</span></p>
+<p>吾人学道，当明事理，如有一饭，拟供于佛，忽遇乞人，饥不得食，应即与之乞人，佛必加倍欢喜，众生即佛之心故也。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">（雪庐老居士）<span>&nbsp; </span></p>
+<p><a name="a85"></a><span lang="EN-US" style="color:#333399">85．烦恼本来空寂</span></p>
+<p>众生不解修道，便欲断除烦恼；</p>
+<p>烦恼本来空寂，将道更欲觅道；</p>
+<p>一念之心即是，何须别处寻讨。</p>
+<p><a name="a86"></a><span lang="EN-US" style="color:#333399">86．念佛为正行</span></p>
+<p>凡我同伦，宜各痛念娑婆险恶。早求出离六道，舍秽取净，勿骛虚名，勿执空见，勿受高帽禅和口头三昧惑乱，勿求旦夕速效，动诸魔事。恒以念佛为正行，勉修众善为助行。净念相继，愿相资，自然千稳百当。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《行策大师》<span>&nbsp; </span></p>
+<p><a name="a87"></a><span lang="EN-US" style="color:#333399">87．莫贪财</span></p>
+<p>亿万金银无处理，</p>
+<p>须当戒，莫贪财，</p>
+<p>不如收拾礼金台。</p>
+<p><a name="a88"></a><span lang="EN-US" style="color:#333399">88．净心即佛</span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《宗镜录236页》&nbsp; </p>
+<p>了了识心，惺惺见佛，是佛是心，是心是佛。</p>
+<p>念念佛心，心心念佛，欲得早成，戒心自律，</p>
+<p>净戒律心，净心即佛，除此心王，更无别佛。</p>
+<p><a name="a89"></a><span lang="EN-US" style="color:#333399">89．劝世人念佛好</span></p>
+<p>劝世人，念佛好，持斋念佛终身宝，</p>
+<p>急回头，莫说早，三岁孩童容易老。</p>
+<p>无常到，莫大小，不分贵贱与王侯。</p>
+<p>年年多少埋荒草，看来名利总成空，</p>
+<p>不如回头念佛好。</p>
+<p><a name="a90"></a><span lang="EN-US" style="color:#333399">90．色空如梦本同</span></p>
+<p>迷者将空作色，悟者以色为空，</p>
+<p>迷兮悟兮如梦，色兮空兮本同。</p>
+<p><a name="a91"></a><span lang="EN-US" style="color:#333399">91．竭力放生</span></p>
+<p>圆瑛大师说：</p>
+<p>学佛者，不仅持律戒杀，尤当竭力放生，方合我佛慈悲宗旨。</p>
+<p><a name="a92"></a><span lang="EN-US" style="color:#333399">92．不见有德</span></p>
+<p>常人总不见自己有过，圣人总不见有德，不见有过，故其过山积，不见有德，故德天高。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印祖法语》<span>&nbsp; </span></p>
+<p><a name="a93"></a><span lang="EN-US" style="color:#333399">93．憨山大师念佛偈</span></p>
+<p>憨山大师念佛偈～</p>
+<p>佛土全摄一句中，是真如来异方便；</p>
+<p>当在了了分明时，更无再起差别见。</p>
+<p><a name="a94"></a><span lang="EN-US" style="color:#333399">94．错认红尘是家乡</span></p>
+<p>错认红尘是家乡，三十年间梦一场；</p>
+<p>而今感悟皆空幻，袈娑和泪礼空王。</p>
+<p><a name="a95"></a><span lang="EN-US" style="color:#333399">95．此身须向今生度</span></p>
+<p>此身须向今生度，莫待来生与后生。</p>
+<p><a name="a96"></a><span lang="EN-US" style="color:#333399">96．息念返照</span></p>
+<p>怒气易张，惟息念以观理，则怒自平。</p>
+<p>浮情易起，惟返照以观心，则浮自定。</p>
+<p><a name="a97"></a><span lang="EN-US" style="color:#333399">97．真空难解</span></p>
+<p>真空难解，应须妙得指归，若空有之文，皆堕邪见。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《宗镜录103页》&nbsp; </p>
+<p><a name="a98"></a><span lang="EN-US" style="color:#333399">98．设身处地扪心想</span></p>
+<p>血肉淋漓味足珍，一般痛苦怨难伸，</p>
+<p>设身处地扪心想，谁肯将刀割自身。</p>
+<p><a name="a99"></a><span lang="EN-US" style="color:#333399">99．清净心</span></p>
+<p>清净心智如世黄金，般若法藏并在身心，</p>
+<p>无为法宝非浅非深，诸佛菩萨了此本心。</p>
+<p><a name="a100"></a><span lang="EN-US" style="color:#333399">100．盲禅不可依从</span></p>
+<p>印光大师说：每有聪明人，涉猎禅书，觉其有味，遂欲以禅自命，以为通方高人，皆属不知禅净所以，妄自尊大之流类。如是知见，断断不可依从，依之则了脱生死，恐经尘点数劫，尚无望也。</p>
+<p><a name="a101"></a><span lang="EN-US" style="color:#333399">101．严以律己，宽以待人</span></p>
+<p>严以律己，宽以待人。</p>
+<p><a name="a102"></a><span lang="EN-US" style="color:#333399">102．因果分明</span></p>
+<p>专谈道理失人情，顾了人情无理评；</p>
+<p>情理从来难两顾，唯将因果论分明。</p>
+<p><a name="a103"></a><span lang="EN-US" style="color:#333399">103．念佛为正功夫</span></p>
+<p>念佛是开显本性，为正功夫。诸位修此法门不成功，则可断言修其余法门，皆不能成就。若离此法门，汝等能成就，吾即为大妄语，即入地狱。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《李老全集》<span>&nbsp; </span></p>
+<p><a name="a104"></a><span lang="EN-US" style="color:#333399">104．等觉犹忏</span></p>
+<p>忏即是忏悔，无论修学何法，不忏，必无可成之理，等觉犹忏，遑论凡夫。</p>
+<p><a name="a105"></a><span lang="EN-US" style="color:#333399">105．造寺不如救命</span></p>
+<p>正念法经云：</p>
+<p>造一所寺，不如救一人命。</p>
+<p><a name="a106"></a><span lang="EN-US" style="color:#333399">106．聪明不能敌业</span></p>
+<p>古德云：聪明不能敌业，富贵岂免轮回。生死到来一无所靠，唯念阿弥佛陀，能为恃怙，惜世人知者甚少，而真信实念者，更少也。</p>
+<p><a name="a107"></a><span lang="EN-US" style="color:#333399">107．净宗之妙</span></p>
+<p>唐．海东大师云：</p>
+<p>‘四十八愿先为凡夫，兼为三乘圣人’可见净土宗之妙，首为凡夫得度也。</p>
+<p><a name="a108"></a><span lang="EN-US" style="color:#333399">108．智者慎勿造因</span></p>
+<p>害人之术，适以自害，智者慎勿造因。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印光大师》<span>&nbsp; </span></p>
+<p><a name="a109"></a><span lang="EN-US" style="color:#333399">109．得意莫忘失意时</span></p>
+<p>对失意人莫谈得意事，处得意日莫忘失意时。</p>
+<p><a name="a110"></a><span lang="EN-US" style="color:#333399">110．出世间大孝</span></p>
+<p>出世间大孝～</p>
+<p>奉告诸人，父母在堂，早劝念佛，父母亡日，课佛三年，其不能者，或一周岁，或七七日皆可也，孝子欲报劬之恩，不可不知此。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《竹窗随笔》<span>&nbsp; </span></p>
+<p><a name="a111"></a><span lang="EN-US" style="color:#333399">111．三世诸佛之略戒经</span></p>
+<p>诸恶莫作二句，乃三世诸佛之略戒经，切勿浅视，当从举心动念处审察，若能推致其极，尚可以上成佛道，况其余福慧果位乎哉！</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印祖嘉言录133页》&nbsp; </p>
+<p><a name="a112"></a><span lang="EN-US" style="color:#333399">112．弄巧成拙</span></p>
+<p>印光大师云：修观想实想，或致著魔，弄巧成拙，求升反堕，宜修易行之行，自感至妙之果矣。</p>
+<p><a name="a113"></a><span lang="EN-US" style="color:#333399">113．李炳南老居土说放生</span></p>
+<p>李炳南老居士说：</p>
+<p>放生，并非谁倡谁效，善道自然同耳。两教放生之经典各有记载，多不胜举，查书当知。</p>
+<p><a name="a114"></a><span lang="EN-US" style="color:#333399">114．依法不依人</span></p>
+<p>佛开示弟子依法不依人，无论何人名气多大，学问多高，如其所说，不合佛法真理，即同魔说，不可听信。</p>
+<p><a name="a115"></a><span lang="EN-US" style="color:#333399">115．无人识本真</span></p>
+<p>世人都笑我，我笑世间人；</p>
+<p>如意摩尼现，无人识本真。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《五灯全书》<span>&nbsp; </span></p>
+<p><a name="a116"></a><span lang="EN-US" style="color:#333399">116．一句佛号能消一切业障</span></p>
+<p>慈云大师说：这一句阿弥陀佛，能消一切经咒消不了的业障，这话不是随便说，是千真万确的事实，可以在大经上得到证明。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《认识佛教157页》&nbsp; </p>
+<p><a name="a117"></a><span lang="EN-US" style="color:#333399">117．戒律的定义</span></p>
+<p>戒律的定义，是制心守身的规范，没有严持戒律的佛教行人，如谈到高深定力与大智大慧，那便是一片谎言。佛言：‘佛灭度后，以戒为师’是千古不移的真理。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《弘天师传空门（一）213页》&nbsp; </p>
+<p><a name="a118"></a><span lang="EN-US" style="color:#333399">118．形骸为桎梏情识是戈矛</span></p>
+<p>云烟影里现真身，始悟形骸为桎梏，</p>
+<p>群鸟声中闻自性，方知情识是戈矛。</p>
+<p><a name="a119"></a><span lang="EN-US" style="color:#333399">119．净心念佛</span></p>
+<p>念佛人，要心净。净心念佛净心听，</p>
+<p>心即佛兮佛即心，成佛无非心净定。</p>
+<p><a name="a120"></a><span lang="EN-US" style="color:#333399">120．爱因斯坦说</span></p>
+<p>爱因斯坦，为美国杰出物理学家，发明相对论，并有‘原子弹之父’之尊称。他曾表示‘我深信现今时尚以科学理论来解释人类生命的所谓公理，则不单只是完全的错误，而且这种看法，应该受到指谪。’</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《不可思议的因果现象》<span>&nbsp; </span></p>
+<p><a name="a121"></a><span lang="EN-US" style="color:#333399">121．贪求安养厌娑婆</span></p>
+<p>韶华须惜莫空过，三界横超念弥陀，</p>
+<p>要证菩提无别法，贪求安养厌娑婆。</p>
+<p><a name="a122"></a><span lang="EN-US" style="color:#333399">122．凡心应勤扫</span></p>
+<p>心净何劳扫，凡心应勤扫，</p>
+<p>扫尽心地尘，疾得成佛道。</p>
+<p><a name="a123"></a><span lang="EN-US" style="color:#333399">123．参禅非现今人宜学</span></p>
+<p>印光大师云：</p>
+<p>参禅一法非现今人宜学，纵学亦只成文字知见，决不能顿明自心亲见自性。何以故？一则无善知识提持决择，二则学者不知禅之所以，名为参禅，实为误会。</p>
+<p><a name="a124"></a><span lang="EN-US" style="color:#333399">124．放生为众善之先</span></p>
+<p>不杀为诸戒之首，放生为众善之先。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《谛闲大师》<span>&nbsp; </span></p>
+<p><a name="a125"></a><span lang="EN-US" style="color:#333399">125．聪明与智慧之界限</span></p>
+<p>聪明与智慧之界限～</p>
+<p>耳听能察而不谬，谓之聪。</p>
+<p>眼看能察而不错，谓之明。</p>
+<p>通达有为之事相，能以决断谓之智。</p>
+<p>通达无为之空理，安忍于法谓之慧。</p>
+<p><a name="a126"></a><span lang="EN-US" style="color:#333399">126．邪魔外道</span></p>
+<p>若有暗地里口传心受之妙诀，即是邪魔外道，即非佛法。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印光大师嘉言录》<span>&nbsp; </span></p>
+<p><a name="a127"></a><span lang="EN-US" style="color:#333399">127．弘一大师论念佛法门</span></p>
+<p>弘一大师对‘念佛法门’只强调几句话：念佛，是佛学里最切实，最简单，最生动的门径。可是却为了他的简单，切实，没有深奥的玄理，使知识份子怀疑。对这门行径，用直觉比理解更重要，你先不要问‘极乐庄严世界在何处’。你要先肯定是否能虚心接收这项法门。当你走进这个门里才感觉这个世界不是单纯，而是深奥、华丽。’</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《弘大师传》<span>&nbsp; </span></p>
+<p><a name="a128"></a><span lang="EN-US" style="color:#333399">128．学道如钻火</span></p>
+<p>学道如钻火，逢烟未可休，</p>
+<p>直待金星现，归家始到头。</p>
+<p><a name="a129"></a><span lang="EN-US" style="color:#333399">129．柏拉图说</span></p>
+<p>柏拉图为古代希腊著名学者，世人常誉之为‘哲学之父’。他曾表示：‘凡人在世间有一罪者，在死后当受十倍的惩罚’。‘凡人在世有公道而勇敢者，在死后每一项亦受十倍的报酬。’因此主张有因果和轮回的现象。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《不可思议的因果现象》<span>&nbsp; </span></p>
+<p><a name="a130"></a><span lang="EN-US" style="color:#333399">130．信愿行</span></p>
+<p>借问往生何计策，须凭信愿行俱全；</p>
+<p>信根先向心田种，行足还加愿力坚。</p>
+<p><a name="a131"></a><span lang="EN-US" style="color:#333399">131．明理性不废事修</span></p>
+<p>明理性不废事修，则为正知；</p>
+<p>执理性而弃事修，则成邪见。</p>
+<p>毫厘之差，佛狱立判。</p>
+<p><a name="a132"></a><span lang="EN-US" style="color:#333399">132．实践</span></p>
+<p>闻法不修行，如聋作音乐。</p>
+<p><a name="a133"></a><span lang="EN-US" style="color:#333399">133．舍本逐末</span></p>
+<p>印光大师云：持咒诵经，以之植福慧，消罪业，则可以，若妄意欲求神通，则所谓舍本逐末，不善用心，倘此心固结，又复理路不清，戒力不坚，菩提心不生，而人我偏炽，则著魔发狂，尚有日在。</p>
+<p><a name="a134"></a><span lang="EN-US" style="color:#333399">134．弘一大师论放生</span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《弘一大师在泉州开元寺演讲》<span>&nbsp; </span></p>
+<p>先问诸君：</p>
+<p>（一）欲延寿否。（二）欲愈病否。</p>
+<p>（三）欲免难否。（四）欲得子否。</p>
+<p>（五）欲往生否。</p>
+<p>倘愿者，今一最简易之法奉告，即是放生也。</p>
+<p><a name="a135"></a><span lang="EN-US" style="color:#333399">135．人能退步便无忧</span></p>
+<p>此身寿命若浮沤，只好捱排过了休。</p>
+<p>事欲称心常不足，人能退步便无忧。</p>
+<p><a name="a136"></a><span lang="EN-US" style="color:#333399">136．深信因果</span></p>
+<p>美国著名心理学家兼哲学家威廉．詹姆士说，他说如果有人坚持不承认因果的可能性，将来不仅自己要吃亏，我们的社会也不知道要继续吃多大的亏。</p>
+<p><a name="a137"></a><span lang="EN-US" style="color:#333399">137．华严海众咸求往生</span></p>
+<p>华严一经，王于三藏，末后一著归重愿王，华严海众，悉证法身，咸求往生，企圆佛果，吾何人斯敢不景从。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《嘉言录》<span>&nbsp; </span></p>
+<p><a name="a138"></a><span lang="EN-US" style="color:#333399">138．不学他法又有何憾</span></p>
+<p>印光大师说：一句南无阿弥佛，只要念得熟，成佛有余，不学他法，又有何憾。</p>
+<p><a name="a139"></a><span lang="EN-US" style="color:#333399">139．地狱深根</span></p>
+<p>个个恋色贪财，尽是失人身捷径。</p>
+<p>日日饮酒食肉，无非种地狱深根。</p>
+<p><a name="a140"></a><span lang="EN-US" style="color:#333399">140．劝持佛名</span></p>
+<p>须知如来欲令一切众生速证法身，及与寂光，所以特劝持佛名号，求生西方也。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印光大师嘉言录》<span>&nbsp; </span></p>
+<p><a name="a141"></a><span lang="EN-US" style="color:#333399">141．凡圣良莠一念分</span></p>
+<p>疑心净尽见真心，凡圣良莠一念分。</p>
+<p>全在功夫绵密处，非关慧解与多闻。</p>
+<p><a name="a142"></a><span lang="EN-US" style="color:#333399">142．不可执理废事</span></p>
+<p>印光大师说：须知见理纵能与佛齐，修持当尊普通事相，庶不致执理废事，落豁达空，拨无因果之无底深坑耳。</p>
+<p><a name="a143"></a><span lang="EN-US" style="color:#333399">143．信愿持名</span></p>
+<p>世间万事，甘让人先，</p>
+<p>信愿持名，决不落后。</p>
+<p><a name="a144"></a><span lang="EN-US" style="color:#333399">144．身心闲淡</span></p>
+<p>古德云：</p>
+<p>佛法不误人，但看自己功夫何如耳。功夫非至身心闲淡处，不得谓之入门。</p>
+<p><a name="a145"></a><span lang="EN-US" style="color:#333399">145．八苦为八师</span></p>
+<p>蕅益大师云：</p>
+<p>三界之中，无非牢狱，暂时快乐，终归无常，众生燕雀处堂，罕思出离，惟逆境当前，庶几生远离之心。故佛称八苦为八师，非虚语也。</p>
+<p><a name="a146"></a><span lang="EN-US" style="color:#333399">146．老实者，精诚之捷径</span></p>
+<p>老实者，精诚之捷径。</p>
+<p>狐疑者，精诚之大敌。</p>
+<p>信心铭云：</p>
+<p>狐疑净尽，正信调直。</p>
+<p><a name="a147"></a><span lang="EN-US" style="color:#333399">147．徒自疲劳</span></p>
+<p>修行人，若无观智制伏五欲，而漫谈空理，放纵五欲，将受极苦，徒自疲劳。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《止观辅行》<span>&nbsp; </span></p>
+<p><a name="a148"></a><span lang="EN-US" style="color:#333399">148．胜负之念不可太盛</span></p>
+<p>胜负之念不可太盛，恩怨之见不可太明。</p>
+<p><a name="a149"></a><span lang="EN-US" style="color:#333399">149．毗庐遮那</span></p>
+<p>云霞山色尽显毗卢遮那，三千世界即空即假即中。</p>
+<p><a name="a150"></a><span lang="EN-US" style="color:#333399">150．真修行人</span></p>
+<p>被境所转，系操持力浅，则喜怒动于中，好恶形于面矣。操持者，即涵养之谓也。若正念重，则余一切皆轻矣。是以真修行人，于尘劳中炼磨，烦恼、习气必使渐渐消灭，方为实在工夫。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印祖嘉言录》<span>&nbsp; </span></p>
+<p><a name="a151"></a><span lang="EN-US" style="color:#333399">151．众生至爱者身命</span></p>
+<p>普贤菩萨行愿品云：</p>
+<p>众生至爱者身命，诸佛至爱者众生。</p>
+<p>能救众生身命，则能成就诸佛心愿。</p>
+<p><a name="a152"></a><span lang="EN-US" style="color:#333399">152．念佛三昧</span></p>
+<p>念佛三昧称为宝王三昧，是三昧中之王，所以称为宝王，从念佛三昧可以流出一切三昧。</p>
+<p><a name="a153"></a><span lang="EN-US" style="color:#333399">153．妄从真起</span></p>
+<p>妄从真起波逐水生，</p>
+<p>即念即空居然本体，</p>
+<p>非于念外别得菩提。</p>
+<p><a name="a154"></a><span lang="EN-US" style="color:#333399">154．导归极乐</span></p>
+<p>普贤之行，最重要就是十大愿王导归极乐，这是一部华严的总结，归向极乐是普贤大士愿王的核心。</p>
+<p><a name="a155"></a><span lang="EN-US" style="color:#333399">155．知足无求</span></p>
+<p>事能知足心常惬，</p>
+<p>人能无求品自高。</p>
+<p><a name="a156"></a><span lang="EN-US" style="color:#333399">156．克己</span></p>
+<p>常怀克己之心，闭却是非之口。</p>
+<p>若能依此所言，富贵功名可久。</p>
+<p><a name="a157"></a><span lang="EN-US" style="color:#333399">157．妄心</span></p>
+<p>妄心是因，梦境是果。</p>
+<p>若无妄心，决无梦境。</p>
+<p>此决定不易之论也。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印祖嘉言录》<span>&nbsp; </span></p>
+<p><a name="a158"></a><span lang="EN-US" style="color:#333399">158．佛劝父王念佛</span></p>
+<p>观佛三昧经云：</p>
+<p>‘佛告父王，诸佛本德，真如实相等，非凡夫所行境界，故劝父王念佛也。’由上可见念佛法门于诸法中称为径路。而四种念佛中，持名念佛更为方便究竟，故称径中之径。</p>
+<p><a name="a159"></a><span lang="EN-US" style="color:#333399">159．念念有如临终日</span></p>
+<p>世间物我皆成幻，莫贪虚名失此身，</p>
+<p>念念有如临终日，心心准备往生时。</p>
+<p><a name="a160"></a><span lang="EN-US" style="color:#333399">160．千日闻教不如一日修道</span></p>
+<p>千日闻教不如一日修道，与其贪境不如守心。</p>
+<p><a name="a161"></a><span lang="EN-US" style="color:#333399">161．但问自心</span></p>
+<p>愿居何世界，则须居何心，居心凡夫，则有生死六道；居心弥陀，则有极乐净土。是故修净土宗者，能否往生，不必求征于人，但问自心如何耳。</p>
+<p><a name="a162"></a><span lang="EN-US" style="color:#333399">162．神通三妙用</span></p>
+<p>戒定慧学三无漏，信愿行三是资粮，</p>
+<p>我有神通三妙用，持名顶礼更焚香。</p>
+<p><a name="a163"></a><span lang="EN-US" style="color:#333399">163．念佛不须观想不必参究</span></p>
+<p>灵峰云：‘一切念佛法门中，求其至简易至稳当者，莫若信愿专持名号，不劳观想，不必参究。’而近来持名者多，往生者少，皆由信愿不切，杂修不专，或求人天福报，依旧轮回也。</p>
+<p><a name="a164"></a><span lang="EN-US" style="color:#333399">164．浮生是梦</span></p>
+<p>来时无踪去无踪，去与来时事一同。</p>
+<p>何须更问浮生事，只此浮生是梦中。</p>
+<p><a name="a165"></a><span lang="EN-US" style="color:#333399">165．最要之道</span></p>
+<p>印光大师云：</p>
+<p>佛法深渊，大聪明人尽平生心力，尚研究不得到详悉处。然佛法随机施教，若欲得其实益，即从特别超异之净土法门研究而修，持之则颇省心力，实为最要之道。</p>
+<p><a name="a166"></a><span lang="EN-US" style="color:#333399">166．非理之财莫取</span></p>
+<p>非理之财莫取，非理之事莫为。</p>
+<p>明有刑法相敷，暗有鬼神相随。</p>
+<p><a name="a167"></a><span lang="EN-US" style="color:#333399">167．仗自力了生死万难万难</span></p>
+<p>印光大师云：</p>
+<p>末法众生，福薄慧浅，障厚业深，不修净法，欲仗自力，断惑证真，以了生死，则万难万难。</p>
+<p><a name="a168"></a><span lang="EN-US" style="color:#333399">168．我佛异方便</span></p>
+<p>都摄六根学势至，返闻自性奉观音。</p>
+<p>此真我佛异方便，向上一机莫漫寻。</p>
+<p><a name="a169"></a><span lang="EN-US" style="color:#333399">169．南柯一梦</span></p>
+<p>夜静听得三更鼓，翻身不觉五更钟。</p>
+<p>从头仔细看将起，便是南柯一场梦。</p>
+<p>不信但看桃李树，花开能有几时红。</p>
+<p>直饶做到公卿相，死后还归泥土中。</p>
+<p><a name="a170"></a><span lang="EN-US" style="color:#333399">170．佛与佛乃能究尽</span></p>
+<p>古人谓净土法门，唯佛与佛乃能究尽，登地菩萨不能知其少分。夫登地大士尚不全知，岂可以薄地凡夫妄生臆断乎。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《嘉言录》<span>&nbsp; </span></p>
+<p><a name="a171"></a><span lang="EN-US" style="color:#333399">171．老实念佛</span></p>
+<p>华严会众，尚须普贤十大愿王导归极乐。末法时代，如非大权应世之人，何能舍老实念佛而成就。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《雪公法语》<span>&nbsp; </span></p>
+<p><a name="a172"></a><span lang="EN-US" style="color:#333399">172．一即一切</span></p>
+<p>须知阿弥陀佛，是法界藏身，即此一名，即摄十方三世一切佛号。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">《印光大师》<span>&nbsp; </span></p>

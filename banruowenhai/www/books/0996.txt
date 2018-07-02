@@ -1,0 +1,428 @@
+<p align="center" style="text-align:center"><b><span style="font-size:36.0pt;color:#FF6600">竹窗二笔<span lang="EN-US"></span></span></b></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">莲池大师著<span lang="EN-US"></span><span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a001">般若咒</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a002">儒童菩萨</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a003">临济</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a004">雁荡山</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a005">悔不为僧</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a006">佛法作人情</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a007">黄梅衣钵</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a008">耳根圆通</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a009">极乐世界</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a010">一转语</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a011">法华要解（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a012">法华要解（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a013">朱学谕</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a014">本身卢舍那</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a015">衣帛食肉</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a016">执著</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a017">好古（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a018">好古（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a019">立义难</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a020">不作佛事</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a021">鲍□</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a022">门庭高峻</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a023">魔著</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a024">参方须具眼</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a025">人身难得</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a026">事怕有心人</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a027">老成然后出世</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a028">继祖传灯</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a029">杀罪</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a030">宗门语不可乱拟</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a031">看语录须求古人用心处</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a032">夜气</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a033">佛印</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a034">学贵精专</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a035">菩萨慈胜声闻</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a036">宗乘不与教合</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a037">放参饭</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a038">僧堂</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a039">结社会</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a040">莲社</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a041">心胆</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a042">太牢祀孔子</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a043">儒佛交非</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a044">好名</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a045">梁武帝</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a046">王所花</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a047">此道</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a048">金色身</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a049">出家休心难</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a050">蚕丝（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a051">蚕丝（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a052">吕文正公</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a053">学道无幸</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a054">著述宜在晚年</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a055">机缘</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a056">般若（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a057">般若（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a058">般若（三）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a059">天台止观</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a060">看忙</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a061">辩融</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a062">禅讲律</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a063">古玩入吾手</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a064">悟道难、为善易</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a065">重许可</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a066">放生池</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a067">崔慎求子</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a068">无子不足忧</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a069">后身（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a070">后身（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a071">后身（三）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a072">王介甫</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a073">喜怒哀乐未发（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a074">喜怒哀乐未发（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a075">中峰示众</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a076">醮事谢将杀生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a077">斋月戒杀</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a078">戒杀延寿</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a079">宋元悟道居士</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a080">无义味语</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a081">信施难消</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a082">知道不能造</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a083">远官字</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a084">念佛镜</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a085">参究念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a086">急参急悟</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a087">解禅偈</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a088">范景仁</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a089">习俗</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a090">厌喧求静</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a091">除日</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a092">净土难信之法（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a093">净土难信之法（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a094">净土难信之法（三）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a095">念佛不碍参禅</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a096">医戒杀生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a097">勘验</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a098">百法寺道者</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a099">出世间大孝</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a100">即心即佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a101">世智辩聪有失</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a102">好奇</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a103">无常信</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a104">参禅非人世中事</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a105">出家（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a106">出家（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a107">得悟人正宜往生净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a108">参禅</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a109">印宗法师</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a110">亲师</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a111">华严大藏一经</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a112">袁母</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a113">儒佛配合</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a114">立禅</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a115">论疏</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a116">净土不可言无</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a117">随处净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a118">阴阳</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a119">出胎隔阴之迷</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a120">刘道原不信佛法</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a121">传佛心印</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a122">传灯</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a123">金丹</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a124">四十二章经遗教经</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a125">大悟小悟</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a126">悯下</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a127">菩萨</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a128">愿力</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a129">不起念（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a130">不起念（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a131">九品往生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a132">千僧无一衲子</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a133">惜寸阴</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a134">万年寺</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a135">富贵留恋人</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a136">鹅道人</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a137">生日</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a138">因病食肉</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a139">人患各执所见</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a140">姚少师（一）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a141">姚少师（二）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p><a name="a001"></a><span style="color:#333399">般若咒<span lang="EN-US"></span></span></p>
+<p>般若心经曰：‘般若波罗蜜多，是大神咒，是大明咒，是无上咒，是无等等咒。’盖指般若为咒，非指‘揭谛揭谛’四句也。今人但知咒属密部，而般若心经显部也，是显部亦咒也，此持咒家所忽焉而不察者也。又‘阿弥陀佛’四字，悉皆梵语，使前人不加注释，与大明、准提密部何别？今人但知大明、准提为咒，而弥陀佛名也。是佛名亦咒也，此持咒家所忽焉而不察者也。</p>
+<p><a name="a002"></a><span style="color:#333399">儒童菩萨<span lang="EN-US"></span></span></p>
+<p>相传孔子号儒童菩萨。或曰：‘吾夫子万代斯文之祖，而童之。童之者，幼之也。幼之者，小之也。彼且幼小吾师，何怪乎儒之辟佛也！又僧号比丘。丘，夫子讳也。比者，并也。僧，佛弟子，而与夫子并。彼且弟子吾师，何怪乎儒之辟佛也！’是不然。童者，纯一无伪之称也。文殊为七佛师，而曰文殊师利童子；善财一生得无上菩提，而曰善财童子；乃至四十二位贤圣，有‘童真住’，皆叹德之极，非幼小之谓也。故曰大人者，不失其赤子之心者也。若夫比丘者，梵语也。梵语比丘，此云乞士，亦云破恶，亦云怖魔。比非比并之谓，丘非丘陵之谓，盖仅取音不取字也。例如梵语南无，此云归命，南不取南北之南，无不取有无之无也。噫！使夫子而生竺国，必演扬佛法以度众生；使释迦而现鲁邦，必阐明儒道以教万世。盖易地则皆然。大圣人所作为，凡情固不识也。为儒者不可毁佛，为佛者独可毁儒乎哉？</p>
+<p><a name="a003"></a><span style="color:#333399">临济<span lang="EN-US"></span></span></p>
+<p>先德有言：‘临济若不出家，必作渠魁，如孙权曹操之属。’曷为乎以临济拟孙曹也？盖拟智，非拟德也。袁绍谓生子当如孙仲谋，而孔明亦言：‘曹操用兵，仿佛孙吴’，智可知矣！使其不以此智外役，而以此智内旋，举平生神机妙算，尽抵在般若上，则于道何有？又古云：‘悉达若不出家，必作转轮圣王。’此兼智兼德之论也，大小殊而其意一也。</p>
+<p><a name="a004"></a><span style="color:#333399">雁荡山<span lang="EN-US"></span></span></p>
+<p>台雁号两浙名山，而雁荡尤奇，有轻千里裹粮而往游者。予昔应太平之请，去雁荡仅一由旬。期满，院主白予为雁荡游。予欲往，而沂然从游者百余众。因计彼山久无接待，徘徊历览，往返不下半月，费粟数石，院贫不能支，遂坚执已之。众怏怏，乃慰之曰：‘雁荡之胜，在震旦中尚有过之者。即震旦最胜处，不及天宫；天宫展转最胜处，不及西方极乐世界。公等不慕极乐，而沾沾雁荡是慕，何也？’竟不去。</p>
+<p><a name="a005"></a><span style="color:#333399">悔不为僧<span lang="EN-US"></span></span></p>
+<p>唐宰相杜黄裳，临终自悔不得为僧，命剃染以殓。又宋名执政某，遗命亦然。此非宿世坚持正因，焉能居大位而醒然不昧；风火散时，具如是耿耿操略。然有二说：或一念之迷，至死反本；或故为示现，警悟同流，是未可知也。</p>
+<p><a name="a006"></a><span style="color:#333399">佛法作人情<span lang="EN-US"></span></span></p>
+<p>妙喜自言：‘昔时为无眼长老胡乱印证，后见圆悟老人始得大彻。乃立誓自要，定不以佛法作人情。’妙喜可谓大慈大悲，真万世人天眼目也。惜予生晚，不获亲承炉韝，为可恨耳。然妙喜谓无眼长老以东瓜印子印学人，今学人多以东瓜印子印自己，妙喜见之，又当何如？</p>
+<p><a name="a007"></a><span style="color:#333399">黄梅衣钵<span lang="EN-US"></span></span></p>
+<p>古德示众云：‘黄梅衣钵，非但“时时勤拂拭”者不合得，直饶“何处惹尘埃”亦不合得，且道毕苋作么生，合得衣钵？’一僧下九十九转语，不契。最后云：‘定要他衣钵作甚？’古德乃忻然肯之。噫！师可谓杀人须见血，弟子可谓直穷到底者矣！</p>
+<p><a name="a008"></a><span style="color:#333399">耳根圆通<span lang="EN-US"></span></span></p>
+<p>楞严择选圆通，独取耳根。然世尊为一期化导之主，而以见明星悟；饮光为万代传灯之祖，而以见捻花悟，皆属眼根者，何也？此有二义：一者随众生义。此方真教体，清净在音闻故。二者遗著义。众生处处著，闻圆通独向耳根，便谓余根不能入道故。是故豪杰之士，根根圆通，如大福德人，执石成宝。善读楞严者详之。</p>
+<p><a name="a009"></a><span style="color:#333399">极乐世界<span lang="EN-US"></span></span></p>
+<p>或疑：‘华严谓极乐仅胜娑婆，而大本弥陀经言胜十方，何也？’一说：‘胜十方者，止是相近娑婆之十方，非华藏世界之十方也。’其说亦是，而犹未尽。良由‘仅胜’之说，盖以昼夜相较。故云娑婆一劫，为极乐一昼夜；极乐一劫，为袈裟幢一昼夜；展转历恒沙世界，以至胜莲华。乃专取时分短长之一节，非全体较胜劣也。不然，人间千万年，为地狱一昼夜，将地狱胜人间耶？又例之：若定执身量之长短较优劣，则卢舍那佛仅高千丈，而修罗高八万四千由旬，将修罗胜舍那耶？是故谓极乐胜十方，即广远言之，亦自不碍。</p>
+<p><a name="a010"></a><span style="color:#333399">一转语<span lang="EN-US"></span></span></p>
+<p>先德开示学人，谓我今亦不论你禅定智慧、神通辩才，只要你下一转语谛当。学人闻此，便昼夜学转语；错了也。既一转语如是尊贵、如是奇特，则知定不是情识卜度见解依通所可袭取。—盖从真实大彻大悟中自然流出者也。如其向经教中、向古人问答机缘中，以聪明小智模仿穿凿，取办于口，非不语句尖新；其实隔靴抓痒，直饶一刹那下恒河沙数转语，与自己有何交涉？今莫管转语谛当不谛当，且抛向不可说不可说世界之外，只牢守本参，密密用心，时时不舍，但得悟彻时，岂愁无语？吾虽钝根，不敢不勉。</p>
+<p><a name="a011"></a><span style="color:#333399">法华要解（一）<span lang="EN-US"></span></span></p>
+<p>法华一经，天台之为玄义文句也，大而详；温陵之为要解也，精而约。天台尚矣，温陵亦不可轻也。或曰：‘先阅要解，后参之玄义文句，其胜劣相去远甚。而云“温陵不可轻”者，何谓也？’夫温陵生天台后，玄义文句等书皆所历览，其铢铢而分，缕缕而辩，非不知之。第其解以要名，正取直捷简径；而复繁诠曲释，穷远极深，则博而非要矣。况列科多用天台旧文，其不用者亦自有意；中间解文竖义，或得或失，学者宜虚心平气而玩之可也。</p>
+<p><a name="a012"></a><span style="color:#333399">法华要解（二）<span lang="EN-US"></span></span></p>
+<p>前云‘中有得失’，试举其失：经云‘五众之生灭’，要解谓是五趣。然五众者，五蕴之别名，智论反覆明之；而曰五趣者，失于考也。试举其得：如药王焚身，要解谓妙觉圆照，离于身见，得蕴空故，乃能如是；若不达法行，空慕其迹，徒增业苦。盖发天台之所未发，而深有益于后学者也。</p>
+<p><a name="a013"></a><span style="color:#333399">朱学谕<span lang="EN-US"></span></span></p>
+<p>嘉禾朱懋正，言其曾大父学谕公，既归田，以所得俸金，构小屋于郊外，读书其中，□户谢客，虽子侄姻戚，以至邑令长，罕得睹其面；独一老友，每晡时来，共弈数局，饮数行，浩歌数章，则入暮矣，乃就寝。率以为常，与世隔绝，如在穷谷深山中。年八十九，月夜登桥失足，微疾。二子迎归，将终，援笔谆谆诲以道义，不及琐细家务。书毕，暝目逝。俄开目云：‘尚欲嘱嘉定。’（嘉定者，公之孙，初成进士，宰嘉定。）于是复为书，教以始终清介，毋宦成渝其晚节。因掷笔长往。噫！公未闻佛法，而临行磊落潇洒，有久修所不及者，何故？良由心无系累，佛法已思过半。彼终日喃喃诵经说法而心不净，末后慞惶挥霍，反俗士之不若，亦何怪其然乎！吾于是有感：向使公得闻佛法，以彼幽潜孤绝之力，尽心于般若，奚患大事之不明乎？吾于是重有感。</p>
+<p><a name="a014"></a><span style="color:#333399">本身卢舍那<span lang="EN-US"></span></span></p>
+<p>僧问古德：‘如何是本身卢舍那？’答云：‘与我过拂子来。’俄而曰：‘置旧处。’僧理前问，曰：‘古佛过去久矣！’又云：‘未了之人听一言，只这如今谁动口。’后人由此以举手动足开口作声便为真佛，是则诚是，而实不是，所谓认贼为子者也。遂将柏树子、麻三斤、翠竹黄花、鸟衔猿抱等一概认去，岂不误哉？俱胝遇问，即竖一指；鲁祖见僧，回身面壁。昔人道：‘我若看见，拗折指头。’予亦云：‘待渠回身，拦胸踏倒。’</p>
+<p><a name="a015"></a><span style="color:#333399">衣帛食肉<span lang="EN-US"></span></span></p>
+<p>晦庵先生辟佛，空谷力为辩驳矣。虽然，晦庵亦有助佛扬化处，不可不知也。其解孟子曰：‘五十非帛不暖，未五十者不得衣也。七十非肉不饱，未七十者不得食也。’夫兽毛蚕口害物伤慈，佛制也；必五十乃衣帛，则衣帛者鲜矣！食肉者断大慈悲种子，佛制也；必七十乃食肉，则食肉者鲜矣！今孩提之童，固已重裘纯纩卫其形，烹肥割鲜饫其口，曾不待壮，而况老乎！使晦庵之说行，宁不为佛法少助？咎晦庵者不之察，吾故为阐之。</p>
+<p><a name="a016"></a><span style="color:#333399">执著<span lang="EN-US"></span></span></p>
+<p>人恒病执著，然亦不可概论。良由学以好成，好之极名著。羿著射，辽著丸，连著琴，与夫著弈者至屏帐垣牖皆森然黑白成势，著书者至山中木石尽黑，学画马者至马现于床榻间，夫然后以其艺鸣天下而声后世。何独于学道而疑之？是故参禅人，至于茶不知茶，饭不知饭，行不知行，坐不知坐，发箧而忘□，出厕而忘衣；念佛人，至于开目闭目而观在前，摄心散心而念恒一，不举自举，不疑自疑，皆著也。良由情极志专，功深力到，不觉不知，忽入三昧。亦犹钻鐩者，钻之不已而发焰；炼铁者，炼之不已而成钢也。所恶于著者，谓其不知万法皆幻，而希果之心急；不知一切唯识，而取相之意深，是则为所障耳。概虑其著，而悠悠荡荡，如水浸石，穷历年劫，何益之有？是故执滞之著不可有，执持之著不可无。</p>
+<p><a name="a017"></a><span style="color:#333399">好古（一）<span lang="EN-US"></span></span></p>
+<p>数辈好古者，群居一堂，各出其古以相角。有出元宋五季时物者，众相与目笑之。已而唐，而晋，而汉，而秦，而三代，恨不得高辛之铛、燧人之钻、神农之琴、太昊之瑟、女娲氏所炼五色石之余也。一人曰：‘诸君所畜诚古矣，非太古也，非太古之太古也。’众曰：‘然则日月乎？’曰：‘未古也，有天地然后有日月。’‘然则天地乎？’曰：‘未古也，有虚空然后有天地。’‘然则虚空乎？’曰：‘未古也。吾所畜，日月未生，天地未立，空劫以前之物也。诸君不吝千金以博一炉一瓶一书一画，而不知宝其最古，亦惑矣！’众相视无语。</p>
+<p><a name="a018"></a><span style="color:#333399">好古（二）<span lang="EN-US"></span></span></p>
+<p>俄而曰：‘子之古，人所同也，非子所独也，奚贵焉？’曰：‘同有之，同迷之，迷则不异于无。虽谓吾所独，非过也。’曰：‘吾辈之古，历历可观，子之古安在？’其人展两手示之，众复相视无语。</p>
+<p><a name="a019"></a><span style="color:#333399">立义难<span lang="EN-US"></span></span></p>
+<p>昔刘歆初定古文春秋左氏，及毛诗尚书等，时儒嫉之，议论蜂起；晦庵作濂溪太极图解，书一出而众喙交集；乃至南岳创般若之旨，初祖开直指之禅，义学不然其言，加以毒害，况今人乎！议礼之家，名为聚讼，甚哉！立义之难，不可不慎也。</p>
+<p><a name="a020"></a><span style="color:#333399">不作佛事<span lang="EN-US"></span></span></p>
+<p>或言父母之丧，不作佛事，此晦庵家礼也。嗟乎！世遂有生子、登枢要、饶财宝，而不得其为己礼一佛，诵一四句偈，饭一沙门。复于七七日中，宰牲牢致胙于宗族交游，以为崇正道、辟邪说。不知只以增亲之业，助其沉沦，死者有知，当抚膺痛哭于泉下矣！反不及贫人之子，得报其亲也。岂不重可哀哉？颜氏家训，古今人所赞叹，而其间独曰‘必作佛事’。颜朱皆贤者也，试合而观之。</p>
+<p><a name="a021"></a><span style="color:#333399">鲍□<span lang="EN-US"></span></span></p>
+<p>真诰云：‘鲍□未知道，但朝暮扣齿不息，鬼使不能取。盖扣齿集身中之神，神不离，故鬼不得近。向使以扣齿之力修真，何真之不成？’予谓岂独修真，以扣齿之力，念念扣己而参，何佛之不成乎？夫身中之神，只是一精魂耳，力尚伏鬼，况经云受持一佛名者，有百千大力天神为之拥护！又云念佛之人，佛住其顶；今也勤为扣齿之细故，而甘舍念佛之大道。惜哉！</p>
+<p><a name="a022"></a><span style="color:#333399">门庭高峻<span lang="EN-US"></span></span></p>
+<p>古所称门庭高峻者，如净名示疾，诸阿罗汉俱云‘我不堪任诣彼问疾’，文殊亦云‘彼上人者难为酬对’，是也。嗣后宗门诸大老，或棒或喝，或竖指，或张弓，或垂一则语，如木札羹不可味，如太阿剑不可触，如水中月不可执捉，非久参上士，莫敢登其门者，是之谓门庭高峻也；岂驾尊示威，厉声作色之谓哉？</p>
+<p><a name="a023"></a><span style="color:#333399">魔著<span lang="EN-US"></span></span></p>
+<p>魔大约有二：一曰天魔，二曰心魔。天魔易知，且置勿论。心魔者，不必发风发癫，至于亵尊慢上，无复顾忌，囚首褫衣，不避讥嫌，而后为魔也。一有所著，如耽财耽色、耽诗耽酒、耽书耽画等，亦魔也。岂唯此哉？妄意欲功盖一时，名垂百世，亦魔也。岂唯此哉？即修种种诸善法门，妄意希望成佛，亦魔也。岂惟是哉？即如上所说诸魔，普悉无之，而曰‘我今独免于魔’，亦魔也。微矣哉！魔事之难察也。</p>
+<p><a name="a024"></a><span style="color:#333399">参方须具眼<span lang="EN-US"></span></span></p>
+<p>为僧于正法之世，惟恐其分别人；为僧于末法之世，惟恐其不分别人也。何也？末世浇漓，薰莸杂处，苟藻鉴不审，决择失真，以是为非，认邪作正，宜亲而反疏之，宜远而反近之，陶染匪人，久而与之俱化，劫劫生生，常为魔侣。参方可弗具眼乎哉叫？！</p>
+<p><a name="a025"></a><span style="color:#333399">人身难得<span lang="EN-US"></span></span></p>
+<p>一失人身，万劫不复，此语谁不知之？知之而漫不加意，与不知同。昔须达为佛营室，佛视地上蝼蚁，而谓达言：‘此蚁毗婆尸佛以来，经今七佛，尚在蚁身。’夫一佛出世，历年甚久，矧日七乎？释迦而后，过五百余万岁而慈氏下生，名第八佛，未知此蚁脱故身否？纵脱蚁身，未知何日当得人身也。今徒见举目世人，比肩相摩，而不知得之之难如是；既得人身，漠然空过，真可痛惜！予之懈怠空过，不能不深自痛惜，而并以告夫同志者。</p>
+<p><a name="a026"></a><span style="color:#333399">事怕有心人<span lang="EN-US"></span></span></p>
+<p>高峰自叙悟由，而曰：‘不信有这般奇特事，事怕有心人故也。’此语彼所自证，真实不虚，学道人所宜谛信。且何名有心？世间一技一艺，其始学不胜其难，似万不可成者，因置不学，则终无成矣；故最初贵有决定不疑之心。虽复决定，而优游迟缓，则亦不成；故其次贵有精进勇猛之心。虽复精进，或得少而足，或时久而疲，或遇顺境而迷，或逢逆境而堕，则亦不成；故其次贵有常永贞固誓不退转之心。高峰‘拌一生做个痴呆汉，定要见这一著子明白’，是之谓真有心丈夫也。又古云：‘三昧不成，假令筋断骨枯，终不休歇。’又云：‘道不过雪窦，不复登此山。’又云：‘不破疑团誓不休。’如是有心，何事不办？予甚愧焉，不敢不勉。</p>
+<p><a name="a027"></a><span style="color:#333399">老成然后出世<span lang="EN-US"></span></span></p>
+<p>古人得意之后，于深山穷谷中，煨折脚铛，潜伏保养；龙天推出，然后不得已而应世。后人渐不如古；然予犹及见作经论法师者，作瑜伽施食法师者，学成而年未盛，尚徐徐待之。比来少年登座者纷如矣；佛法下衰，不亦宜乎！</p>
+<p><a name="a028"></a><span style="color:#333399">继祖传灯<span lang="EN-US"></span></span></p>
+<p>世有恒言：‘凡大彻大悟，继祖灯、续佛慧命者，须是三朝天子福、七代状元才始得。’斯言似过，而理实然。昔中峰老人谓：‘无量劫来生死，今日要与和盘翻转，岂易事哉？’是故十善始得生天，人空方证小果，久积万行之菩萨尚不免曝腮龙门，则三朝七代犹近言之也，主六合、魁多士犹小喻之也。极之，盖不可思议功德智慧之所成就也。虽然，亦乌可以难自诿，而付之绝望乎？但决心精进，逢魔不退，遇难转坚，研穷至理，以悟为则，不患无相应时节。何以故？以宿世善根难测故。</p>
+<p><a name="a029"></a><span style="color:#333399">杀罪<span lang="EN-US"></span></span></p>
+<p>孔明藤甲之捷，烧诸洞蛮悉成煨烬，其言曰：‘吾虽有功于国，损吾寿矣！’世人咸知杀人为罪矣，而于牛羊犬豕等日就庖厨，则恬然不知怪，宁思薄乎云尔，乌得无罪？礼云：‘君无故不杀牛，大夫无故不杀羊，士无故不杀犬豕。’世人咸知杀畜之大者为罪矣，而于虾蚬螺蛤等，一下筷以千百计，则恬然不之怪，宁思薄乎云尔，乌得无罪？噫！据含灵皆有佛性，则蚁与人一也，何厚薄之足云？如其贵欺贱、强陵弱，则人可杀而食也，亦何厚薄之足云？梵网称‘凡有命者不得故杀’，其旨深哉！</p>
+<p><a name="a030"></a><span style="color:#333399">宗门语不可乱拟<span lang="EN-US"></span></span></p>
+<p>古人大悟之后，横说竖说，正说反说，显说密说，一一契佛心印，皆真语实语，非庄生寓言比也。今人心未妙悟，而资性聪利，辞辩捷给者，窥看诸语录中问答机缘，便能模仿，只贵颠倒异常，可喜可愕，以眩俗目，如当午三更，夜半日出，山头起浪，海底生尘，种种无义味语，信口乱发。诸无识者，莫能较勘，同声赞扬。彼人久假不归，亦谓真得：甚至‘一棒打杀与狗子吃’，‘这里有祖师么，唤来与我洗脚’，此等处亦复无忌惮，往往效嚬。吁！妄谈般若，罪在不原，可畏哉！</p>
+<p><a name="a031"></a><span style="color:#333399">看语录须求古人用心处<span lang="EN-US"></span></span></p>
+<p>凡看古人语录文字，不可专就一问一答、一拈一颂，机锋峻利，语妙言奇处，以爽我心目、资我谈柄，须穷究他因何到此大彻大悟田地，其中自叙下手工夫，刻苦用心处，遵而行之，所谓‘何不依他样子修’也。若但剽窃模拟，直饶日久岁深，口滑舌便，俨然与古人乱真，亦只是剪彩之花、画纸之饼，成得甚么边事？</p>
+<p><a name="a032"></a><span style="color:#333399">夜气<span lang="EN-US"></span></span></p>
+<p>苏子瞻谓某公不学禅，临终自知时至，诸子求教，教以第一五更早起。诸子不悟，谓为勤家。公曰不然，谓五更勾当临死时将得去者是也。昔人云：‘万般将不去，惟有业随身。’随身之业，将得去者也。而业有二：一者事业，二者道业。事业有善有恶，恶业且置，善业则所修之福；道业则所修之慧也。而必以五更者，孟子所谓夜气也。虽然，更有无所将来，无所将去者，此则不但五更，应念念勾当而不可须臾离也。</p>
+<p><a name="a033"></a><span style="color:#333399">佛印<span lang="EN-US"></span></span></p>
+<p>东坡诗有‘远公沽酒延陶令，佛印烧猪待子瞻’之句。予谓大解脱人不妨破格相与，然沽酒犹可，烧猪不已甚乎？假令侠客借口子瞻，狂僧效嚬佛印，初始作俑，谁当其辜？故此事未可信。古谓诗人托物比兴，不必实然，是也。脱有之，子瞻且置，佛印依律趁出院。</p>
+<p><a name="a034"></a><span style="color:#333399">学贵精专<span lang="EN-US"></span></span></p>
+<p>米元章谓学书须是专一于是，更无余好，方能有成。而予闻古之善琴者，亦谓专攻三二曲，始得入妙。斯言虽小，可以喻大。佛言：‘制心一处，无事不办。’是故心分两路，事不归一；情专志笃，三昧速成。参禅念佛人不可不知。</p>
+<p><a name="a035"></a><span style="color:#333399">菩萨慈胜声闻<span lang="EN-US"></span></span></p>
+<p>经云：‘声闻人于骂者、害者，或嘿然，或远离。菩萨则不然，更加慈心，爱之如子，方便济度；故远胜声闻，不可为比。’予唯世人恒苦辱之难忍，况不唯忍辱而更慈爱之乎！经又云：‘众生无恩于菩萨，而菩萨常欲利益众生。’予唯世人尚有受恩不报，况无恩于己而乃利益之乎！得斯旨者，天下无一人不可与，天下无一人不可化。</p>
+<p><a name="a036"></a><span style="color:#333399">宗乘不与教合<span lang="EN-US"></span></span></p>
+<p>曾宗元学士，以中庸大学参楞严，而和合宗门语句，质之雪窦显禅师。显云：‘这个尚不与教乘合，况中庸耶！学士须直捷理会。’乃弹指一下云：‘但恁么荐取？’宗元言下有省。夫一代时教，修行人所据以为准的者，不与教合，则魔说也。而云然者，是即教外别传之旨也。传在教外，则教之所谈者何事，夫亦离指见月，而得意于语言文字之表云尔。且世尊拈花，迦叶微笑，万代宗门传法之始也。今翻案云：‘这个尚不与拈花合，花外有别传也。’则何如？古人谓俱胝悟处，不在指头上；今雪窦弹指，宗元有省，又翻案云：‘这个尚不与弹指合，指外有别传也。’则何如？</p>
+<p><a name="a037"></a><span style="color:#333399">放参饭<span lang="EN-US"></span></span></p>
+<p>越地安禅，夜作斋，其名曰放参饭，竞为侈靡，胜于午斋，相沿成习久矣。昔有尊宿，闻邻房僧午后作食，不觉泣下，悲佛法之陵夷也。故僧禁过午食，况夜食耶！律言人间碗钵作声，饿鬼咽中起火；乃于漏深人静，而砧几盘盂，音响彻其耳根，又煎煮烹炮，馨香发其鼻识，忘慈悲之训，恣口腹之欲，于心安乎？或曰：‘中夜饥，如之何？’则代以果核饼饵之类，不烦锅铫者可也。况持过午者，午后至明，不食纤物；我等晚有药石，何不知足之甚？</p>
+<p><a name="a038"></a><span style="color:#333399">僧堂<span lang="EN-US"></span></span></p>
+<p>古尊宿开堂安众，或三百五百，乃至黄梅七百，雪峰盈千，径山千七百。予初慕之，自悲生晚，不得入彼龙象之聚。今老矣，始知正像末法信非虚语，广群稠会之中，觅一二真实办道人尚不可得。故金企罗尊者，三人为朋乞食；慈明圆禅师，六人结伴以参汾阳。而三人证罗汉，六人成大器。如其取数多，而证者希、成者寡，虽多奚为？予作僧堂，仅容四十八单，较古人什不及一，兹犹觉其多，仍狭而小之。非无普心，在末法中理应如是。</p>
+<p><a name="a039"></a><span style="color:#333399">结社会<span lang="EN-US"></span></span></p>
+<p>结社念佛，始自庐山远师。今之人，主社者得如远师否？与社者得如十八贤否？则宜少不宜多耳。以真实修净土者，亦如僧堂中人故也。至于男女杂而同社，此则庐山所未有。女人自宜在家念佛，勿入男群，远世讥嫌。护佛正法，莫斯为要，愿与同衣共守之。又放生社，亦宜少不宜多；以真实慈救生灵者，亦如佛会中人故也。愚意各各随目所见，随力所能，买而放之。或至季终，或至岁终，同诣一处，会计所放，考德论业，片时而散，毋侈费斋供，毋耽玩光阴，可也。愿与同衣共守之。</p>
+<p><a name="a040"></a><span style="color:#333399">莲社<span lang="EN-US"></span></span></p>
+<p>世有无赖恶辈，假仗佛名，甚而聚众，至谋为不轨。然彼所假，皆云释迦佛衰，弥勒佛当治世，非庐山远师莲社也。远师劝人舍娑婆而求净土，其教以金银为染心之秽物，以爵禄为羁身之苦具，以女色为伐命之斧斤，以华衣美食田园屋宅为堕落三界之坑井，惟愿脱人世而胎九莲，则何歆何羡？而彼假名弥勒者，正以金银爵禄女色衣食田宅诱诸愚民，俾悦而从己。则二者冰炭相反，不可不辩也。然莲社中人，亦自宜避嫌远祸，向所谓宜少不宜多者，切语也。予曾有在家真实修行文劝世，其大意谓凡实修者不必成群作会；家有静室，闭门念佛可也。不必供奉邪师；家有父母，孝顺念佛可也。不必外驰听讲；家有经书，依教念佛可也。不必惟施空门；家有贫难宗戚邻里知识，周急念佛可也。何以故？务实者不务外也。愿为僧者，幸以此普告诸居士。</p>
+<p><a name="a041"></a><span style="color:#333399">心胆<span lang="EN-US"></span></span></p>
+<p>古人有言：‘胆欲大而心欲小。’胆大者，谓其有担当也。心小者，谓其有裁酌也。担当，故千万人吾往。裁酌，故临事而惧，好谋而成。此正论也。至于僧，则反是，吾谓心欲大而胆欲小。心大，故帡包十界，荷负万灵，而弘度无尽。胆小，故三千威仪、八万细行，持之无敢慢。今初学稍明敏者，近蔑时辈，远轻昔人，藐视清规，鄙薄净土，胆则大矣！鞠其真实处，则唯知有己，不知有人，唯知保养顾爱其撮尔之血肉身，不知恢复充满其广大之法界量，心则小矣！或曰：‘黄檗号粗行沙门，非胆大之谓乎？’噫！拙于画虎者，不成虎而类狗；尔所谓胆大者，吾恐不成粗行沙门而成无赖僧也。可弗慎欤？！</p>
+<p><a name="a042"></a><span style="color:#333399">太牢祀孔子<span lang="EN-US"></span></span></p>
+<p>汉高帝过鲁，以太牢祀孔子，史官书而美之。此有二意：一则暴秦焚书坑儒之后，而有此举；二则帝固安事诗书毁冠辱儒之主也，而有此举，故特美其事耳。据孔子之道德，则贤尧舜、配天地、逾父母，虽烹龙炮凤、煮象炙鲸，亦何足酬恩于万一，而况骍且角之一物乎！东邻杀牛，不如西邻之禴祭，易之明训也；仪不及物，神将吐之，况于圣人乎！用是例之，其余可知矣。惜乎自古及今，相沿已久，而莫可挽也。</p>
+<p><a name="a043"></a><span style="color:#333399">儒佛交非<span lang="EN-US"></span></span></p>
+<p>自昔儒者非佛，佛者复非儒。予以为佛法初入中国，崇佛者众，儒者为世道计，非之未为过；儒既非佛，疑佛者众，佛者为出世道计，反非之亦未为过。迨夫傅韩非佛之后，后人又彷效而非，则过矣！何以故？云既掩日，不须更作烟霾故。迨夫明教空谷非儒之后，后人又彷效而非，则过矣！何以故？日既破暗，不须更作灯火故。核实而论，则儒与佛不相病而相资。试举其略：凡人为恶，有逃宪典于生前，而恐堕地狱于身后，乃改恶修善，是阴助王化之所不及者佛也。僧之不可以清规约束者，畏刑罚而弗敢肆，是显助佛法之所不及者儒也。今僧唯虑佛法不盛，不知佛法太盛，非僧之福，稍制之抑之，佛法之得久存于世者，正在此也。知此，则不当两相非，而当交相赞也。</p>
+<p><a name="a044"></a><span style="color:#333399">好名<span lang="EN-US"></span></span></p>
+<p>人知好利之害，而不知好名之为害尤甚。所以不知者，利之害粗而易见，名之害细而难知也。故稍知自好者，便能轻利；至于名，非大贤大智不能免也。思立名则故为诡异之行，思保名则曲为遮掩之计，终身役役于名之不暇，而暇治身心乎？昔一老宿言：‘举世无有不好名者。’因发长叹。坐中一人作而曰：‘诚如尊谕，不好名者惟公一人而已。’老宿欣然大悦解颐，不知已为所卖矣。名关之难破如是哉！</p>
+<p><a name="a045"></a><span style="color:#333399">梁武帝<span lang="EN-US"></span></span></p>
+<p>予正讹集中，既辨明武帝饿死之诬，而犹未及其余也。如断肉蔬食，人笑之；然田舍翁力耕致富，尚能穷口腹以为受用，帝宁不知己之玉食万方乎？面为牺牲，人笑之；然士人得一第，尚欲乞恩于祖考以为荣宠，帝宁不知己之贵为天子乎？断死刑必为流涕，人笑之；然是即下车泣罪，一民有罪我陷之之心也，帝宁不知己之生杀唯其所欲为乎？独其舍身僧寺，失君人之体，盖有信无慧，见之不明，是以轻身重法，而执泥太过也。又晋宋以来，竞以禅观相高，不知有向上事，是以遇达摩之大法而不契，为可恨耳。若因其失国而遂为诋訾，则不可。夫武帝之过，过于慈者也。武帝之慈，慈而过者也。岂得与陈后主周天元之失国者同日而论乎？若因其奉佛而诋之，则吾不得而知之矣！</p>
+<p><a name="a046"></a><span style="color:#333399">王所花<span lang="EN-US"></span></span></p>
+<p>山中有花，共本同枝，而花分大小。大者如梅如李，环绕乎其外；小者如橘如桂，攒簇乎其中。外之数大约八，内之数百有余。山氓莫之奇，亦莫知其名也。予见而奇之。夫同花而大小异，奇矣；大外围而小内聚，抑又奇矣！因名之王所：大者心王，小者心所。王数八，外花以之；所数五十有一，内花以之。外于八或有增减，而八者其常也。内恒倍于本数者，所虽五十有一，细分之则无尽也。王外而所内者，王能摄所，所不能摄王也。王五出，所亦五出。而有五须者，王单而所复也。外开先，内开晚者，王本而所末也。久沈而今显，盖时节因缘之谓也。或曰：‘是花无艳色，烧之则烟气恼人，樵者弃而不薪，奚奇焉？’嗟乎！此其所以奇也。庄生贵樗木，以其不可材；然不材，人取而薪之。今不可薪，则天下之至无用者极于是。易曰肥遁，其此之谓乎？！</p>
+<p><a name="a047"></a><span style="color:#333399">此道<span lang="EN-US"></span></span></p>
+<p>昔人有言：‘虽有驷马以先拱璧，不如坐进此道。’予因是推之：岂惟驷马拱璧，虽王天下，亦不如坐进此道。岂惟王一天下，虽金轮圣王王四天下，亦不如坐进此道。岂惟王四天下，虽王忉利夜摩，乃至王大千世界，亦不如坐进此道也。然昔云此道，指长生久视之道也。兹圆顶方袍，号称衲子，将坐进无上菩提之大道，而反羡人间之富贵者，吾不知其何心也。</p>
+<p><a name="a048"></a><span style="color:#333399">金色身<span lang="EN-US"></span></span></p>
+<p>赞佛身曰金色，盖取其仿佛近似，非真若人世之所谓金也。天金天银与世金世银，例美玉之于碔砆，胜劣自判。盖天金尚未足以拟佛，况世金耶？其精粹微妙，光莹明彻，自非凡眼所睹，然不可不知。如今之土木成像，而饰之以金箔，果以为佛之色相亦只如是，则失之矣！</p>
+<p><a name="a049"></a><span style="color:#333399">出家休心难<span lang="EN-US"></span></span></p>
+<p>人生寒思衣，饥思食，居处思安，器用思足，有男思婚，有女思嫁，读书思取爵禄，营家思致富饶，时时不得放下。其奋然出家，为无此等累也，而依然种种不忘念，则何贵于出家？佛言：‘常自摩头，以舍饰好。’然岂惟饰好，常自摩头曰：‘吾僧也，顿舍万缘，一心念道。’</p>
+<p><a name="a050"></a><span style="color:#333399">蚕丝（一）<span lang="EN-US"></span></span></p>
+<p>蚕之杀命也多而酷，世莫之禁者。谓上焉天子百官，藉以为章服；下焉田夫野妇，赖以为生计。然使自古无蚕，则必安于用布而已。若生计，则民之不蚕者什九，蚕者什一，未见不蚕者皆饿而死也。或曰：‘夫子何为舍麻而用纯？’盖当夫子时，纯之用已久，工简于用麻，夫子姑随之，知习俗之难变也。又禹恶衣服而美□冕，冕用纯，余未必用也。意可知矣。</p>
+<p><a name="a051"></a><span style="color:#333399">蚕丝（二）<span lang="EN-US"></span></span></p>
+<p>易云伏羲作结绳而为网罟，以佃以渔。何圣人为杀生者作俑也？自古无辩之者，近槐亭王公奋笔曰：‘洪荒之世，鸟兽鱼鳖伤民之禾稼，网罟者，除物之为民害也，非取物而食之也。’此解不惟全物命，觉世迷，而亦有功于往圣矣！但史称黄帚命元妃西陵氏教民蚕，则何说以通之？予闻有野蚕者，能吐丝树之枝柯，而取之者不烦于煮茧。意者西陵之教，其野蚕之谓乎？彼家蚕或后人所自作，而非出于西陵乎？不然，成汤解三面之网，以开物之生路，而黄帝尽置之镬汤无孑遗；是成汤解网，而黄帝一网打尽也。或曰：‘东坡云：“待茧出蛾，而后取以为丝，则无杀蛹之业。”’不知出蛾之茧，缕缕断续，而不可以为丝也；未必坡之有是言也。</p>
+<p><a name="a052"></a><span style="color:#333399">吕文正公<span lang="EN-US"></span></span></p>
+<p>吕文正公既贵显入相，上所赐予，皆封识不用。上知之，问故。公对曰：‘臣有私恩未报。’盖公微时，受恩于僧寺也。今相传公少贫，读书寺中，候僧食时钟鸣即往赴。僧厌之，饭讫乃声钟。公至大窘，题壁云：‘十度投斋九度空，可耐阇黎饭后钟。’公及第，僧以纱笼其诗。公至寺续云：‘二十年前尘土面，而今始见碧纱笼。’据前说，则僧何贤；据后说，则僧何不肖也。倘诬枉贤者，则成口业；而世所传，出野史戏场中，恐不足信。</p>
+<p><a name="a053"></a><span style="color:#333399">学道无幸屈<span lang="EN-US"></span></span></p>
+<p>世间求名者，有学未成而名成，是之谓幸；以不当得而得也。有学成而名不成，是之谓屈；以当得而不得也。故云我辈登科，刘蕡下第，盖幸与屈之谓也。学道则不然，未有名挂山林，身驰朝市，悠悠扬扬，一暴十寒，而成道业者。亦未有苦志力行，殚精竭神，不退不休，以悟为则，而道业无成者。盖求名在人，求道在己，学道人惟宜决心精进而已，毋怀侥幸之图，勿以枉屈为虑。</p>
+<p><a name="a054"></a><span style="color:#333399">著述宜在晚年<span lang="EN-US"></span></span></p>
+<p>道人著述，非世间词章传记之比也。上阐先佛之心法，下开后学之悟门，其关系非小。而使学未精，见未定，脱有谬解，不几于负先佛而误后学乎？仲尼三绝韦编，而十翼始成；晦庵临终，尚改定大学诚意之旨。古人慎重，往往若此，况出世语论，谈何容易！青龙钞未遇龙潭，将谓不刊之典，而终归一炬；妙喜初承印证，若遽自满足，焉得有后日事？少年著述，固宜徐徐云尔。</p>
+<p><a name="a055"></a><span style="color:#333399">机缘<span lang="EN-US"></span></span></p>
+<p>石头之于六祖，祖知彼机缘不在此，指见青原而大悟。丹霞之于马祖，亦复以机缘不在此，指见石头而大悟。乃至临济之自黄檗而大愚，惠明之自黄梅而曹溪，皆然也。又不独此；佛不能度者，度于目连，亦机缘使之也。故学人得遇真善知识，直须起大信敬，今世后世，由之津梁，不可漫焉空过而已。</p>
+<p><a name="a056"></a><span style="color:#333399">般若（一）<span lang="EN-US"></span></span></p>
+<p>土之能朽物也，水之能烂物也，必有残质存焉，俟沉埋浸渍之久而后消灭；若火之烧物，顷刻灰烬。吾以是知般若智如大火聚，诸贪爱水逼之则涸，诸烦恼薪触之则焚，诸愚痴石临之则焦，诸邪见稠林、诸障碍蔀屋、诸妄想情识种种杂物，烈焰所灼，无复遗余。古谓太末虫处处能泊，惟不能泊于火焰之上；以喻众生心处处能缘，惟不能缘于般若之上。故学道人不可刹那而失般若智。</p>
+<p><a name="a057"></a><span style="color:#333399">般若（二）<span lang="EN-US"></span></span></p>
+<p>予病足，行必肩舆。一夕天始暝，舆人醉而踬，倾盖，即有数男子攘臂攫予帽者，意谓内人或有金宝严其首故也。已而大惭，疾走去。予以是知般若智如大日轮，日轮才灭，而盗贼奸宄出矣；真照才疏，而无明烦恼作矣。先德谓暂时不在，犹如死人，故学道人不可刹那而失般若智。</p>
+<p><a name="a058"></a><span style="color:#333399">般若（三）<span lang="EN-US"></span></span></p>
+<p>经言：暑月贮水在器，一宿即有虫生，但极微细，非凡目所能睹，故滤水而后用。若水在火上，火不熄，水不冷，则虫不生。予以是知般若智如火煮水，观照炽而不休，温养密而无间，彼偷心杂惑将何从生？故学道人不可刹那而失般若智。</p>
+<p><a name="a059"></a><span style="color:#333399">天台止观<span lang="EN-US"></span></span></p>
+<p>止观治病门中，有六字气，注心下视等语。盖止观之道，广无不该，即治病之法亦于中摄，大都与服药同意。是以止观代药也；止观之余绪，非止观之正旨也。后人不知此意，而养生家引以为据，遂有外饰禅名，而内修道术者。诘之，则借口于天台；故辨之。</p>
+<p><a name="a060"></a><span style="color:#333399">看忙<span lang="EN-US"></span></span></p>
+<p>世有家业已办者，于岁尽之日，安坐而观贫人之役役于衣食也，名曰看忙。世有科名已办者，于大比之日，安坐而观士人之役役于进取也，亦名曰看忙。独不曰：世有惑破智成、所作已办者，安坐而观六道众生之役役于轮回生死也，非所谓看忙乎？吁！举世在忙中，谁为看忙者？古人云：‘老僧自有安闲法。’此安闲法可易言哉？虽然，世人以闲看忙，有矜己心，无怜彼心；菩萨看忙，起大慈悲心，普觉群迷，冀彼同得解脱。则二心迥异，所以为凡圣小大之别。</p>
+<p><a name="a061"></a><span style="color:#333399">辩融<span lang="EN-US"></span></span></p>
+<p>予入京师，与同行二十余辈，诣辩融师参礼请益。融教以无贪利，无求名，无攀援贵要之门，唯一心办道。既出，数年少笑曰：‘吾以为有异闻，恶用是宽泛语为？’予谓不然，此老可敬处正在此耳。渠纵呐言，岂不能缀拾先德问答机缘一二，以遮门盖户；而不尔者，其所言是其所实践，举自行以教人，正真实禅和，不可轻也。</p>
+<p><a name="a062"></a><span style="color:#333399">禅讲律<span lang="EN-US"></span></span></p>
+<p>禅、讲、律，古号三宗，学者所居之寺、所服之衣，亦各区别。如吾郡，则净慈、虎跑、铁佛等，禅寺也；三天竺、灵隐、普福等，讲寺也；昭庆、灵芝、菩提、六通等，律寺也。衣则禅者褐色，讲者蓝色，律者黑色。予初出家，犹见三色衣，今则均成黑色矣；诸禅律寺均作讲所矣。嗟乎！吾不知其所终矣！</p>
+<p><a name="a063"></a><span style="color:#333399">古玩入吾手<span lang="EN-US"></span></span></p>
+<p>今人于一彝一罂、一书一画，其远在上古者，出自名家者，平生歆慕而不能致者，一旦得之，则大喜过望，忻然慰曰：‘此某某所递互珍藏者，今幸入吾手矣！’曾不思旷劫以来无酬价之至宝，何时入吾手也。况世玩在外，求未必获，至宝在我，求则得之，亦弗思而已矣！</p>
+<p><a name="a064"></a><span style="color:#333399">悟道难、为善易<span lang="EN-US"></span></span></p>
+<p>当此五浊末世，兼以多生积习，而欲断无明惑、悟自本心，则千万人中希得一二，亦无足怪。至于不为恶而为善，此亦易事；而甘为不善，吾不知其何心？又复身口意三，欲令摄意不动，而出入无时，起灭无形，定力之难成，亦无足怪。至于制身不为恶事，制口不发恶言，此亦易事；而甘为身口之恶，吾不知其何心？</p>
+<p><a name="a065"></a><span style="color:#333399">重许可<span lang="EN-US"></span></span></p>
+<p>古人不轻许可，必研真核实而后措之乎辞。如赞圆觉疏者曰：‘其四依之一乎？或净土之亲闻乎？何尽其义味如此也。’乃至赞远公者曰‘东方护法菩萨’，赞南泉赵州者曰‘古佛’，赞仰山者曰‘小释迦’，赞清凉者曰‘文殊后身’，千载而下，无议之者，何也？真实语也；非今人谄寿谀墓，贺迁秩，壮行色之套子话也。夫著之简编，勒之金石，将俾信当时而传后世，而虚誉浪褒，齐佛齐祖，噫！慧日虽自难瞒，蒙学未必无误矣！</p>
+<p><a name="a066"></a><span style="color:#333399">放生池<span lang="EN-US"></span></span></p>
+<p>予作放生池，疑者谓鱼局于池，攒聚纡郁，而无活泼之趣，不若放之湖中，或护持官河一段，禁弗使渔，亦不放之放也。予谓此说亦佳；但池之与湖与河，较其利害，亦略相当。池虽隘，网罟不入；湖虽宽，昼夜采捕。陋巷贫而乐，金谷富而忧，故利害均也。又官河之禁约有限，而诸鱼之出入无恒，有从外入限中，有从中出限外者，出限则危矣，不若池居之永不出限也，故利害均也。又疑无活泼之趣，则有一喻：坐关僧住一室中，循环经行，随意百千里而不穷，徜徉自得，安在其不活泼也？复有一喻：今幸处平世，城中之民，以城门之启闭为碍；一旦寇兵压境，有城者安乎？无城者安乎？渔喻寇，池喻城，人以城为卫，何局也？鱼可知矣！</p>
+<p><a name="a067"></a><span style="color:#333399">崔慎求子<span lang="EN-US"></span></span></p>
+<p>昔崔慎无子，有僧教以盛饰内人，入寺设斋，伺欢喜迎纳者，虔奉而厚供之，冀托胎其家。夫出家者，将超三界，成道度生，而乃为此笼槛以钩致之；致彼无心出世者犹可，倘堕落一真实道人，其害可胜言哉？慎与僧俱得罪，而僧为甚。苦哉僧乎！胡不以求子之正道语人乎？</p>
+<p><a name="a068"></a><span style="color:#333399">无子不足忧<span lang="EN-US"></span></span></p>
+<p>世人以无子为忧，而富贵者忧弥甚。或曰：‘不孝莫大于无后，得无忧乎？’予曰：然。古人语意自明，盖谓不娶而无子者，非谓娶而无子者也。娶而无子，奚罪焉？且帝王统驭亿兆，非无力置姬妾也，非无方士奇人进药石也，而有终绝储嗣者，命也，故不足忧也。乃若所忧则有之：多行不义，夺人之有，绝人之后，离人之骨肉，凌虐他人子女为己之婢仆者，种种阴险惨毒，皆无子因也，是则可忧也。不作是因而无子者，命也，非我之咎，故不足忧也。</p>
+<p><a name="a069"></a><span style="color:#333399">后身（一）<span lang="EN-US"></span></span></p>
+<p>赞西方者，记戒禅师后身为苏子瞻，青草堂后身为曾鲁公，逊长老后身为李侍郎，南庵主后身为陈忠肃，知藏某后身为张文定，严首座后身为王龟龄。其次，则乘禅师为韩氏子，敬寺僧为岐王子。又其次，善旻为董司户女，海印为朱防御女。又甚而雁荡僧为秦氏子桧，居权要，造诸恶业。此数公者，向使精求净土，则焉有此？愚谓大愿大力，如灵树生生为僧。而云门三作国王，遂失神通；百世而下，如云门者能几，况灵树乎？为常人，为女人，为恶人，则展转下劣矣。即为诸名臣，亦非计之得也。甚哉！西方之不可不生也。</p>
+<p><a name="a070"></a><span style="color:#333399">后身（二）<span lang="EN-US"></span></span></p>
+<p>或谓：‘诸师后身之为名臣，犹醒醐反而为酥也，犹可也，为常人则酪矣，为女人则乳矣，乃至为恶人则毒药矣！平生所修，果不足凭仗乎？则何贵于修乎？’是大有说。凡修行人二力：一曰福力。坚持戒行，而作种种有为功德者是也。二曰道力。坚持正观，而念念在般若中者是也。纯乎道力如灵树者置弗论，道力胜福力，则处富贵而不迷；福力胜道力，则迷于富贵，固未可保也。于中贪欲重而为女人，贪嗔俱重而为恶人，则但修福力，而道力转轻之故也。为僧者，究心于道力，宜何如也？虽然，倘勤修道力，而更助之以愿力，得从于诸上善人之后，岂惟恶人，将名臣亦所不为矣。甚哉！西方之不可不生也。</p>
+<p><a name="a071"></a><span style="color:#333399">后身（三）<span lang="EN-US"></span></span></p>
+<p>韩擒虎云：‘生为上柱国，死作阎罗王，荣之也。’不知阎王虽受王乐，而亦二时受苦；盖罪福相兼者居之，非美事也。古有一僧，见鬼使至，问之，则曰迎取作阎王。僧惧，乃励精正念，使遂不至。昔人谓行僧不明心地，多作水陆灵只，虽未必尽然，容有是理。下生犹胜天宫，天且弗为，况鬼神乎？甚哉！西方之不可不生也。</p>
+<p><a name="a072"></a><span style="color:#333399">王介甫<span lang="EN-US"></span></span></p>
+<p>介甫拟寒山诗有云：‘我曾为牛马，见草豆欢喜。又曾为女人，欢喜见男子。我若真是我，只合常如此。区区转易间，莫认物为己。’介甫此言，信是有见，然胡不云：‘我曾闻谀言，入耳则欢喜。又曾闻谠言，喜灭而嗔起。我若真是我，只合常如此。区区转易间，莫认物为己。’而乃悦谀恶谠，依然认物为己耶？故知大聪明人，说禅非难，而得禅难也。</p>
+<p><a name="a073"></a><span style="color:#333399">喜怒哀乐未发（一）<span lang="EN-US"></span></span></p>
+<p>予初入道，忆子思以喜怒哀乐未发为中，意此中即空劫以前自己也。既而参诸楞严，则云：‘纵灭一切见闻觉知，内守幽闲，犹为法尘分别影事。’夫见闻泯，觉知绝，似喜怒哀乐未发，而曰法尘分别者，何也？意，根也。法，尘也。根与尘对，顺境感而喜与乐发，逆境感而怒与哀发，是意根分别法尘也。未发则尘未交于外，根未起于内，寂然悄然，应是本体；不知向缘动境，今缘静境，向固法尘之粗分别也，今亦法尘之细分别也，皆影事也，非真实也。谓之幽闲，特幽胜显、闲胜闹耳，空劫以前自己，尚隔远在。此处更当谛审精察，研之又研，穷之又穷，不可草草。</p>
+<p><a name="a074"></a><span style="color:#333399">喜怒哀乐未发（二）<span lang="EN-US"></span></span></p>
+<p>慈湖杨氏谓灼见子思孟子病同原。然慈湖自叙静中所证，空洞寂寥，广远无际，则正子思所谓喜怒哀乐未发时气象也。子思此语，以深经微细穷究，故云犹未是空劫以前自己；若在儒宗，可谓妙得孔氏之心法。甚言至精至当，何所错谬，而慈湖病之？慈湖既宗孔氏，主张道学，而乃病子思，则夫子亦不足法矣，将谁宗乎？倘慈湖于佛理妙悟，则宜直言极论儒佛同异，亦不应混作此语，似乎进退无据。</p>
+<p><a name="a075"></a><span style="color:#333399">中峰示众<span lang="EN-US"></span></span></p>
+<p>天目中峰和尚示众云：‘汝若无大力量，不若半间草屋栖身，鹑衣丐食，亦免犯人苗稼。’至论也。今出家者，多作有为功德，奔走一生，于自己脚跟下生死大事置之罔闻，不亦谬乎？或曰：‘个个都是你，则像毁殿塌，僧将露居而枵腹矣！’曰：‘非然也。汝力量大，任为之；古人此语，教我等无力量者急先务也。一者大事未明，如丧考妣，则不暇为。二者见理未彻，因果差错，所谓有为之功多诸过咎，天堂未就，地狱先成，则不敢为。’中峰又云：‘一心为本，万行可以次之也。’至论也。牛头之于衔花岩，马祖之于传法院，遐哉高风，不可再见矣。噫！</p>
+<p><a name="a076"></a><span style="color:#333399">醮事谢将杀生<span lang="EN-US"></span></span></p>
+<p>道流作醮事竟，必谢将，大者杀羊豕，小者买见有三牲。其说曰：‘酬将之护坛场也。不尔，且得罪。’嗟乎！昨日设个斋，今朝宰六畜，一度造天堂，百度造地狱。其是之谓乎？夫将，其他吾不能知，只如云长公之大义天植，王元帅之赤心忠良，彼岂以牲牢之谢介诸怀耶？相沿今古，道流中无一高行者止之，真可悲悼。如恐得罪于将，则近日一江湖无赖，以祈雨锁械将身，而将不加祸，盖不与小人较也；而区区为口腹故，反加祸于修功德之斋家也，有是理乎？敢以告夫明理之士君子。</p>
+<p><a name="a077"></a><span style="color:#333399">斋月戒杀<span lang="EN-US"></span></span></p>
+<p>唐制，正五九月官不莅任。以莅任必多宴飨，宴飨必多宰牲，不莅任者，戒杀也。世人讹传，以此三月为恶月，而忌诸吉事，盖迷其所自耳。今时亦戒正五九月，及十斋日，不得行刑。爱物仁民，圣王好生之心一也。独惜夫祈晴祷雨，官必禁屠，是明知杀生之为不善矣，胡不斋月斋日遵古戒杀，而必待难生然后禁？呜呼！难生而始禁，难未平而禁已解，可胜叹哉！</p>
+<p><a name="a078"></a><span style="color:#333399">戒杀延寿<span lang="EN-US"></span></span></p>
+<p>华亭赵某，诣清浦探亲，舟行次，见一人立舟上，谛视则亡仆也。惊问之。答云：‘见役冥司，今将追取三人耳。’问三人为谁？则曰：‘一湖广人，一即所探亲也。’其第三人不答。又问：‘得非赵某否？’曰：‘然。’赵大骇。至所探亲，则已闻室中哭声矣。益骇甚，趣棹还舍。仆曰：‘君且无怖，及夜吾不至，则免矣。’赵问何故？曰：‘于路见有为君解者，以君合门戒杀也。’后夜果不至，赵竟无恙。今尚在，已十年矣。万历丙午七月记此。</p>
+<p><a name="a079"></a><span style="color:#333399">宋元悟道居士<span lang="EN-US"></span></span></p>
+<p>自宋迄元，居士有悟入者，不一而足。宋居士刘兴朝，其悟道集自叙悟处甚详，盖真有得者。元放牛居士，于无门老人不是不是处悟入，所作是非关，横说竖说，非具大知见者不能道。此二老踪迹不甚显，兴朝犹载传灯，放牛罕有知者，吾故表而出之。</p>
+<p><a name="a080"></a><span style="color:#333399">无义味语<span lang="EN-US"></span></span></p>
+<p>宗门答话，有所谓无义味语者，不可以道理会，不可以思惟通故也。后人以思惟心强说道理，则愈说而愈远。岂惟谬说，直饶说得极是，亦只是鹦鹉学人语而已。圆悟老人曰：‘汝但情识意解，一切妄想都尽，自然于这里会去。’此先德已验之方，断非虚语，吾辈所当深信而力行者也。</p>
+<p><a name="a081"></a><span style="color:#333399">信施难消<span lang="EN-US"></span></span></p>
+<p>邓豁渠自讼云：‘为僧者干自己事，带累十方施主，委实难消。’诚哉言乎！夫僧人为自己生死，犹士人为自己科名也。为科名故，累诸邻里亲戚供给所需，成名则足以报之，名不成则所负多矣。不解此义而唯嫌信施不广，岂不大错？！</p>
+<p><a name="a082"></a><span style="color:#333399">知道不能造<span lang="EN-US"></span></span></p>
+<p>五台居士谓予曰：‘吾知有此道而不克尽力，终其身不乐。今士人不知有此道者，得一第，快心五欲以为乐。吾既知之，不敢纵欲，而复以王事家事驱驰荏苒。今老矣！失人世之乐，又未得出世之乐，故郁然终身。’此居士实语也。而自昧者多、自觉者少，谁道及此者？居士诚贤乎哉！今出家儿，无王事家事，乃亦一生空过，静焉思之，五内惊栗！</p>
+<p><a name="a083"></a><span style="color:#333399">远官字<span lang="EN-US"></span></span></p>
+<p>先君子虽不仕，博学而笃行，多格言。尝谓不孝曰：‘带一官字者，慎勿为之。’因问何谓带一官字？先君子曰：‘领官钱，织官段，中官盐，作官保，乃至入官府为吏书，交结官人，嘱托公事之类，皆是也。’予再拜服膺。后观亲识中，坐此而败者十七八。由是推而广之，即为官亦所不愿。出家后，又推而广之，不敢妄干有官大人；并诫徒众，不得乞缘出入于官家，不得倚官势与人构讼，安贫守分，幸免于大愆。虽遵持佛敕，亦素闻于庭训也。口泽未忘，曷胜於邑？！</p>
+<p><a name="a084"></a><span style="color:#333399">念佛镜<span lang="EN-US"></span></span></p>
+<p>道镜、善道二师作念佛镜，以念佛与种种法门对举，皆断之曰：‘欲比念佛功德，百千万亿分不能及一。’可谓笃信明辨，大有功于净土矣。独其对禅宗一章，谓观心者，观无生者，亦比念佛功德百千万亿分不能及一，学人疑焉。予以为正四料简所谓有禅无净土者是也。但执观心，不信有极乐净土；但执无生，不信有净土往生，则未达即心即土，不知生即无生，偏空之见，非圆顿之禅也。反不如理性虽未大明而念佛已成三昧者，何足怪乎？若夫观心而妙悟自心，观无生而得无生忍，此正与念佛人上品上生者同科，又谁轩轾之有？</p>
+<p><a name="a085"></a><span style="color:#333399">参究念佛<span lang="EN-US"></span></span></p>
+<p>国朝洪永间，有空谷、天奇、毒峰三大老。其论念佛，天、毒二师俱教人看念佛是谁，唯空谷谓只直念去亦有悟门。此二各随机宜，皆是也。而空谷但言直念亦可，不曰参究为非也。予于疏钞已略陈之。而犹有疑者，谓参究主于见性，单持乃切往生，遂欲废参究而事单持，言经中止云执持名号，曾无参究之说。此论亦甚有理，依而行之，决定往生；但欲存此废彼则不可。盖念佛人见性，正上品上生事，而反忧其不生耶？故疏钞两存而待择，请无疑焉。若夫以谁字逼气下行，而谓是追究念佛者，此邪谬误人，获罪无量。</p>
+<p><a name="a086"></a><span style="color:#333399">急参急悟<span lang="EN-US"></span></span></p>
+<p>放牛居士，古杭人余氏子，参无门老人，得悟于宋淳祐中。其言曰：‘大聪明人，才闻此事，便以心意识领解，所以认影为真。到腊月三十日眼光欲落时，向阎老子道：“待我澄心摄念却与你去。”断不可也，须是急参急悟。’放牛此语，可谓吃紧为人二。若真实彻悟者，他平日踏得牢牢固固、稳稳当当，不动干戈，可以八面受敌，无常到来，安闲自如，不慌不忙，不怖不乱，何更待澄心摄念，勉强支吾耶？所谓急参急悟，吾辈当力图之。</p>
+<p><a name="a087"></a><span style="color:#333399">解禅偈<span lang="EN-US"></span></span></p>
+<p>温公作解禅偈，真学佛不明理者之龟镜也。但其以言行可法为不坏身，仁义不亏为光明藏，特一时救病语，非核实不易之论。夫谨言行、修仁义，在世间诚可贵重，然岂便是金刚不坏之身，神通大光明藏？何言之易也！又以君子坦荡荡为天堂，小人长戚戚为地狱，理则良然，而亦有执理失事之病。岂得谓愚痴即牛羊，凶暴即虎豹，此外更无真实披毛戴角之牛羊，利牙锯爪之虎豹乎？吾恐世人见温公辞致警妙，必大悦而深信，其流之弊，拨无因果，乃至世善自足，不复知有向上事；则此偈本以觉人，反以误人，不可不阐。</p>
+<p><a name="a088"></a><span style="color:#333399">范景仁<span lang="EN-US"></span></span></p>
+<p>景仁自谓：‘吾二十年曾不起一思虑。’景仁之为贤者信矣，然二十年之久不生一念，或未易及此。颜子尚仅三月不违，则三月外容有念生；赵州尚假四十年方成一片，则未成一片时容有念生。如景仁者，得无粗念虽无，微细思虑潜滋暗发而不自觉欤？吾非轻视景仁，盖恐得少为足，而预以自警也。</p>
+<p><a name="a089"></a><span style="color:#333399">习俗<span lang="EN-US"></span></span></p>
+<p>先辈云：‘习俗移人，贤智者不免。’今一衣一帽、一器一物、一字一语，种种所作所为，凡唱自一人，群起而随之，谓之时尚。或尚坐关，群起而坐关；或尚礼忏，群起而礼忏；群起而背经，群起而持准提，群起而读等韵，群起而去注疏、专白文，群起而斋十万八千僧，群起而学书、学诗、学士大夫尺牍语，靡然成风，不约而合。独于刻心励志，真实参禅念佛者，则有唱而无随，谓之何哉？</p>
+<p><a name="a090"></a><span style="color:#333399">厌喧求静<span lang="EN-US"></span></span></p>
+<p>有习静者，独居一室，稍有人声，便以为碍。夫人声可禁也，鸦鹊噪于庭，则如之何？鸦鹊可驱也，虎豹啸于林，则如之何？虎豹犹可使猎人捕之也，风响水流、雷轰雨骤，则如之何？故曰：‘愚人除境不除心，智者除心不除境。’欲除境，而境卒不可除，则道终不可学矣！或曰：‘世尊不知五百车声，盖禅定中事，非凡夫所能。’然则高凤读书，不知骤雨漂麦，当是时凤所入何定？不咎志之不坚，而嫌境之不寂，亦谬矣哉！</p>
+<p><a name="a091"></a><span style="color:#333399">除日<span lang="EN-US"></span></span></p>
+<p>古人以除日当死日。盖一岁尽处，犹一生尽处，故黄檗垂示云：‘预先若打不彻，腊月三十日到来，管取你热乱。’然则正月初一便理会除日事不为早，初生堕地时便理会死日事不为早，那堪荏荏苒苒，悠悠扬扬，不觉少而壮，壮而老，老而死；况更有不及壮且老者，岂不重可哀哉？今晚岁除，应当惕然自誓自要，不可明年依旧蹉跎去也。虽然，此‘打彻’二字，不可容易看过，不是通几本经论当得彻也，不是坐几炷香不动不摇当得彻也，不是解几则古德问答机缘、作几句颂古拈古当得彻也，不是酬对几句口头三昧滑溜当得彻也。古人谓于此事洞然如桶底骤脱，爽然如大梦得醒，更无纤毫疑处，然后可耳。嗟乎！敢不努力？！</p>
+<p><a name="a092"></a><span style="color:#333399">净土难信之法（一）<span lang="EN-US"></span></span></p>
+<p>浅净土者，以为愚夫愚妇所行道。天如斥之，谓非鄙愚夫愚妇，是鄙马鸣、龙树、文殊、普贤也。故予作弥陀经疏钞，乃发其甚深旨趣；则又以为解此经不宜太深，是毕竟愚夫愚妇所行道也。佛谓此经难信之法，不其然乎？</p>
+<p><a name="a093"></a><span style="color:#333399">净土难信之法（二）<span lang="EN-US"></span></span></p>
+<p>或谓不宜太深者，此经本浅，凿之使深，故不可。噫！法华以治世语言皆即实相，而此经横截生死，直登不退，宁不及治世语言乎？或又谓此经属方等，疏以为圆，则不可。噫！观经亦方等摄也，智者圆之。圆觉亦方等摄也，圭峰圆之。弥陀经予特以为分圆，何不可之有？佛言难信之法，不其然乎？</p>
+<p><a name="a094"></a><span style="color:#333399">净土难信之法（三）<span lang="EN-US"></span></span></p>
+<p>华严第十，主药神得念佛灭一切众生病解脱门。清凉疏谓：‘趣称一佛，三昧易成；敬一心浓，余尽然矣。况心凝觉路，闇蹈大方者哉？’前数语弘赞专念，后二句入理深谈，谁谓净土浅也？行愿品广陈不可说世界海，不可说佛菩萨功德，临终乃不求生华藏而求生极乐，谁谓净土浅也？圣贤垂训如是，而人自浅之，佛言难信之法，不其然乎？</p>
+<p><a name="a095"></a><span style="color:#333399">念佛不碍参禅<span lang="EN-US"></span></span></p>
+<p>古谓‘参禅不碍念佛，念佛不碍参禅’；又云‘不许互相兼带’。然亦有禅兼净土者，如圆照本、真歇了、永明寿、黄龙新、慈受深等诸师，皆禅门大宗匠，而留心净土，不碍其禅。故知参禅人虽念念究自本心，而不妨发愿，愿命终时往生极乐。所以者何？参禅虽得个悟处，倘未能如诸佛住常寂光，又未能如阿罗汉不受后有，则尽此报身，必有生处。与其生人世而亲近明师，孰若生莲花而亲近弥陀之为胜乎？然则念佛不惟不碍参禅，实有益于参禅也。</p>
+<p><a name="a096"></a><span style="color:#333399">医戒杀生<span lang="EN-US"></span></span></p>
+<p>陶隐君取生物为药，遂淹滞其上升。夫杀生以滋口腹，诚为不可；损物命而全人命，宜若无罪焉。不知贵人贱畜，常情则然，而非诸佛菩萨平等之心也。杀一命，活一命，仁者不为，而况死生分定，未必其能活乎？则徒增冤报耳。抱病者熟思之，业医者熟思之。</p>
+<p><a name="a097"></a><span style="color:#333399">勘验<span lang="EN-US"></span></span></p>
+<p>参学人有悟，必经明眼宗师勘验过始得。如一僧常于神庙纸炉中宿，有师潜入纸炉，俟其来宿，拦胸把住，便问如何是祖师西来意？僧云神前酒台盘。又一僧，人言其得悟，玄沙故与偕行，至水边，忽推之落水，急问牛头未见四祖时如何？僧云伸脚在缩脚里。云云。此二僧者，非胸中七穿八洞，千了百当，随呼随应如空谷发声，随来随现如明镜对物，何能于仓卒忙遽做手脚不迭时，出言吐语如是的当、如是自在？彼闲时以意识抟量卜度，酬机作颂，非不粲然可观，争奈迅雷不及掩耳处一场么罗。可不慎欤？！</p>
+<p><a name="a098"></a><span style="color:#333399">百法寺道者<span lang="EN-US"></span></span></p>
+<p>嘉靖间，有道者某，寓吴山百法寺，不乞化，弟子一人，卖药以赡。日三食，每粥二盂，菜数茎，寄煮粥锅。终日坐一室，嘿如也。有作念佛会者造之，拟发问，辄摇手云：‘第静坐，毋开言。’既不得言，遂逡巡而退。以饼饵蔬果进，拒不纳，曰：‘幸自有饘粥疗饥，没来由著此等向腹中转一过，何为哉？’当时虽未核其所修何道，而精专脱逸，不染世缘，今时似此者极少，诚予所不及，因识之。</p>
+<p><a name="a099"></a><span style="color:#333399">出世间大孝<span lang="EN-US"></span></span></p>
+<p>人子于父母，服劳奉养以安之，孝也；立身行道以显之，大孝也；劝以念佛法门，俾得生净土，大孝之大孝也。予生晚，甫闻佛法，而风木之悲已至，痛极终天，虽欲追之，末由也已。奉告诸人，父母在堂，早劝念佛；父母亡日，课佛三年。其不能者，或一周岁，或七七日，皆可也。孝子欲报劬劳之恩，不可不知此。</p>
+<p><a name="a100"></a><span style="color:#333399">即心即佛<span lang="EN-US"></span></span></p>
+<p>马祖谓即心即佛，大梅领旨，遂安然住山。后复闻非心非佛之说，乃云：‘任伊非心非佛，我只是即心即佛。’祖印之曰：‘梅子熟也。’世人赏叹梅之妙悟矣！而有二意，不可不辩：直契本原，一信永信，更不为繁名异相之所转移者，是梅子熟也。如其主先入之言，死在句下，担麻而弃金者，其为熟，是熟烂之熟，非成熟之熟也。五千退席，昔人谓之焦芽败种者是也。</p>
+<p><a name="a101"></a><span style="color:#333399">世智辩聪有失<span lang="EN-US"></span></span></p>
+<p>世人重聪明，夸博洽，竞辞采，然不足恃者，以其有失也。彼学穷百家，文盖一世，有来生不识一字者；其甚如淳禅师以才藻著名，一跌而起，顿成痴呆，则不待来生；又甚，化为异类，则所谓但念水草，余无所知。其可恃安在？惟般若真智，蕴之八识田中，亘古今颠扑不破，纵在迷途，有触还悟。世俗中人不知此意，无足为怪，出家儿乃以本分事束之高阁，而殚力于外学，可胜叹哉！</p>
+<p><a name="a102"></a><span style="color:#333399">好奇<span lang="EN-US"></span></span></p>
+<p>聪明人多好奇，好奇者多受惑。盖好奇之名既彰，则所谓梅上燕齐迂怪之士，竞以其术进，驾神托仙，可喜可愕，遂深入而酷信之。至于白首无成，临终不验，始怅然悔恨，亦晚矣！虽然，犹愈于没世而终不返者也。今日之悔恨，当来之不受惑可知也。</p>
+<p><a name="a103"></a><span style="color:#333399">无常信<span lang="EN-US"></span></span></p>
+<p>谚有警世语：谓一老人死见阎王，咎王不早与通信。王言：‘吾信数矣！汝目渐昏，一信也。汝耳渐聋，二信也。汝齿渐损，三信也。汝百体日益衰，信不知其几也。’然此特为老人言耳。今更续之：一少年亦咎王云：‘吾目明、耳聪、齿利、百体强健，王胡不以信及我？’王言：‘亦有信及君，君自不察耳。东邻有四五十而亡者乎？西邻有三二十而亡者乎？更有不及十岁，与孩提乳哺而亡者乎？非信乎！’良马见鞭影而行；必俟锥入于肤者，驽胎也。何嗟及矣！</p>
+<p><a name="a104"></a><span style="color:#333399">参禅非人世中事<span lang="EN-US"></span></span></p>
+<p>先德有言：‘参禅不是人世中说得的事。’或疑裴丞相谓六道之中，可以整心虑、趋菩提者，唯人道为能耳；果如前言，禅将无地可参矣！曰：裴论良是。今此言，为吃得肉已饱，来寻僧说禅者发也；又为僧之口般若、身阿兰，而心朝市者发也。且安居五欲之场，坐证一乘之果，人世中有此大便宜事，谁不为之？得非所谓世间那有扬州鹤乎？愿毋以此言自诿，参禅定是人世中说得的事，特患无志耳，有志者事竟成。</p>
+<p><a name="a105"></a><span style="color:#333399">出家（一）<span lang="EN-US"></span></span></p>
+<p>先德有言：‘出家者，大丈夫之事，非将相之所能为也。’夫将以武功定祸乱，相以文学兴太平，天下大事皆出将相之手，而曰出家非其所能，然则出家岂细故哉？今剃发染衣，便谓出家。噫！是不过出两片大门之家也，非出三界火宅之家也；出三界家而后名为大丈夫也。犹未也，与三界众生同出三界，而后名为大丈夫也。古尊宿歌云：‘最胜儿，出家好，出家两字人知少。’最胜儿者，大丈夫也。大丈夫不易得，何怪乎知出家两字者少也。</p>
+<p><a name="a106"></a><span style="color:#333399">出家（二）<span lang="EN-US"></span></span></p>
+<p>人初出家，虽志有大小，莫不具一段好心；久之，又为因缘名利所染，遂复营宫室，饰衣服，置田产，畜徒众，多积金帛，勤作家缘，与俗无异。经称一人出家，波旬怖惧；今若此，波旬可以酌酒相庆矣！好心出家者，快须著眼看破。曾见深山中苦行僧，一出山来，被数十个信心男女归依供养，遂埋没一生，况其大者乎！古谓必须重离烦恼之家，再割尘劳之网，是出家以后之出家也。出前之家易，出后之家难，予为此晓夜惶悚。</p>
+<p><a name="a107"></a><span style="color:#333399">得悟人正宜往生净土<span lang="EN-US"></span></span></p>
+<p>或问：‘某甲向修净土，有禅者曰：“但悟自佛即已，何必外求他佛而愿往生？”此意何如？’予谓此实最上开示，但执之亦能有误。请以喻明：假使有人，颖悟同于颜子，而百里千里之外，有圣如夫子者倡道于其间，七十子三千贤相与周旋焉，汝闻其名，往而见之，未必不更有长处；而自恃颖悟，拒不觐谒，可乎？虽然，得悟不愿往生，敢保老兄未悟在。何者？天如有言：‘汝但未悟。若悟，则汝净土之生，万牛不能挽矣！’深矣哉言乎！</p>
+<p><a name="a108"></a><span style="color:#333399">参禅<span lang="EN-US"></span></span></p>
+<p>僧有恒言曰：‘小疑小悟，大疑大悟，不疑不悟。’疑之为言参也。然参禅二字起于何时？或曰：‘经未之有也。’予曰有之，楞严云：‘当在此中，精研妙明。’又曰：‘内外研究。’又曰：‘研究深远。’又曰：‘研究精极。’非参乎？自后尊宿教人看公案，起疑情，皆从此生也。而言之最为详明者，莫如鹅湖大义禅师。其言曰：‘若人静坐不用功，何年及第悟心空？’曰：‘直须提起吹毛剑，要剖西来第一义。’曰：‘若还默默恣如愚，知君未解做工夫。’曰：‘剔起眼睛竖起眉，反覆看渠渠是谁。’如是言之，不一而足，参禅人当书诸绅。虽然，若向语句中推测穿凿，情识上卜度搏量，则又错会所谓用功、所谓剖、所谓反覆看之意矣！则与静坐默默者，事不同而其病同矣！不可不辩。</p>
+<p><a name="a109"></a><span style="color:#333399">印宗法师<span lang="EN-US"></span></span></p>
+<p>六祖既受黄梅心印，隐于屠猎佣贱一十六年。后至印宗法师讲席，出风旛语，印宗闻而延入，即为剃染，礼请升座说法；人知六祖之为龙天推出矣，未知印宗之不可及也。其自言：‘某甲讲经，犹如瓦砾；仁者论义，犹如真金。’夫印宗久谈经论，已居然先辈大法师矣，而使我慢之情未忘，胜负之心向在，安能尊贤重道，舍己从人，一至于是乎？六祖固古佛之流亚，而印宗亦六祖之俦类也。圣贤聚会，岂偶然而已哉？！</p>
+<p><a name="a110"></a><span style="color:#333399">亲师<span lang="EN-US"></span></span></p>
+<p>古人心地未通，不远千里求师问道，既得真师，于是拗折拄杖，高挂钵囊，久久亲近。太上，则阿难一生侍佛；嗣后历代诸贤，其久参知识者，未易悉举。只如慈明老人下二尊宿：一则杨歧，辅佐终世；一则清素，执侍一十三年。是以晨咨暮炙，浃耳洽心，终得其道以成大器。而予出家时晚，又色力羸弱，气不助志，先师为度出家，便相别去；方外行脚，所到之处，或阻机会，或罹病缘，皆乍住而已。遂至今日，白首无知，抱愚守拙。嗟乎！予不能于杏坛泗水，济济多士中作将命童子，而乃于三家村里充教读师。可胜叹哉！</p>
+<p><a name="a111"></a><span style="color:#333399">华严大藏一经<span lang="EN-US"></span></span></p>
+<p>或问：‘经无与华严等者，何谓也？’曰：昔玄奘法师译般若六百卷成，以进御。帝云：‘般若如是浩瀚，何不居华严之先？’法师谓：‘华严具无量门，般若虽多，乃华严无量门中之一门也。’有僧作数格供经，华严供于最上。一日取诵讫，纳之中格，明晨经忽在上，僧大惊异。盖经之威神所致，亦持经者之精诚所感也。且三藏圣教，独华严如天王，专制宇内；诸侯公卿大夫百执事，以至兆民，皆其所统驭也。夫孰与之等也？</p>
+<p><a name="a112"></a><span style="color:#333399">袁母<span lang="EN-US"></span></span></p>
+<p>袁居士母张氏，自幼归依普门大士甚严。其嫁也，奉大士像以俱。孕居士腹中十月，无一日怠缓礼敬。故居士在孩提，即知归向三宝，盖所谓胎教也。夫内人之能倾心事佛者，世亦恒有；至于将作新妇，不汲汲以服饰为光华，而供大士于奁具，可谓迥出凡情，耳目所未闻见。昔苏子瞻绘像南行，葛大夫设像公署，不避嫌刺，识者高之；今袁母者，岂不卓然大丈夫哉？</p>
+<p><a name="a113"></a><span style="color:#333399">儒佛配合<span lang="EN-US"></span></span></p>
+<p>儒佛二教圣人，其设化各有所主，固不必歧而二之，亦不必强而合之。何也？儒主治世，佛主出世。治世，则自应如大学格致诚正修齐治平足矣；而过于高深，则纲常伦理不成安立。出世，则自应穷高极深，方成解脱，而于家国天下不无稍疏。盖理势自然，无足怪者。若定谓儒即是佛，则六经论孟诸典，璨然备具，何俟释迦降诞、达磨西来？定谓佛即是儒，则何不以楞严法华理天下，而必假羲农尧舜创制于其上？孔孟诸贤明道于其下，故二之合之，其病均也。虽然，圆机之士，二之亦得，合之亦得，两无病焉，又不可不知也。</p>
+<p><a name="a114"></a><span style="color:#333399">立禅<span lang="EN-US"></span></span></p>
+<p>立禅出自般舟三昧；盖精进之极，恐坐则易昏，非以立为道也。而不达此意者，遂有用铁带束腰以助僵直，亦可笑矣。近更有砌砖作垣，紧围其身，植立于中，如剑在匣，而复假此以为募化之资；愚人无识，敬而事之，于是渐有效其所为者。奉劝高明，遇如是人，即应开导，劝之出垣，毋令末法现此魔异，以增僧门之丑。</p>
+<p><a name="a115"></a><span style="color:#333399">论疏<span lang="EN-US"></span></span></p>
+<p>如来说经，而菩萨造论，后贤制疏，皆所以通经义，而开示众生使得悟入，厥功大矣！或乃谓佛所说经，本自明显，不烦注释，以诸注释反成晦滞。于是一概拨置，无论优劣，无论凡圣，尽以为不足观。此其说似是而非。何者？不信传而信经，是亦知本，但草忽卤莽，以深经作浅解，则其失非细。是盖有心病二焉：一者懒病，二者狂病。懒则惮于博究，疲于精思，惟图省便，不劳心力故。狂则上轻古德，下藐今人，惟恣胸臆，自用自专故。新学无智，靡然乐从，予实悯之，为此苦口。</p>
+<p><a name="a116"></a><span style="color:#333399">净土不可言无<span lang="EN-US"></span></span></p>
+<p>有谓唯心净土，无复十万亿刹外更有极乐净土。此唯心之说，原出经语，真实非谬，但引而据之者错会其旨。夫即心即境，终无心外之境；即境即心，亦无境外之心。既境全是心，何须定执心而斥境，拨境言心，未为达心者矣。或又曰：‘临终所见净土，皆是自心，故无净土。’不思古今念佛往生者，其临终圣众来迎，与天乐异香幢旛楼阁等，惟彼一人独见，可云自心；而一时大众悉皆见之，有闻天乐隐隐向西而去者，有异香在室多日不散者，夫天乐不向他方，而西向以去，彼人已故，此香犹在，是得谓无净土乎？圆照本禅师，人见其标名莲品，岂得他人之心，作圆照之心乎？又试问汝：临终地狱相现者非心乎？曰：心也。其人堕地狱乎？曰：堕也。夫既堕地狱，则地狱之有明矣，净土独无乎？心现地狱者，堕实有之地狱；心现净土者，不生实有之净土乎？宁说有如须弥，莫说无如芥子。戒之戒之！</p>
+<p><a name="a117"></a><span style="color:#333399">随处净土<span lang="EN-US"></span></span></p>
+<p>有谓吾非不信净土，亦非薄净土而不往，但吾所往与人异。东方有佛吾东往，西方有佛吾西往，四维上下、天堂地狱，但有佛处，吾则随往；非如天台永明诸求净土者，必专往西方之极乐世界也。此说语甚高、旨甚深、义甚玄，然不可以训。经云：‘譬如弱羽，止可缠枝。’则知翮翼既成，身强气茂，方可翱翔霄汉，横飞八方耳，非初发菩提心者所能也。世尊示韦提希十六观法，必先之落日悬鼓以定志西方，而古德有坐卧不忘西向者，岂不知随方皆有佛国耶？大解脱人，任意所之；如其不然，恪遵佛敕。</p>
+<p><a name="a118"></a><span style="color:#333399">阴阳<span lang="EN-US"></span></span></p>
+<p>有谓：‘万法始于阴阳，不宜阴阳前更立太极。故曰：有天地然后有万物，天阳而地阴也；夫妇为生人之本，夫阳而妇阴也。’夫有天地然后有万物，孔子语也；易有太极，是生两仪，亦孔子语也。取其一，弃其一，何为哉？濂溪曰：‘无极而太极。’尚置无极于太极之上，况阴阳乎！圭峰原人即无极犹未足穷其原，而起信真如生灭以前名为一心，前说可谓甚浅。</p>
+<p><a name="a119"></a><span style="color:#333399">出胎隔阴之迷<span lang="EN-US"></span></span></p>
+<p>古云：‘声闻尚昧出胎，菩萨犹昏隔阴。’予初疑声闻已具六通，菩萨双修定慧，何由昏昧均未能免？及考之自己，稽之他人，昨宵之事，平日忽尔茫然，况隔阴乎？乍迁一房，夜起不知南北，况出胎乎？彼诸贤圣之昏昧，盖暂昏而即明，俄昧而旋觉者也；而我等凡夫，则终于昏昧而不自知也。舍身受身，利害有如此者！为今之计，直须坚凝正心，毋使刹那失照，而复恳苦虔诚，求生净土；生净土，则昏昧不足虑矣。既放其心，复拨净土，危乎哉！</p>
+<p><a name="a120"></a><span style="color:#333399">刘道原不信佛法<span lang="EN-US"></span></span></p>
+<p>司马温公谓刘道原最不信浮屠法，其言曰：‘人生如在逆旅，旅中所用之物，去则尽弃之矣，焉有赉之随去者乎？’可谓见之明而决之勇矣，盖人死则神灭之论也。夫旅中主人之物，诚弃矣；自己囊橐，亦并弃而不随乎？所谓唯有业随身是也。温公之有取于道原者，何也？刘元城谓：‘老先生于此事极通晓。’元城之有取于温公者，又何也？</p>
+<p><a name="a121"></a><span style="color:#333399">传佛心印<span lang="EN-US"></span></span></p>
+<p>天台下尊宿，谓传佛心印惟属天台；而达磨一宗置之弗取。圭峰谓荷泽嗣曹溪，传佛心印惟属荷泽；而南岳、青原二宗置之弗取。于是明教嵩禅师作传法正宗，自迦叶至曹溪，西天四七，东土二三，以逮于南岳、青原，而天台、圭峰两家之说双泯。今犹有为天台者，而绝无为圭峰者，则天台下尚绳绳，而圭峰下寥寥也。为天台者曰：‘师子遇害而传遂绝。’然至人遇害，如游园观，宁有法随身灭之理乎？传法正宗，诚哉宗正而万世为楷矣！</p>
+<p><a name="a122"></a><span style="color:#333399">传灯<span lang="EN-US"></span></span></p>
+<p>自拈花悟旨，以至舂米传衣，西域此方，灯灯续照。而黄梅之记曹溪曰：‘向后佛法由汝大行。’乃南岳青原灿为五宗，大盛于唐，继美于宋，逮元尚多其人，而今则残辉欲烬矣！所以然者，无其种故也。祖师云：‘汝学心地法门，如下种子；我说法要，譬彼天泽。’然则既无其种，天泽何施？今剃发染衣者虽遍满域中，然皆外骛有为缘事；其近里者，又不过守律饬躬，诵经礼忏而已。其谁发无上菩提之心，单提此事，孜孜密密，扣己而参，不舍寸阴，而必求正悟者哉？乃欲望空田之获粟，责露柱以生花，无是理也。</p>
+<p><a name="a123"></a><span style="color:#333399">金丹<span lang="EN-US"></span></span></p>
+<p>或问：‘玄宗有云：“金丹之法，与二乘坐禅颇同。”此语然欤？’予曰：‘此紫阳语也。不曰异而日同，不直曰同而日颇同，言之不苟发者也。虽然，禅者不可因是而生异见也。学大乘以二乘为禁，故梵网呵二乘曰邪曰恶，况同而未同者乎？’或问：‘丹可得闻乎？’乃为之喻曰：‘炼铅汞而成丹，譬之修定慧而成道也。神凝气结，乃成大丹；止极观圆，不真何待？其究虽殊，而喻可以互显也。玄宗尚以身之精气神为外药，而教人求内药之元精元气元神，彼从事于五金八石寻草烧茆者亦惑矣！禅宗尚以十地见性为如隔罗縠，而必曰永断无明方名妙觉。彼止于化城，住于百尺竿头者，犹远之远也。奈何圆顶方袍，号为释子，不思绍隆佛种，而耽耽焉颂道德、讲南华，不亦颠倒乎哉？’</p>
+<p><a name="a124"></a><span style="color:#333399">四十二章经遗教经<span lang="EN-US"></span></span></p>
+<p>汉明帝夜梦金人，遗使天竺，得佛经四十二章，此圣教东流入震旦之始也。今以其言近，僧不诵持，法师不升座为人讲演。夫此经言不专近，有远者，有言近而旨远者，人自不察也。又遗教经，乃如来入灭最后之要语，喻人世所谓遗嘱也。子孙昧宗祖创始之来源，是忘本也；子孙背父母临没之遗嘱，是不孝也。为僧者胡弗思也？愚按二经实末法救病之良药，不可忽，不可忽！</p>
+<p><a name="a125"></a><span style="color:#333399">大悟小悟<span lang="EN-US"></span></span></p>
+<p>相传大慧杲老，大悟一十八遍，小悟不计其数。愚按学道人时有觉触，谓之有省；乍而省，未大彻也，则名小悟，容或多遍。至于大悟，则世尊夜见明星而廓然大悟，是一悟尽悟，不俟二三矣。即如诸祖，有直至如今更不疑者，有从此安邦定国天下太平者，有‘元来黄檗佛法无多子’者，虽未至佛，亦皆大悟也。而必重重累累如是，则向之不疑者当更起疑矣，向之太平者当更变乱矣，向之无多子者当更欠少矣，云何得称大悟？若夫无明虽断，犹欲断最后穷微至细之无明；公案虽透，犹欲透最后极则讳讹之公案，则几番大悟者容有之，但不应多之至于一十八遍也。</p>
+<p><a name="a126"></a><span style="color:#333399">悯下<span lang="EN-US"></span></span></p>
+<p>周氏纪言载唐一庵先生与众友夜话，将入寝，问：‘此时还有事当料理否？’众曰：‘无。’一庵谓：‘今天盛寒，吾辈饮酒乐甚，诸从人尚未有寝所。’众谢不及。所以然者，以此时惟欠伸思睡而已；而一庵独体悉于众情之所弗察，真仁人之言、佛菩萨之慈悲也。因思出家儿今日在僧堂中，百事不干怀，十指不点水，其入寝，亦念诸行人有未遑安处者乎？亦念诸行人之劳役不宁者，何所为而然乎？则以众僧之办道也，古人有言：‘道业不成争消得。’可不为寒心哉？</p>
+<p><a name="a127"></a><span style="color:#333399">菩萨<span lang="EN-US"></span></span></p>
+<p>人见如来弹斥偏小，赞叹大乘，知菩萨道所当行矣；然不审其实，而徒假其名，为害滋甚。是故未能自度先能度人者，菩萨也；因是而己事不明，好为人师，则非矣！六度齐修，万行兼备者，菩萨也；因是而专务有为，全抛心地，则非矣！无恶名怖，乃至无大众威德怖，坦然自在者，菩萨也；因是而闻过不悛，轻世傲物，则非矣！即杀为慈，即盗为施，乃至即妄言成实语，种种权宜方便，不可以常情局者，菩萨也；因是而毒害劫夺欺诳，甚而破灭律仪，拨无因果，如古谓‘饮酒食肉不碍菩提，行盗行淫无妨般若’，则非矣！此则徇名失实，不善学柳下惠，而学步于邯郸者也。大道无成，业果先就，慎之慎之！</p>
+<p><a name="a128"></a><span style="color:#333399">愿力<span lang="EN-US"></span></span></p>
+<p>吕文正公每晨兴礼佛，祝云：‘不信三宝者愿弗生我家。愿子孙世世食禄，护持佛法。’后吕氏所出，若公著，若好问，若用中，皆贵显而奉佛。夫文正亦只是人世之善愿，而竟酬所期，至累世不绝；况求生净土，为出世间之大愿乎？文正之愿，取必于子孙者，得否未可知；况求生净土，取必于自己者乎？故知净土不成，良以其精诚之未至耳。昔有贵室，供养一僧，问僧云：‘师百年后，肯来某家否？’僧一笑，遂为其子。近世总戎范君，亦其父所供僧也。二事正类。夫一时之笑诺，即孕质于豪门；岂得积久之精诚，不托胎于莲品？因果必然，无容拟议矣！</p>
+<p><a name="a129"></a><span style="color:#333399">不起念（一）<span lang="EN-US"></span></span></p>
+<p>李文靖公庭前药栏坏，如不闻见，左右请葺之。公曰：‘安可以此事动吾一念乎？’仰山住院，土地神欲一参觐而久不可得。一日师偶入香积，行人有翻坏食器者，师不觉起念云：‘信施可惜。’土地神遂得展礼。则师于平日，盖一念不起者矣！故曰：‘一念未起，鬼神莫知。’又曰：‘离念相者，等虚空界。’而我辈从朝至暮，浮思乱想，层见叠兴，不知其几千万亿，欲超生死、证涅槃，其可得哉？</p>
+<p><a name="a130"></a><span style="color:#333399">不起念（二）<span lang="EN-US"></span></span></p>
+<p>昔有道者，结庵于溪侧，夜闻窗外云：‘明日有戴铁帽子者当替代我。’道者知鬼也。明日将暮，大雨，溪水骤涨，一男子顶釜，冒雨欲渡，道者急止之。至夜，窗外复云：‘三年俟候得一人，又为这先生所救，必有以报之。’道者端坐室中，鬼绕室周遍觅之不得，怅怏而去。良由一念不起故也。盖人之所觅者形，而鬼神之所觅者心也，心空而形与之俱空矣。孰曰黄冠无人哉？吾辈当取以自勖。</p>
+<p><a name="a131"></a><span style="color:#333399">九品往生<span lang="EN-US"></span></span></p>
+<p>士人有薄净土而不修者，曰：‘譬如吾辈，当以科名入仕，奈何作岁贡授官耶？’一士人云：‘此喻大谬。莲台自分九品，公何不取其最上，而甘作下品乎？今进士科三百，亦可分上中下而九品之也，公何不取彼魁元，而甘作榜尾乎？上品上生，即莲科之榜首也。故颂之者曰：“三心圆发，谛理深明，金台随往，即证无生。”其在宗门，则大彻大悟，而所谓“心空及第归者”此也。’向士人怃然曰：‘吾疑于是冰泮。’</p>
+<p><a name="a132"></a><span style="color:#333399">千僧无一衲子<span lang="EN-US"></span></span></p>
+<p>龙兴靖公，受知于雪峰大师。峰记靖云：‘汝他日住持，座下千僧无一衲子。’后靖应钱王之请，住持龙兴，果众千余，皆三藏诵习之徒而已，一如峰记。昔马大师得人之多，其成大器者至八十八人；靖去马师年不甚远，而衲子之难得，乃千中罕见其一，况今时乎！人间无十善，则天类衰；僧中无衲子，则佛种断。近且不知衲子之谓何也。法道伶仃，如线欲绝，悲夫！</p>
+<p><a name="a133"></a><span style="color:#333399">惜寸阴<span lang="EN-US"></span></span></p>
+<p>古谓大禹圣人，乃惜寸阴；至于众人，当惜分阴。而佛言人命在於呼吸。夫分阴之中，有多呼吸，则我辈何止当惜分阴，一刹那一弹指之阴，皆不可不惜也。昔伊庵权禅师，至晚必流涕曰：‘今日又只恁么空过，未知来日工夫何如？’其励精若此。予见晨朝日出，则忆伊庵此语，曰：‘今又换一日矣！昨日已成空过，未知今日工夫何如？’然予但叹息，未尝流涕，以是知为道之心不及古人远甚。可不愧乎？可不勉乎？</p>
+<p><a name="a134"></a><span style="color:#333399">万年寺<span lang="EN-US"></span></span></p>
+<p>万年寺当天台万山之中，殿前古树十余，一字横亘，行列整而枝叶茂，郁然为山门美观。有刻石记之者曰：‘此上仙所植也，有伐之者，其人立死。’或云：‘为此记者其愚乎哉！他时后日，能保有力者不负之而趋乎？则奚以记为？’予以为不然。夫兴之必有废也，古人非不知也，法不得不如是立也。后人信斯记而戢其邪心，与不信而造业，自属彼人，立法者无心焉，任之而已矣。破和合僧者堕无间，佛记也；佛未入灭，而调达诱祇园之僧若干以去，佛不能制调达之负而趋，然则佛愚乎哉？</p>
+<p><a name="a135"></a><span style="color:#333399">富贵留恋人<span lang="EN-US"></span></span></p>
+<p>僧之高行者，平日自分不以富贵染心，然能持之现生，未必不失之他世。一友人以文章魁海内，直史馆，声名借甚，偶游天目，谓予言：‘此山中石室有僧坐逝，其故身犹存，予欲礼觐，辄心怖不敢。’予问故。答曰：‘昔有人礼石室僧者，才拜下，即仆地陨绝，而龛内僧方欠伸从定起。予虑或然，是以不敢。’因与予相视大笑。此公弘才硕德，智鉴精朗，又雅意佛乘，尚爱著其一时富贵，守在梦之身，惟恐其醒，他又何言乎？田舍翁五亩之宅，寒令史抱关击柝之官，穷和尚三二十家信心供养之檀越，已眷眷不能舍，死犹携之识田，况复掇巍科、居要地、占断世间荣耀者，亦奚怪其爱著也。富贵之留恋人，虽贤智者未免。吁！可畏哉！</p>
+<p><a name="a136"></a><span style="color:#333399">鹅道人<span lang="EN-US"></span></span></p>
+<p>山中老氓呼鹅曰鹅道人。问之，则曰：‘鸭之入田也，蟆螟蟊蚓等吞啖无孑遗，故鸭所游行号大军过。鸡之在地也，蜈蚣之毒恶，蟋蟀之跳梁，无能逃其喙者。而鹅惟噬生草与糠秕耳；斋食不腥，是名道人。’予闻而汪然大戚焉！夫鸡鸭戕物，人戕鸡鸭，报施似适其平；曷为乎烹鹅而食其肉也？鹅受道人之称，人甘猛虎之行，吁乎伤哉！虽然，鹅不食腥，类驺虞之不杀，非师友训之，其性然也。性也者，宿习之使也。故学道人不可不慎其习。</p>
+<p><a name="a137"></a><span style="color:#333399">生日<span lang="EN-US"></span></span></p>
+<p>世人生日，设宴会，张音乐，绘图画，竞辞赋，以之为乐，唐文皇独不为，可谓超越常情矣。或曰：‘是日也，不为乐而诵经礼忏，修诸福事，则何如？’曰：诚善矣！欲报父母劬劳生育之恩，及灭己躬平生所作之业，于此宜尽心焉。然末也，非本也。先德有言：‘父母未生前，谁是汝本来面目？’是日也，有能不为乐而正念观察未生前之面目者乎？若于此廓尔洞明，则不但报此身之父母，而累劫之亲愆无不报；不但灭现生之业，而多生之夙障罔弗灭矣。罢人世之乐，得涅槃之乐，孝矣哉若人乎！伟矣哉若人乎！</p>
+<p><a name="a138"></a><span style="color:#333399">因病食肉<span lang="EN-US"></span></span></p>
+<p>有受佛戒，断肉食，而忽罹病缘，为亲友所强劝，已而遇俗医又怂恿之，至有久茹斋者，一旦破毁。不思肉之力仅能肥身，不能延命，智者已必不为，又况膏粱子弟，或瘦瘠如馁人，而蔾藿田夫，或充腴若富贾，则肥身且未，保如命何？菜食而病，教以食肉；肉食而病，复令何食？在病者以理自持而已。若其位处卑幼，上有尊人，势分所临，不可违逆者，食三净肉可也，杀生而食不可也。</p>
+<p><a name="a139"></a><span style="color:#333399">人患各执所见<span lang="EN-US"></span></span></p>
+<p>析理不得不严为辩别，入道不得不务有专门，然而执己为是，概他为非，又不可也。此在昔已然，于今尤甚。执一家者，则天台而外无一人可其意；而执简便者，又复诋天台为支离穿凿，非佛本旨。执理性者，则呵念佛为著相；而执净业者，又复但见不念佛人便目之曰外道。乃至执方山者，病清凉分裂全经；执持咒者，疑显教出后人口。如斯之类，种种未易悉数，矛盾水火，互相角立，坚壁固守，牢不可转，吾深慨焉！奉劝诸仁者，曷若各舍其执，各虚其心，且自研穷至理，以悟为则，大悟之后，徐而议之未晚也。</p>
+<p><a name="a140"></a><span style="color:#333399">姚少师（一）<span lang="EN-US"></span></span></p>
+<p>佛未出世，人皆以天为师；佛既出世，始知奉佛，故佛号人天师，独王于三界而无伦者也。姚少师作‘佛法不可灭论’，谓儒道二教法天制用，不敢违天；佛之为教诸天奉行，不敢违佛。此虽阚泽语，非少师不能阐也。又少师位极三公，衣仅一衲，不改僧相以终其身，岂常情所易窥测乎？特不似佛图澄示现神通。然图澄当乱世，乃假通以显化；少师值真主，无俟于通，安知非能之而不为也？又幽居诗曰：‘春燕雏成辞旧垒，午鸡啼罢啄阴阶。’可谓当代之留侯矣！世未有知其深者，因发之。</p>
+<p><a name="a141"></a><span style="color:#333399">姚少师（二）<span lang="EN-US"></span></span></p>
+<p>或谓少师佐命，杀业甚多，奚取焉？然所取于少师者有三：一以其贵极人臣而不改僧相，二以其功成退隐而明哲保身，三以其赞叹佛乘而具正知见，杀业非所论也。虽然；少师曾于靖难中，启奏方孝儒贤者慎勿加害。即此一言，功过可相准矣！吾是以取之。</p>

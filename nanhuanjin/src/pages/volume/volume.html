@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+    <ion-title class="adjustedCenter">
+      书籍简介
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h2 class="center" style="padding:20px 0px;margin:0px">
+    <span class="volume-book-title">
+        {{book.name}}           
+    </span>
+  </h2>
+
+  <br/>
+
+  <ion-list no-lines>
+      <ion-item class="center" href="#" *ngFor="let volume of book.volumes; let i = index">
+        <div *ngIf="volume.url==null">
+            {{volume.name}}
+        </div>
+        <a *ngIf="volume.url!=null" (click)="gotoArticle(book.name, book.volumes, i)">
+          {{volume.name}}
+        </a>
+      </ion-item>
+
+      <br />
+  </ion-list>
+</ion-content>

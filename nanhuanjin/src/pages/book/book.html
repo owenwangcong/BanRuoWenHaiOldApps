@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+    <ion-title class="adjustedCenter">
+      {{category}}
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content no-padding>
+
+    <ion-list [virtualScroll]="categoryDict[category]">
+        <button ion-item *virtualItem="let book" no-padding (click)="goToVolume(book)" style="background-color:rgba(255, 255, 255, 0); width:100%;text-align:center;">      
+          {{book.name}}
+        </button>
+    </ion-list>
+
+</ion-content>

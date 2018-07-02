@@ -1,0 +1,115 @@
+// Ionic Variables and Theming. For more info, please see:
+// http://ionicframework.com/docs/v2/theming/
+$font-path: "../assets/fonts";
+
+$small-font-size:1.1em;
+$small-line-height:1.4em;
+$small-letter-spacing:0em;
+
+$medium-font-size:1.3em;
+$medium-line-height:1.6em;
+$medium-letter-spacing:0em;
+
+$large-font-size:1.5em;
+$large-line-height:1.6em;
+$large-letter-spacing:0.1em;
+
+@import "ionic.globals";
+
+@import "theme.light";
+@import "theme.dark";
+@import "theme.font.large";
+@import "theme.font.medium";
+@import "theme.font.small";
+@import "theme.background";
+
+// Shared Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass variables found in Ionic's source scss files.
+// To view all the possible Ionic variables, see:
+// http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/
+
+
+// Named Color Variables
+// --------------------------------------------------
+// Named colors makes it easy to reuse colors on various components.
+// It's highly recommended to change the default colors
+// to match your app's branding. Ionic uses a Sass map of
+// colors so you can add, rename and remove colors as needed.
+// The "primary" color is the only required color in the map.
+
+$colors: (
+  primary:    #a90000,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222
+);
+
+
+// App iOS Variables
+// --------------------------------------------------
+// iOS only Sass variables can go here
+
+
+
+
+// App Material Design Variables
+// --------------------------------------------------
+// Material Design only Sass variables can go here
+
+
+
+
+// App Windows Variables
+// --------------------------------------------------
+// Windows only Sass variables can go here
+
+
+
+
+// App Theme
+// --------------------------------------------------
+// Ionic apps can have different themes applied, which can
+// then be future customized. This import comes last
+// so that the above variables are used and Ionic's
+// default are overridden.
+
+@import "ionic.theme.default";
+
+
+// Ionicons
+// --------------------------------------------------
+// The premium icon font for Ionic. For more info, please see:
+// http://ionicframework.com/docs/v2/ionicons/
+
+@import "ionic.ionicons";
+
+
+// Fonts
+// --------------------------------------------------
+
+//@import "roboto";
+//@import "noto-sans";
+
+$menu-width:200px;
+
+//$font-family-md-base: "微软雅黑","黑体",serif;
+//$font-family-ios-base: "微软雅黑","黑体",serif;
+//$font-family-wp-base: "微软雅黑","黑体",serif;
+
+//D:\Chrome Downloads\guke.ttf
+
+//$font-family-md-base: "guke";
+//$font-family-ios-base: "guke";
+//$font-family-wp-base: "guke";
+
+//@import url(//fonts.googleapis.com/earlyaccess/cwtexming.css);
+//$font-family: 'cwTeXMing', serif;
+
+$global-text-font-size:1em;
+
+$popover-md-width: 260px;
+$popover-ios-width: 260px;
+$popover-wp-width: 260px;

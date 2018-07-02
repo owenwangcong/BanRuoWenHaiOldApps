@@ -1,0 +1,26 @@
+<ion-list>
+  
+  <ion-item>
+    <ion-label>夜间模式</ion-label>
+    <ion-toggle [(ngModel)]="isNightMode" (ionChange)="notifyNightModeChange()"></ion-toggle>
+  </ion-item>
+
+  <ion-item>
+    <ion-label style="color:black">字体大小</ion-label>
+    <ion-select [(ngModel)]="selectedFontSize" (ionChange)="notifyFontSizeChange()" interface="popover" >
+      <ion-option value="small-font">小</ion-option>
+      <ion-option value="medium-font">中</ion-option>
+      <ion-option value="large-font">大</ion-option>
+    </ion-select>
+  </ion-item>
+
+  <ion-row class="imageselect image_{{selectedBackground}}">
+    <ion-item>
+      <ion-label style="color:black">背景纹理</ion-label>
+      <ion-select (click)="prepareImageSelector()" (ionChange)="notifyBackgroundChange(this.selectedBackground)" [(ngModel)]="selectedBackground">
+        <ion-option (ionSelect)="selectImage(optionimage)" *ngFor="let optionimage of images" [value]="optionimage">{{optionimage}}</ion-option>
+      </ion-select>
+    </ion-item>
+  </ion-row>
+
+</ion-list>

@@ -1,0 +1,16 @@
+<ion-list>
+  <ion-list-header nopadding>本书目录</ion-list-header>
+  <ion-list no-lines nopadding *ngIf="juans.length > 0" class="center" >
+    <div class="center" *ngFor="let juan of juans">
+      <button ion-item (click)="scrollToSection(juan.url)">      
+        {{juan.name}}
+      </button>
+      <ion-list no-lines nopadding *ngIf="juan.pins.length > 0" class="center" style="margin:0px !important;">        
+        <button ion-item *ngFor="let pin of juan.pins" (click)="scrollToSection(juan.url)" style="font-size:0.9em;line-height:30px">      
+          <span style="padding-left:32px;">{{pin.name}}</span>
+        </button>
+      </ion-list>
+    </div>
+  </ion-list>
+  <button *ngIf="juans.length <= 0" class="center" ion-item>本书没有目录</button>
+</ion-list>

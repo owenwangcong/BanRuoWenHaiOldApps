@@ -1,0 +1,141 @@
+.global-line-break{
+  white-space: pre-line;
+}
+
+.global-center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+
+.global-left {
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+}
+
+.global-right {
+    margin-left: auto;
+    margin-right: 0;
+    display: block;
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+
+.vertical-center {
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+}
+
+.label .label-md{
+  margin:0px;
+}
+
+ion-label{
+  margin:3px!important;
+}
+
+ion-title{
+    margin-left: 0;
+    margin-right: auto;
+    display: block;
+    text-align: left;
+}
+
+ion-header{
+  text-align: center;
+}
+
+.toolbar-background {
+  background-color: transparent;
+}
+.toolbar-title, .toolbar-title-md{
+}
+
+.bar-header {
+    border: 0px !important;
+    border-bottom-color: transparent !important;
+    background-image: none !important;
+    border-bottom: none !important;
+}
+
+.leftNavHeight{
+  line-height: 550px;
+}
+
+.innerImage
+{
+   width:37.5px; /* or whatever width you want. */
+   max-width:37.5px; /* or whatever width you want. */
+   height:52.5px; /* or whatever width you want. */
+   max-height:52.5px; /* or whatever width you want. */
+   display: inline-block;
+   background-color:white;
+}
+
+.MsoPlainText, .MsoPlainText span,a{
+    font-size:$global-text-font-size;
+}
+
+.MsoNormal, .MsoNormal span,a{
+    font-size:$global-text-font-size !important;
+}
+
+.yun{
+    background-image: url(./../assets/images/yun_light.png);
+    background-repeat: no-repeat;
+    background-position: 50% 25px;
+    padding-bottom:17px;
+}
+
+.home-page-header-title div[class*="toolbar-title"]{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    display: block;
+    text-align: center;
+    position:relative;
+    right: 28px !important;
+}
+
+.one-button-adjustedCenter div[class*="toolbar-title"]{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    position:relative;
+    right: 11px !important;
+}
+
+.spinning-liuzi-small{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 120px;
+    height: 120px;
+    margin:-60px 0 0 -60px;
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+}
+
+.rotating {
+    display:block;
+    margin:auto;
+    position: relative;
+    top: 5%;
+    width: 200px;
+    animation:spin 120s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }

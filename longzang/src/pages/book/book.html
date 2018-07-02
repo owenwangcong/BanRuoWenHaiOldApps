@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+    <ion-title class="adjustedCenter">
+      {{categoryName}}
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content no-padding>
+
+    <ion-list>
+        <button ion-item *ngFor="let book of books" no-lines no-padding (click)="goToVolume(categoryName, book)" style="background-color:rgba(255, 255, 255, 0); width:100%;padding:5px 0px;border-bottom: 1px solid lightgray;">      
+            <table width="100%">
+              <tr>
+                <td>
+                  <div style="width:100%;font-size:1.1em;font-weight:bold;text-align:center;overflow:hidden;text-overflow:ellipsis;padding-left:10px;vertical-align:bottom;">
+                    {{book.name}}
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="gukeSmall bookAuthor" style="font-weight:0.3em;text-align:center;padding-left:10px;vertical-align:top">
+                    {{book.author}}
+                </td>
+              </tr>
+            </table>
+          </button>
+    </ion-list>
+
+</ion-content>

@@ -1,0 +1,1 @@
+image path starts with "images/ssfb/dxb/" or "images/ra.jpg"

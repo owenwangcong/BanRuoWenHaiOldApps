@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Package IgnorableNamespaces="uap mp" xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10">
+    <Identity Name="com.ionicframework.banruowenhai550321" Publisher="CN=$username$" Version="0.0.1.0" />
+    <mp:PhoneIdentity PhoneProductId="224c8eb0-27a1-11e7-b36d-25fbfd5bef24" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+    <Properties>
+        <DisplayName>般若文海</DisplayName>
+        <PublisherDisplayName>Ionic Framework Team</PublisherDisplayName>
+        <Logo>images\StoreLogo.png</Logo>
+        <Description>般若文海是普通人都能看懂的佛书, 学佛必备的资料库</Description>
+    </Properties>
+    <Dependencies>
+        <TargetDeviceFamily MaxVersionTested="10.0.10240.0" MinVersion="10.0.10240.0" Name="Windows.Universal" />
+    </Dependencies>
+    <Resources>
+        <Resource Language="x-generate" />
+    </Resources>
+    <Applications>
+        <Application Id="com.ionicframework.banruowenhai550321" StartPage="ms-appx-web://com.ionicframework.banruowenhai550321/www/index.html">
+            <uap:VisualElements BackgroundColor="#464646" Description="般若文海是普通人都能看懂的佛书, 学佛必备的资料库" DisplayName="般若文海" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
+                <uap:SplashScreen Image="images\splashscreen.png" />
+                <uap:DefaultTile ShortName="般若文海" Square310x310Logo="images\Square310x310Logo.png" Square71x71Logo="images\Square71x71Logo.png" Wide310x150Logo="images\Wide310x150Logo.png" />
+                <uap:InitialRotationPreference>
+                    <uap:Rotation Preference="portrait" />
+                    <uap:Rotation Preference="landscape" />
+                    <uap:Rotation Preference="landscapeFlipped" />
+                </uap:InitialRotationPreference>
+            </uap:VisualElements>
+            <uap:ApplicationContentUriRules>
+                <uap:Rule Match="http://ionic.local/*" Type="include" WindowsRuntimeAccess="all" />
+                <uap:Rule Match="ms-appx-web:///" Type="include" WindowsRuntimeAccess="all" />
+            </uap:ApplicationContentUriRules>
+        </Application>
+    </Applications>
+    <Capabilities>
+        <Capability Name="internetClient" />
+    </Capabilities>
+</Package>

@@ -1,0 +1,11 @@
+.medium-font{
+    .MsoPlainText, .MsoPlainText span,a{
+        font-size:$medium-font-size !important;
+    }
+
+    p, p span,a{
+        font-size:$medium-font-size !important;
+        line-height:$medium-line-height !important;
+        letter-spacing:$medium-letter-spacing !important;
+    }
+}

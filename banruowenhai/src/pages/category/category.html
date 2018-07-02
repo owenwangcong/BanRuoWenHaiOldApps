@@ -1,0 +1,32 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+    <ion-title class="adjustedCenter">
+      目录
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+    <br/>
+    <ion-list>
+        <ion-grid no-padding *ngFor="let category of categoryList; let i= index" style="padding:0px 4px">
+          <ion-row *ngIf='i % 2 == 0'>
+            <ion-col no-padding style="padding:4px">   
+              <div (click)="goToBookPage(categoryList[i].name)" class="center content-border-background">
+                  <span style="font-size:1.2em">{{categoryList[i].name}}</span>
+              </div>
+            </ion-col>
+            <ion-col no-padding style="padding:4px">
+              <div (click)="goToBookPage(categoryList[i+1].name)" class="center content-border-background" *ngIf='i + 1 < categoryList.length'>
+                  <span style="font-size:1.2em">{{categoryList[i+1].name}}</span>
+              </div>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+    </ion-list>
+
+</ion-content>

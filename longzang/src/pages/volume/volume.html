@@ -1,0 +1,71 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+    <ion-title class="adjustedCenter">
+      书籍简介
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+<table  style="width:99%;display: table;" class="center" border=1>
+  <tr>
+    <th style="padding:10px">部号</th>
+    <th style="padding:10px">册号</th>
+    <th style="padding:10px">卷数</th>
+  </tr>
+  <tr>
+    <td style="width:33%;padding:10px">{{book.bu}}</td>
+    <td style="width:33%;padding:10px">{{book.ce}}</td>
+    <td style="width:33%;padding:10px">{{book.juan}}</td>
+  </tr>
+</table>
+
+<!-- <h4 class="center">{{book.name}}</h4>
+<span class="center" style="font-size:1.2em">{{book.author}}</span>
+<br/> -->
+
+<table width="100%">
+    <tr><td><br/></td></tr>
+    <tr>
+      <td>
+        <div style="width:100%;font-size:1.4em;font-weight:bold;text-align:center;overflow:hidden;text-overflow:ellipsis;padding-left:10px;vertical-align:bottom;">
+          {{book.name}}
+        </div>
+      </td>
+    </tr>
+    <tr><td><br/></td></tr>
+    <tr>
+      <td class="gukeSmall bookAuthor" style="font-weight:0.5em;text-align:center;padding-left:10px;vertical-align:top">
+          {{book.author}}
+      </td>
+    </tr>
+    <tr><td><br/></td></tr>
+  </table>
+
+<div *ngIf="history!=null">
+  <button ion-button (click)="goToArticlePage(book, null, history.scrollPosition)" class="center" style="font-size:1.1em;color:white;">
+      继续上次的阅读 <ion-icon name="arrow-forward" style="padding-left:5px"></ion-icon>
+  </button>
+  <br/>
+</div>
+
+<span class="center">目录</span><br/>
+
+<ion-list no-lines  *ngFor="let juan of book.juans; let i= index" style="margin:0px !important">
+        
+  <a ion-item (click)="goToArticlePage(book, juan.url.replace('#',''), null)" class="center" style="font-size:1.2em;color:black;">
+      <img src="{{imageUrlPrefix}}/images/chapter_icon.png" width="29" height="26">
+      <span style="position:relative;top:-7px">{{juan.name}}</span>
+  </a>
+  <ion-list no-lines *ngFor="let pin of juan.pins; let j= index" style="margin:0px !important">
+      <a ion-item (click)="goToArticlePage(book, pin.url.replace('#',''), null)"  class="center" style="font-size:1em;color:black">
+          <span>{{pin.name}}</span>
+      </a>
+    </ion-list>
+  </ion-list>
+  
+</ion-content>

@@ -1,0 +1,20 @@
+<ion-menu [content]="content" [class]="selectedMode">
+  <ion-header class="center">
+    <ion-toolbar >
+      <ion-title class="center">大藏经</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content>
+    <div style="height:10px;"></div>
+    <ion-list class='leftNavHeight'>
+      <button menuClose ion-item no-padding *ngFor="let p of pages; let i = index;" (click)="openPage(p)" style="background-color:#fff0">
+        <ion-label class="center"><ion-icon name={{p.icon}} item-left></ion-icon> {{p.title}}</ion-label>
+      </button>
+    </ion-list>
+  </ion-content>
+  <img src="{{imageUrlPrefix}}/images/nav_bottom.png" style="position: absolute;bottom:0px;z-index: 0;max-width:360px;width:100%">  
+</ion-menu>
+
+<!-- Disable swipe-to-go-back because it's poor UX to combine STGB with side menus -->
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false" [class]="selectedMode"></ion-nav>

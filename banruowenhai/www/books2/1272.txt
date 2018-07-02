@@ -1,0 +1,317 @@
+<p align="center" style="text-align:center"><b><span style="font-size:36.0pt;color:#FF6600">茅篷札记<span lang="EN-US">（选录）</span></span></b></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">圆因法师著</span><span lang="EN-US" style="color:#003300"></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a01">1．华藏就是极乐</a></span><span lang="EN-US" style="&quot;Courier New&quot;"></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a02">2．杀生与放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a03">3．不得示有版权</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a04">4．苦、集、灭、道</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a05">5．莲池大师诠释放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a06">6．深自惭愧</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a07">7．真空妙有</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a08">8．二十五菩萨拥护行者</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a09">9．善恶报应</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a10">10．菩提心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a11">11．胜造七级浮屠</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a12">12．放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a13">13．一念净心是道场</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a14">14．匡正时弊</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a15">15．放逸</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a16">16．一念</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a19">19．日增日损</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a20">20．戒定慧</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a21">21．版权所有</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a22">22．论传戒</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a23">23．菩萨大戒，岂可随便</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a24">24．是非入耳君须忍</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a25">25．以戒为师</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a26">26．盛者衰之始</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a27">27．念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a28">28．求生净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a29">29．败</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a30">30．请佛住世</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a31">31．佛陀三个不能</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a32">32．金刚上师说</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a33">33．戒杀放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a34">34．四分律</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a35">35．唯佛与佛能究竟</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a36">36．阿字功德</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a37">37．修净业</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a38">38．念佛贵断疑</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a39">39．发菩提心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a40">40．仗自力难</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a41">41．学密</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a42">42．无有是处</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a43">43．三净肉</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a44">44．放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a45">45．文殊示佛皆念佛而生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a46">46．礼佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a47">47．行与愿</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a48">48．自误误人</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a49">49．宁居下品</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a50">50．皈依</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a51">51．一心不乱</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a52">52．精诚</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a53">53．南柯一梦</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a54">54．诸经宗要</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a55">55．早辨修行路</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a56">56．放诸生命</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a57">57．施食</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a58">58．莲池大师诠释放生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a59">59．戒杀生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a60">60．最有效的方法</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a61">61．礼忏灭罪</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a62">62．误事</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a63">63．念佛宜早</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a64">64．口诀</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a65">65．老实念</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a66">66．浪死虚生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a67">67．有德即有福</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a68">68．念佛兼作福</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a69">69．放生赎命</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a70">70．素食添福</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a71">71．莫求人天福报</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a72">72．大愿王</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a73">73．雪中送炭</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a74">74．知足</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a75">75．祸福</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p><a name="a01"></a><span lang="EN-US" style="color:#333399">1．华藏就是极乐</span></p>
+<p>净修捷要说<span lang="EN-US">：‘大日遮那同归光寿，华藏密严不离极乐’毗卢就是弥陀，华藏就是极乐。</span></p>
+<p><a name="a02"></a><span lang="EN-US" style="color:#333399">2．杀生与放生—灵峰宗论六之三，九五三页</span></p>
+<p>杀生即杀自心未来诸佛，放生即放自心未来诸佛。若放自心未来诸佛，即真念佛三昧，修此念佛三昧，是恒转法华经百千万亿部也。</p>
+<p><a name="a03"></a><span lang="EN-US" style="color:#333399">3．不得示有版权</span></p>
+<p>印光大师说：凡属弘扬佛法之书，皆不得示有版权。若示，则弘法之功德，不敌阻遏流通之罪过矣。</p>
+<p><a name="a04"></a><span lang="EN-US" style="color:#333399">4．苦、集、灭、道</span></p>
+<p>境苦生厌<span>&nbsp; </span>此苦谛慧也</p>
+<p>厌苦则不敢造业<span>&nbsp; </span>此集谛慧也</p>
+<p>因不生则果不生<span>&nbsp; </span>此灭谛慧也</p>
+<p>殷勤知悔<span>&nbsp; </span>即道谛慧也</p>
+<p><a name="a05"></a><span lang="EN-US" style="color:#333399">5．莲池大师诠释放生</span></p>
+<p>净业三福，慈心不杀实居其一，今能不杀，又放其生。既能放生，又以法济令生净土，如是用心，报满之时，九品莲台高步无疑矣。（净业良导）</p>
+<p><a name="a06"></a><span lang="EN-US" style="color:#333399">6．深自惭愧</span></p>
+<p>内不见有我，则我无能；外不见有人，则人无过。一味痴呆，深自惭愧，劣智慢心痛自改革。（蕅益大师）</p>
+<p><a name="a07"></a><span lang="EN-US" style="color:#333399">7．真空妙有</span></p>
+<p>金刚经上讲的真空，真空不空即是念佛法门的妙有。念佛法门的妙有不有即是金刚上所讲的真空，两者在理论上并无抵触，而且是融会贯通的。（道源法师）</p>
+<p><a name="a08"></a><span lang="EN-US" style="color:#333399">8．二十五菩萨拥护行者</span></p>
+<p>十往生经云：‘佛言：若有众生，念阿弥陀佛，愿往生者，彼佛即遣二十五菩萨拥护行者，若行若坐，若住若卧，一切时，一切处，不令恶鬼恶神得其便也。’</p>
+<p><a name="a09"></a><span lang="EN-US" style="color:#333399">9．善恶报应</span></p>
+<p>无量寿经云：‘天地之间，五道分明，善恶报应，祸福相承，身自当之，无谁代者。’</p>
+<p><a name="a10"></a><span lang="EN-US" style="color:#333399">10．菩提心</span></p>
+<p>维摩诘经云：‘能发阿耨多罗三藐三菩提心，即是出家。’（菩提心就是阿耨多罗三藐三菩提心的简称）</p>
+<p><a name="a11"></a><span lang="EN-US" style="color:#333399">11．胜造七级浮屠</span></p>
+<p>李炳南老居士说<span lang="EN-US">：上等功德，除了断恶缘外，必须兼放生。佛家有一句话说： 救一众生，胜造七级浮屠。七级浮屠就是庙的七层宝塔。如此就知救一众生之功德是多么大，因为佛是心心念念要救度众生的，所以救一条众生的命就和报答佛恩一样。</span></p>
+<p><a name="a12"></a><span lang="EN-US" style="color:#333399">12．放生</span></p>
+<p>放生一事，原为启发现未人之善心，以期戒杀吃素，普令含识，各得其所，各尽天年。近之则息杀因，远之则灭杀果，小之则全吾心之纯仁，大之则消弭世界之杀劫，且勿以为不急之务，而漠然置之也。</p>
+<p><a name="a13"></a><span lang="EN-US" style="color:#333399">13．一念净心是道场</span></p>
+<p>经云<span lang="EN-US">：</span></p>
+<p>一念净心是道场，胜造恒沙七宝塔</p>
+<p>宝塔毕竟碎为尘，一念净心成正觉</p>
+<p><a name="a14"></a><span lang="EN-US" style="color:#333399">14．匡正时弊</span></p>
+<p>佛制‘比丘不得度尼，僧尼不得共住’须恪遵守勿逾。（济集四页）</p>
+<p><a name="a15"></a><span lang="EN-US" style="color:#333399">15．放逸</span></p>
+<p>少年必当老，诸欲犹如梦。是故有智者，不应乐放逸。（正法念处经）</p>
+<p><a name="a16"></a><span lang="EN-US" style="color:#333399">16．一念</span></p>
+<p>修行无巧法，只要生死切</p>
+<p>谛观百年身，露电同生灭</p>
+<p>千古大圣贤，皆从一念决</p>
+<p>一念识重轻，群妄自超越</p>
+<p><a name="a19"></a><span lang="EN-US" style="color:#333399">19．日增日损</span></p>
+<p>同情坏人，你比坏人更坏，你就是坏人帮凶。一日行善，福虽未至，祸自远矣。一日行恶，祸虽未至，福自远矣。行善之人，如春园之草，不见其长，日有所增。行恶之赛，如磨刀之石，不见其亏，日有所损。</p>
+<p><a name="a20"></a><span lang="EN-US" style="color:#333399">20．戒定慧</span></p>
+<p>防非止恶谓之戒</p>
+<p>六根涉境，心不随缘，名定</p>
+<p>六境俱空，照见无惑，名慧</p>
+<p><a name="a21"></a><span lang="EN-US" style="color:#333399">21．版权所有</span></p>
+<p>印佛教书籍，在后面印上‘版权所有，翻印必究’八个字，就表示心量狭小，不肯度众，靠版权能赚几个钱，真是因小失大，愚不可及。（无量经玄义）</p>
+<p><a name="a22"></a><span lang="EN-US" style="color:#333399">22．论传戒</span></p>
+<p>太虚大师‘论传戒’说：余自稍知经律以来，辄因于受戒持戒未能自信，故只与人授三皈、五戒，至多亦授璎珞十善戒、瑜伽菩萨戒而已。于沙弥十戒，且未敢与人授之，况于具足诸微细戒之比丘戒耶？</p>
+<p><a name="a23"></a><span lang="EN-US" style="color:#333399">23．菩萨大戒，岂可随便</span></p>
+<p>菩萨大戒，岂可随便，以前皆是先受五戒，即五戒论。尚有少分、多分、满分之别，要在真实能持，不在虚有其名，可想其郑重矣。受五戒者，行持一二年后，而无犯破，乃可进受菩萨大戒。（李炳南老居士全集）</p>
+<p><a name="a24"></a><span lang="EN-US" style="color:#333399">24．是非入耳君须忍</span></p>
+<p>世事如舟挂短篷，或移西岸或移东</p>
+<p>几回缺月还圆月，数阵南风又北风</p>
+<p>岁久人无千日好，春深花有几时红</p>
+<p>是非入耳君须忍，半事痴呆半作聋</p>
+<p>（唐寅．警世诗）</p>
+<p><a name="a25"></a><span lang="EN-US" style="color:#333399">25．以戒为师</span></p>
+<p>佛垂般涅槃略说教诫经：<span lang="EN-US" style="&quot;Courier New&quot;"></span></p>
+<p>汝等比丘，于我灭后，当尊重珍敬，波罗提木叉，如暗遇明，贫人得宝，当知此则，是汝大师，若我住世，无异此也。（波罗提木叉，即戒律）</p>
+<p><a name="a26"></a><span lang="EN-US" style="color:#333399">26．盛者衰之始</span></p>
+<p>盛者衰之始，福者祸之基</p>
+<p>福莫大于无祸，祸莫大于邀福</p>
+<p>祸到休愁，也要会救</p>
+<p>福来休喜，也要会受</p>
+<p><a name="a27"></a><span lang="EN-US" style="color:#333399">27．念佛</span></p>
+<p>清朝慈云大师在观经直指说：‘世间人业障深重，所有一切经咒忏法都不能消除，最后这一句佛号可以消掉，最有效的方法是念佛。</p>
+<p><a name="a28"></a><span lang="EN-US" style="color:#333399">28．求生净土</span></p>
+<p>黄念祖老居士说：‘我可以斗胆的向大家说：修什么法门，如果不求生净土，一生成办，就没有可能。’</p>
+<p><a name="a29"></a><span lang="EN-US" style="color:#333399">29．败</span></p>
+<p>曾国藩说：</p>
+<p>‘家败离不得一个奢字，</p>
+<p>人败离不得一个佚字，</p>
+<p>讨人厌离不得一个骄字。’</p>
+<p><a name="a30"></a><span lang="EN-US" style="color:#333399">30．请佛住世</span></p>
+<p>凡夫徒执佛说涅槃经后，即入灭，以为佛已舍世，曷能请佛住世。不知请佛住世，即请自己佛，自心作佛，即心即佛也。夫众生心净，见佛常住，众生心垢，见佛舍命。是故佛之常住与否，皆众生心之净染相应。吾人若念念在佛，即时时请佛住世，勤修六字，则净念相继，吾佛则然显现。（谛公语录二四八页）</p>
+<p><a name="a31"></a><span lang="EN-US" style="color:#333399">31．佛陀三个不能</span></p>
+<p>一．佛能空一切相，成万法智，而不能即灭定业。</p>
+<p>二．佛能知群有性，穷忆劫事，而不能化导无缘。</p>
+<p>三．佛能度无量有情，而不能尽众生界。</p>
+<p><a name="a32"></a><span lang="EN-US" style="color:#333399">32．金刚上师说</span></p>
+<p>金刚上师诺那呼图克图说：‘放生时，念阿弥陀佛，或念观世音菩萨圣号，或持咒，并代众生发愿，则能消灭过去现在未来一切业障，来世可转生为种有善根之人身，便可修佛成道，有无量不可思议功德。’</p>
+<p><a name="a33"></a><span lang="EN-US" style="color:#333399">33．戒杀放生</span></p>
+<p>经云：‘回向阿耨多罗三菩提者’就是回向无上正等正觉，就能依这些戒杀放生功德，助你成就佛道。总之，欲成就佛道，必须永离杀生，多做放生工作，否则好杀者必受诸业障干扰，不得精进，聪明的大德们，一定要明白。</p>
+<p><a name="a34"></a><span lang="EN-US" style="color:#333399">34．四分律</span></p>
+<p>戒经‘四分律’卷三十五说：有各种人不得受具足戒，如‘截手截脚、截耳、鼻．．．负债（中略）或有失威仪，行下极至一切污辱众僧，如此人，不得度具足戒。’</p>
+<p><a name="a35"></a><span lang="EN-US" style="color:#333399">35．唯佛与佛能究竟</span></p>
+<p>弥陀要解曰：‘一声阿弥陀佛，即释迦牟佛于五浊恶世所得之阿耨三藐三菩提法，今以此果觉全体授与浊恶众生，乃诸佛所行境界，唯佛与佛能究竟，非九界自力所能信解也。’</p>
+<p><a name="a36"></a><span lang="EN-US" style="color:#333399">36．阿字功德</span></p>
+<p>日兴教大师曰：‘自（阿）字出一切陀罗尼，自一切陀罗尼生一切佛。’又‘毗卢舍那，以此阿字名为秘藏。’阿字功德如是，故佛号之功德可知矣！</p>
+<p><a name="a37"></a><span lang="EN-US" style="color:#333399">37．修净业</span></p>
+<p>凡修净业者，第一必须严持净戒，第二必须发菩提心，第三必须具真信愿；戒为诸法之基址，菩提心为修道之主帅，信愿为往生之前导。（净土指要）</p>
+<p><a name="a38"></a><span lang="EN-US" style="color:#333399">38．念佛贵断疑</span></p>
+<p>上品见佛速，下品见佛迟</p>
+<p>虽有迟速异，终无退转时</p>
+<p>参禅病著相，念佛贵断疑</p>
+<p>实实有净土，实实有莲池</p>
+<p>（张守约）</p>
+<p><a name="a39"></a><span lang="EN-US" style="color:#333399">39．发菩提心</span></p>
+<p>蕅益大师说：‘真正发心求生西方极乐世界，就是发菩提心。’</p>
+<p><a name="a40"></a><span lang="EN-US" style="color:#333399">40．仗自力难</span></p>
+<p>印光大师云：‘末法众生福薄慧浅，障厚业深，不修净法，欲仗自力断惑证真，以了生死，则万难万难！’</p>
+<p><a name="a41"></a><span lang="EN-US" style="color:#333399">41．学密</span></p>
+<p>密宗是开了智慧才能学，内心清净，一尘不染，普通人学他一定堕地狱。严格说八地菩萨才有资格学密。</p>
+<p><a name="a42"></a><span lang="EN-US" style="color:#333399">42．无有是处</span></p>
+<p>智论云：具缚凡夫，有大悲心，欲生恶世救苦众生，无有是处，何以故？烦恼强故，未得忍力，心随境转，声色所缚，自堕三途，焉能救彼。</p>
+<p>凡夫无力，唯应专念阿弥陀佛，使成三昧，临终正念，决定往生，见佛得忍，还来三界救度众生。</p>
+<p><a name="a43"></a><span lang="EN-US" style="color:#333399">43．三净肉</span></p>
+<p>印光大师说：‘吃素不难，贪口腹而欲吃素则难，三净肉及肉边菜，乃为下根人所立法也。’</p>
+<p><a name="a44"></a><span lang="EN-US" style="color:#333399">44．放生</span></p>
+<p>蕅益大师说：‘欲即人心证佛心，转劫浊成净土，术莫于放生。放生一法，唯扩与久。一杯水不救车薪火，设人各一杯焉，一杯不已再一杯已，杯水多，车火未有不灭者。今杀运纷纷，并同分恶业招感，非慈悲三昧水，孰能熄之。’</p>
+<p><a name="a45"></a><span lang="EN-US" style="color:#333399">45．文殊示诸佛皆念佛而生</span></p>
+<p>文殊乃七佛之师，自言我于过去，因观佛故，因念佛故，今得一切种智。是故一切诸法，般若波罗密，甚深禅定，乃至诸佛，皆从念佛而生。（印光大师全集问答撷录）</p>
+<p><a name="a46"></a><span lang="EN-US" style="color:#333399">46．礼佛</span></p>
+<p>终日终年终身念佛之人，岂可于佛不行礼敬。十大愿王，礼敬居首，座下一切可以不，礼佛决不可以不。若不礼佛，便难感通，何以故？以身图安逸，心之诚亦未有必致其极也。（印光大师全集）</p>
+<p><a name="a47"></a><span lang="EN-US" style="color:#333399">47．行与愿</span></p>
+<p>慈照云：</p>
+<p>有行无愿，其行必孤</p>
+<p>有愿无行，其愿必虚</p>
+<p>无行无愿，空住阎浮</p>
+<p>有行有愿，真入无为</p>
+<p>此乃佛祖修净业之根本也</p>
+<p><a name="a48"></a><span lang="EN-US" style="color:#333399">48．自误误人</span></p>
+<p>末法时期，有一类学人，特别强调行菩萨道，不离世间，要建立人间净土，这个理想虽高，但不是生死凡夫所能为力，必须往生西方净土之后，乘愿再来，或在此方已断见思惑，并断很多尘沙惑，才可以常在世间，自觉觉他。未达这种地位，而欲常住五浊恶世，不但净土建不起来，恐怕自己反为秽土所转，岂不误人，而又自误。（明伦论文）</p>
+<p><a name="a49"></a><span lang="EN-US" style="color:#333399">49．宁居下品</span></p>
+<p>人间四相难逃死，天上何曾免五衰</p>
+<p>宁可九莲居下品，不来尘世受胞胎</p>
+<p><a name="a50"></a><span lang="EN-US" style="color:#333399">50．皈依</span></p>
+<p>皈依不是他家事，福德还从自己生</p>
+<p>万树花开因地暖，千江月现为波清</p>
+<p><a name="a51"></a><span lang="EN-US" style="color:#333399">51．一心不乱</span></p>
+<p>万缘放下，便是不乱</p>
+<p>净念相继，便是一心</p>
+<p><a name="a52"></a><span lang="EN-US" style="color:#333399">52．精诚</span></p>
+<p>言出随行方是诚，多闻勤事力求精</p>
+<p>誓修六度菩提种，长养三资极乐生</p>
+<p><a name="a53"></a><span lang="EN-US" style="color:#333399">53．南柯一梦</span></p>
+<p>草露风灯闪电光，总是南柯梦一场</p>
+<p>人归何处青山在，青山无语叹人亡</p>
+<p><a name="a54"></a><span lang="EN-US" style="color:#333399">54．诸经宗要</span></p>
+<p>维摩经，以不思为宗</p>
+<p>金刚经，以无住为宗</p>
+<p>华严经，以法界为宗</p>
+<p>涅槃经，以佛性为宗</p>
+<p><a name="a55"></a><span lang="EN-US" style="color:#333399">55．早辨修行路</span></p>
+<p>贪名逐利满世间，不如破衲道人闲</p>
+<p>笼鸡有食汤锅近，野鹤无粮天地宽</p>
+<p>富贵百年难保守，轮回六道易循环</p>
+<p>&nbsp;</p>
+<p>劝君早办修行路，一失人身万劫休</p>
+<p><a name="a56"></a><span lang="EN-US" style="color:#333399">56．放诸生命</span></p>
+<p>欲趣菩提，慈心为本</p>
+<p>凡修净业，济物为先</p>
+<p>但能救死，无不放生</p>
+<p>既乃放生，自然长命</p>
+<p>因兹胜缘，回向西方</p>
+<p>普愿众生，同成佛道</p>
+<p>（莲宗宝鉴卷六）</p>
+<p><a name="a57"></a><span lang="EN-US" style="color:#333399">57．施食</span></p>
+<p>释尊再四教诫我诸弟子，随所住处，当施法食，济诸法界一切有情，除彼饥渴极苦，化令同趣菩提，若不施食，无慈悲心，非吾弟子。</p>
+<p>（莲宗宝鉴卷六）</p>
+<p><a name="a58"></a><span lang="EN-US" style="color:#333399">58．莲池大师诠释放生</span></p>
+<p>诸放生者，或增福禄，或延寿算，或免急难，或起沉珂，或生天堂，或证道果，随施获报，皆有征据，然作善致祥，道人之心，岂望报乎？不望报而报自至，因果必然，辞之亦不可得耳，放生者宜知之。</p>
+<p><a name="a59"></a><span lang="EN-US" style="color:#333399">59．戒杀生</span></p>
+<p>世人多好割烹熏，皇天赏罚最公平</p>
+<p>欲消劫数无他术，惟望家家戒杀生</p>
+<p><a name="a60"></a><span lang="EN-US" style="color:#333399">60．最有效的方法</span></p>
+<p>清朝慈云大师在观经直指中说：世间人业障深重，所有一切经咒忏法都不能消除时，最后这一句佛号可以消掉，最有效的方法是念佛。</p>
+<p><a name="a61"></a><span lang="EN-US" style="color:#333399">61．礼忏灭罪</span></p>
+<p>论云：‘若人虽修行信心，以从先世来，多有重罪恶业障故，为诸魔鬼之所惑乱，或为世务牵缠，或为病苦所恼，应当精勤，昼夜六时礼拜诸佛，诚心忏悔，得免诸障。</p>
+<p><a name="a62"></a><span lang="EN-US" style="color:#333399">62．误事</span></p>
+<p>强顺人情，勉就世故。</p>
+<p>八个字，误却你一生大事。</p>
+<p>（西方确指）</p>
+<p><a name="a63"></a><span lang="EN-US" style="color:#333399">63．念佛宜早</span></p>
+<p>念佛宜及早，莫说身未老</p>
+<p>死生有短长，呼吸谁能保</p>
+<p>一失此人身，万劫无处讨</p>
+<p>奉劝世间人，莫待卧芳草</p>
+<p><a name="a64"></a><span lang="EN-US" style="color:#333399">64．口诀（言简而义精者，斯之谓诀）</span></p>
+<p>金刚经之口诀———‘应无所住而生其心’</p>
+<p>法华经之口诀———‘惟一乘法无二无三’</p>
+<p>华严经之口诀———‘成就慧身，不由他悟’</p>
+<p>弥陀经之口诀———‘执持名号，一心不乱’</p>
+<p>十六观经之口诀———‘是心作佛，是心是佛’</p>
+<p><a name="a65"></a><span lang="EN-US" style="color:#333399">65．老实念</span></p>
+<p>但只老实念，不必问如何</p>
+<p>只贵愿力强，那怕妄想多</p>
+<p>境缘无好丑，佛号一扫过</p>
+<p><a name="a66"></a><span lang="EN-US" style="color:#333399">66．浪死虚生</span></p>
+<p>多造恶，少修福，浪死虚生徒碌碌</p>
+<p>入三途，堕地狱，受苦遭辛为鬼畜</p>
+<p>古圣贤，频饶舌，晨钟暮鼓动心曲</p>
+<p>善恶业报最分明，唤醒世人离五浊</p>
+<p><a name="a67"></a><span lang="EN-US" style="color:#333399">67．有德即有福</span></p>
+<p>有德即有福，无嗔即无祸</p>
+<p>心宽寿自延，量大智自裕</p>
+<p><a name="a68"></a><span lang="EN-US" style="color:#333399">68．念佛兼作福</span></p>
+<p>作福不念佛，福尽还沉沦</p>
+<p>念佛不作福，入道多苦辛</p>
+<p>无福不念佛，地狱鬼畜群</p>
+<p>念佛兼作福，后作两足尊</p>
+<p><a name="a69"></a><span lang="EN-US" style="color:#333399">69．放生赎命</span></p>
+<p>放生赎命事难懂，无限阴功在其中</p>
+<p>一岁积成千种福，十年培养万种功</p>
+<p>已赴网罗遭困厄，将投汤火近惊冲</p>
+<p>临刑遇赦恩无量，彼寿兴兮尔寿隆</p>
+<p><a name="a70"></a><span lang="EN-US" style="color:#333399">70．素食添福</span></p>
+<p>善恶皆由习惯成，去除恶习在初萌</p>
+<p>福添病少增聪慧，素食端须自幼龄</p>
+<p><a name="a71"></a><span lang="EN-US" style="color:#333399">71．莫求人天福报</span></p>
+<p>人世迁居必择邻</p>
+<p>莫向人天求福报</p>
+<p>寿终难免再沉沦</p>
+<p>生忉利，作转轮</p>
+<p>暂时快乐未为真</p>
+<p>劝君念佛求西去</p>
+<p>永作消遥自在人</p>
+<p><a name="a72"></a><span lang="EN-US" style="color:#333399">72．大愿王</span></p>
+<p>我佛慈悲大愿王，劝人念佛往西方</p>
+<p>娑婆界内轮回苦，极乐国土寿命长</p>
+<p>七日持名心不乱，六根清净性昭彰</p>
+<p>如来直指菩提路，句句明文在典章</p>
+<p><a name="a73"></a><span lang="EN-US" style="color:#333399">73．雪中送炭</span></p>
+<p>人情相见不如初，多少贤良在困途</p>
+<p>锦上添花天上有，雪中送炭世间无</p>
+<p>时来易得金千两，运去难赊酒一壸</p>
+<p>堪叹眼前亲族友，谁人肯济急时无</p>
+<p><a name="a74"></a><span lang="EN-US" style="color:#333399">74．知足</span></p>
+<p>万事天来莫强求，何须苦苦用机谋</p>
+<p>饱三餐饭常知足，一帆风顺便可收</p>
+<p>生事事生何日了，害人人害几时休</p>
+<p>冤家宜解不宜结，各自回身看后头</p>
+<p><a name="a75"></a><span lang="EN-US" style="color:#333399">75．祸福</span></p>
+<p>蛾扑火，火焦蛾</p>
+<p>莫谓祸生无本</p>
+<p>果种花，花结果</p>
+<p>须知福至有因</p>

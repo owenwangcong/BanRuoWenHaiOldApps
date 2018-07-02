@@ -1,0 +1,50 @@
+.light-theme {
+
+    .guke { 
+      font-family: guketi;
+      font-size: 1em;
+    }
+    
+    ion-content {
+      background-color: #fff;
+    }
+   
+    .toolbar-background {
+      background-color: #fff;
+    }
+
+    /* .MsoPlainText, .MsoPlainText span,a{
+        font-size:1em !important;
+    } */
+
+    span[style="float:left;font-size:1.2em"]{
+      color: black !important;
+    }
+
+    .volume-book-title{
+      border-style: solid; 
+      border-width: 10px 0px 10px 0px; 
+      -moz-border-image: url(./../assets/images/border-image-light.png) 26 0 repeat; 
+      -webkit-border-image: url(./../assets/images/border-image-light.png) 26 0 repeat; 
+      -o-border-image: url(./../assets/images/border-image-light.png) 26 0 repeat; 
+      border-image: url(./../assets/images/border-image-light.png) 26 0 fill repeat;
+      border-image-outset: 5px;
+  
+      overflow: ellipsis; 
+      text-overflow: ellipsis;
+      white-space: nowrap;
+  }
+  
+  .content-border-background{
+      border-style: solid; 
+      border-width: 14px; 
+      -moz-border-image: url(./../assets/images/content-border-image-light.png) 20 21 repeat; 
+      -webkit-border-image: url(./../assets/images/content-border-image-light.png) 20 21 repeat; 
+      -o-border-image: url(./../assets/images/content-border-image-light.png) 20 21 repeat; 
+      border-image: url(./../assets/images/content-border-image-light.png) 20 21 repeat;
+  }
+
+  .bookAuthor{
+    color:gray
+  }
+}

@@ -1,0 +1,11 @@
+<ion-list>
+  <ion-list-header nopadding>本书目录</ion-list-header>
+  <button nopadding class="center" ion-item (click)="scrollToTop()">跳转到页首</button>
+  <ion-list nopadding *ngIf="sectionArray.length > 0" class="center" >
+    <button ion-item class="center" *ngFor="let section of sectionArray" (click)="scrollToSection(section.href)">      
+      {{section.name}}
+    </button>
+  </ion-list>
+  <button *ngIf="sectionArray.length <= 0" class="center" ion-item>本书没有目录</button>
+  <button nopadding class="center" ion-item (click)="scrollToBottom()">跳转到页尾</button>
+</ion-list>

@@ -1,0 +1,11 @@
+.small-font{
+    .MsoPlainText, .MsoPlainText span,a{
+        font-size:$small-font-size !important;
+    }
+
+    p, p span,a{
+        font-size:$small-font-size !important;
+        line-height:$small-line-height !important;
+        letter-spacing:$small-letter-spacing !important;
+    }
+}

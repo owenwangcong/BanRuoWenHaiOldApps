@@ -1,0 +1,2333 @@
+<p align="center" style="text-align:center"><b><span style="font-size:36.0pt;color:#FF6600">南传法句经新译<span lang="EN-US"></span></span></b></p>
+<p align="center" style="text-align:center"><b><span style="font-size:18.0pt;color:#FF6600">（附北传法句经 法救撰 吴天竺沙门维只难等译）<span lang="EN-US"></span></span></b></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">法增比丘译<span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a100">南传法句经—序</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a101">第一 双品（廿偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a102">第二 不放逸品（十二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a103">第三 心品（十一偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a104">第四 华品（十六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a105">第五 愚品（十六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a106">第六 智者品（十四偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a107">第七 阿罗汉品（十偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a108">第八 千品（十六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a109">第九 恶品（十三偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a110">第十 刀杖品（十七偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a111">第十一 老品（十一偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a112">第十二 自己品（十偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a113">第十三 世间品（十二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a114">第十四 佛陀品（十八偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a115">第十五 安乐品（十二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a116">第十六 喜爱品（十二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a117">第十七 忿怒品（十四偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a118">第十八 垢秽品（廿一偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a119">第十九 法住品（十七偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a120">第廿 道品（十七偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a121">第廿一 杂品（十六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a122">第廿二 地狱品（十四偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a123">第廿三 象品（十四偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a124">第廿四 爱欲品（廿六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a125">第廿五 比丘品（廿三偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a126">第廿六 婆罗门品（四十一偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a200">北传法句经—序</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a201">第一 无常品（廿一偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a202">第二 教学品（廿九偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a203">第三 多闻品（十九偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a204">第四 笃信品（十八偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a205">第五 戒慎品（十六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a206">第六 惟念品（十二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a207">第七 慈仁品（十八偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a208">第八 言语品（十二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a209">第九 双要品（廿二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a210">第十 放逸品（廿偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a211">第十一 心意品（十二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a212">第十二 华香品（十七偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a213">第十三 愚闇品（廿一偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a214">第十四 明哲品（十六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a215">第十五 罗汉品（十一偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a216">第十六 述千品（十六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a217">第十七 恶行品（廿二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a218">第十八 刀杖品（十四偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a219">第十九 老耗品（十四偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a220">第廿 爱身品（十三偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a221">第廿一 世俗品（十四偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a222">第廿二 述佛品（廿一偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a223">第廿三 安宁品（十四偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a224">第廿四 好喜品（十二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a225">第廿五 忿怒品（廿六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a226">第廿六 尘垢品（十九偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a227">第廿七 奉持品（十七偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a228">第廿八 道行品（廿八偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a229">第廿九 广衍品（十四偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a230">第卅 地狱品（十六偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a231">第卅一 象喻品（十八偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a232">第卅二 爱欲品（卅三偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a233">第卅三 利养品（廿偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a234">第卅四 沙门品（卅二偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a235">第卅五 梵志品（四十偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a236">第卅六 泥洹品（卅五偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a237">第卅七 生死品（十八偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a238">第卅八 道利品（二十偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a239">第卅九 吉祥品（十八偈）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p><a name="a100"></a><span style="color:#333399">序<span lang="EN-US"></span></span></p>
+<p><b>礼敬世尊，阿罗汉，正等正觉者。（三称）<span lang="EN-US"></span></b></p>
+<p>法句，即<span lang="EN-US">DHAMMAPADA的义译。DHAMMA，巴利语佛法（梵文DHARMA），义为佛陀所说的教法，PADA指段、句、道。DHAMMAPADA可以译为佛法语段、佛法语句、佛法之道等。</span></p>
+<p>法句经在南传的大藏经里是收在经藏（<span lang="EN-US">SUTTAPITAKA）的小部里的第五部经（KHUDDAKANIKAYA）中。它是收集了佛陀在约三百场合中为弟子们作精简的开示，巴利文语句精炼而富有韵律，朗诵和阅读它就有如坐在佛陀跟前听他开示一般，每一句每一偈都发出智慧的光芒，为芸芸众生在饱受烦恼煎熬时，它无疑是清凉的甘露妙药，能熄灭我们的无明热恼。</span></p>
+<p>它汇集成经是在王舍城（<span lang="EN-US">RAJAGAHA）第一次佛经结集时（佛灭后三月）由众阿罗汉诵出，并命名为DHAMMAPADA──法句经。本经共分二十六章，收录有四百二十三偈，它被世世代代僧伽们背诵口传著，直到锡兰国王瓦塔葛玛尼（VATTAGAMANI）时才被正式记录在贝叶上，时约公元前30－20年。</span></p>
+<p>法句经传入中国是在公元二二四至二二五年，由维只难等所译的法句经二卷，共分三十九品七百五十八偈，除了多加的十三品二百七十五偈外，它的排法与内容大致与巴利文的法句经相近。这部法句经言简意深，是一本很好的修行指导书，笔者从中受益不浅。</p>
+<p>南传法句经的第一至第廿四品，排法与北传法句经的第九至第卅二品相当，名字一样，只有偈的数目有稍微出入。南传法句经的第廿五与第廿六品则排在北传法句经的第卅四与第卅五品里。不过也有一些南传法句经的偈排在北传法句经的第一品至第八品中<span lang="EN-US">;下面挑选一些相当的南北传法句经偈，以作比较，可知偈文排列有些纷乱。</span></p>
+<p>（南传法句经）<span>&nbsp; </span>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; （北传法句经）</p>
+<p>第十品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>135偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第一品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 5偈</p>
+<p>第廿品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>288偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第一品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 17偈</p>
+<p>第九品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>128偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第一品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 19偈</p>
+<p>第八品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>112偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第二品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 38偈</p>
+<p>第八品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>107偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第二品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 39偈</p>
+<p>第五品<span>&nbsp; </span> &nbsp;&nbsp; &nbsp;61偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第二品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 34偈</p>
+<p>第十三品<span>&nbsp;&nbsp;&nbsp; </span>177偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第四品&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 71偈</p>
+<p>第一品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>&nbsp; 6偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十品&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 173偈</p>
+<p>第四品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> 46偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十二品&nbsp;&nbsp;&nbsp; 203偈</p>
+<p>第四品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> 49偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十二品&nbsp;&nbsp;&nbsp; 206偈</p>
+<p>第四品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> 50偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十二品&nbsp;&nbsp;&nbsp; 207偈</p>
+<p>第五品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> 60偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十三品&nbsp;&nbsp;&nbsp; 217偈</p>
+<p>第五品<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> 64偈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十三品&nbsp;&nbsp;&nbsp; 223偈</p>
+<p>北传法句经第一至第八品以及第卅三和第卅六至卅九品共十三品应是法救尊者所言校订增加的，第卅九品吉祥品也就是南传大藏经里小品经集的吉祥经。</p>
+<p>虽然中译法句经已经有数个版本，笔者尝试以五言将参考的英译版本译为中文，并加插依偈排列的维只难等的中译本在后，作为爱好法句经的读者们修学的参考。在翻译上，意义稍微不明的偈文，是参考该偈说出的场合的故事来译出的。在修辞上也参考了其他大德的中译本。</p>
+<p>笔者才学疏浅，佛学的内容只略知一二，中译文若有不当之处，还冀望诸佛学大德，不吝指导末学，则愚僧感激不尽。若能以此棉力为僧俗学佛者提供一些经文上参考的方便，也不虚此生。</p>
+<p>同门释智度协助从电脑网页取得大藏经中维只难等的中译。释智鉴（朱瑞常居士）帮忙把七百五十八偈排好并标上句号以便阅读。许素贞与陈会居士看稿并请姜联招居士打字，以及安排印刷。陈会居士及朱瑞常居士协助募款。众善信佛友慷慨捐输。本书才能顺利出版。在此敝僧谨致以万二分之谢意。</p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">法增序于砂劳越<span>&nbsp; </span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all"></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">古晋佛教友谊会<span>&nbsp; </span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">二零零一年十一月二十八日<span>&nbsp; </span></p>
+<p><b>礼敬世尊，阿罗汉，正等正觉者。（三称）<span lang="EN-US"></span></b></p>
+<p><a name="a101"></a><span style="color:#333399">南传法句经新译<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">法增比丘译（Dhammavaro Bhikkhu）&nbsp; </p>
+<p>第一<span>&nbsp;&nbsp;&nbsp; </span>双品（Yamaka&nbsp;Vagga）</p>
+<p><span lang="EN-US">1、</span></p>
+<p>诸法心先导，心主心所作，</p>
+<p>若以意恶行，恶语恶身行，</p>
+<p>则苦必随彼，如轮随兽足。</p>
+<p><span lang="EN-US">2、</span></p>
+<p>诸法心先导，心主心所作，</p>
+<p>若以意善行，善语善身行，</p>
+<p>则乐必随彼，如影随身形。（<span lang="EN-US">1，2两偈合诵）</span></p>
+<p><span lang="EN-US">3、</span></p>
+<p>他咒骂欺我，败我掠夺我，</p>
+<p>若人心怀怨，怨恨不能息。</p>
+<p><span lang="EN-US">4、</span></p>
+<p>他咒骂欺我，败我掠夺我，</p>
+<p>若人不怀怨，怨恨自能息。（<span lang="EN-US">3，4两偈合诵）</span></p>
+<p><span lang="EN-US">5、</span></p>
+<p>不能以怨恨，止息世间怨，</p>
+<p>唯慈能止怨，乃不易古法。</p>
+<p><span lang="EN-US">6、</span></p>
+<p>愚人（<span lang="EN-US">Kosambi的诤论比丘）不明了，人生</span></p>
+<p>终归死，彼等若明了，诤论自息灭。</p>
+<p><span lang="EN-US">7、</span></p>
+<p>若人逐欲乐（不净以为净），不摄护根门，饮食不节量，懈怠不精进，</p>
+<p>必为魔（<span lang="EN-US">mara阴魔，业行魔，死魔，烦恼魔，天魔，这里指烦恼）所制，如风倒弱树。</span></p>
+<p><span lang="EN-US">8、</span></p>
+<p>若观身不净（三十二身分观，墓墟观），摄护诸根门，饮食知节量，正信（对三宝的信心）勤精进，魔不能摧毁，如风难摇石。（<span lang="EN-US">7，8两偈合诵）</span></p>
+<p><span lang="EN-US">9、</span></p>
+<p>人若不离欲，不守持戒律。</p>
+<p>不见真（<span lang="EN-US">Sacca真理）克己（Dama调御，自制），</span></p>
+<p>不应著袈裟（<span lang="EN-US">kasaya，kasaya杂色衣，粪扫衣。出家众的衣）。</span></p>
+<p><span lang="EN-US">10、</span></p>
+<p>人若离贪欲，善守持戒律，</p>
+<p></p>
+<p>克己复见真，应穿著袈裟。（<span lang="EN-US">9，10两偈合诵）</span></p>
+<p><span lang="EN-US">11、</span></p>
+<p>执邪以为正（<span lang="EN-US">Sara真实，精要无邪见具戒定慧），</span></p>
+<p>或执正为邪，执持邪见者，不能见真谛。</p>
+<p><span lang="EN-US">12、</span></p>
+<p>执正以为正，亦知邪为邪（贪欲<span lang="EN-US">kama，嗔恚vyapada，害vihimsa），执持正见者，彼能见真谛。（11，12两偈合诵）</span></p>
+<p><span lang="EN-US">13、</span></p>
+<p>屋盖不遮密，雨水必浸入，</p>
+<p>心意不善修，贪欲必侵入。</p>
+<p><span lang="EN-US">14、</span></p>
+<p>屋盖若遮密，雨水不浸入，</p>
+<p>心意善修持，贪欲不侵入。（<span lang="EN-US">13，14两偈合诵）</span></p>
+<p><span lang="EN-US">15、</span></p>
+<p>今世悲苦受，来世悲苦受，</p>
+<p>造作恶业者，两处悲苦受，</p>
+<p>彼见己恶业，故悲伤苦恼。</p>
+<p><span lang="EN-US">16、</span></p>
+<p>今世喜乐受，来世喜乐受，</p>
+<p>造作善业者，两处喜乐受，</p>
+<p>彼见己善业，故欢欣喜悦。（<span lang="EN-US">15，16两偈合诵）</span></p>
+<p><span lang="EN-US">17、</span></p>
+<p>今世悲苦受，来世悲苦受，</p>
+<p>造作恶业者，两处悲苦受，</p>
+<p>念己造恶业，心中更悲苦，</p>
+<p>趣向恶道时（<span lang="EN-US">Duggati恶趣。地狱，饿鬼，畜生，阿修罗四恶趣），忍受巨大苦。</span></p>
+<p><span lang="EN-US">18、</span></p>
+<p>今世喜乐受，来世喜乐受，</p>
+<p>造作善业者，两处喜乐受，</p>
+<p>念己造善业，心中更愉悦，</p>
+<p>趣向善道时，享受诸喜乐。（<span lang="EN-US">17，18两偈合诵）</span></p>
+<p><span lang="EN-US">19、</span></p>
+<p>虽多诵经文（<span lang="EN-US">sahitam三藏经典），放逸不依法，</span></p>
+<p>如牧数他牛，不获沙门果。</p>
+<p><span lang="EN-US">20、</span></p>
+<p>虽少诵经文，遵教如法行，</p>
+<p>息灭贪嗔痴，正智心解脱，</p>
+<p>不著今后世，彼获沙门果（预流果，二果，三果，阿罗汉果）。（<span lang="EN-US">19，20两偈合偈）</span></p>
+<p><a name="a102"></a>第二<span>&nbsp;&nbsp;&nbsp; </span>不放逸品（Appamada&nbsp;Vagga）</p>
+<p><span lang="EN-US">21、</span></p>
+<p>勤向不死（<span lang="EN-US">Amata指涅槃）径，放逸趣死径，</span></p>
+<p>精勤者不死，放逸如已死。</p>
+<p><span lang="EN-US">22、</span></p>
+<p>智者如实知，精进之道理，</p>
+<p>安徐喜精进，亲证圣乐境（三十七道品）。</p>
+<p><span lang="EN-US">23、</span></p>
+<p>智者心坚定，精进修止观，</p>
+<p>解脱四系缚（贪爱、有、邪见、无明），</p>
+<p>证无上涅槃（寂静无苦境界）。</p>
+<p><span lang="EN-US">24、</span></p>
+<p>勤奋持正念（念住），约己守正行，</p>
+<p>正命辨善恶，精进善名扬。</p>
+<p><span lang="EN-US">25、</span></p>
+<p>勤勉不放逸，持戒自调御，</p>
+<p>智者作自洲（<span lang="EN-US">Dipa，沙洲，庇护所），</span></p>
+<p>不为瀑流（烦恼）没。</p>
+<p><span lang="EN-US">26、</span></p>
+<p>愚者陷放逸，智者善护持，</p>
+<p>精进不放逸，如获无上宝。</p>
+<p><span lang="EN-US">27、</span></p>
+<p>不行于放逸，不浸溺欲乐，</p>
+<p>正观禅修者，获得大安乐。</p>
+<p><span lang="EN-US">28、</span></p>
+<p>正念除放逸，慧生无忧苦，</p>
+<p>智者观众苦，如山巅下望。</p>
+<p><span lang="EN-US">29、</span></p>
+<p>放逸中无逸，智者独醒觉，</p>
+<p>如善驰良骏，超越老羸马。</p>
+<p><span lang="EN-US">30、</span></p>
+<p>帝释（<span lang="EN-US">Maghava摩伽婆，即帝释Sakka，三十三天主。做人时为他人谋福利，死后为天主）</span></p>
+<p>不放逸，故为诸天主，</p>
+<p>精进为人赞，放逸受人诃。</p>
+<p><span lang="EN-US">31、</span></p>
+<p>喜精进比丘，畏惧放逸苦，</p>
+<p>如熊熊大火，焚尽大小结（<span lang="EN-US">Samyojana或Sannojana，身见、疑、戒禁取，贪、嗔—五下分结；色爱、无色爱、我慢，掉举恶作，无明—五上分结）。</span></p>
+<p><span lang="EN-US">32、</span></p>
+<p>喜精进比丘，惶恐放逸害，</p>
+<p>是故不退转，而趋向涅槃。</p>
+<p><a name="a103"></a>第三<span>&nbsp;&nbsp;&nbsp; </span>心品（Citta&nbsp;Vagga）</p>
+<p><span lang="EN-US">33、</span></p>
+<p>心念乱无序，难护难制御，</p>
+<p>智者调其心，如匠矫箭直。</p>
+<p><span lang="EN-US">34、</span></p>
+<p>心如弃地鱼，跳抖而不安，</p>
+<p>仁者故远离，烦恼恶魔界（<span lang="EN-US">Maradheyya，烦恼境）。</span></p>
+<p><span lang="EN-US">35、</span></p>
+<p>难御轻浮心，随欲而流转，</p>
+<p>智者制其心，调御得安乐。</p>
+<p><span lang="EN-US">36、</span></p>
+<p>心溜荡善变，细微难察觉，</p>
+<p>智者护其心，护卫得安乐。</p>
+<p><span lang="EN-US">37、</span></p>
+<p>远游与独行，无形隐胸窟（<span lang="EN-US">Guhasayam心识所在），智者善御心，解除诸魔缚。</span></p>
+<p><span lang="EN-US">38、</span></p>
+<p>心念不稳固，不解真谛法，</p>
+<p>信心不坚者，智慧难成就。</p>
+<p><span lang="EN-US">39、</span></p>
+<p>心无贪与嗔，逾越善恶业，</p>
+<p>精勤之觉者（阿罗汉的信，勤，念，定，慧五根常具足），心中无畏惧。</p>
+<p><span lang="EN-US">40、</span></p>
+<p>身如易碎瓶，护心如城堡，</p>
+<p>慧剑斗魔王，勤修不染著（以智慧观照）。</p>
+<p><span lang="EN-US">41、</span></p>
+<p>观色身无常，败坏弃地上，</p>
+<p>神识空无有，犹如废焦木。</p>
+<p><span lang="EN-US">42、</span></p>
+<p>仇敌害仇敌，怨家恶怨家，</p>
+<p>心向于邪道（十恶：杀生、偷盗、邪淫、妄语、两舌、恶口、绮语、贪、嗔、邪见），远甚仇家害。</p>
+<p><span lang="EN-US">43、</span></p>
+<p>善非父母作，亦非眷属作，</p>
+<p>心向于正道（十善：布施、持戒、修定、尊敬、服务、回向、随喜、闻法、说法、正见），远胜亲朋作。</p>
+<p>（<span lang="EN-US">42，43两偈合诵）</span></p>
+<p><a name="a104"></a>第四<span>&nbsp;&nbsp;&nbsp; </span>华品（Puppha&nbsp;Vagga）</p>
+<p><span lang="EN-US">44、</span></p>
+<p>谁知己与世（<span lang="EN-US">Pathavi大地。指人、饿鬼与畜生），</span></p>
+<p>天界与地狱？（六道轮回）谁悟善说法</p>
+<p>（三十七道品）？如花匠选花。</p>
+<p><span lang="EN-US">45、</span></p>
+<p>修学（<span lang="EN-US">Sekha学人，修道人）知己世，天界与地狱，</span></p>
+<p>修学悟善法，如花匠选花。（<span lang="EN-US">44，45两偈合诵）</span></p>
+<p><span lang="EN-US">46、</span></p>
+<p>当观色无常，如泡如幻影，</p>
+<p>断魔欲花箭（魔王花矢喻心为欲境所诱惑），死魔（<span lang="EN-US">Maccuraja死神）无从见。</span></p>
+<p><span lang="EN-US">47、</span></p>
+<p>采集百花卉（欲乐），心生诸染著，</p>
+<p>沉沦于生死，洪流卷睡村。</p>
+<p><span lang="EN-US">48、</span></p>
+<p>采集百花卉，心生诸染著，</p>
+<p>贪欲无厌者，死魔得所乘。（<span lang="EN-US">47，48两偈合诵）</span></p>
+<p><span lang="EN-US">49、</span></p>
+<p>圣者（<span lang="EN-US">Muni牟尼，寂然者，指沙门）入村邑，</span></p>
+<p>犹蜂入花间，唯将花蜜取，不损花色香。</p>
+<p><span lang="EN-US">50、</span></p>
+<p>不举他功过，勿观作未作，</p>
+<p>唯观己修行，已修与未修。</p>
+<p><span lang="EN-US">51、</span></p>
+<p>人若不奉行，已说之善法，</p>
+<p>无能得善果，如美花无香。</p>
+<p><span lang="EN-US">52、</span></p>
+<p>人若真奉行，已说之善法，</p>
+<p>必能得善果，如美花芬香。（<span lang="EN-US">51，52两偈合诵）</span></p>
+<p><span lang="EN-US">53、</span></p>
+<p>犹如集百花，能嵌诸花鬘，</p>
+<p>得生于人中，应作诸善行。</p>
+<p><span lang="EN-US">54、</span></p>
+<p>花香与檀香，多伽罗（<span lang="EN-US">Tagara桂香，不没香）</span></p>
+<p>茉莉（<span lang="EN-US">Mallika小香花），</span></p>
+<p>诸香不逆扬，戒香遍四方。</p>
+<p><span lang="EN-US">55、</span></p>
+<p>檀香多伽罗，莲花婆尸迦（<span lang="EN-US">Vassiki雨季花），</span></p>
+<p>于诸众香中，唯戒香最上。</p>
+<p><span lang="EN-US">56、</span></p>
+<p>多伽罗檀香，香气实微弱，</p>
+<p>戒香为最上，香飘诸天上。</p>
+<p><span lang="EN-US">57、</span></p>
+<p>持戒清净行，住于不放逸，</p>
+<p>魔王无从知，智者解脱处。</p>
+<p><span lang="EN-US">58、</span></p>
+<p>废弃众秽土，莲花生其间，</p>
+<p>见者心喜悦，其花之芬芳。</p>
+<p><span lang="EN-US">59、</span></p>
+<p>愚闇众生中，佛子生其间，</p>
+<p>犹如彼香莲，智光照大千。（<span lang="EN-US">58，59两偈合诵）</span></p>
+<p><a name="a105"></a>第五<span>&nbsp;&nbsp;&nbsp; </span>愚品（Bala&nbsp;Vagga）</p>
+<p><span lang="EN-US">60、</span></p>
+<p>失眠者夜长，倦困者路长（<span lang="EN-US">Yojana由旬，印度古长度，一由旬约14公里多），</span></p>
+<p>愚人不知法，生死轮回长。</p>
+<p><span lang="EN-US">61、</span></p>
+<p>佛子远游行，若不遇良伴，</p>
+<p>胜我或等我，愿彼心稳固，</p>
+<p>宁为独修持，不与愚者伍。</p>
+<p><span lang="EN-US">62、</span></p>
+<p>执著子与财，愚者常忧戚，</p>
+<p>此身尚非我，况复子与财？</p>
+<p><span lang="EN-US">63、</span></p>
+<p>自知己愚昧，彼实为智者，</p>
+<p>自认聪明者，彼乃愚痴人。</p>
+<p><span lang="EN-US">64、</span></p>
+<p>愚者虽终生，与智者亲近，</p>
+<p>仍不悟法味，如匙不知味。</p>
+<p><span lang="EN-US">65、</span></p>
+<p>具慧虽短时，与智者相处，</p>
+<p>能领悟法味，如舌辨汤味。（<span lang="EN-US">64，65两偈合诵）</span></p>
+<p><span lang="EN-US">66、</span></p>
+<p>愚人少智慧，有我为自殃，</p>
+<p>造作诸恶业，招受众苦果。</p>
+<p><span lang="EN-US">67、</span></p>
+<p>自作不善业，作已心后悔，</p>
+<p>啼泣泪双流，当得受异熟（<span lang="EN-US">Vipaka将来的果报）。</span></p>
+<p><span lang="EN-US">68、</span></p>
+<p>自作诸善业，作已心不悔，</p>
+<p>欢喜而意乐，当得受异熟。（<span lang="EN-US">67，68两偈合诵）</span></p>
+<p><span lang="EN-US">69、</span></p>
+<p>恶业未熟时，愚者思如蜜，</p>
+<p>恶业成熟时，愚者始苦恼。</p>
+<p><span lang="EN-US">70、</span></p>
+<p>愚人修苦行，一月复一月，</p>
+<p>取食茅草端（苦行的一种），功德仍不及，</p>
+<p>正观者所得（正观四谛者），十六分之一。</p>
+<p><span lang="EN-US">71、</span></p>
+<p>恶业不即熟，如新挤牛奶，</p>
+<p>不即为凝固，恶人所造业，</p>
+<p>如灰烬覆火，恶报随其后。</p>
+<p><span lang="EN-US">72、</span></p>
+<p>愚求智与名，反促其毁灭，</p>
+<p>毁彼之幸福，亦毁彼善根（指智慧）。</p>
+<p><span lang="EN-US">73、</span></p>
+<p>痴僧慕虚荣，僧中居上座，</p>
+<p>寺内拥权威，求白衣礼事。</p>
+<p><span lang="EN-US">74、</span></p>
+<p>僧俗应俱知，诸事我所作，</p>
+<p>应做不做事，皆得顺吾意，</p>
+<p>愚人作是想，贪欲憍慢增。</p>
+<p><span lang="EN-US">75、</span></p>
+<p>一道求利养（<span lang="EN-US">Labha世利），一道向涅槃，</span></p>
+<p>当如是明了，佛子诸比丘，</p>
+<p>不喜贪世利，勤修出离心。（<span lang="EN-US">viveka身离群，心离欲，离诸行达涅槃）</span></p>
+<p><a name="a106"></a>第六<span>&nbsp;&nbsp;&nbsp; </span>智者品（Pandita&nbsp;Vagga）</p>
+<p><span lang="EN-US">76、</span></p>
+<p>应随彼贤人，如揭宝藏者，</p>
+<p>能为劝过者，随彼智慧生。</p>
+<p><span lang="EN-US">77、</span></p>
+<p>智者善劝导，使人免诸过，</p>
+<p>善者知爱戴，唯恶人嫌恶。</p>
+<p><span lang="EN-US">78、</span></p>
+<p>不结交恶者，不亲近愚者，</p>
+<p>结交善知识，亲近有德者。</p>
+<p><span lang="EN-US">79、</span></p>
+<p>得尝法味者，心寂常安乐，</p>
+<p>智者恒欣喜，圣者所说法。</p>
+<p><span lang="EN-US">80、</span></p>
+<p>矢工调弓箭，治水者导水，</p>
+<p>木匠绳其木，智者（<span lang="EN-US">Pandita）善自御（六根：眼、耳、鼻、舌、身、意）。</span></p>
+<p><span lang="EN-US">81、</span></p>
+<p>譬如巨岩石，不为风所动，</p>
+<p>毁谤与赞叹，智者不为动。</p>
+<p><span lang="EN-US">82、</span></p>
+<p>譬如深净池，清彻且明静，</p>
+<p>智者闻妙去，心净甚寂然。</p>
+<p><span lang="EN-US">83、</span></p>
+<p>圣者离于缚，不著诸欲结，</p>
+<p>乐受与苦受，智者无喜忧。</p>
+<p><span lang="EN-US">84、</span></p>
+<p>智者具戒德，不为己为他，</p>
+<p>不求子与财，非法求王位，</p>
+<p>求世间荣禄，而造诸恶业。</p>
+<p><span lang="EN-US">85、</span></p>
+<p>于诸众人中，鲜有达彼岸（涅槃），</p>
+<p>世间诸乡朋，此岸（生死轮回）长徘徊。</p>
+<p><span lang="EN-US">86、</span></p>
+<p>法已予善说，应行于正法，</p>
+<p>超越诸欲界，达难登彼岸（涅槃）。</p>
+<p><span lang="EN-US">87、</span></p>
+<p>智者舍黑法（恶法），而修诸白法（善法），</p>
+<p>为证涅槃境，从家至非家。</p>
+<p><span lang="EN-US">88、</span></p>
+<p>不著贪与欲，舍弃于欲乐，</p>
+<p>智者除诸盖（五盖：贪、嗔、昏沉睡眠、掉举恶作、疑），与自心垢秽。</p>
+<p><span lang="EN-US">89、</span></p>
+<p>智者勤修持，证道七觉支（念、择法、精进、</p>
+<p>喜、乐、一心、舍），解缚（四种执著：贪欲、邪见、戒禁取、身见）尽诸漏，亲证般涅槃（<span lang="EN-US">Nibbana）。</span></p>
+<p><a name="a107"></a>第七<span>&nbsp;&nbsp;&nbsp; </span>阿罗汉品（Arahanta&nbsp;Vagga）</p>
+<p>（或罗汉<span lang="EN-US">Arahant断尽烦恼的修行者）</span></p>
+<p><span lang="EN-US">90、</span></p>
+<p>道尽（生死轮回尽）无忧患，解脱于一切（五蕴），</p>
+<p>漏尽无结缚（<span lang="EN-US">Gantha贪、嗔、戒禁取、见取），</span></p>
+<p>炽盛欲火灭。</p>
+<p><span lang="EN-US">91、</span></p>
+<p>正念勤修持，心中无所住，</p>
+<p>如雁离池沼，舍弃其巢穴。</p>
+<p><span lang="EN-US">92、</span></p>
+<p>无作不积集（积集：业行与四必需物品：衣、食、卧具、药品或指由爱生取而生起四种食的积集：段食、触食、思食与意识食），饮食知节量。</p>
+<p>空无相解脱，圣者之行迹，</p>
+<p>如鸟游虚空，无痕迹可得。</p>
+<p><span lang="EN-US">93、</span></p>
+<p>漏尽不贪食，已达解脱境，</p>
+<p>空无相解脱，圣者之行迹，</p>
+<p>如鸟游虚空，无痕迹可得。</p>
+<p><span lang="EN-US">94、</span></p>
+<p>善摄制六根，如御者调马，</p>
+<p>舍憍慢恶习，诸天所爱敬。</p>
+<p><span lang="EN-US">95、</span></p>
+<p>罗汉如大地，不拘垢与净，</p>
+<p>如帝释（<span lang="EN-US">Indakhila）牌坊，行忍无怨嗔，</span></p>
+<p>如清净池潭，无著（<span lang="EN-US">Tadi不执取，八风不动）证涅槃。</span></p>
+<p><span lang="EN-US">96、</span></p>
+<p>意寂口亦寂，身行亦寂静，</p>
+<p>正智得解脱，寂静与安稳。</p>
+<p><span lang="EN-US">97、</span></p>
+<p>仁者不轻信（<span lang="EN-US">Assaddha圣者自证），</span></p>
+<p>无为（<span lang="EN-US">Akata无作，即涅槃）永断系，</span></p>
+<p>弃欲无分别，实名无上士。</p>
+<p><span lang="EN-US">98、</span></p>
+<p>村舍或林间，谷地或山野，</p>
+<p>罗汉所居地，彼处皆蒙祐。</p>
+<p><span lang="EN-US">99、</span></p>
+<p>乐于住林间（<span lang="EN-US">Aranna阿兰若，静空闲处），</span></p>
+<p>世人所不爱。无欲喜林野，不逐求五欲。</p>
+<p><a name="a108"></a>第八<span>&nbsp;&nbsp;&nbsp; </span>千品（Sahassa&nbsp;Vagga）</p>
+<p><span lang="EN-US">100、</span></p>
+<p>徒诵千句言，无义理之语，</p>
+<p>不如一益语（<span lang="EN-US">Attha义、</span></p>
+<p>道理），闻已得寂静。</p>
+<p><span lang="EN-US">101、</span></p>
+<p>徒诵千首偈，无义理之语，</p>
+<p>不如一益偈，闻已得寂静。</p>
+<p><span lang="EN-US">102、</span></p>
+<p>徒诵百首偈（<span lang="EN-US">Gatha，pada），无义理之语，</span></p>
+<p>不如一法语，闻已得寂静。</p>
+<p><span lang="EN-US">103、</span></p>
+<p>匹夫上战场，千战胜千敌，</p>
+<p>莫如能胜己，彼最胜战士。</p>
+<p><span lang="EN-US">104、</span></p>
+<p>胜己为最贤，远胜于胜众，</p>
+<p>是故胜己者，梵魔无能胜。</p>
+<p><span lang="EN-US">105、</span></p>
+<p>天神音乐神（<span lang="EN-US">Gandhabba干达婆），</span></p>
+<p>恶魔与梵天（<span lang="EN-US">Brahma），</span></p>
+<p>皆莫能胜彼，自御克己者。</p>
+<p><span lang="EN-US">106、</span></p>
+<p>月月祭千金，祭祀供百年，</p>
+<p>未若须臾顷，供养修己者，</p>
+<p>如是之供养，胜祭祀百年。</p>
+<p><span lang="EN-US">107、</span></p>
+<p>林中拜火神（<span lang="EN-US">Aggi），事火一百年，</span></p>
+<p>未若须臾顷，供养修己者，</p>
+<p>如是之供养，胜祭祀百年。（<span lang="EN-US">106，107两偈合诵）</span></p>
+<p><span lang="EN-US">108、</span></p>
+<p>若人于世间，供牺牲祭祀，</p>
+<p>求福满一年，彼如是功德，</p>
+<p>未若四分一，礼敬正直者（预流果或初果）。</p>
+<p><span lang="EN-US">109、</span></p>
+<p>尊贤与敬老，四事得增长，</p>
+<p>寿命与容颜，喜悦与毅力。</p>
+<p><span lang="EN-US">110、</span></p>
+<p>若人活百年，破戒不修定，</p>
+<p>不如活一日，持戒与修定。</p>
+<p><span lang="EN-US">111、</span></p>
+<p>若人活百年，无智无禅定，</p>
+<p>不如活一日，具慧修禅定。</p>
+<p><span lang="EN-US">112、</span></p>
+<p>若人活百年，怠惰不精进，</p>
+<p>不如活一日，坚心行精进。</p>
+<p><span lang="EN-US">113、</span></p>
+<p>若人活百年，不见生灭法，</p>
+<p>不如活一日，得解生灭法。</p>
+<p><span lang="EN-US">114、</span></p>
+<p>若人活百年，不见不死（<span lang="EN-US">Amatam padam涅槃）道，</span></p>
+<p>不如活一日，得睹不死道。</p>
+<p><span lang="EN-US">115、</span></p>
+<p>若人活百年，不见无上谛（九出世间法：四道、四果与涅槃），</p>
+<p>不如活一日，得睹无上谛。</p>
+<p><a name="a109"></a>第九<span>&nbsp;&nbsp;&nbsp; </span>恶品（Papa&nbsp;Vagga）</p>
+<p><span lang="EN-US">116、</span></p>
+<p>应急速行善，竭止心作恶（贪<span lang="EN-US">raga，嗔dosa，痴moha），</span></p>
+<p>延缓行善者，心喜于邪恶。</p>
+<p><span lang="EN-US">117、</span></p>
+<p>若人已作恶，不应数重犯，</p>
+<p>莫喜于作恶，积恶乃痛苦。</p>
+<p><span lang="EN-US">118、</span></p>
+<p>若人已行善，应当数重作，</p>
+<p>欢喜于行善，积善乃安乐。（<span lang="EN-US">117，118两偈合诵）</span></p>
+<p><span lang="EN-US">119、</span></p>
+<p>恶业未成熟，恶人自庆幸，</p>
+<p>恶果成熟时，恶人方知苦。</p>
+<p><span lang="EN-US">120、</span></p>
+<p>善业未成熟，善人自埋怨，</p>
+<p>善果成熟时，善人方知福。（<span lang="EN-US">119，120两偈合诵）</span></p>
+<p><span lang="EN-US">121、</span></p>
+<p>莫轻视小恶，云我无殃报，</p>
+<p>小水渐滴落，亦能盈水瓶，</p>
+<p>愚人积小恶，乃至罪满贯。</p>
+<p><span lang="EN-US">122、</span></p>
+<p>莫轻视小善，云我无福报，</p>
+<p>小水渐滴落，亦能盈水瓶，</p>
+<p>贤人积小善，乃至福满堂。（<span lang="EN-US">121，122两偈合诵）</span></p>
+<p><span lang="EN-US">123、</span></p>
+<p>伴少而货多，商人避险道，</p>
+<p>爱命避毒药，避恶当亦然。</p>
+<p><span lang="EN-US">124、</span></p>
+<p>设若手无伤，手可持毒药，</p>
+<p>无伤毒不患，不作恶无殃。</p>
+<p><span lang="EN-US">125、</span></p>
+<p>若害善良者，清净无秽者，</p>
+<p>恶业归愚人，如逆风扬尘。</p>
+<p><span lang="EN-US">126、</span></p>
+<p>有识生胎中，作恶堕地狱，</p>
+<p>行善升天界，漏尽得涅槃。</p>
+<p><span lang="EN-US">127、</span></p>
+<p>非隐于虚空，海洋洞穴中，</p>
+<p>欲避恶果者，世间无避处。</p>
+<p><span lang="EN-US">128、</span></p>
+<p>非隐于虚空，海洋洞穴中。</p>
+<p>欲避死魔者，世间无避处。（<span lang="EN-US">127，128两偈合诵）</span></p>
+<p><a name="a110"></a>第十<span>&nbsp;&nbsp;&nbsp; </span>刀杖品（Danda&nbsp;Vagga）</p>
+<p><span lang="EN-US">129、</span></p>
+<p>众生畏刑罚，众生皆畏死，</p>
+<p>以己推及人，不杀不教杀。</p>
+<p><span lang="EN-US">130、</span></p>
+<p>众生畏刑罚，众生皆爱命，</p>
+<p>以己推及人，不杀不教杀。（<span lang="EN-US">129，130两偈合诵）</span></p>
+<p><span lang="EN-US">131、</span></p>
+<p>众生欲安乐，若求自安乐。</p>
+<p>刀杖害众生，安乐不可得。</p>
+<p><span lang="EN-US">132、</span></p>
+<p>众生欲安乐，若求自安乐，</p>
+<p>不刀杖害彼，安乐乃可得。（<span lang="EN-US">131，132两偈合诵）</span></p>
+<p><span lang="EN-US">133、</span></p>
+<p>对人粗恶语，恶言将反唾，</p>
+<p>恶言伤人苦，殴斗祸归身。</p>
+<p><span lang="EN-US">134、</span></p>
+<p>如一破铜锣，默默无反响，</p>
+<p>既已证无为，寂然无诤论。</p>
+<p><span lang="EN-US">135、</span></p>
+<p>牧人执鞭杖，驱牛至牧场，</p>
+<p>老与死亦然，驱逐众有情。</p>
+<p><span lang="EN-US">136、</span></p>
+<p>愚者造恶业，而不能自知，</p>
+<p>感招恶业苦，犹如被火焚。</p>
+<p><span lang="EN-US">137、</span></p>
+<p>若人以刀杖，加害善良者（指阿罗汉），</p>
+<p>速召无赦殃，十种苦如下：<span lang="EN-US">-</span></p>
+<p><span lang="EN-US">138、</span></p>
+<p>将受身剧痛，或自召伤残，</p>
+<p>或得极重病，或丧心狂乱。</p>
+<p><span lang="EN-US">139、</span></p>
+<p>或为王所惩，或为人谗诬，</p>
+<p>或眷属丧亡，或财物损减。</p>
+<p><span lang="EN-US">140、</span></p>
+<p>或彼之房舍，为烈火所焚，</p>
+<p>彼人身亡后，堕入于地狱。（<span lang="EN-US">137，138，139，140四偈合诵）</span></p>
+<p><span lang="EN-US">141、</span></p>
+<p>裸形髻发者（苦行之二种），涂泥绝食者（苦行之二种），</p>
+<p>露卧涂尘垢（苦行之二种），苦行蹲踞者（苦行之一），</p>
+<p>彼等不断惑，何能得清净？</p>
+<p><span lang="EN-US">142、</span></p>
+<p>身庄严寂静，诸欲已调服，</p>
+<p>根门能自制，圆满持梵行，</p>
+<p>不害诸有情，彼即婆罗门，</p>
+<p>彼即是沙门，彼是为比丘。</p>
+<p><span lang="EN-US">143、</span></p>
+<p>能知惭愧者，世上所罕见，</p>
+<p>彼不受非难，如良马避鞭。</p>
+<p><span lang="EN-US">144、</span></p>
+<p>修持诸善法，信勤戒定慧，</p>
+<p>明行足断苦，如鞭策良马。</p>
+<p><span lang="EN-US">145、</span></p>
+<p>治水者导水，矢工调弓箭，</p>
+<p>木匠绳其木，善行者（<span lang="EN-US">Subbata）御身。</span></p>
+<p><a name="a111"></a>第十一<span>&nbsp; </span>老品（Jara&nbsp;Vagga）</p>
+<p><span lang="EN-US">146、</span></p>
+<p>世常燃烧（世界有十一种火常烧：贪、嗔、痴、病、老、死、愁、悲、苦、忧、恼）中，有何可喜乐？</p>
+<p>汝常在瞑暗（无明），何不求光明？</p>
+<p><span lang="EN-US">147、</span></p>
+<p>观此粉饰身，疮（九疮：双目、双耳、双鼻孔、口及大小便孔）肉与骨聚，</p>
+<p>身病心妄想，无常不久存。</p>
+<p><span lang="EN-US">148、</span></p>
+<p>形劳衰老身，病巢易败坏，</p>
+<p>秽身必腐散，有生终归死。</p>
+<p></p>
+<p><span lang="EN-US">149、</span></p>
+<p>如彼葫芦瓜，秋至而散弃，</p>
+<p>骸骨变灰白，观此有何乐？</p>
+<p><span lang="EN-US">150、</span></p>
+<p>骨架为城廓，血肉作涂饰，</p>
+<p>蕴藏老病死，憍慢与虚伪。</p>
+<p><span lang="EN-US">151、</span></p>
+<p>盛妆皇乘坏，此身亦老朽，</p>
+<p>唯善法（九出世间法：四向、四果与涅槃）永垂，传示于善人。</p>
+<p><span lang="EN-US">152、</span></p>
+<p>寡闻少学人，老去如牡牛，</p>
+<p>徒增长筋肉，而不生智慧。</p>
+<p><span lang="EN-US">153、</span></p>
+<p>多生轮回中，探寻造屋者（贪），</p>
+<p>而未得见之，再生实是苦。</p>
+<p><span lang="EN-US">154、</span></p>
+<p>造屋者已见，不再造新屋（色身），</p>
+<p>椽柱均断折（烦恼），栋梁亦摧毁（无明），</p>
+<p>我心证无为（涅槃），一切爱欲灭。（<span lang="EN-US">153，154两偈合诵）</span></p>
+<p><span lang="EN-US">155、</span></p>
+<p>不修于佛法，少壮不积蓄，</p>
+<p>如沼边老鹭，颓伺空鱼池。</p>
+<p><span lang="EN-US">156、</span></p>
+<p>不修于佛法，少壮不积蓄，</p>
+<p>如破折弃弓，悲叹于往昔。（<span lang="EN-US">155，156两偈合诵）</span></p>
+<p><a name="a112"></a>第十二<span>&nbsp; </span>自己品（Atta&nbsp;Vagga）</p>
+<p><span lang="EN-US">157、</span></p>
+<p>若人知自爱，应善自守护，</p>
+<p>夜间三时中（初夜、中夜、后夜分），智者常觉醒。</p>
+<p><span lang="EN-US">158、</span></p>
+<p>智者先立己，而后教他人，</p>
+<p>智者行如是，方不染诸垢。</p>
+<p><span lang="EN-US">159、</span></p>
+<p>若欲教他人，己行应如是，</p>
+<p>自御能御人，御己最艰难。</p>
+<p><span lang="EN-US">160、</span></p>
+<p>以自为依怙，何有他依怙？</p>
+<p>自己善调御，得难获依怙。</p>
+<p><span lang="EN-US">161、</span></p>
+<p>恶业由己作，己生己因起，</p>
+<p>恶业毁愚者，如金刚毁宝。</p>
+<p><span lang="EN-US">162、</span></p>
+<p>破戒如蔓藤（<span lang="EN-US">maluva），缠死娑罗树（Sala），</span></p>
+<p>招受诸苦果，如怨敌所愿。</p>
+<p><span lang="EN-US">163、</span></p>
+<p>不善害己事，实乃极易行，</p>
+<p>善与利己事，实乃极难行。</p>
+<p><span lang="EN-US">164、</span></p>
+<p>愚人谤圣法，讥毁罗汉教，</p>
+<p>因彼邪见故，将自取毁灭，</p>
+<p>如彼香蕉树，结果后覆亡。</p>
+<p><span lang="EN-US">165、</span></p>
+<p>恶业由己作，污垢由己染，</p>
+<p>恶业己不作，污垢己不染，</p>
+<p>清净由自己，何能由他净？</p>
+<p><span lang="EN-US">166、</span></p>
+<p>行利他大事，勿疏忽自利（生死解脱事），</p>
+<p>善观于己利，不忘失所求。</p>
+<p><a name="a113"></a>第十三<span>&nbsp; </span>世间品（Loka&nbsp;Vagga）</p>
+<p><span lang="EN-US">167、</span></p>
+<p>莫追逐欲乐，莫流于放逸，</p>
+<p>莫邪见世利，此乃离苦道。</p>
+<p><span lang="EN-US">168、</span></p>
+<p>警觉不放逸，精进行圣道，</p>
+<p>实践善法者（<span lang="EN-US">Dhammacari），今世来世乐。</span></p>
+<p><span lang="EN-US">169、</span></p>
+<p>奉善不造恶，精进行圣道，</p>
+<p>实践善法者，今世来世乐。（<span lang="EN-US">168，169两偈合诵）</span></p>
+<p><span lang="EN-US">170、</span></p>
+<p>观世如水泡，观世如幻相，</p>
+<p>如是观世者，死魔（<span lang="EN-US">Maccuraja）不得见。</span></p>
+<p><span lang="EN-US">171、</span></p>
+<p>细观此世间，如盛妆皇乘，</p>
+<p>愚人为沉迷，智者离贪著。</p>
+<p><span lang="EN-US">172、</span></p>
+<p>人若前放逸，今止而不犯，</p>
+<p>如月出云散，普明照世间。</p>
+<p><span lang="EN-US">173、</span></p>
+<p>人若前作恶，今则奉诸善，</p>
+<p>如月出云散，普明照世间。（<span lang="EN-US">172，173两偈合诵）</span></p>
+<p><span lang="EN-US">174、</span></p>
+<p>此世间盲闇（无智慧），鲜为人察见，</p>
+<p>鸟少脱罗网，人鲜有升天。</p>
+<p><span lang="EN-US">175、</span></p>
+<p>如鹅飞虚空，勤者以神力（<span lang="EN-US">Iddhi神通）。</span></p>
+<p>破魔及魔军（<span lang="EN-US">maramsavahinim十烦恼：色爱、厌梵行、饥渴、贪、怠惰、恐惧、疑、掉举恶作、得名誉、自赞毁他），得脱离于死。</span></p>
+<p><span lang="EN-US">176、</span></p>
+<p>欺妄不真语，无恶而不作，</p>
+<p>违犯真谛法，不信于来世。</p>
+<p><span lang="EN-US">177、</span></p>
+<p>悭贪不生天，愚不叹布施，</p>
+<p>智者随喜施，后世得安乐。</p>
+<p><span lang="EN-US">178、</span></p>
+<p>大地之君主，或生天界者，</p>
+<p>一切世君王，不胜预流果</p>
+<p>（<span lang="EN-US">Sotapattiphala须陀洹果，初果）。</span></p>
+<p><a name="a114"></a>第十四<span>&nbsp; </span>佛陀品（Buddha&nbsp;Vagga）</p>
+<p><span lang="EN-US">179、</span></p>
+<p>佛己治烦恼，无人所能胜，</p>
+<p>佛智广无边，谁能诱惑佛？</p>
+<p><span lang="EN-US">180、</span></p>
+<p>漏尽无结缚，欲毒难诱使，</p>
+<p>佛智广无边，谁能诱惑佛？</p>
+<p><span lang="EN-US">181、</span></p>
+<p>圣者常修定（止观），乐寂静出离，</p>
+<p>正念正觉者，天人所爱敬。</p>
+<p><span lang="EN-US">182、</span></p>
+<p>得生人道难，人生长寿难，</p>
+<p>听闻佛法难，值佛出世难。</p>
+<p><span lang="EN-US">183、</span></p>
+<p>停止造诸恶，培育众善行，</p>
+<p>清净自心意，此乃诸佛教。</p>
+<p><span lang="EN-US">184、</span></p>
+<p>苦行忍第一，涅槃为最上，</p>
+<p>害人非出家，恼人非沙门。</p>
+<p><span lang="EN-US">185、</span></p>
+<p>不骂与不害，严守于戒律（比丘别解脱律仪戒），</p>
+<p>饮食知节量，寂静处独居，</p>
+<p>常念于菩提，此乃诸佛教。</p>
+<p><span lang="EN-US">186、</span></p>
+<p>设若降金雨，贪心无厌足，</p>
+<p>智者知贪欲，乐少（<span lang="EN-US">Appassada无信乐，不喜）而苦多。</span></p>
+<p><span lang="EN-US">187、</span></p>
+<p>虽于诸天乐，智者无奢求，</p>
+<p>佛陀圣弟子，乐于灭欲贪。</p>
+<p><span lang="EN-US">188、</span></p>
+<p>人为怖畏苦，皈依趋山峦，</p>
+<p>树林和林莽，及诸神庙堂（<span lang="EN-US">Cetiya）。</span></p>
+<p><span lang="EN-US">189、</span></p>
+<p>彼非安稳依，非最上依处，</p>
+<p>皈依于彼处，不能离于苦。</p>
+<p><span lang="EN-US">190、</span></p>
+<p>若人皈依佛，皈依法与僧，</p>
+<p>依于正知见，得见四真谛（苦、集、灭、道四圣谛）。</p>
+<p><span lang="EN-US">191、</span></p>
+<p>苦谛苦集谛，苦灭谛道谛，</p>
+<p>灭苦八正道（正见，正思惟，正语，正业，正命，正精进，正念，正定），导至苦寂灭。</p>
+<p><span lang="EN-US">192、</span></p>
+<p>此皈依安稳，此皈依最上，</p>
+<p>此乃真皈依，能脱离众苦。（<span lang="EN-US">188，189，190，191，192五偈合诵）</span></p>
+<p></p>
+<p><span lang="EN-US">193、</span></p>
+<p>圣人（佛陀）难值遇，彼非处处生，</p>
+<p>圣人所生处，氏族皆蒙庆。</p>
+<p><span lang="EN-US">194、</span></p>
+<p>诸佛出世乐，宣说正法乐，</p>
+<p>僧伽和合乐，学众戒和乐。</p>
+<p></p>
+<p><span lang="EN-US">195、</span></p>
+<p>礼敬于世尊，诸佛圣弟子，</p>
+<p>摧伏诸烦恼，超越众忧苦。</p>
+<p><span lang="EN-US">196、</span></p>
+<p>若人礼敬于，寂静无畏者，</p>
+<p>其人之功德，无人能衡量。</p>
+<p><a name="a115"></a>第十五<span>&nbsp; </span>安乐品（Sukha&nbsp;Vagga）</p>
+<p><span lang="EN-US">197、</span></p>
+<p>怨憎中无憎，我等安乐住，</p>
+<p>于怨憎人中，我等无憎住。</p>
+<p><span lang="EN-US">198、</span></p>
+<p>病患（<span lang="EN-US">Atura病）中无病（Anatura无病），</span></p>
+<p>我等安乐住，于病患人中，我等无病住。</p>
+<p><span lang="EN-US">199、</span></p>
+<p>贪欲中无欲，我等安乐住，</p>
+<p>于贪欲人中，我等无欲住。</p>
+<p><span lang="EN-US">200、</span></p>
+<p>无有无障碍（<span lang="EN-US">Kincana物障），我等安乐住，</span></p>
+<p></p>
+<p>如光音天人（<span lang="EN-US">Deva abbassara极光净天；无音声，以净光为语言），以喜悦为食。</span></p>
+<p><span lang="EN-US">201、</span></p>
+<p>胜者招怨恨，败者生苦恼，</p>
+<p>寂者舍胜负，安住寂静乐。</p>
+<p><span lang="EN-US">202、</span></p>
+<p>热无过贪欲，恶无过嗔恚，</p>
+<p>苦无过五蕴（<span lang="EN-US">Khandha；色、受、想、行、识），乐无过寂灭（涅槃）。</span></p>
+<p><span lang="EN-US">203、</span></p>
+<p>饥饿最大病，诸行（<span lang="EN-US">Sankhara有为，造作。也作蕴）最大苦，</span></p>
+<p>如是实知已，涅槃无上乐。</p>
+<p><span lang="EN-US">204、</span></p>
+<p>无病最上利，知足最大富，</p>
+<p>信心最佳亲，涅槃无上乐。</p>
+<p><span lang="EN-US">205、</span></p>
+<p>已尝独居味，以及寂静乐，</p>
+<p>浸悦于法味，无怖离诸恶。</p>
+<p><span lang="EN-US">206、</span></p>
+<p>善哉（<span lang="EN-US">Sadhu）遇圣者，共住常欣乐，</span></p>
+<p>由不见愚人，彼常得安乐。</p>
+<p><span lang="EN-US">207、</span></p>
+<p>与痴者同道，长时处忧苦，</p>
+<p>与痴者共住，苦如敌共住，</p>
+<p>与智者共处，乐如亲族会。</p>
+<p><span lang="EN-US">208、</span></p>
+<p>智者（<span lang="EN-US">Pannam）多闻者（Bahussutam），忍辱、戒（Dhorayhasilam）、梵圣（vatavantam），</span></p>
+<p>追随此善贤，如月随星道。</p>
+<p><a name="a116"></a>第十六<span>&nbsp; </span>喜爱品（Piya&nbsp;Vagga）</p>
+<p><span lang="EN-US">209、</span></p>
+<p>修行不正法，不修于正道，</p>
+<p>舍道逐爱欲，唯慕正行者。</p>
+<p><span lang="EN-US">210、</span></p>
+<p></p>
+<p>不能见爱者（爱别离），遇见不爱者（怨憎会），</p>
+<p>不见爱者苦，见不爱亦苦。</p>
+<p><span lang="EN-US">211、</span></p>
+<p>是故勿爱著，爱别离是苦，</p>
+<p>若无爱与憎，无有诸系缚。</p>
+<p><span lang="EN-US">212、</span></p>
+<p>由爱生忧患，由爱生怖畏，</p>
+<p>离所爱无忧，何处有怖畏？</p>
+<p><span lang="EN-US">213、</span></p>
+<p>由爱执生忧，由爱生怖畏，</p>
+<p>离爱执无忧，何处有怖畏？</p>
+<p><span lang="EN-US">214、</span></p>
+<p>由贪执生忧，由贪生怖畏，</p>
+<p>离贪执无忧，何处有怖畏？</p>
+<p><span lang="EN-US">215、</span></p>
+<p>由爱欲生忧，由欲生怖畏，</p>
+<p>离爱欲无忧，何处有怖畏？</p>
+<p><span lang="EN-US">216、</span></p>
+<p>由渴爱生忧，由爱生怖畏，</p>
+<p>离渴爱无忧，何处有怖畏？</p>
+<p><span lang="EN-US">217、</span></p>
+<p>具戒有正见，法住（四果向、四果及涅槃，九殊胜法）见真谛（四圣谛），</p>
+<p>所作皆已办，世人所崇敬。</p>
+<p><span lang="EN-US">218、</span></p>
+<p>欲求‘不可说’（涅槃），向法乐圣位（初，二，三果），</p>
+<p>心无欲爱缚，彼为‘上流人’（<span lang="EN-US">Uddhamsota，指近涅槃的三果圣人Anagamiphala，不还果者）。</span></p>
+<p><span lang="EN-US">219、</span></p>
+<p>久处于异乡，远处安归来，</p>
+<p>亲族与好友，欢喜来相迎。</p>
+<p><span lang="EN-US">220、</span></p>
+<p>行善亦如是，今世往后世，</p>
+<p>善业如亲友，欢喜来相迎。（<span lang="EN-US">219，220两偈合诵）</span></p>
+<p><a name="a117"></a>第十七<span>&nbsp; </span>忿怒品（Kodha&nbsp;Vagga）</p>
+<p><span lang="EN-US">221、</span></p>
+<p>应弃忿怒心，应弃我慢心，</p>
+<p>解脱一切缚，不执著名色（<span lang="EN-US">Namarupa精神与物质），心中无一物，解脱于众苦。</span></p>
+<p><span lang="EN-US">222、</span></p>
+<p>能抑止发怒，如止疾行车，</p>
+<p>是名真御者，余为执缰人。</p>
+<p><span lang="EN-US">223、</span></p>
+<p>以慈制忿怒，以仁制粗暴，</p>
+<p>以施制悭吝，以实制虚假。</p>
+<p><span lang="EN-US">224、</span></p>
+<p>实语不忿怒，物少仍施赠，</p>
+<p>以此三善行，得生于天上。</p>
+<p><span lang="EN-US">225、</span></p>
+<p>圣者不杀生，常摄护根门，</p>
+<p>到达不死境（涅槃），彼处无忧苦。</p>
+<p><span lang="EN-US">226、</span></p>
+<p>常警惕觉醒，昼夜勤修习，</p>
+<p>志向于涅槃，息灭诸烦恼（欲，有，邪见，无明）。</p>
+<p><span lang="EN-US">227、</span></p>
+<p>阿杜罗（<span lang="EN-US">Atula在家众名）应知，古来已如此，</span></p>
+<p>非是今日事，默然受人谤，</p>
+<p>多言受人谤，适言受人谤，</p>
+<p>不为诽谤者，此世未曾有。</p>
+<p><span lang="EN-US">228、</span></p>
+<p>全被诽谤者，全被赞扬者，</p>
+<p>过去将来无，现在亦无有。（<span lang="EN-US">227，228两偈合诵）</span></p>
+<p><span lang="EN-US">229、</span></p>
+<p>朝朝勤检点，无过且贤明，</p>
+<p>具智慧戒行，彼为智者赞。</p>
+<p><span lang="EN-US">230、</span></p>
+<p>阎浮檀金币（<span lang="EN-US">Jambonada喻阿罗汉纯净），</span></p>
+<p>谁能挑瑕疵？清净为天赞，亦为梵天赞。</p>
+<p><span lang="EN-US">231、</span></p>
+<p>防范身恶行，调御于身行，</p>
+<p>舍弃身恶行，应修身善行。</p>
+<p><span lang="EN-US">232、</span></p>
+<p>防范口恶行，调御于口行，</p>
+<p>舍弃口恶行，应修口善行。</p>
+<p><span lang="EN-US">233、</span></p>
+<p>防范意恶行，调御于意行，</p>
+<p>舍弃意恶行，应修意善行。</p>
+<p><span lang="EN-US">234、</span></p>
+<p>智者身调御，亦复语调御，</p>
+<p>亦复意调御，实为善御者。（<span lang="EN-US">231，232，233，234四偈合诵）</span></p>
+<p><a name="a118"></a>第十八<span>&nbsp; </span>垢秽品（Mala&nbsp;Vagga）</p>
+<p><span lang="EN-US">235、</span></p>
+<p>汝似焦枯叶，死吏近身边，</p>
+<p>伫立死门前，旅途无资粮。</p>
+<p><span lang="EN-US">236、</span></p>
+<p>汝宜自造洲，精勤修观慧，</p>
+<p>祛除诸秽垢，得升净居天。（五净居天。阿那含果者所住的无烦、无热、善现、善见、色究竟五天。）</p>
+<p><span lang="EN-US">237、</span></p>
+<p>汝寿命已终，已近阎魔前，</p>
+<p>途中无歇处，旅途无资粮。</p>
+<p><span lang="EN-US">238、</span></p>
+<p>汝宜自造洲，精勤修观慧，</p>
+<p>祛除诸秽垢，不复有生死。（<span lang="EN-US">235，236，237，238四偈合诵）</span></p>
+<p><span lang="EN-US">239、</span></p>
+<p>刹那又刹那，一分又一分，</p>
+<p>智者渐除垢，如冶工锻银。</p>
+<p><span lang="EN-US">240、</span></p>
+<p>如铁生锈垢，腐蚀其自身，</p>
+<p>恶者生心垢，造恶至恶趣（三恶趣：畜生、饿鬼、地狱）。</p>
+<p><span lang="EN-US">241、</span></p>
+<p>经（<span lang="EN-US">manta）不诵速忘，屋（Ghara）不修速烂，</span></p>
+<p>懈怠美之垢，放逸护者垢。</p>
+<p><span lang="EN-US">242、</span></p>
+<p>不贞妇之垢，悭吝施者垢，</p>
+<p>此等诸恶业，今世后世垢。</p>
+<p><span lang="EN-US">243、</span></p>
+<p>此等垢秽中，无明垢（<span lang="EN-US">Avijja无智）为最，</span></p>
+<p>比丘除诸垢，舍垢至清净。（<span lang="EN-US">241，242，243三偈合诵）</span></p>
+<p><span lang="EN-US">244、</span></p>
+<p>无惭愧如鸦（<span lang="EN-US">Kakasara鸦英雄，厚颜无耻者），</span></p>
+<p>诋毁人胆大，傲慢邪恶者，生活是容易。</p>
+<p><span lang="EN-US">245、</span></p>
+<p>有惭求清净，不爱著谦逊，</p>
+<p>正命观修者，生活是困难。（<span lang="EN-US">244，245两偈合诵）</span></p>
+<p><span lang="EN-US">246、</span></p>
+<p>若人于今世，杀生说妄语，</p>
+<p>偷盗不与取，邪淫犯人妻。</p>
+<p><span lang="EN-US">247、</span></p>
+<p>耽溺于酒品，造作如是恶，</p>
+<p>彼于今世中，断毁自善根。（<span lang="EN-US">246，247两偈合诵）</span></p>
+<p></p>
+<p><span lang="EN-US">248、</span></p>
+<p>善男子应知，制恶实为难，</p>
+<p>莫令贪与嗔（<span lang="EN-US">Adhammo），陷汝于长苦。</span></p>
+<p><span lang="EN-US">249、</span></p>
+<p>人信乐好施，若于他施物，</p>
+<p>心嫉不满者，昼夜不安宁。</p>
+<p><span lang="EN-US">250、</span></p>
+<p>断除此怨心，拔根灭除妒，</p>
+<p>是人于昼夜，心静能得定。（<span lang="EN-US">249，250两偈合诵）</span></p>
+<p><span lang="EN-US">251、</span></p>
+<p>无火热如贪，无执紧如嗔，</p>
+<p>无网密如痴，无流急如爱。</p>
+<p><span lang="EN-US">252、</span></p>
+<p>易见他人过，己过欲见难，</p>
+<p>扬疵如扬糠，己过则匿藏，</p>
+<p>狡猾赌徒子，作弊藏骰子（<span lang="EN-US">Kali）。</span></p>
+<p><span lang="EN-US">253、</span></p>
+<p>若见他人过，心忿不平者，</p>
+<p>徒增其烦恼，断惑路遥远。</p>
+<p><span lang="EN-US">254、</span></p>
+<p>虚空无道迹，外道无沙门（<span lang="EN-US">Samana），</span></p>
+<p>凡夫爱著障（<span lang="EN-US">Papanca障碍；指爱、见、慢），如来（Tathagata）净无障。</span></p>
+<p><span lang="EN-US">255、</span></p>
+<p>虚空无道迹，外道无沙门，</p>
+<p>诸行（<span lang="EN-US">sankhara）皆无常，诸佛不动转。</span></p>
+<p>（<span lang="EN-US">254，255两偈合诵）</span></p>
+<p><a name="a119"></a>第十九<span>&nbsp; </span>法住品（Dhammattha&nbsp;Vagga）</p>
+<p><span lang="EN-US">256、</span></p>
+<p>鲁莽判事理，非为法住者，</p>
+<p>智者应辨究，是非之道理。</p>
+<p><span lang="EN-US">257、</span></p>
+<p>善导不鲁莽，公正不妄假，</p>
+<p>智者护正法，是名法住者（<span lang="EN-US">Dhammattha）。</span></p>
+<p><span lang="EN-US">258、</span></p>
+<p>不以多言故，而称为智者，</p>
+<p>忍、虑、无怨、安，得称为智者。</p>
+<p><span lang="EN-US">259、</span></p>
+<p>不以善言故，而为持法者（<span lang="EN-US">Dhammadhara），</span></p>
+<p>虽听闻少法，身习依法行（<span lang="EN-US">Kayena），</span></p>
+<p>于法不放逸，彼为奉法者。</p>
+<p><span lang="EN-US">260、</span></p>
+<p>不以头灰白，而称为长老（<span lang="EN-US">Thera，受比丘戒十年以上），</span></p>
+<p>彼年纪虚长，徒有长老名。</p>
+<p><span lang="EN-US">261、</span></p>
+<p>实知四圣谛，持戒不杀生，</p>
+<p>弃除诸垢秽，是名真长老。（<span lang="EN-US">260，261两偈合诵）</span></p>
+<p><span lang="EN-US">262、</span></p>
+<p>端庄善辩才，心为贪欲使，</p>
+<p>嫉妒而虚伪，此人绝难证。</p>
+<p><span lang="EN-US">263、</span></p>
+<p>断截诸恶习，拔根息灭贪，</p>
+<p>智者除恚心，是为端正者。（<span lang="EN-US">262，263两偈合诵）</span></p>
+<p><span lang="EN-US">264、</span></p>
+<p>不持戒妄语，剃发非沙门，</p>
+<p>心内满欲贪，如何为沙门？</p>
+<p><span lang="EN-US">265、</span></p>
+<p>调伏诸烦恼，无论大与小，</p>
+<p>息灭诸恶故，是名为沙门。（<span lang="EN-US">264，265两偈合诵）</span></p>
+<p><span lang="EN-US">266、</span></p>
+<p>虽向人托钵，不即是比丘，</p>
+<p>持戒非托钵，是名为比丘。</p>
+<p><span lang="EN-US">267、</span></p>
+<p>遍舍善与恶，梵行清净者，</p>
+<p>知法以处世，实名为比丘。（<span lang="EN-US">266，267两偈合诵）</span></p>
+<p><span lang="EN-US">268、</span></p>
+<p>不敏愚昧者，默然非圣者（牟尼），</p>
+<p>智者量善恶，实名为智者。</p>
+<p><span lang="EN-US">269、</span></p>
+<p>舍恶择其善，乃得为圣者（牟尼），</p>
+<p>彼知于善恶，是名为圣者。</p>
+<p><span lang="EN-US">270、</span></p>
+<p>若害众有情，彼非为圣者（<span lang="EN-US">Ariya高贵者），</span></p>
+<p>不害众生故，是名为圣者。</p>
+<p><span lang="EN-US">271、</span></p>
+<p>不因于持戒，苦行或多闻，</p>
+<p>或由证禅定，或独居静处（<span lang="EN-US">Vivicca Sayanena独处住）。</span></p>
+<p><span lang="EN-US">272、</span></p>
+<p>谓凡夫不得，吾受出离乐，</p>
+<p>比丘漏未尽，勿耽于自满。（<span lang="EN-US">271，272两偈合诵）</span></p>
+<p><a name="a120"></a>第廿<span>&nbsp;&nbsp;&nbsp; </span>道品（Magga&nbsp;Vagga）</p>
+<p><span lang="EN-US">273、</span></p>
+<p>诸道八支胜（八正道），诸谛四句胜（四圣谛），</p>
+<p>诸法离欲胜（涅槃），两足具眼胜（佛具肉眼、天眼、慧眼、佛眼、一切智眼五眼）。</p>
+<p><span lang="EN-US">274、</span></p>
+<p>此乃唯一道，清净诸知见。</p>
+<p>顺此正道行，魔王为惑乱。</p>
+<p><span lang="EN-US">275、</span></p>
+<p>奉修此正道，能尽于诸苦。</p>
+<p>已知拔欲箭，故我说此道。</p>
+<p><span lang="EN-US">276、</span></p>
+<p>汝等应自勤，如来唯导师，</p>
+<p>入道禅修者，解脱魔系缚。</p>
+<p><span lang="EN-US">277、</span></p>
+<p>诸行皆无常，以慧观照时，</p>
+<p>心厌离于苦（五蕴苦），此道达清净。</p>
+<p><span lang="EN-US">278、</span></p>
+<p>诸行皆是苦，以慧观照时，</p>
+<p>心厌离于苦，此道达清净。</p>
+<p><span lang="EN-US">279、</span></p>
+<p>诸法（五蕴<span lang="EN-US">khandha）皆无我，以慧观照时，</span></p>
+<p>心厌离于苦，此道达清净。（<span lang="EN-US">277，278，279三偈合诵）</span></p>
+<p><span lang="EN-US">280、</span></p>
+<p>应勤时不勤，青壮陷怠惰，</p>
+<p>意沉心薄弱，怠惰不得道。</p>
+<p><span lang="EN-US">281、</span></p>
+<p>慎言善御心，不以身行恶，</p>
+<p>清净三业者，得圣所证道。</p>
+<p><span lang="EN-US">282、</span></p>
+<p>由禅观（<span lang="EN-US">Yoga瑜珈）生慧，无禅观无慧，</span></p>
+<p>明了其得失（繁荣不繁荣，幸或不幸），勤修增上慧。</p>
+<p><span lang="EN-US">283、</span></p>
+<p>当伐欲丛林（<span lang="EN-US">Vana欲望），莫伤及真树，</span></p>
+<p>怖畏欲林除，比丘无欲林（<span lang="EN-US">Nibbana无欲）。</span></p>
+<p><span lang="EN-US">284、</span></p>
+<p>不除细欲丛，男女欲犹系，</p>
+<p>淫欲最难离，如乳犊恋母。</p>
+<p><span lang="EN-US">285、</span></p>
+<p>断除心欲贪，如摘秋百合，</p>
+<p>勤修寂静道，善逝（<span lang="EN-US">Sugata即佛陀）涅槃境。</span></p>
+<p><span lang="EN-US">286、</span></p>
+<p>雨季我住此，冬夏亦住此，</p>
+<p>愚者当盘想，不觉死神到（<span lang="EN-US">Antaraya障难）。</span></p>
+<p><span lang="EN-US">287、</span></p>
+<p>执子女与畜，心为爱染著，</p>
+<p>死神攫捉去，洪流卷睡村。</p>
+<p><span lang="EN-US">288、</span></p>
+<p>非子能救济，非父或亲戚，</p>
+<p>若为死所牵，亲族莫能济。</p>
+<p><span lang="EN-US">289、</span></p>
+<p>智者明此理，守持于净戒，</p>
+<p>疾速除诸障，直达涅槃境。（<span lang="EN-US">288，289两偈合诵）</span></p>
+<p><a name="a121"></a>第廿一<span>&nbsp; </span>杂品（Pakinnaka&nbsp;Vagga）</p>
+<p><span lang="EN-US">290、</span></p>
+<p>若舍弃小乐，而得大安乐，</p>
+<p>智者舍小乐，而思求大乐。</p>
+<p><span lang="EN-US">291、</span></p>
+<p>若为自安乐，致使他痛苦，</p>
+<p>彼为怨嗔缠，不得解脱嗔。</p>
+<p><span lang="EN-US">292、</span></p>
+<p>我慢放逸者，应作者没作，</p>
+<p>不应作却作，烦恼徒增长。</p>
+<p><span lang="EN-US">293、</span></p>
+<p>精勤观修身，不作不应作，</p>
+<p>应作者常作，烦恼随观尽。</p>
+<p><span lang="EN-US">294、</span></p>
+<p>杀母（渴爱）与杀父（我慢），杀武士二王（断见与常见），</p>
+<p>灭王国（十二处）财相（贪执），无忧婆罗门（阿罗汉）。</p>
+<p><span lang="EN-US">295、</span></p>
+<p>杀母（渴爱）与杀父（我慢），杀梵族二王（断见与常见），</p>
+<p>灭险道五虎（五盖：贪、嗔、痴、昏沉睡眠、掉悔），无忧婆罗门（阿罗汉）。（<span lang="EN-US">294，295两偈合诵）</span></p>
+<p></p>
+<p><span lang="EN-US">296、</span></p>
+<p>乔达摩（<span lang="EN-US">Gotama，佛俗家名）门徒，意常善醒觉，</span></p>
+<p>不分日与夜，念佛陀功德。</p>
+<p><span lang="EN-US">297、</span></p>
+<p>乔达摩门徒，意常善醒觉，</p>
+<p>不分日与夜，念达摩（法）功德。</p>
+<p><span lang="EN-US">298、</span></p>
+<p>乔达摩门徒，意常善醒觉，</p>
+<p>不分日与夜，念僧伽功德。</p>
+<p><span lang="EN-US">299、</span></p>
+<p>乔达摩门徒，意常善醒觉，</p>
+<p>不分日与夜，修观身念处（三十二身分）。</p>
+<p><span lang="EN-US">300、</span></p>
+<p>乔达摩门徒，意常善醒觉，</p>
+<p>不分日与夜，乐修不伤害。</p>
+<p><span lang="EN-US">301、</span></p>
+<p>乔达摩门徒，意常善醒觉，</p>
+<p>不分日与夜，乐修定观禅。（<span lang="EN-US">296，297，298，299，300，301六偈合诵）</span></p>
+<p><span lang="EN-US">302、</span></p>
+<p>出家修行苦，心乐出家难，</p>
+<p>在家生活苦，不和共住苦，</p>
+<p>生死轮回苦，不轮回无苦。</p>
+<p><span lang="EN-US">303、</span></p>
+<p>正信具足戒，有声誉财富（信、戒、惭、愧、闻法、舍、慧七财），</p>
+<p>无论至何处，随处受人敬。</p>
+<p><span lang="EN-US">304、</span></p>
+<p>善德如雪山（<span lang="EN-US">Himavant指喜马拉雅山Himalaya），虽远而高显，</span></p>
+<p>恶者近不见，如黑夜放箭。</p>
+<p><span lang="EN-US">305、</span></p>
+<p>独坐与独卧，经行而不倦，</p>
+<p>彼独自调御，欣喜居林中。</p>
+<p><a name="a122"></a>第廿二<span>&nbsp; </span>地狱品（Niraya&nbsp;Vagga）</p>
+<p><span lang="EN-US">306、</span></p>
+<p>妄语堕恶趣（下三道：畜生、饿鬼、地狱），作恶言无作，</p>
+<p>此二恶业同，死后堕地狱。</p>
+<p><span lang="EN-US">307、</span></p>
+<p>虽身披袈裟，造恶不调御（<span lang="EN-US">Papadhamma恶法者，性恶者），</span></p>
+<p>终因彼恶业，堕落于地狱。</p>
+<p><span lang="EN-US">308、</span></p>
+<p>宁吞热铁丸，炽焰火焚身，</p>
+<p>不以破戒身，食人信施物。</p>
+<p><span lang="EN-US">309、</span></p>
+<p>放纵淫他妇，必遭四苦报，</p>
+<p>获罪不安寝，受嫌堕恶趣。</p>
+<p><span lang="EN-US">310、</span></p>
+<p>惊怖淫男女，欢乐极短暂，</p>
+<p></p>
+<p>获罪并恶趣，国王治重刑，</p>
+<p>故男人不应，邪淫他人妇。</p>
+<p><span lang="EN-US">311、</span></p>
+<p>不善握茅草（<span lang="EN-US">Kusa香草），则割伤其手，</span></p>
+<p>僧人作恶行，则趋向恶趣。</p>
+<p><span lang="EN-US">312、</span></p>
+<p>放逸不净戒，狎习污道法，</p>
+<p>模棱修净行，此等无大果。</p>
+<p><span lang="EN-US">313、</span></p>
+<p>应做之修行，坚定精勤修，</p>
+<p>散漫云游僧（<span lang="EN-US">Paribbajika），徒增添欲垢（烦恼）。</span></p>
+<p><span lang="EN-US">314、</span></p>
+<p>谨慎莫作恶，作恶将受苦，</p>
+<p>胜妙行于善，行善无悔恼。</p>
+<p><span lang="EN-US">315、</span></p>
+<p>如一边境城，护卫内与外，</p>
+<p>自当善护卫，勿失修行缘，</p>
+<p>丧失人身缘，堕恶趣受苦。</p>
+<p><span lang="EN-US">316、</span></p>
+<p>不羞耻而羞，应羞耻不羞，</p>
+<p>以彼诸邪见，堕落于恶趣。</p>
+<p><span lang="EN-US">317、</span></p>
+<p>不恐怖见怖，应恐怖不怖，</p>
+<p>以彼诸邪见，堕落于恶趣。</p>
+<p><span lang="EN-US">318、</span></p>
+<p>于无瘕见疵，于过见无过，</p>
+<p>以彼诸邪见，堕落于恶趣。</p>
+<p><span lang="EN-US">319、</span></p>
+<p>辨错为过错，辨对为正确，</p>
+<p>以彼诸正见，得生于善趣（天界）。（<span lang="EN-US">316，317，318，319四偈合诵）</span></p>
+<p><a name="a123"></a>第廿三<span>&nbsp; </span>象品（Naga&nbsp;Vagga）</p>
+<p><span lang="EN-US">320、</span></p>
+<p>如象于战场，堪忍诸弓箭，</p>
+<p>人多不自律，我忍诸诽谤。</p>
+<p><span lang="EN-US">321、</span></p>
+<p>御象可赴会，御象王可乘，</p>
+<p>人中堪忍者，人中最上御。</p>
+<p><span lang="EN-US">322、</span></p>
+<p>御骡为优良，信度（<span lang="EN-US">Sindhu）马优良，</span></p>
+<p>长牙象（<span lang="EN-US">Kunjara）优良，御己更优良。</span></p>
+<p><span lang="EN-US">323、</span></p>
+<p>非彼诸车乘，能达无行境（涅槃），</p>
+<p>彼善调御人，能达无行境。</p>
+<p><span lang="EN-US">324、</span></p>
+<p>彼象名财守（<span lang="EN-US">Dhanapalaka），思母情难伏，</span></p>
+<p>被困不思食，唯思念象林。</p>
+<p><span lang="EN-US">325、</span></p>
+<p>懒惰又贪食，贪睡转侧眠，</p>
+<p>如猪贪食睡，愚者频入胎（生死轮回）。</p>
+<p><span lang="EN-US">326、</span></p>
+<p>往昔此妄心，游荡随所欲，</p>
+<p>随所爱好求，我以智调伏，</p>
+<p>如象师持钩，制伏发情象。</p>
+<p><span lang="EN-US">327、</span></p>
+<p>喜于不放逸，善护卫自心，</p>
+<p>自离于烦恼，如象出泥沼。</p>
+<p><span lang="EN-US">328、</span></p>
+<p>若得贤伴侣，正直具智慧，</p>
+<p>欣然同彼行，克服诸困难。</p>
+<p><span lang="EN-US">329、</span></p>
+<p>若不得贤伴，正直具智慧，</p>
+<p>应如王弃国（抛弃征服的国土），如象独游林。</p>
+<p>（<span lang="EN-US">328，329两偈合诵）</span></p>
+<p><span lang="EN-US">330、</span></p>
+<p>宁独住为善，不与愚人伴，</p>
+<p>独往不造恶，自在象游林。</p>
+<p><span lang="EN-US">331、</span></p>
+<p>患难遇友喜，少欲知足喜，</p>
+<p>命终积善喜，离一切苦喜。</p>
+<p><span lang="EN-US">332、</span></p>
+<p>在世孝母乐，孝顺父亦乐，</p>
+<p>奉事沙门乐，奉事圣者乐。</p>
+<p><span lang="EN-US">333、</span></p>
+<p>持戒垂老乐，不移信心乐，</p>
+<p>圆证智慧乐，不造恶业乐。</p>
+<p><a name="a124"></a>第廿四<span>&nbsp; </span>爱欲品（Tanha&nbsp;Vagga）</p>
+<p><span lang="EN-US">334、</span></p>
+<p>放逸者纵欲，增长如蔓藤，</p>
+<p>此生他处生，如猿觅林果。</p>
+<p><span lang="EN-US">335、</span></p>
+<p>人于此世间，顽劣欲缠缚，</p>
+<p>诸忧苦增长，如毗罗（<span lang="EN-US">Birana毗罗草）得雨。</span></p>
+<p><span lang="EN-US">336、</span></p>
+<p>人于此世间，顽劣欲调服，</p>
+<p>诸忧苦易除，如莲叶落露。（<span lang="EN-US">335，336两偈合诵）</span></p>
+<p><span lang="EN-US">337、</span></p>
+<p>我今为众说，掘除爱欲根，</p>
+<p>如掘毗罗草，求取香甜根，</p>
+<p>勿为魔屡害，如洪淹芦苇。</p>
+<p><span lang="EN-US">338、</span></p>
+<p>伐树不断根，虽斩犹再生，</p>
+<p>祛欲不除根，苦楚犹再生。</p>
+<p><span lang="EN-US">339、</span></p>
+<p>人贪著欲乐，三十六爱流（欲爱、有爱、非有爱分为六根与六尘各十二），</p>
+<p>心思为欲染，爱潮荡痴人（邪见人）。</p>
+<p><span lang="EN-US">340、</span></p>
+<p>爱欲随处流，蔓草芽（六根）盛长（六尘），</p>
+<p>见诸蔓草生，以慧断其根。</p>
+<p><span lang="EN-US">341、</span></p>
+<p>快乐是无常，境生欲水长，</p>
+<p>人迷逐欲乐，唯得受生死。</p>
+<p><span lang="EN-US">342、</span></p>
+<p>为爱欲所使，惊兔网中驰，</p>
+<p>烦恼（贪、嗔、痴、慢、邪见）紧束缚，长受轮回苦。</p>
+<p><span lang="EN-US">343、</span></p>
+<p>为爱欲所使，惊兔网中驰，</p>
+<p>比丘求爱尽（涅槃），应离于爱欲。（<span lang="EN-US">342，343两偈合诵）</span></p>
+<p><span lang="EN-US">344、</span></p>
+<p>人若舍欲林，孤寂山林间（出家意），</p>
+<p>复生爱欲心，转驰向世间，</p>
+<p>观此松缚人，还俗复受缚。</p>
+<p><span lang="EN-US">345、</span></p>
+<p>铁木与麻缚，智者言非坚，</p>
+<p>贪恋妻儿财，是为大坚缚。</p>
+<p><span lang="EN-US">346、</span></p>
+<p>智言此坚缚，松软难解脱，</p>
+<p>无著舍爱欲，断弃求出离（出家）。</p>
+<p><span lang="EN-US">347、</span></p>
+<p>耽欲随欲流，蜘蛛自织网，</p>
+<p>断缚无著者，解脱一切苦。</p>
+<p><span lang="EN-US">348、</span></p>
+<p>舍过、现、未来（三世的五蕴），而到达彼岸（涅槃），</p>
+<p>解脱于一切，不再受生死。</p>
+<p><span lang="EN-US">349、</span></p>
+<p>邪念所困扰，炽然求欲乐，</p>
+<p>贪欲倍增长，彼自作坚缚。</p>
+<p><span lang="EN-US">350、</span></p>
+<p>调服诸邪思，常住不净观，</p>
+<p>正念灭贪爱，断除魔束缚。</p>
+<p><span lang="EN-US">351、</span></p>
+<p>无畏达究竟，爱尽无贪欲，</p>
+<p>拔除生有（三有：欲、色、无色；指轮回）刺，此乃最后身。</p>
+<p><span lang="EN-US">352、</span></p>
+<p>离欲无贪者，通达法次第，</p>
+<p>彼为最后身，大智大丈夫。</p>
+<p><span lang="EN-US">353、</span></p>
+<p>我调御一切，我了知一切，</p>
+<p>一切无染著，一切已出离，</p>
+<p>爱尽得解脱，自悟谁为师？</p>
+<p><span lang="EN-US">354、</span></p>
+<p>法施胜众施，法味胜众味，</p>
+<p>法喜胜众乐，爱尽灭众苦。</p>
+<p><span lang="EN-US">355、</span></p>
+<p>财富毁愚者，不毁求寂者（求到彼岸），</p>
+<p>愚者为财富，自害亦害他。</p>
+<p><span lang="EN-US">356、</span></p>
+<p>杂草毁田地，爱欲毁世人，</p>
+<p>供养无欲者，能得大果报。</p>
+<p><span lang="EN-US">357、</span></p>
+<p>杂草毁田地，嗔恚毁世人，</p>
+<p>供养无嗔者，能得大果报。</p>
+<p><span lang="EN-US">358、</span></p>
+<p>杂草毁田地，愚痴毁世人，</p>
+<p>供养无痴者，能得大果报。</p>
+<p><span lang="EN-US">359、</span></p>
+<p></p>
+<p>杂草毁田地，贪爱毁世人，</p>
+<p>供养无贪者，能得大果报。</p>
+<p>（<span lang="EN-US">356，357，358，359四偈合诵）</span></p>
+<p><a name="a125"></a>第廿五<span>&nbsp; </span>比丘品（Bhikkhu&nbsp;Vagga）</p>
+<p>（或苾刍<span lang="EN-US">Bhikkhu出家受具足戒男子）</span></p>
+<p><span lang="EN-US">360、</span></p>
+<p>善于调伏眼，善于调伏耳，</p>
+<p>善于调伏鼻，善于调伏舌。</p>
+<p><span lang="EN-US">361、</span></p>
+<p>善于调伏身，善于调伏语，</p>
+<p>善于调伏意，善调伏一切，</p>
+<p>比丘善调伏，脱离一切苦。（<span lang="EN-US">360，361两偈合诵）</span></p>
+<p><span lang="EN-US">362、</span></p>
+<p>调御手足语，调御最高者（头与心），</p>
+<p>心喜住禅定，比丘独知足。</p>
+<p><span lang="EN-US">363、</span></p>
+<p>比丘调御语，善巧不夸耀，</p>
+<p>善说法与义，如甘露法雨。</p>
+<p><span lang="EN-US">364、</span></p>
+<p>比丘住于法，喜悦于佛法，</p>
+<p>念法思惟法，不离于妙法（<span lang="EN-US">Saddhamma）。</span></p>
+<p><span lang="EN-US">365、</span></p>
+<p>莫嫌己所得，莫忌他所得，</p>
+<p>比丘妒忌他，心不得于定（<span lang="EN-US">Samadhi 世间与出世间定）。</span></p>
+<p><span lang="EN-US">366、</span></p>
+<p>所得虽微少，比丘不嫌弃，</p>
+<p>清净不懈怠，诸天所赞叹。（<span lang="EN-US">365，366两偈合诵）</span></p>
+<p><span lang="EN-US">367、</span></p>
+<p>若于心与身（名与色），不执我我所，</p>
+<p>无我故无忧，彼实称比丘。</p>
+<p><span lang="EN-US">368、</span></p>
+<p>比丘住慈悲，喜悦佛教法，</p>
+<p>证寂静安乐，诸行之解脱（涅槃）。</p>
+<p><span lang="EN-US">369、</span></p>
+<p>汲去舟中水（舟喻人身，水喻邪念），水去舟行快，</p>
+<p>断除欲与嗔，比丘证涅槃。</p>
+<p><span lang="EN-US">370、</span></p>
+<p>断五下分结（身见、疑、戒禁取、贪欲、嗔恚），断五上分结（色爱、无色爱、慢、掉悔、无明），</p>
+<p>勤修于五根（信、勤、念、定、慧），消灭五烦恼（贪、嗔、痴、慢、邪见），</p>
+<p>比丘越彼岸，名‘渡瀑流者’（四瀑流<span lang="EN-US">Ogha：欲、有、见、无明）。</span></p>
+<p><span lang="EN-US">371、</span></p>
+<p>比丘勤修定，心莫逐爱欲（色、声、香、味、触），</p>
+<p>地狱吞铁丸，炽然哀号苦。</p>
+<p><span lang="EN-US">372、</span></p>
+<p>无慧者无定，无定者无慧，</p>
+<p>具足定与慧，彼近于涅槃。</p>
+<p><span lang="EN-US">373、</span></p>
+<p></p>
+<p>独住空闲处（<span lang="EN-US">Sunnagara），比丘调静心，</span></p>
+<p>如实知见法，得出世法乐。</p>
+<p><span lang="EN-US">374、</span></p>
+<p>常住于正观，五蕴之生灭，</p>
+<p>欣喜于所悟，觉者知不死。</p>
+<p><span lang="EN-US">375、</span></p>
+<p>慧僧之先务，摄根意知足，</p>
+<p>戒波提木叉（<span lang="EN-US">Patimokkha），亲近勤善友。</span></p>
+<p><span lang="EN-US">376、</span></p>
+<p>愿彼意和婉，举止悉端庄，</p>
+<p>心充满喜悦，必得至苦边。</p>
+<p><span lang="EN-US">377、</span></p>
+<p>如婆尸迦花（<span lang="EN-US">Vassika或Vassiki夏生花、素馨），枯萎而凋落，</span></p>
+<p>舍弃贪嗔痴，比丘度生死。</p>
+<p><span lang="EN-US">378、</span></p>
+<p>身静与语静，心静善得定（<span lang="EN-US">Susamahita入定），</span></p>
+<p>比丘离世俗，是为寂静者。</p>
+<p><span lang="EN-US">379、</span></p>
+<p>当自善策励，当自善省察，</p>
+<p>自护具正念，比丘安乐住。</p>
+<p><span lang="EN-US">380、</span></p>
+<p>自为自护卫，自是自皈依，</p>
+<p>故调御自己，如马师驯马。</p>
+<p><span lang="EN-US">381、</span></p>
+<p>信乐于佛法，比丘达寂静，</p>
+<p>诸行皆止息，寂静安乐境。</p>
+<p><span lang="EN-US">382、</span></p>
+<p>比丘少出家，勤修佛妙法，</p>
+<p>光明照世间，如月出云天。</p>
+<p><a name="a126"></a>第廿六<span>&nbsp; </span>婆罗门品（Brahmana&nbsp;Vagga）</p>
+<p>（<span lang="EN-US">Brahmana除恶业者）</span></p>
+<p><span lang="EN-US">383、</span></p>
+<p>勇于断欲流，离欲婆罗门，</p>
+<p>知诸蕴灭尽，汝便证无为（涅槃）。</p>
+<p><span lang="EN-US">384、</span></p>
+<p>依止观二法，清净达彼岸，</p>
+<p>一切烦恼灭，彼为婆罗门。</p>
+<p><span lang="EN-US">385、</span></p>
+<p>无此无彼岸，两岸亦皆无，</p>
+<p>无苦无束縳，彼为婆罗门。</p>
+<p><span lang="EN-US">386、</span></p>
+<p>无垢离诸漏，林中独修定，</p>
+<p>清净无烦忧，所作皆已办，</p>
+<p>亲证最上果，彼为婆罗门。</p>
+<p><span lang="EN-US">387、</span></p>
+<p>日光与月照，武士甲胄闪，</p>
+<p>婆罗门定光，佛光日夜照。</p>
+<p><span lang="EN-US">388、</span></p>
+<p>弃恶为梵志（婆罗门），寂静为沙门（<span lang="EN-US">Samana），</span></p>
+<p>自除众秽行，是为出家人。</p>
+<p><span lang="EN-US">389、</span></p>
+<p>莫击婆罗门，婆罗门勿怒，</p>
+<p>击彼者可耻，发怒更可耻。</p>
+<p><span lang="EN-US">390、</span></p>
+<p>婆罗门制心，制止贪执心，</p>
+<p>断除害他心，唯此能减苦。</p>
+<p><span lang="EN-US">391、</span></p>
+<p>不以身与语，或意造恶业，</p>
+<p>调制此三处，彼为婆罗门。</p>
+<p><span lang="EN-US">392、</span></p>
+<p>无论师承谁，徒众应敬师，</p>
+<p>敬师说佛（正觉）法，如梵志（婆罗门）敬火。</p>
+<p><span lang="EN-US">393、</span></p>
+<p>不因于髻发（<span lang="EN-US">Jata结发外道），不因于种姓，</span></p>
+<p>亦非是生来（印度的生来的四种阶级），而为婆罗门，</p>
+<p>见法具德者，具福（<span lang="EN-US">Sukhi幸福、清净）婆罗门。</span></p>
+<p><span lang="EN-US">394、</span></p>
+<p></p>
+<p>邪慧髻发者，何用著鹿皮？</p>
+<p>内不舍欲贪，外徒具严饰。</p>
+<p><span lang="EN-US">395、</span></p>
+<p>汝著粪扫衣（<span lang="EN-US">Pamsukula弊恶衣，出家者的袈裟），清瘦筋脉显，</span></p>
+<p>林中独修定，彼为婆罗门。</p>
+<p><span lang="EN-US">396、</span></p>
+<p>非因母胎生，而称婆罗门，</p>
+<p>若有诸垢染，但名‘婆洼底’（<span lang="EN-US">Bhovadi：Bho尊称君，Vadi说；与君说者），</span></p>
+<p>净除诸染著，彼为婆罗门。</p>
+<p><span lang="EN-US">397、</span></p>
+<p>断一切结缚，心无有怖畏，</p>
+<p>无著离系缚，彼为婆罗门。</p>
+<p><span lang="EN-US">398、</span></p>
+<p>断除勒皮带（嗔恚），皮缰（贪爱）与绳索（六十二邪见），</p>
+<p>及彼附属物（随眠、烦恼：欲贪、有贪、嗔、慢、见、疑、无明），舍弃其阑闩（无明），</p>
+<p>自觉证悟者，彼为婆罗门。</p>
+<p><span lang="EN-US">399、</span></p>
+<p>他恶骂打罚，默忍不起嗔，</p>
+<p>忍辱潜力军，彼为婆罗门。</p>
+<p><span lang="EN-US">400、</span></p>
+<p>不嗔恒行善，不贪自调伏，</p>
+<p>此乃最后身，彼为婆罗门。</p>
+<p><span lang="EN-US">401、</span></p>
+<p>如莲叶水珠，针尖之芥子，</p>
+<p>爱欲不能染，彼为婆罗门。</p>
+<p><span lang="EN-US">402、</span></p>
+<p>人世知苦尽，舍弃诸重担，</p>
+<p>身心得解脱，彼为婆罗门。</p>
+<p><span lang="EN-US">403、</span></p>
+<p>具甚深智慧，善辨道真伪，</p>
+<p>亲证无上果，彼为婆罗门。</p>
+<p><span lang="EN-US">404、</span></p>
+<p>不亲于僧俗，游行无住所，</p>
+<p>心中无爱欲，彼为婆罗门。</p>
+<p><span lang="EN-US">405、</span></p>
+<p>无论强与弱，舍弃于刀杖，</p>
+<p>不杀害有情，彼为婆罗门。</p>
+<p><span lang="EN-US">406、</span></p>
+<p>众敌中友善，众仇中安祥，</p>
+<p>贪执（执著五蕴）中无著，彼为婆罗门。</p>
+<p><span lang="EN-US">407、</span></p>
+<p>贪欲嗔恚落，我慢虚伪落，</p>
+<p>（如）芥子针尖落，彼为婆罗门。</p>
+<p><span lang="EN-US">408、</span></p>
+<p>善说和婉语，法语真谛语（善说四圣谛八正道），</p>
+<p>不粗言伤人，彼为婆罗门。</p>
+<p><span lang="EN-US">409、</span></p>
+<p>世物长或短，大小或净垢（美或不美，好或不好的东西），</p>
+<p>不与而不取，彼为婆罗门。</p>
+<p><span lang="EN-US">410、</span></p>
+<p>于此世他世，彼无有爱欲，</p>
+<p>爱尽而解脱，彼为婆罗门。</p>
+<p><span lang="EN-US">411、</span></p>
+<p>无有诸爱执，慧观无疑惑，</p>
+<p>立于甘露境（涅槃、不死），彼为婆罗门。</p>
+<p><span lang="EN-US">412、</span></p>
+<p>超越善与恶，不著于两边，</p>
+<p>清净无忧苦，彼为婆罗门。</p>
+<p><span lang="EN-US">413、</span></p>
+<p>如月满明净，纯洁静无恼，</p>
+<p>灭除有（三有：欲有、色有、无色有。）渴爱，彼为婆罗门。</p>
+<p><span lang="EN-US">414、</span></p>
+<p>越纷乱险路（烦恼），无明轮回海，</p>
+<p>得度于彼岸，超越于一切，</p>
+<p>心定无贪疑，彼常无所执，</p>
+<p>自证于涅槃，彼为婆罗门。</p>
+<p><span lang="EN-US">415、</span></p>
+<p>住世弃爱欲（<span lang="EN-US">Kama欲情，欲乐），离俗而出家，</span></p>
+<p>爱欲有（<span lang="EN-US">Kamabhava欲情的存在）灭尽，彼为婆罗门。</span></p>
+<p><span lang="EN-US">416、</span></p>
+<p>住世弃渴爱（<span lang="EN-US">Tanha），离俗而出家，</span></p>
+<p>渴爱有（<span lang="EN-US">Tanhabhava渴爱的存在）灭尽，彼为婆罗门。</span></p>
+<p><span lang="EN-US">417、</span></p>
+<p>弃人间束缚，越天界束缚，</p>
+<p>解脱一切缚，彼为婆罗门。</p>
+<p><span lang="EN-US">418、</span></p>
+<p>舍弃爱（爱欲）不爱（指林中修梵行），清凉无烦忧（<span lang="EN-US">Nirupadhi无依著；依著指五蕴，烦恼，行与爱欲），</span></p>
+<p>雄胜世间者（世间，指五蕴），彼为婆罗门。</p>
+<p><span lang="EN-US">419、</span></p>
+<p>遍知于一切，众生之生灭，</p>
+<p>无执、善逝、觉（<span lang="EN-US">Sugata善逝，Buddha佛陀，觉者），彼为婆罗门。</span></p>
+<p><span lang="EN-US">420、</span></p>
+<p>诸天、乐神（<span lang="EN-US">Gandhabbas乾闼婆）、人，不知彼所趣（Gati去向），</span></p>
+<p>杀贼（断除烦恼）漏尽者，彼为婆罗门。</p>
+<p><span lang="EN-US">421、</span></p>
+<p>不执著过去，现在与未来，</p>
+<p>不著于一物，彼为婆罗门。</p>
+<p><span lang="EN-US">422、</span></p>
+<p>无畏（<span lang="EN-US">Usabha牛王，喻无畏者）如牛王，尊贵勇猛者，</span></p>
+<p>贤圣无欲爱，战胜诸魔军，</p>
+<p>净行正觉者，彼为婆罗门。</p>
+<p><span lang="EN-US">423、</span></p>
+<p>圣者知宿命，知天界恶趣，</p>
+<p>亦知生已尽，圆满无上觉（于四圣谛苦已知，集已断，灭已证，道已修），</p>
+<p>调御梵行立，彼为婆罗门。</p>
+<p><a name="a200"></a><span style="&quot;Times New Roman&quot;;color:#333399">北传法句经</span><span lang="EN-US" style="color:#333399"></span></p>
+<p><span style="color:#333399">法句经序<span lang="EN-US"></span></span></p>
+<p>昙钵偈者，众经之要义。昙之言，法钵者句也。而法句经别有数部，有九百偈或七百偈及五百偈。偈者结语，犹诗颂也。是佛见事而作，非一时言，各有本末布在诸经。佛一切智厥性大仁，湣伤天下出兴于世，开显道义所以解人，凡十二部经，总括其要别为数部。四部阿含佛去世后阿难所传，卷无大小皆称闻如是处。佛所在究畅其说，是后五部沙门，各自钞众经中四句六句之偈，比次其义条别为品，于十二部经靡不斟酌，无所适名，故曰法句，诸经为法言。法句者由法言也。近世葛氏传七百偈，偈义致深译人出之颇使其浑，惟佛难值其文难闻。又诸佛兴皆在天竺，天竺言语与汉异音云，其书为天书语为天语，名物不同传实不易。唯昔蓝调安侯世高都尉佛调，译梵为秦，实得其体，斯已难继。后之传者虽不能密，犹常贵其宝粗得大趣。始者维只难，出自天竺，以黄武三年来适武昌，仆从受此五百偈本，请其同道竺将焰为译，将焰虽善天竺语未备晓汉，其所传言或得梵语，或以义出音，迎质真朴初谦其为辞不雅。维只难曰<span lang="EN-US">:佛言:依其义不用饰，取其法不以严，其传经者令易晓，勿失厥义，是则为善。坐中咸曰:老氏称美言不信，信言不美。仲尼亦云:书不尽言，言不尽意。明圣人意深邃无极。今传梵义实宜经达，是以自偈受译人口，因修本旨不加文饰，译所不解则阙不传，故有脱失多不出者。然此虽辞朴而旨深，文约而义博，事钩众经章有本句有义说，其在天竺始进业者，不学法句谓之越叙，此乃始进者之洪渐，深入者之奥藏也。可以启曚辩惑诱人自立，学之功微而所苞者广，寔可谓妙要也哉。昔传此时，有所不解，会将炎来，更从咨问受此偈辈。复得十三品，并校往古，有所增定，第其品目合为一部三十九篇。大凡偈七百五十二章。庶有补益共广问焉。</span></p>
+<p><a name="a201"></a><span style="color:#333399">法句经卷上<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">尊者法救撰吴天竺沙门维祗难等译<span>&nbsp; </span></p>
+<p>（经文依大正藏，文句不明者参考龙藏。）</p>
+<p><span style="color:#333399">第一<span lang="EN-US">&nbsp;&nbsp;无常品，二十有一章</span></span></p>
+<p>无常品者，寤欲昏乱，荣命难保，唯道是真。</p>
+<p>1&nbsp; 睡眠解寤，宜欢喜思，听我所说，撰集佛言：</p>
+<p>2&nbsp; 所行非常，谓兴衰法，夫生辄死，此灭为乐。</p>
+<p>3&nbsp; 譬如陶家，埏埴作器，一切要坏，人命亦然。</p>
+<p>4&nbsp; 如河驶流，往而不返，人命如是，逝者不还。</p>
+<p>5&nbsp; 譬人操杖，行牧食牛，老死犹然，亦养命去。</p>
+<p>6&nbsp; 千百非一，族姓男女，贮聚财产，无不衰丧。</p>
+<p>7&nbsp; 生者日夜，命自攻削，寿之消尽，如荥雪水。</p>
+<p>8&nbsp; 常者皆尽，高者亦堕，合会有离，生者有死。</p>
+<p>9&nbsp; 众生相克，以丧其命，随行所堕，自受殃福。</p>
+<p><span lang="EN-US">10 老见苦痛，死则意去，乐家缚狱，贪世不断。</span></p>
+<p><span lang="EN-US">11 咄嗟老至，色变作耄，少时如意，老见蹈藉。</span></p>
+<p><span lang="EN-US">12 虽寿百岁，亦死过去，为老所厌，病条至际。</span></p>
+<p><span lang="EN-US">13 是日已过，命则随减，如少水鱼，斯有何乐？</span></p>
+<p><span lang="EN-US">14 老则色衰，所病自坏，形败腐朽，命终自然。</span></p>
+<p><span lang="EN-US">15 是身何用，恒漏臭处，为病所困，有老死患。</span></p>
+<p><span lang="EN-US">16 嗜欲自恣，非法是增，不见闻变，寿命无常。</span></p>
+<p><span lang="EN-US">17 非有子恃，亦非父兄，为死所迫，无亲可怙。</span></p>
+<p><span lang="EN-US">18 昼夜慢惰，老不止淫，有财不施，不受佛言，有此四弊，为自侵欺。</span></p>
+<p><span lang="EN-US">19 非空非海中，非入山石间，无有地方所，脱之不受死。</span></p>
+<p><span lang="EN-US">20 是务是吾作，当作令致是，人为此躁扰，履践老死忧。</span></p>
+<p></p>
+<p><span lang="EN-US">21 知此能自净，如是见生尽，比丘厌魔兵，从生死得度。</span></p>
+<p><a name="a202"></a><span style="color:#333399">第二<span lang="EN-US">&nbsp;&nbsp;教学品，二十有九章</span></span></p>
+<p>教学品者，导以所行，释己愚闇，得见道明。</p>
+<p><span lang="EN-US">22 咄哉何为寐？螉螺蚌蠹类，隐弊以不净，迷惑计为身。</span></p>
+<p><span lang="EN-US">23 焉有被斫创，心如婴疾痛，遘于众厄难，而反为用眠。</span></p>
+<p><span lang="EN-US">24 思而不放逸，为仁学仁恸，从是无有忧，常念自灭意。</span></p>
+<p><span lang="EN-US">25 正见学务增，是为世间明，所生福千倍，终不堕恶道。</span></p>
+<p><span lang="EN-US">26 莫学小道，以信邪见，莫习放荡，令增欲意。</span></p>
+<p><span lang="EN-US">27 善修法行，学诵莫犯，行道无忧，世世常安。</span></p>
+<p><span lang="EN-US">28 愍学摄身，常慎思言，是到不死，行灭得安。</span></p>
+<p><span lang="EN-US">29 非务勿学，是务宜行，已知可念，则漏得灭。</span></p>
+<p><span lang="EN-US">30 见法利身，夫到善方，知利健行，是谓贤明。</span></p>
+<p><span lang="EN-US">31 起觉义者，学灭以固，著灭自恣，损而不兴。</span></p>
+<p><span lang="EN-US">32 是向以强，是学得中，从是解义，宜忆念行。</span></p>
+<p><span lang="EN-US">33 学先断母，率君二臣，废诸营从，是上道人。</span></p>
+<p><span lang="EN-US">34 学无朋类，不得善友，宁独守善，不与愚偕。</span></p>
+<p><span lang="EN-US">35 乐戒学行，奚用伴为，独善无忧，如空野象。</span></p>
+<p><span lang="EN-US">36 戒闻俱善，二者孰贤，方戒称闻，宜谛学行。</span></p>
+<p><span lang="EN-US">37 学先护戒，开闭必固，施而无受，仂行勿卧。</span></p>
+<p><span lang="EN-US">38 若人寿百岁，邪学志不善，不如生一日，精进受正法。</span></p>
+<p><span lang="EN-US">39 若人寿百岁，奉火修异术，不如须臾顷，事戒者福称。</span></p>
+<p><span lang="EN-US">40 能行说之可，不能勿空语，虚伪无诚信，智者所 屏弃。</span></p>
+<p><span lang="EN-US">41 学当先求解，观察别是非，受谛应诲彼，慧然不复惑。</span></p>
+<p><span lang="EN-US">42 被发学邪道，草衣内贪浊 曚曚不识真，如聋听五音。</span></p>
+<p><span lang="EN-US">43 学能舍三恶，以药消众毒，健夫度生死，如蛇脱故皮。</span></p>
+<p><span lang="EN-US">44 学而多闻，持戒不失，两世见誉，所愿者得。</span></p>
+<p><span lang="EN-US">45 学而寡闻，持戒不完，两世受痛，丧其本愿。</span></p>
+<p><span lang="EN-US">46 夫学有二，常亲多闻，安谛解义，虽困不邪。</span></p>
+<p><span lang="EN-US">47 稊稗害禾，多欲妨学，耘除众恶，成收必多。</span></p>
+<p><span lang="EN-US">48 虑而后言，辞不强梁，法说义说，言而莫违。</span></p>
+<p><span lang="EN-US">49 善学无犯，畏法晓忌，见微知者，诫无后患。</span></p>
+<p><span lang="EN-US">50 远舍罪福，务成梵行，终身自摄，是名善学。</span></p>
+<p><a name="a203"></a><span style="color:#333399">第三<span lang="EN-US">&nbsp;&nbsp;多闻品，十有九章</span></span></p>
+<p>多闻品者，亦劝闻学，积闻成圣，自致正觉。</p>
+<p><span lang="EN-US">51 多闻能持固，奉法为垣墙，精进难踰毁，从是戒慧成。</span></p>
+<p><span lang="EN-US">52 多闻令志明，已明智慧增，智则博解义，见义行法安。</span></p>
+<p><span lang="EN-US">53 多闻能除忧，能以定为欢，善说甘露法，自致得泥洹。</span></p>
+<p><span lang="EN-US">54 闻为知法律，解疑亦见正，从闻舍非法，行到不死处。</span></p>
+<p><span lang="EN-US">55 为能师现道，解疑令学明，亦兴清净本，能奉持法藏。</span></p>
+<p><span lang="EN-US">56 能摄为解义，解则戒不穿，受法猗法者，从是疾得安。</span></p>
+<p><span lang="EN-US">57 若多少有闻，自大以憍人，是如盲执烛，昭彼不自明。</span></p>
+<p><span lang="EN-US">58 夫求爵位财，尊贵升天福，辩慧世间悍，斯闻为第一。</span></p>
+<p><span lang="EN-US">59 帝王聘礼闻，天上天亦然，闻为第一藏，最富旅力强。</span></p>
+<p><span lang="EN-US">60 智者为闻屈，好道者亦乐，王者尽心事，虽释梵亦然。</span></p>
+<p><span lang="EN-US">61 仙人常敬闻，况贵巨富人，是以慧为贵，可礼无过是。</span></p>
+<p><span lang="EN-US">62 事日为明故，事父为恩故，事君以力故，闻故事道人。</span></p>
+<p><span lang="EN-US">63 人为命事医，欲胜依豪强，法在智慧处，福行世世明。</span></p>
+<p><span lang="EN-US">64 察友在为谋，别伴在急时，观妻在房乐，欲知智 在说。</span></p>
+<p><span lang="EN-US">65 闻为今世利，妻子昆弟友，亦致后世福，积闻成圣智。</span></p>
+<p><span lang="EN-US">66 是能散忧恚，亦除不祥衰，欲得安隐吉，当事多闻者。</span></p>
+<p><span lang="EN-US">67 斫创无过忧，射箭无过愚，是壮莫能拔，唯从多闻除。</span></p>
+<p><span lang="EN-US">68 盲从是得眼，闇者从得烛，亦导世间人，如目将无目。</span></p>
+<p><span lang="EN-US">69 是故可舍痴，离慢豪富乐，务学事闻者，是名积聚德。</span></p>
+<p><a name="a204"></a><span style="color:#333399">第四<span lang="EN-US">&nbsp;&nbsp;笃信品，十有八章</span></span></p>
+<p>笃信品者，立道之根果，于因正见，行不回顾。</p>
+<p><span lang="EN-US">70 信惭戒意财，是法雅士誉，斯道明智说，如是升天世。</span></p>
+<p><span lang="EN-US">71 愚不修天行，亦不誉布施，信施助善者，从是到彼安。</span></p>
+<p><span lang="EN-US">72 信者真人长，念法所住安，近者意得上，智寿寿中贤。</span></p>
+<p><span lang="EN-US">73 信能得道，法致灭度，从闻得智，所到有明。</span></p>
+<p><span lang="EN-US">74 信能度渊，摄为船师，精进除苦，慧到彼岸。</span></p>
+<p></p>
+<p><span lang="EN-US">75 士有信行，为圣所誉，乐无为者，一切缚解。</span></p>
+<p><span lang="EN-US">76 信之与戒，慧意能行，健夫度恚，从是脱渊。</span></p>
+<p><span lang="EN-US">77 信使戒诚，亦受智慧，在在能行，处处见养。</span></p>
+<p><span lang="EN-US">78 比方世利，慧信为明，是财上宝，家产非常。</span></p>
+<p><span lang="EN-US">79 欲见诸真，乐听讲法，能舍悭垢，此之为信。</span></p>
+<p><span lang="EN-US">80 信能度河，其福难夺，能禁止盗，野沙门乐。</span></p>
+<p><span lang="EN-US">81 无信不习，好剥正言，如拙取水，掘泉扬泥。</span></p>
+<p><span lang="EN-US">82 贤夫习智，乐仰清流，如善取水，思令不扰。</span></p>
+<p><span lang="EN-US">83 信不染他，唯贤与人，可好则学，非好则远。</span></p>
+<p><span lang="EN-US">84 信为我舆，莫知斯载，如大象调，自调最胜。</span></p>
+<p><span lang="EN-US">85 信财戒财，惭愧亦财，闻财施财，慧为七财。</span></p>
+<p>86&nbsp; 从信守戒，常净观法，慧而利行，奉敬不忘。</p>
+<p>87&nbsp; 生有此财，不问男女，终以不贫，贤者识真。</p>
+<p><a name="a205"></a><span style="color:#333399">第五<span lang="EN-US">&nbsp;&nbsp;戒慎品，十有六章</span></span></p>
+<p>诫慎品者，授与善道，禁制邪非，后无所悔也。</p>
+<p>88&nbsp; 人而常清，奉律至终，净修善行，如是戒成。</p>
+<p>89&nbsp; 慧人护戒，福致三宝，名闻得利，后上天乐。</p>
+<p>90&nbsp; 常见法处，护戒为明，得成真见，辈中吉祥。</p>
+<p>91&nbsp; 持戒者安，令身无恼，夜卧恬淡，寤则常欢。</p>
+<p>92&nbsp; 修戒布施，作福为福，从是适彼，常到安处。</p>
+<p>93&nbsp; 何终为善？何善安止？何为人宝？何盗不取？</p>
+<p>94&nbsp; 戒终老安，戒善安止，慧为人宝，福盗不取。</p>
+<p>95&nbsp; 比丘立戒，守摄诸根，食知自节，悟意令应。</p>
+<p>96&nbsp; 以戒降心，守意正定，内学正观，无忘正智。</p>
+<p>97&nbsp; 明哲守戒，内思正智，行道如应，自清除苦。</p>
+<p>98&nbsp; 蠲除诸垢，尽慢勿生，终身求法，勿暂离圣。</p>
+<p>99&nbsp; 戒定慧解，是当善惟，都已离垢，无祸除有。</p>
+<p><span lang="EN-US">100 著解则度，余不复生，越诸魔界，如日清明。</span></p>
+<p><span lang="EN-US">101 狂惑自恣，已常外避，戒定慧行，求满勿离。</span></p>
+<p><span lang="EN-US">102 持戒清净，心不自恣，正智已解，不睹邪部。</span></p>
+<p><span lang="EN-US">103 是往吉处，为无上道，亦舍非道，离诸魔界。</span></p>
+<p><a name="a206"></a><span style="color:#333399">第六<span lang="EN-US">&nbsp;&nbsp;惟念品，十有二章</span></span></p>
+<p>惟念品者，守微之始，内思安般，必解道纪。</p>
+<p><span lang="EN-US">104 出息入息念，具满谛思惟，从初竟通利，安如佛所说。</span></p>
+<p><span lang="EN-US">105 是则昭世间，如云解月现，起止学思惟，坐卧不废忘。</span></p>
+<p><span lang="EN-US">106 比丘立是念，前利后则胜，始得终必胜，逝不睹生死。</span></p>
+<p><span lang="EN-US">107 若见身所住，六更以为最，比丘常一心，便自知泥洹。</span></p>
+<p></p>
+<p><span lang="EN-US">108 已有是诸念，自身常建行，若其不如是，终不得意行。</span></p>
+<p><span lang="EN-US">109 是随本行者，如是度爱劳，若能悟意念，知解一心乐。</span></p>
+<p><span lang="EN-US">110 应时等行法，是度老死恼，比丘悟意行，当令应是念。</span></p>
+<p><span lang="EN-US">111 诸念生死弃，为能作苦际，常当听微妙，自觉悟其意。</span></p>
+<p><span lang="EN-US">112 能觉者为贤，终始无所会，以觉意能应，日夜务学行。</span></p>
+<p><span lang="EN-US">113 当解甘露要，令诸漏得尽，夫人得善利，乃来自归佛。</span></p>
+<p><span lang="EN-US">114 是故当昼夜，常念佛法众，己知自觉意，是为佛弟子。</span></p>
+<p><span lang="EN-US">115 常当昼夜念，佛与法及僧，念身念非常，念戒布施德，空不愿无相，昼夜当念是。</span></p>
+<p><a name="a207"></a><span style="color:#333399">第七<span lang="EN-US">&nbsp;&nbsp;慈仁品，十有八章</span></span></p>
+<p>慈仁品者，是谓大人，圣人所履，德普无量。</p>
+<p><span lang="EN-US">116 为仁不杀，常能摄身，是处不死，所适无患。</span></p>
+<p><span lang="EN-US">117 不杀为仁，慎言守心，是处不死，所适无患。</span></p>
+<p><span lang="EN-US">118 彼乱已整，守以慈仁，见怒能忍，是为梵行。</span></p>
+<p><span lang="EN-US">119 至诚安徐，口无粗言，不嗔彼所，是谓梵行。</span></p>
+<p><span lang="EN-US">120 垂拱无为，不害众生，无所娆恼，是应梵行。</span></p>
+<p><span lang="EN-US">121 常以慈哀，净如佛教，知足知止，是度生死。</span></p>
+<p><span lang="EN-US">122 少欲好学，不惑于利，仁而不犯，世上所称。</span></p>
+<p><span lang="EN-US">123 仁寿无犯，不兴变快，人为诤扰，慧以嘿安。</span></p>
+<p><span lang="EN-US">124 普忧贤友，哀加众生，常行慈心，所适者安。</span></p>
+<p><span lang="EN-US">125 仁儒不邪，安止无忧，上天卫之，智者乐慈。</span></p>
+<p><span lang="EN-US">126 昼夜念慈，心无克伐，不害众生，是行无仇。</span></p>
+<p><span lang="EN-US">127 不慈则杀，违戒言妄，过不与他，不观众生。</span></p>
+<p><span lang="EN-US">128 酒致失志，为放逸行，后堕恶道，无诚不真。</span></p>
+<p><span lang="EN-US">129 履仁行慈，博爱济众，有十一誉：福常随身、卧安觉安、不见恶梦。</span></p>
+<p><span lang="EN-US">130 天护人爱、不毒不兵、水火不丧、在所得利、死升梵天、是为十一。</span></p>
+<p><span lang="EN-US">131 若念慈心，无量不废，生死渐薄，得利度世。</span></p>
+<p><span lang="EN-US">132 仁无乱志，慈最可行，愍伤众生，此福无量。</span></p>
+<p><span lang="EN-US">133 假令尽寿命，勤事天下人，象马以祠天，不如行一慈。</span></p>
+<p><a name="a208"></a><span style="color:#333399">第八<span lang="EN-US">&nbsp;&nbsp;言语品，十有二章</span></span></p>
+<p>言语品者，所以戒口，发说谈论，当用道理。</p>
+<p><span lang="EN-US">134 恶言骂詈，憍陵蔑人，兴起是行，疾怨滋生。</span></p>
+<p><span lang="EN-US">135 逊言顺辞，尊敬于人，弃结忍恶，疾怨自灭。</span></p>
+<p><span lang="EN-US">136 夫士之生，斧在口中，所以斩身，由其恶言。</span></p>
+<p><span lang="EN-US">137 诤为少利，如掩失财，从彼致诤，令意向恶。</span></p>
+<p><span lang="EN-US">138 誉恶恶所誉，是二俱为恶，好以口侩斗，是后皆无安。</span></p>
+<p><span lang="EN-US">139 无道堕恶道，自增地狱苦，远愚修忍意，念谛则无犯。</span></p>
+<p><span lang="EN-US">140 从善得解脱，为恶不得解，善解者为贤，是为脱恶恼。</span></p>
+<p><span lang="EN-US">141 解自抱损意，不躁言得中，义说如法说，是言柔软甘。</span></p>
+<p><span lang="EN-US">142 是以言语者，必使己无患，亦不克众人，是为能善言。</span></p>
+<p><span lang="EN-US">143 言使投意可，亦令得欢喜，不使至恶意，出言众悉可。</span></p>
+<p><span lang="EN-US">144 至诚甘露说，如法而无过，谛如义如法，是为近道立。</span></p>
+<p><span lang="EN-US">145 说如佛言者，是吉得灭度，为能作浩际，是谓言中上。</span></p>
+<p><a name="a209"></a><span style="color:#333399">第九<span lang="EN-US">&nbsp;&nbsp;双要品，二十有二章</span></span></p>
+<p>双要品者，两两相明，善恶有对，举义不单。</p>
+<p><span lang="EN-US">146 心为法本，心尊心使，中心念恶，即言即行，罪苦自追，车轹于辙。</span></p>
+<p><span lang="EN-US">147 心为法本，心尊心使，中心念善，即言即行，福乐自追，如影随形。</span></p>
+<p><span lang="EN-US">148 随乱意行，拘愚入冥，自大无法，何解善言。</span></p>
+<p><span lang="EN-US">149 随正意行，开解清明，不为妒嫉，敏达善言。</span></p>
+<p><span lang="EN-US">150 愠于怨者，未尝无怨，不愠自除，是道可宗。</span></p>
+<p><span lang="EN-US">151 不好责彼，务自省身，如有知此，永灭无患。</span></p>
+<p><span lang="EN-US">152 行见身净，不摄诸根，饮食不节，慢堕怯弱，为邪所制，如风靡草。</span></p>
+<p><span lang="EN-US">153 观身不净，能摄诸根，食知节度，常乐精进，不为邪动，如风大山。</span></p>
+<p><span lang="EN-US">154 不吐毒态，欲心驰骋，未能自调，不应法衣。</span></p>
+<p><span lang="EN-US">155 能吐毒态，戒意安静，降心已调，此应法衣。</span></p>
+<p><span lang="EN-US">156 以真为伪，以伪为真，是为邪计，不得真利。</span></p>
+<p><span lang="EN-US">157 知真为真，见伪知伪，是为正计，必得真利。</span></p>
+<p><span lang="EN-US">158 盖屋不密，天雨则漏，意不惟行，淫泆为穿。</span></p>
+<p><span lang="EN-US">159 盖屋善密，雨则不漏，摄意惟行，淫泆不生。</span></p>
+<p><span lang="EN-US">160 鄙夫染人，如近臭物，渐迷习非，不觉成恶。</span></p>
+<p><span lang="EN-US">161 贤夫染人，如近香熏，进智习善，行成洁芳。</span></p>
+<p><span lang="EN-US">162 造忧后忧，行恶两忧，彼忧惟惧，见罪心懅。</span></p>
+<p><span lang="EN-US">163 造喜后喜，行善两喜，彼喜惟欢，见福心安。</span></p>
+<p><span lang="EN-US">164 今悔后悔，为恶两悔，厥为自殃，受罪热恼。</span></p>
+<p><span lang="EN-US">165 今欢后欢，为善两欢，厥为自佑，受福悦豫。</span></p>
+<p><span lang="EN-US">166 巧言多求，放荡无戒，怀淫怒痴，不惟止观，聚如群牛，非佛弟子。</span></p>
+<p><span lang="EN-US">167 时言少求，行道如法，除淫怒痴，觉正意解，见对不起，是佛弟子。</span></p>
+<p><a name="a210"></a><span style="color:#333399">第十<span lang="EN-US">&nbsp;&nbsp;放逸品，有二十章</span></span></p>
+<p>放逸品者，引律戒情，防邪捡失，以道劝贤。</p>
+<p><span lang="EN-US">168 戒为甘露道，放逸为死径，不贪则不死，失道为自丧。</span></p>
+<p><span lang="EN-US">169 慧智守道胜，终不为放逸，不贪致欢喜，从是得道乐。</span></p>
+<p><span lang="EN-US">170 常当惟念道，自强守正行，健者得度世，吉祥无有上。</span></p>
+<p><span lang="EN-US">171 正念常兴起，行净恶易灭，自制以法寿，不犯善名增。</span></p>
+<p><span lang="EN-US">172 发行不放逸，约以自调心，慧能作定明，不返冥渊中。</span></p>
+<p><span lang="EN-US">173 愚人意难解，贪乱好诤讼，上智常重慎，护斯为宝尊。</span></p>
+<p><span lang="EN-US">174 莫贪莫好诤，亦莫嗜欲乐，思心不放逸，可以获大安。</span></p>
+<p><span lang="EN-US">175 放逸如自禁，能却之为贤，已升智慧阁，去危为即安。</span></p>
+<p><span lang="EN-US">176 明智观于愚，譬如山与地，居乱而身正，彼为独觉悟。</span></p>
+<p><span lang="EN-US">177 是力过师子，弃恶为大智，睡眠重若山，痴冥为所弊。</span></p>
+<p><span lang="EN-US">178 安卧不计苦，是以常受胎，不为时自恣，能制漏得尽。</span></p>
+<p><span lang="EN-US">179 自恣魔得便，如师子搏鹿，能不自恣者，是为戒比丘。</span></p>
+<p><span lang="EN-US">180 彼思正净者，常当自护心，比丘谨慎乐，放逸多忧苦。</span></p>
+<p><span lang="EN-US">181 变诤小致大，积恶入火焰，守戒福致善，犯戒有惧心，能断三界漏，此乃近泥洹。</span></p>
+<p><span lang="EN-US">182 若前放逸，后能自禁，是昭世间，念定其宜。</span></p>
+<p><span lang="EN-US">183 过失为恶，追覆以善，是昭世间，念善其宜。</span></p>
+<p><span lang="EN-US">184 少庄舍家，盛修佛教，是昭世间，如月云消。</span></p>
+<p><span lang="EN-US">185 人前为恶，后止不犯，是昭世间，如月云消。</span></p>
+<p><span lang="EN-US">186 生不施恼，死而不戚，是见道悍，应中勿忧。</span></p>
+<p><span lang="EN-US">187 断浊黑法，学惟清白，度渊不反，弃猗行止，不复染乐，欲断无忧。</span></p>
+<p><a name="a211"></a><span style="color:#333399">第十一<span lang="EN-US">&nbsp;&nbsp;心意品，十有二章</span></span></p>
+<p>心意品者，说意精神，虽空无形，造作无竭。</p>
+<p><span lang="EN-US">188 意使作狗，难护难禁，慧正其本，其明乃大。</span></p>
+<p><span lang="EN-US">189 轻躁难持，唯欲是从，制意为善，自调则宁。</span></p>
+<p><span lang="EN-US">190 意微难见，随欲而行，慧常自护，能守即安。</span></p>
+<p><span lang="EN-US">191 独行远逝，覆藏无形，损意近道，魔系乃解。</span></p>
+<p><span lang="EN-US">192 心无住息，亦不知法，迷于世事，无有正智。</span></p>
+<p><span lang="EN-US">193 念无适止，不绝无边，福能遏恶，觉者为贤。</span></p>
+<p><span lang="EN-US">194 佛说心法，虽微非真，当觉逸意，莫随放心。</span></p>
+<p><span lang="EN-US">195 见法最安，所愿得成，慧护微意，断苦因缘。</span></p>
+<p><span lang="EN-US">196 有身不久，皆当归土，形坏神去，寄住何贪。</span></p>
+<p><span lang="EN-US">197 心豫造处，往来无端，念多邪僻，自为招患。</span></p>
+<p><span lang="EN-US">198 是意自造，非父母为，可勉向正，为福勿回。</span></p>
+<p></p>
+<p><span lang="EN-US">199 藏六如龟，防意如城，慧与魔战，胜则无患。</span></p>
+<p><a name="a212"></a><span style="color:#333399">第十二<span lang="EN-US">&nbsp;&nbsp;华香品，十有七章</span></span></p>
+<p>华香品者，明学当行，因华见实，使伪反真。</p>
+<p><span lang="EN-US">200 孰能择地，舍鉴取天，谁说法句，如择善华。</span></p>
+<p><span lang="EN-US">201 学者择地，舍鉴取天，善说法句，能采德华。</span></p>
+<p><span lang="EN-US">202 知世坏喻，幻法忽有，断魔华敷，不睹生死。</span></p>
+<p><span lang="EN-US">203 见身如沫，幻法自然，断魔华敷，不睹生死。</span></p>
+<p><span lang="EN-US">204 身病则萎，若华零落，死命来至，如水湍骤。</span></p>
+<p><span lang="EN-US">205 贪欲无厌，消散人念，邪致之财，为自侵欺。</span></p>
+<p><span lang="EN-US">206 如蜂集华，不娆色香，但取昧去，仁入聚然。</span></p>
+<p><span lang="EN-US">207 不务观彼，作与不作，常自省身，知正不正。</span></p>
+<p><span lang="EN-US">208 如可意华，色好无香，工语如是，不行无得。</span></p>
+<p><span lang="EN-US">209 如可意华，色美且香，工语有行，必得其福。</span></p>
+<p><span lang="EN-US">210 多作宝花，结步摇绮，广积德香，所生转好。</span></p>
+<p><span lang="EN-US">211 奇草芳花，不逆风熏，近道敷开，德人逼香。</span></p>
+<p><span lang="EN-US">212 旃檀多香，青莲芳花，虽曰是真，不如戒香。</span></p>
+<p><span lang="EN-US">213 华香气微，不可谓真，持戒之香，到天殊胜。</span></p>
+<p><span lang="EN-US">214 戒具成就，行无放逸，定意度脱，长离魔道。</span></p>
+<p><span lang="EN-US">215 如作田沟，近于大道，中生莲华，香洁可意。</span></p>
+<p><span lang="EN-US">216 有生死然，凡夫处边，慧者乐出，为佛弟子。</span></p>
+<p><a name="a213"></a><span style="color:#333399">第十三<span lang="EN-US">&nbsp;&nbsp;愚闇品，二十有一章</span></span></p>
+<p>愚闇品者，将以开曚，故陈其态，欲使窥明。</p>
+<p><span lang="EN-US">217 不寐夜长，疲惓道长，愚生死长，莫知正法。</span></p>
+<p><span lang="EN-US">218 痴意常冥，逝如流川，在一行疆，独而无偶。</span></p>
+<p><span lang="EN-US">219 愚人著数，忧戚久长，与愚居苦，于我犹怨。</span></p>
+<p><span lang="EN-US">220 有子有财，愚惟汲汲，我且非我，何忧子财？</span></p>
+<p><span lang="EN-US">221 暑当止此，寒当止此，愚多务虑，莫知来变。</span></p>
+<p><span lang="EN-US">222 愚曚愚极，自谓我智，愚而胜智，是谓极愚。</span></p>
+<p><span lang="EN-US">223 顽闇近智，如瓢斟味，虽久狎习，犹不知法。</span></p>
+<p><span lang="EN-US">224 开达近智，如舌尝味，虽须臾习，即解道要。</span></p>
+<p><span lang="EN-US">225 愚人施行，为身招患，快心作恶，自致重殃。</span></p>
+<p><span lang="EN-US">226 行为不善，退见悔吝，致涕流面，报由宿习。</span></p>
+<p><span lang="EN-US">227 行为德善，进睹欢喜，应来受福，喜笑悦习。</span></p>
+<p><span lang="EN-US">228 过罪未熟，愚以恬惔，至其熟处，自受大罪。</span></p>
+<p><span lang="EN-US">229 愚所望处，不谓适苦，临堕厄地，乃知不善。</span></p>
+<p><span lang="EN-US">230 愚蠢作恶，不能自解，殃追自焚，罪成炽燃。</span></p>
+<p><span lang="EN-US">231 愚好美食，日月滋甚，于十六分，未一思法。</span></p>
+<p><span lang="EN-US">232 愚生念虑，至终无利，自招刀杖，报有印章。</span></p>
+<p><span lang="EN-US">233 观处知其愚，不施而广求，所堕无道智，往往有恶行。</span></p>
+<p><span lang="EN-US">234 远道近欲者，为食在学名，贪猗家居故，多取供异姓。</span></p>
+<p><span lang="EN-US">235 学莫堕二望，莫作家沙门，贪家违圣教，为后自匮乏。</span></p>
+<p><span lang="EN-US">236 此行与愚同，但令欲慢增，利求之愿异，求道意亦异。</span></p>
+<p><span lang="EN-US">237 是以有识者，出为佛弟子，弃爱舍世习，终不堕生死。</span></p>
+<p><a name="a214"></a><span style="color:#333399">第十四<span lang="EN-US">&nbsp;&nbsp;明哲品，十有六章</span></span></p>
+<p>明哲品者，举智行者，修福进道，法为明镜。</p>
+<p><span lang="EN-US">238 深观善恶，心知畏忌，畏而不犯，终吉无忧，故世有福，念思绍行，善致其愿，福禄转胜。</span></p>
+<p><span lang="EN-US">239 信善作福，积行不厌，信知阴德，久而必彰。</span></p>
+<p><span lang="EN-US">240 常避无义，不亲愚人，思从贤友，押附上士。</span></p>
+<p><span lang="EN-US">241 喜法卧安，心悦意清，圣人演法，慧常乐行。</span></p>
+<p><span lang="EN-US">242 仁人智者，斋戒奉道，如星中月，照明世间。</span></p>
+<p><span lang="EN-US">243 弓工调角，水人调船，材匠调木，智者调身。</span></p>
+<p><span lang="EN-US">244 譬如厚石，风不能移，智者意重，毁誉不倾。</span></p>
+<p><span lang="EN-US">245 譬如深渊，澄静清明，慧人闻道，心净欢然。</span></p>
+<p><span lang="EN-US">246 大人体无欲，在所照然明，虽或遭苦乐，不高现其智。</span></p>
+<p><span lang="EN-US">247 大贤无世事，不愿子财国，常守戒慧道，不贪邪富贵。</span></p>
+<p><span lang="EN-US">248 智人知动摇，譬如沙中树，朋友志未强，随色染其素。</span></p>
+<p><span lang="EN-US">249 世皆没渊，鲜克度岸，如或有人，欲度必奔。</span></p>
+<p><span lang="EN-US">250 诚贪道者，览受正教，此近彼岸，脱死为上。</span></p>
+<p><span lang="EN-US">251 断五阴法，静思智慧，不反入渊，弃猗其明。</span></p>
+<p><span lang="EN-US">252 抑制情欲，绝乐无为，能自拯济，使意为慧。</span></p>
+<p><span lang="EN-US">253 学取正智，意惟正道，一心受谛，不起为乐，漏尽习除，是得度世。</span></p>
+<p><a name="a215"></a><span style="color:#333399">第十五<span lang="EN-US">&nbsp;&nbsp;罗汉品，十有一章</span></span></p>
+<p>罗汉品者，言真人性，脱欲无著，心不渝变。</p>
+<p><span lang="EN-US">254 去离忧患，脱于一切，缚结已解，冷而无暖。</span></p>
+<p><span lang="EN-US">255 心净得念，无所贪乐，已度痴渊，如雁弃池。</span></p>
+<p><span lang="EN-US">256 量腹而食，无所藏积，心空无想，度众行地，</span></p>
+<p><span lang="EN-US">257 如空中鸟，远逝无碍，世间习尽，不复仰食。</span></p>
+<p><span lang="EN-US">258 虚心无患，已到脱处，譬如飞鸟，暂下辄逝。</span></p>
+<p><span lang="EN-US">259 制根从止，如马调御，舍憍慢习，为天所敬。</span></p>
+<p><span lang="EN-US">260 不怒如地，不动如山，真人无垢，生死世绝。</span></p>
+<p><span lang="EN-US">261 心已休息，言行亦正，从正解脱，寂然归灭。</span></p>
+<p><span lang="EN-US">262 弃欲无著，缺三界障，望意已绝，是谓上人。</span></p>
+<p><span lang="EN-US">263 在聚若野，平地高岸，应真所过，莫不蒙佑。</span></p>
+<p><span lang="EN-US">264 彼乐空闲，众人不能，快哉无望，无所欲求。</span></p>
+<p><a name="a216"></a><span style="color:#333399">第十六<span lang="EN-US">&nbsp;&nbsp;述千品，十有六章</span></span></p>
+<p>述千品者，示学者径，多而不要，不如约明。</p>
+<p><span lang="EN-US">265 虽诵千言，句义不正，不如一要，闻可灭意。</span></p>
+<p><span lang="EN-US">266 虽诵千言，不义何益，不如一义，闻行可度。</span></p>
+<p><span lang="EN-US">267 虽多诵经，不解何益，解一法句，行可得道。</span></p>
+<p><span lang="EN-US">268 千千为敌，一夫胜之，未若自胜，为战中上。</span></p>
+<p><span lang="EN-US">269 自胜最贤，故曰人雄，护意调身，自损至终。</span></p>
+<p></p>
+<p><span lang="EN-US">270 虽曰尊天，神魔梵释，皆莫能胜，自胜之人。</span></p>
+<p><span lang="EN-US">271 月千反祠，终身不辍，不如须臾，一心念法，一念道福，胜彼终身。</span></p>
+<p><span lang="EN-US">272 虽终百岁，奉事火祠，不如须臾，供养三尊，一供养福，胜彼百年。</span></p>
+<p><span lang="EN-US">273 祭神以求福，从后观其报，四分未望一，不如礼贤者。</span></p>
+<p><span lang="EN-US">274 能善行礼节，常敬长老者，四福自然增，色力寿而安。</span></p>
+<p><span lang="EN-US">275 若人寿百岁，远正不持戒，不如生一日，守戒正意禅。</span></p>
+<p><span lang="EN-US">276 若人寿百岁，邪伪无有智，不如生一日，一心学正智。</span></p>
+<p><span lang="EN-US">277 若人寿百岁，懈怠不精进，不如生一日，勉力行精进。</span></p>
+<p><span lang="EN-US">278 若人寿百岁，不知成败事，不如生一日，见微知所忌。</span></p>
+<p><span lang="EN-US">279 若人寿百岁，不见甘露道，不如生一日，服行甘露味。</span></p>
+<p><span lang="EN-US">280 若人寿百岁，不知大道义，不如生一日，学推佛法要。</span></p>
+<p><a name="a217"></a><span style="color:#333399">第十七<span lang="EN-US">&nbsp;&nbsp;恶行品，二十有二章</span></span></p>
+<p>恶行品者，感切恶人，动有罪报，不行无患。</p>
+<p><span lang="EN-US">281 见善不从，反随恶心，求福不正，反乐邪淫。</span></p>
+<p><span lang="EN-US">282 凡人为恶，不能自觉，愚痴快意，令后郁毒。</span></p>
+<p><span lang="EN-US">283 歹凶人行虐，沈渐数数，快欲为人，罪报自然。</span></p>
+<p><span lang="EN-US">284 吉人行德，相随积增，甘心为之，福应自然。</span></p>
+<p><span lang="EN-US">285 妖孽见福，其恶未熟，至其恶熟，自受罪虐。</span></p>
+<p><span lang="EN-US">286 祯祥见祸，其善未熟，至其善熟，必受其福。</span></p>
+<p><span lang="EN-US">287 击人得击，行怨得怨，骂人得骂，施怒得怒。</span></p>
+<p><span lang="EN-US">288 世人无闻，不知正法，生此寿少，何宜为恶。</span></p>
+<p><span lang="EN-US">289 莫轻小恶，以为无殃，水滴虽微，渐盈大器，凡罪充满，从小积成。</span></p>
+<p><span lang="EN-US">290 莫轻小善，以为无福，水滴虽微，渐盈大器，凡福充满，从纤纤积。</span></p>
+<p><span lang="EN-US">291 夫士为行，好之与恶，各自为身，终不败亡。</span></p>
+<p><span lang="EN-US">292 好取之士，自以为可，没取彼者，人亦没之。</span></p>
+<p><span lang="EN-US">293 恶不即时，如构牛乳，罪在阴祠，如灰覆火。</span></p>
+<p><span lang="EN-US">294 戏笑为恶，以作身行，号泣受报，随行罪至。</span></p>
+<p><span lang="EN-US">295 作恶不覆，如兵所截，牵往乃知，已堕恶行，后受苦报，如前所习。</span></p>
+<p><span lang="EN-US">296 如毒摩疮，船入洄澓。恶行流僽，靡不伤克。</span></p>
+<p><span lang="EN-US">297 加恶诬罔人，清白犹不污，愚殃反自及，如尘逆风坌。</span></p>
+<p><span lang="EN-US">298 过失犯非恶，能追悔为善，是明照世间，如日无云曀。</span></p>
+<p><span lang="EN-US">299 夫士所以行，然后身自见，为善则得善，为恶则得恶。</span></p>
+<p><span lang="EN-US">300 有识堕胞胎，恶者入地狱，行善上升天，无为得泥洹。</span></p>
+<p><span lang="EN-US">301 非空非海中，非隐山石间，莫能于此处，避免宿恶殃。</span></p>
+<p><span lang="EN-US">302 众生有苦恼，不得免老死，唯有仁智者，不念人非恶。</span></p>
+<p><a name="a218"></a><span style="color:#333399">第十八<span lang="EN-US">&nbsp;&nbsp;刀杖品，十有四章</span></span></p>
+<p>刀杖品者，教习慈仁，无行刀杖，贼害众生。</p>
+<p><span lang="EN-US">303 一切皆惧死，莫不畏杖痛，恕己可为譬，勿杀勿行杖。</span></p>
+<p><span lang="EN-US">304 能常安群生，不加诸楚毒，现世不逢害，后世长安隐。</span></p>
+<p><span lang="EN-US">305 不当粗言，言当畏报，恶往祸来，刀杖归躯。</span></p>
+<p><span lang="EN-US">306 出言以善，如叩钟磬，身无论议，度世则易。</span></p>
+<p><span lang="EN-US">307 欧杖良善，妄谗无罪，其殃十倍，灾迅无赦：</span></p>
+<p><span lang="EN-US">308 生受酷痛，形体毁折，自然恼病，失意恍惚，</span></p>
+<p><span lang="EN-US">309 人所诬咎，或县官厄，财产耗尽，亲戚离别，</span></p>
+<p><span lang="EN-US">310 舍宅所有，灾火焚烧，死入地狱。如是为十。</span></p>
+<p><span lang="EN-US">311 虽□剪发，长服草衣，沐浴踞石，奈痴结何？</span></p>
+<p><span lang="EN-US">312 不伐杀烧，亦不求胜，人爱天下，所适无怨。</span></p>
+<p><span lang="EN-US">313 世傥有人，能知惭愧，是名诱进，如策良马。</span></p>
+<p><span lang="EN-US">314 如策善马，进道能远，人有信戒，定意精进，受道慧成，便灭众苦。</span></p>
+<p><span lang="EN-US">315 自严以修法，灭损受净行，杖不加群生，是沙门道人。</span></p>
+<p><span lang="EN-US">316 无害于天下，终身不遇害，常慈于一切，孰能与为怨？</span></p>
+<p><a name="a219"></a><span style="color:#333399">第十九<span lang="EN-US">&nbsp;&nbsp;老耗品，十有四章</span></span></p>
+<p>老耗品者，诲人勤仂，不与命竞，老悔何益。</p>
+<p><span lang="EN-US">317 何喜何笑？命常炽然，深弊幽冥，不如求锭。</span></p>
+<p><span lang="EN-US">318 见身形范，倚以为安，多想致病，岂知非真？</span></p>
+<p><span lang="EN-US">319 老则色衰，病无光泽，皮缓肌缩，死命近促。</span></p>
+<p><span lang="EN-US">320 身死神徒，如御弃车，肉消骨散，身何可怙？</span></p>
+<p><span lang="EN-US">321 身为如城，骨干肉涂，生至老死，但藏恚慢。</span></p>
+<p><span lang="EN-US">322 老则形变，喻如故车，法能除苦，宜以仂学。</span></p>
+<p><span lang="EN-US">323 人之无闻，老若特牛，但长肌肥，无有福慧。</span></p>
+<p><span lang="EN-US">324 生死无聊，往来艰难，意猗贪身，生苦无端。</span></p>
+<p><span lang="EN-US">325 慧以见苦，是故弃身，灭意断行，爱尽无生。</span></p>
+<p><span lang="EN-US">326 不修梵行，又不富财，老如白鹭，守伺空池。</span></p>
+<p><span lang="EN-US">327 既不守戒，又不积财，老羸气竭，思故何逮？</span></p>
+<p><span lang="EN-US">328 老如秋叶，何秽鉴录，命疾脱至，亦用后悔。</span></p>
+<p><span lang="EN-US">329 命欲日夜尽，及时可劝力，世间谛非常，莫惑堕冥中。</span></p>
+<p><span lang="EN-US">330 当学燃意灯，自练求智慧，离垢勿染污，执烛观道地。</span></p>
+<p><a name="a220"></a><span style="color:#333399">第二十<span lang="EN-US">&nbsp;&nbsp;爱身品，十有三章</span></span></p>
+<p>爱身品者，所以劝学，终有益己，灭罪兴福。</p>
+<p><span lang="EN-US">331 自爱身者，慎护所守，悕望欲解，学正不寐。</span></p>
+<p><span lang="EN-US">332 为身第一，常自勉学，利乃诲人，不惓则智。</span></p>
+<p><span lang="EN-US">333 学先自正，然后正人，调身入慧，必迁为上。</span></p>
+<p><span lang="EN-US">334 身不能利，安能利人，心调体正，何愿不至。</span></p>
+<p><span lang="EN-US">335 本我所造，后我自受，为恶自更，如刚钻珠。</span></p>
+<p><span lang="EN-US">336 人不持戒，滋蔓如藤，逞情极欲，恶行日增。</span></p>
+<p><span lang="EN-US">337 恶行危身，愚以为易，善最安身，愚以为难。</span></p>
+<p><span lang="EN-US">338 如真人教，以道法身，愚者嫉之，见而为恶。</span></p>
+<p><span lang="EN-US">339 行恶得恶，如种苦种，恶自受罪，善自受福，亦各须熟，彼不自代。</span></p>
+<p><span lang="EN-US">340 习善得善，亦如种甜，自利利人，益而不费。欲知利身，戒闻为最。</span></p>
+<p><span lang="EN-US">341 如有自爱，欲生天上，敬乐闻法，当念佛教。</span></p>
+<p><span lang="EN-US">342 凡用必豫虑，勿以损所务，如是意日修，事务不失时。</span></p>
+<p><span lang="EN-US">343 夫治事之士，能至终成利，真见身应行，如是得所欲。</span></p>
+<p><a name="a221"></a><span style="color:#333399">第二十一<span lang="EN-US">&nbsp;&nbsp;世俗品，十有四章</span></span></p>
+<p>世俗品者，说世幻梦，当舍浮华，勉修道用。</p>
+<p><span lang="EN-US">344 如车行道，舍平大途，从邪径败，生折轴忧。</span></p>
+<p><span lang="EN-US">345 离法如是，从非法增，愚守至死，亦有折患。</span></p>
+<p><span lang="EN-US">346 顺行正道，勿随邪业，行住卧安，世世无患。</span></p>
+<p><span lang="EN-US">347 万物如泡，意如野马，居世若幻，奈何乐此？</span></p>
+<p><span lang="EN-US">348 若能断此，伐其树根，日夜如是，必至于定。</span></p>
+<p><span lang="EN-US">349 一施如信，如乐之人，或从恼意，以饭食众，此辈日夜，不得定意。</span></p>
+<p><span lang="EN-US">350 世俗无眼，莫见道真，如少见明，当养善意。</span></p>
+<p><span lang="EN-US">351 如雁将群，避罗高翔，明人导世，度脱邪众。</span></p>
+<p><span lang="EN-US">352 世皆有死，三界无安，诸天虽乐，福尽亦丧。</span></p>
+<p><span lang="EN-US">353 观诸世间，无生不终，欲离生死，当行道真。</span></p>
+<p><span lang="EN-US">354 痴覆天下，贪令不见，邪疑却道，苦愚从是。</span></p>
+<p><span lang="EN-US">355 一法脱过，谓妄语人，不免后世，靡恶不更。</span></p>
+<p><span lang="EN-US">356 虽多积珍宝，嵩高至于天，如是满世间，不如见道恸。</span></p>
+<p><span lang="EN-US">357 不善像如善，爱如似无爱，以苦为乐像，狂夫为所致。</span></p>
+<p><a name="a222"></a><span style="color:#333399">法句经卷下<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">尊者法救撰吴天竺沙门维袛难等译<span>&nbsp; </span></p>
+<p><span style="color:#333399">第二十二<span lang="EN-US">&nbsp;&nbsp;述佛品，二十有一章</span></span></p>
+<p>述佛品者，道佛神德，无不利度，明为世则。</p>
+<p><span lang="EN-US">358 己胜不受恶，一切胜世间，睿智廓无疆，开曚令入道。</span></p>
+<p><span lang="EN-US">359 决网无挂碍，爱尽无所积，佛意深无极，未践恸令践。</span></p>
+<p><span lang="EN-US">360 勇健立一心，出家日夜灭，根断无欲意，学正念清明。</span></p>
+<p><span lang="EN-US">361 见谛净无秽，已度五道渊，佛出照世间，为除众忧苦。</span></p>
+<p><span lang="EN-US">362 得生人道难，生寿亦难得，世间有佛难，佛法难得闻。</span></p>
+<p><span lang="EN-US">363 我既无归保，亦独无伴侣，积一行得佛，自然通圣道。</span></p>
+<p><span lang="EN-US">364 船师能渡水，精进为桥梁，人以种姓系，度者为健雄。</span></p>
+<p><span lang="EN-US">365 坏恶度为佛，止地为梵志，除馑为学法，断种为弟子。</span></p>
+<p><span lang="EN-US">366 观行忍第一，佛说泥洹最，舍罪作沙门，无娆害于彼。</span></p>
+<p><span lang="EN-US">367 不娆亦不恼，如戒一切持，少食舍身贪，有行幽隐处，意谛以有黠，是能奉佛教。</span></p>
+<p><span lang="EN-US">368 诸恶莫作，诸善奉行，自净其意，是诸佛教。</span></p>
+<p><span lang="EN-US">369 佛为尊贵，断漏无淫，诸释中雄，一群从心。</span></p>
+<p><span lang="EN-US">370 快哉福报，所愿皆成，敏于上寂，自致泥洹。</span></p>
+<p><span lang="EN-US">371 或多自归，山川树神，庙立图像，祭祠求福，</span></p>
+<p><span lang="EN-US">372 自归如是，非吉非上，彼不能来，度我众苦。</span></p>
+<p><span lang="EN-US">373 如有自归，佛法圣众，道德四谛，必见正慧。</span></p>
+<p><span lang="EN-US">374 生死极苦，从谛得度，度世八道，斯除众苦。</span></p>
+<p><span lang="EN-US">375 自归三尊，最吉最上，唯独有是，度一切苦。</span></p>
+<p><span lang="EN-US">376 士如中正，志道不悭，利哉斯人，自归佛者。</span></p>
+<p><span lang="EN-US">377 明人难值，亦不比有，其所生处，族亲蒙庆。</span></p>
+<p><span lang="EN-US">378 诸佛兴快，说经道快，众聚和快，和则常安。</span></p>
+<p><a name="a223"></a><span style="color:#333399">第二十三<span lang="EN-US">&nbsp;&nbsp;安宁品，十有四章</span></span></p>
+<p>安宁品者，差次安危，去恶即善，快而不堕。</p>
+<p><span lang="EN-US">379 我生已安，不愠于怨，众人有怨，我行无怨。</span></p>
+<p><span lang="EN-US">380 我生已安，不病于病，众人有病，我行无病。</span></p>
+<p><span lang="EN-US">381 我生已安，不戚于忧，众人有忧，我行无忧。</span></p>
+<p><span lang="EN-US">382 我生已安，清净无为，以乐为食，如光音天。</span></p>
+<p><span lang="EN-US">383 我生已安，澹泊无事，弥薪国火，安能烧我。</span></p>
+<p><span lang="EN-US">384 胜则生怨，负则自鄙，去胜负心，无争自安。</span></p>
+<p><span lang="EN-US">385 热无过淫，毒无过怒，苦无过身，乐无过灭。</span></p>
+<p><span lang="EN-US">386 无乐小乐，小辩小慧，观求大者，乃获大安。</span></p>
+<p><span lang="EN-US">387 我为世尊，长解无忧，正度三有，独降众魔。</span></p>
+<p><span lang="EN-US">388 见圣人快，得依附快，得离愚人，为善独快。</span></p>
+<p><span lang="EN-US">389 守正道快，工说法快，与世无诤，戒具常快。</span></p>
+<p><span lang="EN-US">390 依贤居快，如亲亲会，近仁智者，多闻高远。</span></p>
+<p><span lang="EN-US">391 寿命鲜少，而弃世多，学当取要，令至老安。</span></p>
+<p><span lang="EN-US">392 诸欲得甘露，弃欲灭谛快，欲度生死苦，当服甘露味。</span></p>
+<p><a name="a224"></a><span style="color:#333399">第二十四<span lang="EN-US">&nbsp;&nbsp;好喜品，十有二章</span></span></p>
+<p>好喜品者，禁人多喜，能不贪欲，则无忧患。</p>
+<p><span lang="EN-US">393 违道则自顺，顺道则自违，舍义取所好，是为顺爱欲。</span></p>
+<p><span lang="EN-US">394 不当趣所爱，亦莫有不爱，爱之不见忧，不爱见亦忧。</span></p>
+<p><span lang="EN-US">395 是以莫造爱，爱憎恶所由，已除缚结者，无爱无所憎。</span></p>
+<p><span lang="EN-US">396 爱喜生忧，爱喜生畏，无所爱喜，何忧何畏？</span></p>
+<p><span lang="EN-US">397 好乐生忧，好乐生畏，无所好乐，何忧何畏？</span></p>
+<p><span lang="EN-US">398 贪欲生忧，贪欲生畏，解无贪欲，何忧何畏？</span></p>
+<p><span lang="EN-US">399 贪法戒成，至诚知惭，行身近道，为众所爱。</span></p>
+<p><span lang="EN-US">400 欲态不出，思正乃语，心无贪爱，必截流渡。</span></p>
+<p><span lang="EN-US">401 譬人久行，从远吉还，亲厚普安，归来欢喜。</span></p>
+<p><span lang="EN-US">402 好行福者，从此到彼，自受福祚，如亲来喜。</span></p>
+<p><span lang="EN-US">403 起从圣教，禁制不善，近道见爱，离道莫亲。</span></p>
+<p><span lang="EN-US">404 近与不近，所住者异，近道升天，不近堕狱。</span></p>
+<p><a name="a225"></a><span style="color:#333399">第二十五<span lang="EN-US">&nbsp;&nbsp;忿怒品，二十有六章</span></span></p>
+<p>忿怒品者，见嗔恚害，宽弘慈柔，天佑人爱。</p>
+<p><span lang="EN-US">405 忿怒不见法，忿怒不知道，能除忿怒者，福喜常随身。</span></p>
+<p><span lang="EN-US">406 贪淫不见法，愚痴意亦然，除淫去痴者，其福第一尊。</span></p>
+<p><span lang="EN-US">407 恚能自制，如止奔车，是为善御，弃冥入明。</span></p>
+<p><span lang="EN-US">408 忍辱胜恚，善胜不善，胜者能施，至诚胜欺。</span></p>
+<p><span lang="EN-US">409 不欺不怒，意不多求，如是三事，死则上天。</span></p>
+<p><span lang="EN-US">410 常自摄身，慈心不杀，是生天上，到彼无忧。</span></p>
+<p><span lang="EN-US">411 意常觉寤，明暮勤学，漏尽意解，可致泥洹。</span></p>
+<p><span lang="EN-US">412 人相谤毁，自古至今，既毁多言，又毁讷忍，亦毁中和，世无不毁。</span></p>
+<p><span lang="EN-US">413 欲意非圣，不能制中，一毁一誉，但为利名。</span></p>
+<p><span lang="EN-US">414 明智所誉，唯称是贤，慧人守戒，无所讥谤。</span></p>
+<p><span lang="EN-US">415 如罗汉净，莫而诬谤，诸人咨嗟，梵释所称。</span></p>
+<p><span lang="EN-US">416 常守慎身，以护嗔恚，除身恶行，进修德行。</span></p>
+<p><span lang="EN-US">417 常守慎言，以护嗔恚，除口恶言，诵习法言。</span></p>
+<p><span lang="EN-US">418 常守慎心，以护嗔恚，除心恶念，思惟念道。</span></p>
+<p><span lang="EN-US">419 节身慎言，守摄其心，舍恚行道，忍辱最强。</span></p>
+<p><span lang="EN-US">420 舍恚离慢，避诸爱会，不著名色，无为灭苦。</span></p>
+<p><span lang="EN-US">421 起而解怒，淫生自禁，舍不明健，斯皆得安。</span></p>
+<p><span lang="EN-US">422 嗔断卧安，恚灭淫忧，怒为毒本，软意梵志，言善得誉，断为无患。</span></p>
+<p><span lang="EN-US">423 同志相近，详为作恶，后别余恚，火自烧恼。</span></p>
+<p><span lang="EN-US">424 不知惭愧，无戒有怒，为怒所牵，不厌有务。</span></p>
+<p><span lang="EN-US">425 有力近兵，无力近软，夫忍为上，宜常忍羸。</span></p>
+<p><span lang="EN-US">426 举众轻之，有力者忍，夫忍为上，宜常忍羸。</span></p>
+<p><span lang="EN-US">427 自我与彼，大畏有三，如知彼作，宜灭己中。</span></p>
+<p><span lang="EN-US">428 俱两行义，我为彼教，如知彼作，宜灭己中。</span></p>
+<p><span lang="EN-US">429 苦智胜愚，粗言恶说，欲常胜者，于言宜默。</span></p>
+<p></p>
+<p><span lang="EN-US">430 夫为恶者，怒有怒报，怒不报怒，胜彼斗负。</span></p>
+<p><a name="a226"></a><span style="color:#333399">第二十六<span lang="EN-US">&nbsp;&nbsp;尘垢品，十有九章</span></span></p>
+<p>尘垢品者，分别清浊，学当洁白，无行污辱。</p>
+<p><span lang="EN-US">431 生无善行，死堕恶道，往疾无间，到无资用。</span></p>
+<p><span lang="EN-US">432 当求智慧，以然意定，去垢勿污，可离苦形。</span></p>
+<p><span lang="EN-US">433 慧人以渐，安徐稍进，洗除心垢，如工炼金。</span></p>
+<p><span lang="EN-US">434 恶生于心，还自坏形，如铁生垢，反食其身。</span></p>
+<p><span lang="EN-US">435 不诵为言垢，不勤为家垢，不严为色垢，放逸为事垢。</span></p>
+<p><span lang="EN-US">436 悭为惠施垢，不善为行垢，今世亦后世，恶法为常垢。</span></p>
+<p><span lang="EN-US">437 垢中之垢，莫甚于痴，学当舍恶，比丘无垢。</span></p>
+<p><span lang="EN-US">438 苟生无耻，如鸟长喙，强颜耐辱，名曰秽生。</span></p>
+<p><span lang="EN-US">439 廉耻虽苦，义取清白，避辱不妄，名曰洁生。</span></p>
+<p><span lang="EN-US">440 愚人好杀，言无诚实，不与而取，好犯人妇，</span></p>
+<p><span lang="EN-US">441 逞心犯戒，迷惑于酒，斯人世世，自掘身本。</span></p>
+<p><span lang="EN-US">442 人如觉是，不当念恶，愚近非法，久自烧没。</span></p>
+<p><span lang="EN-US">443 若信布施，欲扬名誉，会人虚饰，非入净定。</span></p>
+<p><span lang="EN-US">444 一切断欲，截意根原，昼夜守一，必入定意。</span></p>
+<p><span lang="EN-US">445 著垢为尘，从染尘漏，不染不行，净而离愚。</span></p>
+<p><span lang="EN-US">446 见彼自侵，常内自省，行漏自欺，漏尽无垢。</span></p>
+<p><span lang="EN-US">447 火莫热于淫，捷莫疾于怒，网莫密于痴，爱流驶乎河。</span></p>
+<p><span lang="EN-US">448 虚空无辙恸，沙门无外意，众人尽乐恶，唯佛净无秽。</span></p>
+<p><span lang="EN-US">449 虚空无辙恸，沙门无外意，世间皆无常，佛无我所有。</span></p>
+<p><a name="a227"></a><span style="color:#333399">第二十七<span lang="EN-US">&nbsp;&nbsp;奉持品，十有七章</span></span></p>
+<p>奉持品者，解说道义，法贵德行，不用贪侈。</p>
+<p><span lang="EN-US">450 好经道者，不竞于利，有利无利，无欲不惑。</span></p>
+<p><span lang="EN-US">451 常愍好学，正心以行，拥怀宝慧，是谓为道。</span></p>
+<p><span lang="EN-US">452 所谓智者，不必辩言，无恐无惧，守善为智。</span></p>
+<p><span lang="EN-US">453 奉持法者，不以多言，虽素少闻，身依法行，守道不忌，可谓奉法。</span></p>
+<p><span lang="EN-US">454 所谓老者，不必年耆，形熟发白，蠢愚而已。</span></p>
+<p></p>
+<p><span lang="EN-US">455 谓怀谛法，顺调慈仁，明远清洁，是为长老。</span></p>
+<p><span lang="EN-US">456 所谓端政，非色如花，悭嫉虚饰，言行有违。</span></p>
+<p><span lang="EN-US">457 谓能舍恶，根原已断，慧而无恚，是谓端政。</span></p>
+<p><span lang="EN-US">458 所谓沙门，非必除发，妄语贪取，有欲如凡。</span></p>
+<p><span lang="EN-US">459 谓能止恶，恢廓弘道，息心灭意，是为沙门。</span></p>
+<p><span lang="EN-US">460 所谓比丘，非时乞食，邪行淫彼，称名而已。</span></p>
+<p><span lang="EN-US">461 谓舍罪福，净修梵行，慧能破恶，是为比丘。</span></p>
+<p><span lang="EN-US">462 所谓仁明，非口不言，用心不净，外顺而已。</span></p>
+<p><span lang="EN-US">463 谓心无为，内行清虚，此彼寂灭，是为仁明</span></p>
+<p><span lang="EN-US">464 所谓有道，非救一物，普济天下，无害为道。</span></p>
+<p><span lang="EN-US">465 戒众不言，我行多诚，得定意者，要由闭损。</span></p>
+<p><span lang="EN-US">466 意解求安，莫习凡人，使结未尽，莫能得脱。</span></p>
+<p><a name="a228"></a><span style="color:#333399">第二十八<span lang="EN-US">&nbsp;&nbsp;道行品，二十有八章</span></span></p>
+<p>道行品者，旨说大要，度脱之道，此为极妙。</p>
+<p><span lang="EN-US">467 八直最上道，四谛为法迹，不淫行之尊，施灯必得眼。</span></p>
+<p><span lang="EN-US">468 是道无复畏，见净乃度世，此能坏魔兵，力行灭邪苦。</span></p>
+<p><span lang="EN-US">469 我已开正道，为大现异明，已闻当自行，行乃解邪缚。</span></p>
+<p><span lang="EN-US">470 生死非常苦，能观见为慧，欲离一切苦，行道一切除。</span></p>
+<p><span lang="EN-US">471 生死非常空，能观见为慧，欲离一切苦，但当勤行道。</span></p>
+<p><span lang="EN-US">472 起时当即起，莫如愚覆渊，与堕与瞻聚，计罢不进道。</span></p>
+<p><span lang="EN-US">473 念应念则正，念不应则邪，慧而不起邪，思正道乃成。</span></p>
+<p><span lang="EN-US">474 慎言守意念，身不善不行，如是三行除，佛说是得道。</span></p>
+<p><span lang="EN-US">475 断树无伐本，根在犹复生，除根乃无树，比丘得泥洹。</span></p>
+<p><span lang="EN-US">476 不能断树，亲戚相恋，贪意自缚，如犊慕乳。</span></p>
+<p><span lang="EN-US">477 能断意本，生死无疆，是为近道，疾得泥洹。</span></p>
+<p><span lang="EN-US">478 贪淫致老，嗔恚致病，愚痴致死，除三得道。</span></p>
+<p><span lang="EN-US">479 释前解后，脱中度彼，一切念灭，无复老死。</span></p>
+<p><span lang="EN-US">480 人营妻子，不观病法，死命卒至，如水湍骤。</span></p>
+<p><span lang="EN-US">481 父子不救，余亲何望，命尽怙亲，如盲守灯。</span></p>
+<p><span lang="EN-US">482 慧解是意，可修经戒，勤行度世，一切除苦。</span></p>
+<p><span lang="EN-US">483 远离诸渊，如风却云，已灭思想，是为知见。</span></p>
+<p><span lang="EN-US">484 智为世长，惔乐无为，知受正教，生死得尽。</span></p>
+<p><span lang="EN-US">485 知众行空，是为慧见，罢厌世苦，从是道除。</span></p>
+<p><span lang="EN-US">486 知众行苦，是为慧见，罢厌世苦，从是道除。</span></p>
+<p><span lang="EN-US">487 众行非身，是为慧见，罢厌世苦，从是道除。</span></p>
+<p><span lang="EN-US">488 吾语汝法，爱箭为射，宜以自勖，受如来言。</span></p>
+<p><span lang="EN-US">489 吾为都以灭，往来生死尽，非一情以解，所演为道眼。</span></p>
+<p><span lang="EN-US">490 驶流澍于海，潘水漾疾满，故为智者说，可趣服甘露。</span></p>
+<p></p>
+<p><span lang="EN-US">491 前未闻法轮，转为哀众生，于是奉事者，礼之度三有。</span></p>
+<p><span lang="EN-US">492 三念可念善，三亦难不善，从念而有行，灭之为正断。</span></p>
+<p><span lang="EN-US">493 三定为转念，弃猗行无量，得三三窟除，解结可应念。</span></p>
+<p><span lang="EN-US">494 知以戒禁恶，思惟慧乐念，已知世成败，息意一切解。</span></p>
+<p><a name="a229"></a><span style="color:#333399">第二十九<span lang="EN-US">&nbsp;&nbsp;广衍品，十有四章</span></span></p>
+<p>广衍品者，言凡善恶，积小致大，证应章句。</p>
+<p><span lang="EN-US">495 施安虽小，其报弥大，慧从小施，受见景福。</span></p>
+<p><span lang="EN-US">496 施劳于人，而欲望佑，殃咎归身，自遘广怨。</span></p>
+<p><span lang="EN-US">497 已为多事，非事亦造，伎乐放逸，恶习日增。</span></p>
+<p><span lang="EN-US">498 精进惟行，习是舍非，修身自觉，是为正习。</span></p>
+<p><span lang="EN-US">499 既自解慧，又多学问，渐进普广，油酥投水。</span></p>
+<p><span lang="EN-US">500 自无慧意，不好学问，凝缩狭小，酪酥投水。</span></p>
+<p><span lang="EN-US">501 近道名显，如高山雪，远道闇昧，如夜发箭。</span></p>
+<p><span lang="EN-US">502 为佛弟子，常寤自觉，昼夜念佛，惟法思众。</span></p>
+<p><span lang="EN-US">503 为佛弟子，当寤自觉，日暮思禅，乐观一心。</span></p>
+<p><span lang="EN-US">504 人当有念意，每食知自少，则是痛欲薄，节消而保寿。</span></p>
+<p><span lang="EN-US">505 学难舍罪难，居在家亦难，会止同利难，难难无过有。</span></p>
+<p><span lang="EN-US">506 比丘乞求难，何可不自勉，精进得自然，后无欲于人。</span></p>
+<p><span lang="EN-US">507 有信则戒成，从戒多致宝，亦从得谐偶，在所见供养。</span></p>
+<p><span lang="EN-US">508 一坐一处卧，一行无放恣，守一以正身，心乐居树间。</span></p>
+<p><a name="a230"></a><span style="color:#333399">第三十<span lang="EN-US">&nbsp;&nbsp;地狱品，十有六章</span></span></p>
+<p>地狱品者，道泥梨事，作恶受恶，罪牵不置。</p>
+<p><span lang="EN-US">509 妄语地狱近，作之言不作，二罪后俱受，是行自牵往。</span></p>
+<p><span lang="EN-US">510 法衣在其身，为恶不自禁，苟没恶行者，终则堕地狱。</span></p>
+<p><span lang="EN-US">511 无戒受供养，理岂不自损，死啖烧铁丸，然热剧火炭。</span></p>
+<p><span lang="EN-US">512 放逸有四事，好犯他人妇，卧险非福利，毁三淫泆四。</span></p>
+<p><span lang="EN-US">513 不福利堕恶，畏恶畏乐寡，王法重罚加，身死入地狱。</span></p>
+<p><span lang="EN-US">514 譬如拔菅草，执缓则伤手，学戒不禁制，狱录乃自贼。</span></p>
+<p><span lang="EN-US">515 人行为慢惰，不能除众劳，梵行有玷缺，终不受大福。</span></p>
+<p><span lang="EN-US">516 常行所当行，自持必令强，远离诸外道，莫习为尘垢。</span></p>
+<p><span lang="EN-US">517 为所不当为，然后致郁毒，行善常吉顺，所适无悔恹。</span></p>
+<p><span lang="EN-US">518 其于众恶行，欲作若已作，是苦不可解，罪近难得避。</span></p>
+<p><span lang="EN-US">519 妄证求败，行已不正，怨谮良人，以恺治士，罪缚斯人，自投于坑。</span></p>
+<p><span lang="EN-US">520 如备边城，中外牢固，自守其心，非法不生，行缺致忧，令堕地狱。</span></p>
+<p><span lang="EN-US">521 可羞不羞，非羞反羞，生为邪见，死堕地狱。</span></p>
+<p><span lang="EN-US">522 可畏不畏，非畏反畏，信向邪见，死堕地狱。</span></p>
+<p><span lang="EN-US">523 可避不避，可就不就，玩习邪见，死堕地狱。</span></p>
+<p><span lang="EN-US">524 可近则近，可远则远，恒守正见，死堕善道。</span></p>
+<p><a name="a231"></a><span style="color:#333399">第三十一<span lang="EN-US">&nbsp;&nbsp;象喻品，十有八章</span></span></p>
+<p>象喻品者，教人正身，为善得善，福报快焉。</p>
+<p><span lang="EN-US">525 我如象斗，不恐中箭，常以诚信，度无戒人。</span></p>
+<p><span lang="EN-US">526 譬象调正，可中王乘，调为尊人，乃受诚信。</span></p>
+<p><span lang="EN-US">527 虽为常调，如彼新驰，亦最善象，不如自调。</span></p>
+<p><span lang="EN-US">528 彼不能适，人所不至，唯自调者，能到调方。</span></p>
+<p><span lang="EN-US">529 如象名财守，猛害难禁制，系绊不与食，而犹暴逸象。</span></p>
+<p><span lang="EN-US">530 没在恶行者，恒以贪自系，其象不知厌，故数入胞胎。</span></p>
+<p><span lang="EN-US">531 本意为纯行，及常行所安，悉舍降伏结，如钩制象调。</span></p>
+<p><span lang="EN-US">532 乐道不放逸，能常自护心，是为拔身苦，如象出于恶。</span></p>
+<p><span lang="EN-US">533 若得贤能伴，俱行行善悍，能伏诸所闻，至到不失意。</span></p>
+<p><span lang="EN-US">534 不得贤能伴，俱行行恶悍，广断王邑里，宁独不为恶。</span></p>
+<p><span lang="EN-US">535 宁独行为善，不与愚为侣，独而不为恶，如象惊自护。</span></p>
+<p><span lang="EN-US">536 生而有利安，伴软和为安，命尽为福安，众恶不犯安。</span></p>
+<p><span lang="EN-US">537 人家有母乐，有父斯亦乐，世有沙门乐，天下有道乐。</span></p>
+<p><span lang="EN-US">538 持戒终老安，信正所正善，智慧最安身，不犯恶最安。</span></p>
+<p><span lang="EN-US">539 如马调软，随意所如，信戒精进，定法要具。</span></p>
+<p><span lang="EN-US">540 明行成立，忍和意定，是断诸苦，随意所如。</span></p>
+<p><span lang="EN-US">541 从是往定，如马调御，断恚无漏，是受天乐。</span></p>
+<p><span lang="EN-US">542 不自放恣，从是多寤，羸马比良，弃恶为贤。</span></p>
+<p><a name="a232"></a><span style="color:#333399">第三十二<span lang="EN-US">&nbsp;&nbsp;爱欲品，三十有三章</span></span></p>
+<p>爱欲品者，贱淫恩爱，世人为此，盛生灾害。</p>
+<p><span lang="EN-US">543 心放在淫行，欲爱增枝条，分布生炽盛，超跃贪果猴。</span></p>
+<p><span lang="EN-US">544 以为爱忍苦，贪欲著世间，忧患日夜长，莚如蔓草生。</span></p>
+<p><span lang="EN-US">545 人为恩爱惑，不能舍情欲，如是忧爱多，潺潺盈于池。</span></p>
+<p><span lang="EN-US">546 夫所以忧悲，世间苦非一，但为缘爱有，离爱则无忧。</span></p>
+<p><span lang="EN-US">547 己意安弃忧，无爱何有世？不忧不染求，不爱焉得安。</span></p>
+<p><span lang="EN-US">548 有忧以死时，为致亲属多，涉忧之长涂，爱苦常堕危。</span></p>
+<p><span lang="EN-US">549 为道行者，不与欲会，先诛爱本，无所植根，勿如刈苇，令心复生。</span></p>
+<p><span lang="EN-US">550 如树根深固，虽截犹复生，爱意不尽除，辄当还受苦。</span></p>
+<p><span lang="EN-US">551 猿猴得离树，得脱复趣树，众人亦如是，出狱复入狱。</span></p>
+<p><span lang="EN-US">552 贪意为常流，习与憍慢并，思想猗淫欲，自覆无所见。</span></p>
+<p><span lang="EN-US">553 一切意流衍，爱结如葛藤，唯慧分别见，能断意根原。</span></p>
+<p><span lang="EN-US">554 夫从爱润泽，思想为滋蔓，爱欲深无底，老死是用增。</span></p>
+<p><span lang="EN-US">555 所生枝不绝，但用食贪欲，养怨益丘冢，愚人常汲汲。</span></p>
+<p><span lang="EN-US">556 虽狱有钩鍱，慧人不谓牢，愚见妻子息，染著爱甚牢。</span></p>
+<p><span lang="EN-US">557 慧说爱为狱，深固难得出，是故当断弃，不视欲能安。</span></p>
+<p><span lang="EN-US">558 见色心迷惑，不惟观无常，愚以为美善，安知其非真？</span></p>
+<p><span lang="EN-US">559 以淫乐自裹，譬如蚕作茧，智者能断弃，不盻除众苦。</span></p>
+<p><span lang="EN-US">560 心念放逸者，见淫以为净，恩爱意盛增，从是造狱牢。</span></p>
+<p><span lang="EN-US">561 觉意灭淫者，常念欲不净，从是出邪狱，能断老死患。</span></p>
+<p><span lang="EN-US">562 以欲网自蔽，以爱盖自覆，自恣缚于狱，如鱼入笱口。</span></p>
+<p><span lang="EN-US">563 为老死所伺，若犊求母乳，离欲灭爱恸，出网无所弊。</span></p>
+<p><span lang="EN-US">564 尽道除狱缚，一切此彼解，已得度边行，是为大智士。</span></p>
+<p><span lang="EN-US">565 勿亲远法人，亦勿为爱染，不断三世者，会复堕边行。</span></p>
+<p><span lang="EN-US">566 若觉一切法，能不著诸法，一切爱意解，是为通圣意。</span></p>
+<p><span lang="EN-US">567 众施经施胜，众味道味胜，众乐法乐胜，爱尽胜众苦。</span></p>
+<p><span lang="EN-US">568 愚以贪自缚，不求度彼岸，贪为败处故，害人亦自害。</span></p>
+<p><span lang="EN-US">569 爱欲意为田，淫怨痴为种，故施度世者，得福无有量。</span></p>
+<p><span lang="EN-US">570 伴少而货多，商人怵惕惧，嗜欲贼害命，故慧不贪欲。</span></p>
+<p><span lang="EN-US">571 心可则为欲，何必独五欲，违可绝五欲，是乃为勇士。</span></p>
+<p><span lang="EN-US">572 无欲无有畏，恬惔无忧患，欲除使结解，是为长出渊。</span></p>
+<p><span lang="EN-US">573 欲我知汝本，意以思想生，我不思想汝，则汝而不有。</span></p>
+<p><span lang="EN-US">574 伐树忽休，树生诸恶，断树尽株，比丘灭度。</span></p>
+<p><span lang="EN-US">575 夫不伐树，少多余亲，心系于此，如犊求母。</span></p>
+<p><a name="a233"></a><span style="color:#333399">第三十三<span lang="EN-US">&nbsp;&nbsp;利养品，有二十章</span></span></p>
+<p>利养品者，励己防贪，见德思议，不为秽生。</p>
+<p><span lang="EN-US">576 芭蕉以实死，竹芦实亦然，駏驉坐妊死，士以贪自丧。</span></p>
+<p><span lang="EN-US">577 如是贪无利，当知从痴生，愚为此害贤，首领分于地。</span></p>
+<p><span lang="EN-US">578 天雨七宝，欲犹无厌，乐少苦多，觉者为贤。</span></p>
+<p><span lang="EN-US">579 虽有天欲，慧舍无贪，乐离恩爱，为佛弟子。</span></p>
+<p><span lang="EN-US">580远道顺邪，贪养比丘，止有悭意，以供彼姓。</span></p>
+<p><span lang="EN-US">581 勿猗此养，为家舍罪，此非至意，用用何益。</span></p>
+<p><span lang="EN-US">582 愚为愚计，欲慢用增，异哉失利，泥洹不同。</span></p>
+<p><span lang="EN-US">583 谛知是者，比丘佛子，不乐利养，闲居却意。</span></p>
+<p><span lang="EN-US">584 自得不恃，不从他望，望彼比丘，不至正定。</span></p>
+<p><span lang="EN-US">585 夫欲安命，息心自省，不知计数，衣服饮食。</span></p>
+<p><span lang="EN-US">586 夫欲安命，息心自省，取得知足，守行一法。</span></p>
+<p><span lang="EN-US">587 夫欲安命，息心自省，如鼠藏穴，潜隐习教。</span></p>
+<p><span lang="EN-US">588 约利约耳，奉戒思惟，为慧所称，清吉勿怠。</span></p>
+<p><span lang="EN-US">589 如有三明，解脱无漏，寡智鲜识，无所忆念。</span></p>
+<p><span lang="EN-US">590 其于食饮，从人得利，而有恶法，从供养嫉。</span></p>
+<p><span lang="EN-US">591 多结怨利，强服法衣，但望饮食，不奉佛教。</span></p>
+<p><span lang="EN-US">592 当知是过，养为大畏，寡取无忧，比丘释心。</span></p>
+<p><span lang="EN-US">593 非食命不济，孰能不揣食，夫立食为先，知是不宜嫉。</span></p>
+<p><span lang="EN-US">594 嫉先创己，然后创人，击人得击，是不得除。</span></p>
+<p><span lang="EN-US">595 宁啖烧石，吞饮洋铜，不以无戒，食人信施。</span></p>
+<p><a name="a234"></a><span style="color:#333399">第三十四<span lang="EN-US">&nbsp;&nbsp;沙门品，三十有二章</span></span></p>
+<p>沙门品者，训以法正，弟子受行，得道解净。</p>
+<p><span lang="EN-US">596 端目耳鼻口，身意常守正，比丘行如是，可以免众苦。</span></p>
+<p><span lang="EN-US">597 手足莫妄犯，节言顺所行，常内乐定意，守一行寂然。</span></p>
+<p><span lang="EN-US">598 学当守口，寡言安徐，法义为定，言必柔软。</span></p>
+<p><span lang="EN-US">599 乐法欲法，思惟安法，比丘依法，正而不费。</span></p>
+<p><span lang="EN-US">600 学无求利，无爱他行，比丘好他，不得定意。</span></p>
+<p><span lang="EN-US">601 比丘少取，以得无积，天人所誉，生净无秽。</span></p>
+<p><span lang="EN-US">602 比丘为慈，爱敬佛教，深入止观，灭行乃安。</span></p>
+<p><span lang="EN-US">603 一切名色，非有莫惑，不近不忧，乃为比丘。</span></p>
+<p><span lang="EN-US">604 比丘扈船，中虚则轻，除淫怒痴，是为泥洹。</span></p>
+<p><span lang="EN-US">605 舍五断五，思惟五根，能分别五，乃渡河渊。</span></p>
+<p><span lang="EN-US">606 禅无放逸，莫为欲乱，不吞洋铜，自恼燋形。</span></p>
+<p><span lang="EN-US">607 无禅不智，无智不禅，道从禅智，得至泥洹。</span></p>
+<p><span lang="EN-US">608 当学入空，静居止意，乐独屏处，一心观法。</span></p>
+<p><span lang="EN-US">609 常制五阴，伏意如水，清净和悦，为甘露味。</span></p>
+<p><span lang="EN-US">610 不受所有，为慧比丘，摄根知足，戒律悉持。</span></p>
+<p><span lang="EN-US">611 生当行净，求善师友，智者成人，度苦致喜。</span></p>
+<p><span lang="EN-US">612 如卫师华，熟如自堕，释淫怒痴，生死自解。</span></p>
+<p><span lang="EN-US">613 正身正言，心守玄默，比丘弃世，是为受寂。</span></p>
+<p><span lang="EN-US">614 当自敕身，内与心争，护身念谛，比丘惟安。</span></p>
+<p><span lang="EN-US">615 我自为我，计无有我，故当损我，调乃为贤。</span></p>
+<p><span lang="EN-US">616 喜在佛教，可以多喜，至到寂寞，行灭永安。</span></p>
+<p><span lang="EN-US">617 傥有少行，应佛教戒，此照世间，如日无曀。</span></p>
+<p><span lang="EN-US">618 弃慢无余憍，莲华水生净，学能舍此彼，知是胜于故。</span></p>
+<p><span lang="EN-US">619 割爱无恋慕，不受如莲华，比丘渡河流，胜欲明于故。</span></p>
+<p><span lang="EN-US">620 截流自恃，逝心却欲，仁不割欲，一意犹走。</span></p>
+<p><span lang="EN-US">621 为之为之，必强自制，舍家而懈，意犹复染。</span></p>
+<p><span lang="EN-US">622 行懈缓者，劳意弗除，非净梵行，焉致大宝。</span></p>
+<p><span lang="EN-US">623 沙门何行，如意不禁，步步著粘，但随思走。</span></p>
+<p><span lang="EN-US">624 袈裟披肩，为恶不损，恶恶行者，斯堕恶道。</span></p>
+<p><span lang="EN-US">625 不调难诫，如风枯树，作自为身，曷不精进。</span></p>
+<p><span lang="EN-US">626 息心非剔，慢訑无戒，舍贪思道，乃应息心。</span></p>
+<p><span lang="EN-US">627 息心非剔，放逸无信，能灭众苦，为上沙门。</span></p>
+<p><a name="a235"></a><span style="color:#333399">第三十五<span lang="EN-US">&nbsp;&nbsp;梵志品，有四十章</span></span></p>
+<p>梵志品者，言行清白，理学无秽，可称道士。</p>
+<p><span lang="EN-US">628 截流而渡，无欲如梵，知行已尽，是谓梵志。</span></p>
+<p><span lang="EN-US">629 以无二法，清净渡渊，诸欲结解，是谓梵志。</span></p>
+<p><span lang="EN-US">630 适彼无彼，彼彼已空，舍离贪淫，是谓梵志。</span></p>
+<p><span lang="EN-US">631 思惟无垢，所行不漏，上求不起，是谓梵志。</span></p>
+<p><span lang="EN-US">632 日照于昼，月照于夜，甲兵照军，禅照道人，佛出天下，照一切冥。</span></p>
+<p><span lang="EN-US">633 非剃为沙门，称吉为梵志，谓能舍众恶，是则为道人。</span></p>
+<p><span lang="EN-US">634 出恶为梵志，入正为沙门，弃我众秽行，是则为舍家。</span></p>
+<p><span lang="EN-US">635 若猗于爱，心无所著，已舍已正，是灭众苦。</span></p>
+<p><span lang="EN-US">636 身口与意，净无过失，能舍三行，是谓梵志。</span></p>
+<p><span lang="EN-US">637 若心晓了，佛所说法，观心自归，净于为水。</span></p>
+<p><span lang="EN-US">638 非蔟结发，名为梵志，诚行法行，清白则贤。</span></p>
+<p><span lang="EN-US">639 饰发无慧，草衣何施，内不离著，外舍何益？</span></p>
+<p><span lang="EN-US">640 被服弊恶，躬承法行，闲居思惟，是谓梵志。</span></p>
+<p><span lang="EN-US">641 佛不教彼，赞己自称，如谛不妄，乃为梵志。</span></p>
+<p><span lang="EN-US">642 绝诸可欲，不淫其志，委弃欲数，是谓梵志。</span></p>
+<p><span lang="EN-US">643 断生死河，能忍起度，自觉出堑，是谓梵志。</span></p>
+<p><span lang="EN-US">644 见骂见击，默受不怒，有忍辱力，是谓梵志。</span></p>
+<p><span lang="EN-US">645 若见侵欺，但念守戒，端身自调，是谓梵志。</span></p>
+<p><span lang="EN-US">646 心弃恶法，如蛇脱皮，不为欲污，是谓梵志。</span></p>
+<p><span lang="EN-US">647 觉生为苦，从是灭意，能下重担，是谓梵志。</span></p>
+<p><span lang="EN-US">648 解微妙慧，辩道不道，体行上义，是谓梵志。</span></p>
+<p><span lang="EN-US">649 弃捐家居，无家之畏，少求寡欲，是谓梵志。</span></p>
+<p><span lang="EN-US">650 弃放活生，无贼害心，无所娆恼，是谓梵志。</span></p>
+<p><span lang="EN-US">651 避争不争，犯而不愠，恶来善待，是谓梵志。</span></p>
+<p><span lang="EN-US">652 去淫怒痴，憍慢诸恶，如蛇脱皮，是谓梵志。</span></p>
+<p><span lang="EN-US">653 断绝世事，口无粗言，八道审谛，是谓梵志。</span></p>
+<p><span lang="EN-US">654 所施善恶，修短巨细，无取无舍，是谓梵志。</span></p>
+<p><span lang="EN-US">655 今世行净，后世无秽，无习无舍，是谓梵志。</span></p>
+<p><span lang="EN-US">656 弃身无猗，不诵异行，行甘露灭，是谓梵志。</span></p>
+<p><span lang="EN-US">657 于罪与福，两行永除，无忧无尘，是谓梵志。</span></p>
+<p><span lang="EN-US">658 心喜无垢，如月盛满，谤毁已除，是谓梵志。</span></p>
+<p><span lang="EN-US">659 见痴往来，堕堑受苦，欲单渡岸，不好他语，唯灭不起，是谓梵志。</span></p>
+<p><span lang="EN-US">660 已断恩爱，离家无欲，爱有已尽，是谓梵志。</span></p>
+<p><span lang="EN-US">661 离人聚处，不堕天聚，诸聚不归，是谓梵志。</span></p>
+<p><span lang="EN-US">662 弃乐无乐，灭无熅燸，健违诸世，是谓梵志。</span></p>
+<p><span lang="EN-US">663 所生已讫，死无所趣，觉安无依，是谓梵志。</span></p>
+<p><span lang="EN-US">664 已度五道，莫知所堕，习尽无余，是谓梵志。</span></p>
+<p><span lang="EN-US">665 于前于后，乃中无有，无操无舍，是谓梵志。</span></p>
+<p><span lang="EN-US">666 最雄最勇，能自解度，觉意不动，是谓梵志。</span></p>
+<p><span lang="EN-US">667 自知宿命，本所更来，得要生尽，睿通道玄，明如能默，是谓梵志。</span></p>
+<p><a name="a236"></a><span style="color:#333399">第三十六<span lang="EN-US">&nbsp;&nbsp;泥洹品，三十有五章</span></span></p>
+<p>泥洹品者，叙道大归，恬惔寂灭，度生死畏。</p>
+<p><span lang="EN-US">668 忍为最自守，泥洹佛称上，舍家不犯戒，息心无所害。</span></p>
+<p><span lang="EN-US">669 无病最利，知足最富，厚为最友，泥洹最快。</span></p>
+<p><span lang="EN-US">670 饥为大病，行为最苦，已谛知此，泥洹最乐。</span></p>
+<p><span lang="EN-US">671 少往善道，趣恶道多，如谛知此，泥洹最安。</span></p>
+<p><span lang="EN-US">672 从因生善，从因堕恶，由因泥洹，所缘亦然。</span></p>
+<p><span lang="EN-US">673 麋鹿依野，鸟依虚空，法归分别，真人归灭。</span></p>
+<p><span lang="EN-US">674 始无如不，始不如无，是为无得，亦无有思。</span></p>
+<p><span lang="EN-US">675 心难见习可睹，觉欲者乃具见，无所乐为苦际，在爱欲为增痛。</span></p>
+<p><span lang="EN-US">676 明不清净能御，无所近为苦际，见有见闻有闻，念有念识有识。</span></p>
+<p><span lang="EN-US">677 睹无著亦无识，一切舍为得际，除身想灭痛行，识已尽为苦竟。</span></p>
+<p><span lang="EN-US">678 猗则动虚则静，动非近非有乐，乐无近为得寂，寂已寂已往来。</span></p>
+<p><span lang="EN-US">679 来往绝无生死，生死断无此彼，此彼断为两灭，灭无余为苦除。</span></p>
+<p><span lang="EN-US">680 比丘有世生，有有有作行，有无生无有，无作无所行。</span></p>
+<p><span lang="EN-US">681 夫唯无念者，为能得自致，无生无复有，无作无行处。</span></p>
+<p><span lang="EN-US">682 生有作行者，是为不得要，若已解不生，不有不作行。</span></p>
+<p><span lang="EN-US">683 则生有得要，从生有已起，作行致死生，为开为法果。</span></p>
+<p><span lang="EN-US">684 从食因缘有，从食致忧乐，而此要灭者，无复念行恸。</span></p>
+<p><span lang="EN-US">685 诸苦法已尽，行灭湛然安，比丘吾已知，无复诸入地。</span></p>
+<p><span lang="EN-US">686 无有虚空入，无诸入用入，无想不想入，无今世后世。</span></p>
+<p><span lang="EN-US">687 亦无日月想，无往无所悬，我已无往反，不去而不来。</span></p>
+<p><span lang="EN-US">688 不没不复生，是际为泥洹，如是像无像，苦乐为以解。</span></p>
+<p><span lang="EN-US">689 所见不复恐，无言言无疑，断有之射箭，遘愚无所猗，是为第一快，此道寂无上。</span></p>
+<p><span lang="EN-US">690 受辱心如地，行忍如门阈，净如水无垢，生尽无彼受。</span></p>
+<p><span lang="EN-US">691 利胜不足恃，虽胜犹复苦，当自求法胜，已胜无所生。</span></p>
+<p><span lang="EN-US">692 毕故不造新，厌胎无淫行，种燋不复生，意尽如火灭。</span></p>
+<p><span lang="EN-US">693 胞胎为秽海，何为乐淫行？虽上有善处，皆莫如泥洹。</span></p>
+<p><span lang="EN-US">694 悉知一切断，不复著世间，都弃如灭度，众道中斯胜。</span></p>
+<p><span lang="EN-US">695 佛以现谛法，智勇能奉持，行净无瑕秽，自知度世安。</span></p>
+<p><span lang="EN-US">696 道务先远欲，早服佛教戒，灭恶极恶际，易如鸟逝空。</span></p>
+<p><span lang="EN-US">697 若已解法句，至心体道行，是度生死岸，苦尽而无患。</span></p>
+<p><span lang="EN-US">698 道法无亲□，正不问羸强，要在无识想，结解为清净。</span></p>
+<p><span lang="EN-US">699 上智餍腐身，危脆非实真，苦多而乐少，九孔无一净。</span></p>
+<p><span lang="EN-US">700 慧以危贸安，弃猗脱众难，形腐销为沫，慧见舍不贪。</span></p>
+<p><span lang="EN-US">701 观身为苦器，生老病死痛，弃垢行清净，可以获大安。</span></p>
+<p><span lang="EN-US">702 依慧以却邪，不受漏得尽，行净致度世，天人莫不礼。</span></p>
+<p><a name="a237"></a><span style="color:#333399">第三十七<span lang="EN-US">&nbsp;&nbsp;生死品，十有八章</span></span></p>
+<p>生死品者，说诸人魂，灵亡神在，随行转生。</p>
+<p><span lang="EN-US">703 命如果待熟，常恐会零落，已生皆有苦，孰能致不死？</span></p>
+<p><span lang="EN-US">704 从初乐恩爱，因淫入胎影，受形命如电，昼夜流难止。</span></p>
+<p><span lang="EN-US">705 是身为死物，精神无形法，假令死复生，罪福不败亡。</span></p>
+<p><span lang="EN-US">706 终始非一世，从痴爱久长，自此受苦乐，身死神不丧。</span></p>
+<p><span lang="EN-US">707 身四大为色，识四阴曰名，其情十八种，所缘起十二。</span></p>
+<p><span lang="EN-US">708 神止凡九处，生死不断灭，世间愚不闻，蔽闇无天眼。</span></p>
+<p><span lang="EN-US">709 自涂以三垢，无目意妄见，谓死如生时，或谓死断灭。</span></p>
+<p><span lang="EN-US">710 识神造三界，善不善五处，阴行而默到，所往如回应。</span></p>
+<p><span lang="EN-US">711 欲色不色有，一切因宿行，如种随本像，自然报如意。</span></p>
+<p><span lang="EN-US">712 神以身为名，如火随形字，著烛为烛火，随炭草粪薪。</span></p>
+<p><span lang="EN-US">713 心法起则起，法灭而则灭，兴衰如雨雹，转转不自识。</span></p>
+<p><span lang="EN-US">714 识神走五道，无一处不更，舍身复受身，如轮转著地。</span></p>
+<p><span lang="EN-US">715 如人一身居，去其故室中，神以形为庐，形坏神不亡。</span></p>
+<p><span lang="EN-US">716精神居形躯，犹雀藏器中，器破雀飞去，身坏神逝生。</span></p>
+<p><span lang="EN-US">717 性痴净常想，乐身想痴想，嫌望非上要，佛说是不明。</span></p>
+<p><span lang="EN-US">718 一本二展转，三垢五弥广，诸海十三事，渊销越度欢。</span></p>
+<p><span lang="EN-US">719 三事断绝时，知身无所直，命气熅暖识，舍身而转逝。</span></p>
+<p><span lang="EN-US">720 当其死卧地，犹草无所知，观其状如是，但幻而愚贪。</span></p>
+<p><a name="a238"></a><span style="color:#333399">第三十八<span lang="EN-US">&nbsp;&nbsp;道利品，二十章</span></span></p>
+<p>道利品者，君父师行，开示善道，率之以正。</p>
+<p><span lang="EN-US">721 人知奉其上，君父师道士，信戒施闻慧，终吉所生安。</span></p>
+<p><span lang="EN-US">722 宿命有福庆，生世为人尊，以道安天下，奉法莫不从。</span></p>
+<p><span lang="EN-US">723 王为臣民长，常以慈爱下，身率以法戒，示之以休咎。</span></p>
+<p><span lang="EN-US">724 处安不忘危，虑明福转厚，福德之反报，不问尊以卑。</span></p>
+<p><span lang="EN-US">725 夫为世间将，修正不阿恺，心调胜诸恶，如是为法王。</span></p>
+<p><span lang="EN-US">726 见正能施惠，仁爱好利人，既利以平均，如是众附亲。</span></p>
+<p><span lang="EN-US">727 如牛厉渡水，导正从亦正，奉法心不邪，如是众普安。</span></p>
+<p><span lang="EN-US">728 勿妄娆神象，以招苦痛患，恶意为自煞，终不至善方。</span></p>
+<p><span lang="EN-US">729 戒德可恃怙，福报常随己，见法为人长，终远三恶道。</span></p>
+<p><span lang="EN-US">730 戒慎除苦畏，福德三界尊，鬼龙邪毒害，不犯持戒人。</span></p>
+<p><span lang="EN-US">731 无义不诚信，欺妄好斗诤，当知远离此，近愚兴罪多。</span></p>
+<p><span lang="EN-US">732 仁贤言诚信，多闻戒行具，当知亲附此，近智诚善多。</span></p>
+<p><span lang="EN-US">733 善言不守戒，志乱无善行，虽身处潜隐，是为非学法。</span></p>
+<p><span lang="EN-US">734 美说正为上，法说为第二，爱说可彼三，诚说不欺四。</span></p>
+<p><span lang="EN-US">735 无便获利刃，自以克其身，愚学好妄说，行牵受幸戾。</span></p>
+<p><span lang="EN-US">736 贪淫嗔恚痴，是三非善本，身以斯自害，报由痴爱生。</span></p>
+<p><span lang="EN-US">737 有福为天人，非法受恶形，圣人明独见，常善承佛令。</span></p>
+<p><span lang="EN-US">738 戒德后世业，以作福追身，天人称誉善，心正无不安。</span></p>
+<p><span lang="EN-US">739 为恶不念止，日缚不自悔，命逝如川流，是恐宜守戒。</span></p>
+<p><span lang="EN-US">740 今我上体首，白生为被盗，已有天使召，时正宜出家。</span></p>
+<p><a name="a239"></a><span style="color:#333399">第三十九<span lang="EN-US">&nbsp;&nbsp;吉祥品，十有八章</span></span></p>
+<p>吉祥品者，修己之术，去恶就善，终厚景福。</p>
+<p><span lang="EN-US">741 佛尊过诸天，如来常现义，有梵志道士，来问何吉祥。</span></p>
+<p><span lang="EN-US">742 于是佛湣伤，为说真有要，已信乐正法，是为最吉祥。</span></p>
+<p><span lang="EN-US">743 若不从天人，希望求侥幸，亦不祷祠神，是为最吉祥。</span></p>
+<p><span lang="EN-US">744 友贤择善居，常先为福德，敕身从真正，是为最吉祥。</span></p>
+<p><span lang="EN-US">745 去恶从就善，避酒知自节，不淫于女色，是为最吉祥。</span></p>
+<p><span lang="EN-US">746 多闻如戒行，法律精进学，修已无所争，是为最吉祥。</span></p>
+<p><span lang="EN-US">747 居孝事父母，治家养妻子，不为空之行，是为最吉祥。</span></p>
+<p><span lang="EN-US">748 不慢不自大，知足念反复，以时诵习经，是为最吉祥。</span></p>
+<p><span lang="EN-US">749 所闻常以忍，乐欲见沙门，每讲辄听受，是为最吉祥。</span></p>
+<p><span lang="EN-US">750 持斋修梵行，常欲见贤圣，依附明智者，是为最吉祥。</span></p>
+<p><span lang="EN-US">751 以信有道德，正意向无疑，欲脱三恶道，是为最吉祥。</span></p>
+<p><span lang="EN-US">752 等心行布施，奉诸得道者，亦敬诸天人，是为最吉祥。</span></p>
+<p><span lang="EN-US">753 常欲离贪欲，愚痴嗔恚意，能习诚道见，是为最吉祥。</span></p>
+<p><span lang="EN-US">754 若以弃非务，能勤修道用，常事于可事，是为最吉祥。</span></p>
+<p><span lang="EN-US">755 一切为天下，建立大慈意，修仁安众生，是为最吉祥。</span></p>
+<p><span lang="EN-US">756 欲求吉祥福，当信敬于佛，欲求吉祥福，当闻法句义，欲求吉祥福，当供养众僧，戒具清净者，是为最吉祥。</span></p>
+<p><span lang="EN-US">757 智者居世间，常习吉祥行，自致成慧见，是为最吉祥。</span></p>
+<p><span lang="EN-US">758 梵志闻佛教，心中大欢喜，即前礼佛足，归命佛法众。</span></p>
+<p><span style="color:#333399">南北传法句经偈句对照表（表源自<span lang="EN-US">Dhammajoti）</span></span></p>
+<p>略</p>

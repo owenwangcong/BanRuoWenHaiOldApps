@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title class="home-page-header-title">
+      大藏经
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding> 
+  
+  <div>
+      <br/>
+      <br/>
+      <table class="center" width="95%" style="position: relative;top:20%;">
+      <tr>  
+        <td>
+            <img src="{{imageUrlPrefix}}/images/shu.png" alt="Mountain View" style="display: block;margin: auto;width:100%;">
+          </td>
+      </tr>
+      <tr>
+        <td>
+          
+        </td>
+      </tr>
+    </table>
+
+    <p>大藏经，是将一切佛教典籍汇集起来编成的一部全集。起初叫作"一切经"，后来定名为"大藏经"，"藏"有"保藏"的意思。因其内容十分广泛，故称"大藏经"，又称"藏经"。其内容主要由经、律、论叁部分组成，又称为"叁藏经"，分别称为经藏、律藏和论藏。"经"是佛教为指导弟子修行所说的理论；"律"是佛教为信徒制定的日常生活所应遵守的规则；"论"是佛教弟子们为阐明经的理论的着述。</p><br/>
+    
+    <button ion-button menuToggle class="center">开始阅读</button><br/>
+    
+    <div *ngIf="globalVars.lastReadHistory != undefined">
+      <button  ion-button (click)="continue()" class="center">继续上次的阅读</button>
+      <span class="center" style="color:gray;font-size:0.8em">{{globalVars.lastReadHistory.historyName}} - {{globalVars.lastReadHistory.percentage}}%</span>
+      <span class="center" style="color:gray;font-size:0.8em">{{globalVars.lastReadHistory.date|date:'MM/dd/yyyy hh:mm:ss'}}</span>  
+    </div>
+    
+  </div>
+  
+</ion-content>

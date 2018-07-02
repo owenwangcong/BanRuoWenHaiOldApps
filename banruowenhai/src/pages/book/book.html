@@ -1,0 +1,58 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+    <ion-title class="adjustedCenter">
+      {{category}}
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content no-padding>
+
+    <!-- <ion-list [virtualScroll]="categoryDict[category]">
+        <button ion-item *virtualItem="let book" no-padding (click)="goToVolume(book)" style="background-color:rgba(255, 255, 255, 0); width:100%;">      
+            <table width="100%">
+              <tr>
+                <td rowspan=2 width="20px">
+                  <div class="innerImage vertical-center">
+                    <img class="global-left vertical-center" style="width:100%;height:100%;vertical-align: middle;display:inline-block;" src="{{book.imageurl}}" onerror="if (this.src != 'error.jpg') this.src = 'bookimages/0000.gif';"/>
+                  </div>
+                </td>
+                <td>
+                  <div style="width:100%;text-align:left;overflow:hidden;text-overflow:ellipsis;padding-left:10px;vertical-align:bottom;font-size:1.05em">{{book.name}}</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="gukeSmall bookAuthor" style="font-weight:0.6em;text-align:left;padding-left:10px;vertical-align:top">
+                    {{book.author}}
+                </td>
+              </tr>
+            </table>
+          </button>
+    </ion-list> -->
+
+    <ion-list>
+      <button ion-item *ngFor="let book of categoryDict[category]" no-padding (click)="goToVolume(book)" style="background-color:rgba(255, 255, 255, 0); width:100%;">      
+          <table width="100%">
+            <tr>
+              <td rowspan=2 width="20px">
+                <div class="innerImage vertical-center">
+                  <img class="global-left vertical-center" style="width:100%;height:100%;vertical-align: middle;display:inline-block;" src="{{book.imageurl}}" onerror="if (this.src != 'error.jpg') this.src = 'bookimages/0000.gif';"/>
+                </div>
+              </td>
+              <td>
+                <div style="width:100%;text-align:left;overflow:hidden;text-overflow:ellipsis;padding-left:10px;vertical-align:bottom;font-size:1.05em">{{book.name}}</div>
+              </td>
+            </tr>
+            <tr>
+              <td class="gukeSmall bookAuthor" style="font-weight:0.6em;text-align:left;padding-left:10px;vertical-align:top">
+                  {{book.author}}
+              </td>
+            </tr>
+          </table>
+        </button>
+    </ion-list>
+
+</ion-content>

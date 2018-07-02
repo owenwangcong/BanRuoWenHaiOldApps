@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+    <ion-searchbar class="searchBar" [(ngModel)]="searchQuery" (change)="search($event)" autocorrect="off" placeholder="请输入书籍名称"></ion-searchbar>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list [virtualScroll]="books">
+      <button ion-item no-padding *virtualItem="let book" (click)="goToVolume(book)" class="gukeLarge">      
+        {{book.name}} - {{book.author}}
+      </button>
+  </ion-list>
+</ion-content>

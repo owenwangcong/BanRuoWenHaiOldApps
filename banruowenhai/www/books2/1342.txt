@@ -1,0 +1,729 @@
+<p align="center" style="text-align:center"><b><span style="font-size:36.0pt;color:#FF6600">净土十要问答撷录<span lang="EN-US"></span></span></b></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">蕅益大师选录<span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">李圆净居士编排<span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">印光大师鉴定<span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">般若念佛会整理<span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a000">序</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a001">总持法门</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a002">专持名号</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a003">往生不退</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a004">理和与事和</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a005">一经要旨（弥陀经）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a006">极乐最胜处</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a007">极乐四土胜妙</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a008">娑婆极乐—不隔而隔，隔而不隔</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a009">阿弥陀</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a010">弥陀光明无量，寿命无量</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a011">持名者光明寿命与佛同齐</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a012">决定往生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a013">善根福德因缘</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a014">事持与理持</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a015">一心与四土往生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a016">观经专明作观，为何持名不劳观想</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a017">持名不必参究</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a018">大本十念与宝王一念，平时耶，临终耶</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a019">西方此去十万亿佛土，何得即生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a020">自他不二</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a021">不可思议功德</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a022">诸方必有净土，何偏赞西方</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a023">诸佛护念</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a024">今发愿当生！今生！</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a025">圆转五浊</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a026">毕竟得生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a027">行法既多，云何一心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a028">坐禅法二示</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a029">十念门</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a030">为益最大—系缘门</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a031">利钝二性修观</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a032">既以大悲为业，何又求生净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a033">诸法体空，本来无生，何又求生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a034">既云法性平等，又偏求一佛净土，与平等性乖，云何得生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a035">偏念弥陀佛，为何</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a036">具缚凡夫，恶业厚重，云何得生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a037">得生彼国，云何不退</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a038">不求兜率，反求西方何也</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a039">临终十念，云何可通</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a040">女人根缺，必不得生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a041">不断淫欲，得生彼否</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a042">念佛名者，必成于三昧</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a043">诃欲</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a044">放心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a045">佛想门</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a046">未悟从何得醒</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a047">遍缘一切，皆见如来</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a048">念未来佛即与过现诸佛等</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a049">一念十念往生何者为正</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a050">佛光与魔光</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a051">宁起有见，不起空见</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a052">三昧</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a053">佛有三身如何忆念</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a054">所念之佛，穷玄极圣，能念之人尚在凡位安得叨窃，言同正觉</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a055">有念有思，有生有灭，安得无所念心而修念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a056">六度万行未有一法不是念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a057">无念是三昧，直超无念，更何迂回，而用于念</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a058">能念之心，所念之佛，岂非二妄耶</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a059">念中道第一义—法身佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a060">何不求自心，而求外佛耶</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a061">三业供养，佛在灭后，献福何多</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a062">念佛三昧—永明寿和尚</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a063">屈禅赞净，此疑非小</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a064">大事既明，何求净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a065">唯心净土，本性弥陀，复求万亿土外之极乐，何也</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a066">既谓净秽融通，尘尘极乐，可娑婆独不免于秽耶</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a067">含摄无余，吾信唯心之大矣，圆融无碍，吾信唯心之妙矣，奈何尚滞迷情，未离秽业…</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a068">净土修法，其详可得闻乎</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a069">一生取办之因</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a070">众行门中，既云大小不等，理事有殊，所感生相，亦乃悬异，然则观想忆念二门，修各不等…</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a071">极乐只是同居，本非实报，何谓或生报土，见佛真体耶</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a072">既云此土四土具足，只消就此展转修行，反欲舍此而生彼国，何耶</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a073">同居净土，其类甚多，今偏指极乐，而又偏赞其境胜缘胜，何耶</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a074">十方如来，皆可亲近，今独推弥陀者，何耶</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a075">偏指独推之说，旨哉言乎，欣厌取舍之方，至哉教矣，敢问欣厌取舍，得无爱僧能所之过乎</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a076">取舍之谈无敢议矣，但往生之说，能不乖于无生之理乎</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a077">往生之说，其旨昭然，但今之学者，不能晓了，千人万人，皆疑极乐远隔十万亿国…</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a078">不修净业，要生极难，此诚言也，何故前举逆恶凡夫，临终亦生，吾未闻其详…</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a079">五浊恶世，人皆有罪，纵未造五逆重罪，其余罪业，孰能无之，苟不忏悔消灭…</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a080">前云博地凡夫，便阶不退，此必已无恶业者也，今此带业而生，能不退乎</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a081">怜儿不觉丑</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a082">吾之言过矣，驷不及舌矣，承师之教，谁不寒心，奈何人心易进易退，一闻警策…</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a083">念佛之门，多承开导，群疑尽释，正信现前矣，但上文所谓抖擞身心，拨弃世事…</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a084">泛言念佛，未有其方，且十念回向之法，亦所未喻，幸详以示之</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a085">世网中人，随量指授微细方法，靡不详明矣，然则我辈世外之人，又当何以加其功焉</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a086">圆观之修，唯心之念，似乎上器之行门，华严十愿，宝积十心，亦乃大根之功用…</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a087">念念相续，照顾不牢，何策以治之</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a088">念佛法门（蕅祖开示）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a089">邪见</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a090">西方即我真心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a091">生佛互感，三昧乃成</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a092">以圆妙三观释十六观经要旨</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a093">何相而观如来</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a094">净土指诀—此二门精进修行，念佛三昧必定成就</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a095">珍地左券—十大碍行</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a096">三昧宝王</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a097">往生瑞应</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a098">必生净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a099">称佛一声灭八十亿生死重罪之义何在</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a100">一真法界</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a101">三身四土，由心变造</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a102">介尔之心，居于方寸，何能包许远佛土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a103">才举心念，即便圆成</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a104">唯心念佛法门（解脱长者示善财）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a105">真如本体离一切相，云何复说体有如是种种功德</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a106">诸佛各有愿力，摄受众生，何以不念十方诸佛，而偏念西方阿弥陀佛，求生极乐</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a107">心佛同一体</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a108">临终在定之心，即净土受生之心</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a109">爱不重不生娑婆，念不一不生极乐（刮翳眼之金錍，治膏肓之圣药）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a110">杜境有道乎</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a111">预知时至</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a112">微妙助行</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a113">两般人，于净土法门，必不能入</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a114">洞了本源，此心即是佛，更于何处觅佛。此心即是土更于何处觅土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a115">悟达之人，业不能系</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a116">毗卢遮那净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a117">唯心净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a118">恒真净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a119">变现净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a120">寄报净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a121">分身净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a122">依他净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a123">诸方净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a124">一心四种净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a125">摄受十方一切有情不可思议净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a126">一大事</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a127">正因</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a128">正愿</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a129">正行</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a130">依正无碍</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a131">博地凡夫十念即生，何故</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a132">径中之径—胜方便</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a133">菩萨常不离佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a134">悟达之士见性成佛，大事即明，当行佛教，广度生灵。何故求生净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a135">诸大法门，一声阿弥陀佛悉皆证入</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a136">发十种心，往生极乐</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a137">成就八法，生于净土</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a138">一行三昧</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a139">人生造恶，临终念佛，得生佛国，我不信是语</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a140">无情作佛（蕅祖评—透澈之极。清凉国师当让一筹）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a141">慈善根力（单提正念，一句佛号，功不唐捐）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a142">见佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a143">诸佛国土，皆如虚空，观众生如第五大，何得取著有相，舍此生彼</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a144">实相念佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a145">真疑情，真悟</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a146">信为根本</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a147">念佛一声入三观</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a148">念佛一声，能赅诸行</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a149">一切法毕竟空，法尚不应有，何况死后复生余处</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a150">迷成则处胎狱，念成即入莲胞</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a151">法中之王</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a152">极乐此去十万亿刹，凡夫命终觅刻即至，何也</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a153">文言尚空，何况名号</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a154">若以念佛生心动念成妄想，息心无念亦成妄想</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a155">即心是佛，何假修行</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a156">但净自心，何须分别</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a157">今世禅人，尚不求作佛，何况往生</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a158">无量国土本无净秽，焉有往来，西方净土，是权非实，非法界如如之本</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a159">如何念佛得无间断</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a160">无始黑业（妙辩）</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a161">舍诸恶处</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a162">净侣</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a163">极乐净土日月有无</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a164">疑城</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a165">一函遍复</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p><a name="a000"></a><span style="color:#333399">序<span lang="EN-US"></span></span></p>
+<p>如来圣教，虽则法门无量，随依一法，以菩提心修持，皆可就路还家，复本心性。然此诸法，皆仗自力，唯净土法门，仗佛誓愿摄受，契理契机，最简最易，故大集经云：末法亿亿人修行，罕一得道；唯依念佛，得度生死。时值末法，人根陋劣，舍此别修，欲于现生了生死大事者，难上加难矣！</p>
+<p>净宗九祖蕅益大师，以金刚慧眼，于阐扬净土诸书中，选其词约理富者九种，并自著之弥陀要解，名为净土十要，可谓理圆词妙，深契时机，于上中下根，皆蒙利益，吾辈凡夫依此，断不至错认路头，执理废事，其于净土法门，功莫大焉！</p>
+<p>此书原由大师门人成时师节要流通，惟不加复勘，即行付刊，致隐晦难通，民初，李圆净居士为令时人得其实益，乃重新编排增补，并经印祖鉴定后广为流通，千当世之际，大有利益！</p>
+<p>本会鉴于初机浅识，乃觉文言繁长，卷帙博大，故仿‘印光大师全集问答撷录’，另以问答方式，将十要精华，分条列述，俾行人阅之，深知净土法门为一切诸法之归宿，进而敦伦尽分，闲邪存诚，以深信愿，持佛名号，则决定可以生入圣贤之域，没登极乐之邦矣！</p>
+<p>是为序，</p>
+<p>民国第二己卯年立冬</p>
+<p><a name="a001"></a><span style="color:#333399">◎总持法门<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">印光大师<span>&nbsp; </span></p>
+<p>如来一代所说一切法门，虽则大小顿渐不同，权实偏圆各异，无非令一切众生，就路还家，复本心性而已。然此诸法，皆须自力修持，断惑证真，了生脱死，绝无他力摄持，令其决于现生，入圣超凡。成就所愿也。唯净土法门，仗佛誓愿摄受之力。自己信愿念佛之诚。无论证悟与否。乃至烦惑丝毫未断者，均可仗佛慈力，即于现生，往生西方。既得往生，则已证悟者，直登上品，未断惑者，亦预圣流。是知净士法门。广大无外，如天普盖，似地均擎，统摄群机，了无遗物。诚可谓十方三世一切诸佛，上成佛道，下化众生，成始成终之总持法门。</p>
+<p><a name="a002"></a><span style="color:#333399">◎专持名号<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>原夫诸佛悯念群迷，随机施化，唯归元无二，而方便多门，然于一切方便之中，求其至直捷至圆顿者，则莫若念佛求生净土，又于一切念佛法门之中，求其至简易至稳当者，则莫若信愿专持名号。此经以信愿持名为修行之宗要。非信不足启愿。非愿不足导行。非持名妙行，不足满所愿所证所信。信则信自，信他，信因，信果，信事，信理。</p>
+<p><a name="a003"></a><span style="color:#333399">◎往生不退<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>往生有四土，各论九品，且略明得生四土之相，若执持名号，未断见思，随其或散或定，于同居土分三辈九品。若持至事一心不乱，见思任运先落，则生方便有余净土。若至理一心不乱，豁破无明一品，乃至四十一品，则生实报庄严净土，亦分证常寂光土。若无明断尽，则是上上实报，究竟寂光也。不退有四义，一念不退，破无明，显佛性，径生实报，分证寂光。二行不退，见思既落，尘沙亦破，生方便土，进趋极果。三位不退，带业往生，在同居土，莲华托质，永离退缘。四毕竟不退，不论至心散心，有心无心，或解不解，但弥陀名号，或六方佛名，此经名字，一经于耳，假使千万劫后，毕竟因斯度脱，如闻涂毒鼓，远近皆丧，食少金刚，决定不消也。</p>
+<p><a name="a004"></a><span style="color:#333399">◎理和与事和<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>同证无为解脱，名理和，身同住，口无诤，意同悦，见同解，戒同修，利同均，名事和也。</p>
+<p><a name="a005"></a><span style="color:#333399">◎一经要旨（弥陀经）<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>行者执持名号以立行信愿持名，一经要旨。信愿为慧行，持名为行行，得生与否，全由信愿之有无，品位高下，全由持名之深浅。故慧行为前导，行行为正修。</p>
+<p><a name="a006"></a><span style="color:#333399">◎极乐最胜处<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>同居众生，以持名善根福德同佛故，圆净四土，圆受诸乐也。极乐最胜，不在上三土，而在同居良以上之，则十方同居，逊其殊特。下又可与此土较量，所以凡夫优入而从容，横超而度越佛说苦乐，意在于此。</p>
+<p><a name="a007"></a><span style="color:#333399">◎极乐四土胜妙<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>同居净土是增上善业所感，亦圆五品观所感，以缘生胜妙五尘为体，方便净土是即空观智所感，亦相似三观所感，以妙真谛无漏五尘为体，实报净土是妙假观智所感，亦分证三观所感，以妙俗谛无尽五尘为体，常寂光土是即中观智所感，亦究竟三观所感，以妙中谛称性五尘为体，欲令易解，作此分别，实四土庄严无非因缘所生法，无不即空假中，所以极乐同居净境，真俗圆融不可限量。</p>
+<p><a name="a008"></a><span style="color:#333399">◎娑婆极乐—不隔而隔，隔而不隔<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>极乐一声，一尘，一刹那，乃至跨步弹指，悉与十方三宝贯彻无碍。在娑婆则浊重恶障，与极乐不隔而隔。生极乐则功德甚深，与娑婆隔而不隔也。饭食经行者，念食食至，不假安排，食毕钵去，不劳举拭，但经行金地，华乐娱乐，任运进修而已。</p>
+<p><a name="a009"></a><span style="color:#333399">◎阿弥陀<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>阿弥陀，正翻无量，本不可说本师以光寿二义，收尽一切无量。光则横遍十方，寿则竖穷三际。横竖交彻，即法界体，举此体作弥陀身土，亦即举此体作弥陀名号。是故弥陀名号，即众生本觉理性。持名，即始觉合本，始本不二，生佛不二，故一念相应一念佛，念念相应念念佛也。</p>
+<p><a name="a010"></a><span style="color:#333399">◎弥陀光明无量，寿命无量<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>心性寂而常照，故为光明。今彻证心性无量之体，故光明无量也。诸佛皆彻性体，皆照十方，皆可名无量光。法身光明无分际，报身光明称真性，此则佛佛道同。应身光明有照一由旬者，十百千由旬者，一世界十百千世界者，唯阿弥普照故别名无量光。然三身不一不异，为令众生得四益故，作此分别耳。当知无障碍，约人民言，由众生与佛缘深故，佛光到处一切世间无不圆见也。心性照而常寂，故为寿命。今彻证心性无量之体，故寿命无量也。法身寿命无始无终，报身寿命有始无终，此亦佛佛道同。皆可名无量寿。应身随愿随机，延促不等。三身不一不异，应身亦可即是无量之无量矣。</p>
+<p></p>
+<p><a name="a011"></a><span style="color:#333399">◎持名者光明寿命与佛同齐<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>光寿名号，皆本众生建立。以生佛平等，能令持名者，光明寿命同佛无异也。复次由无量光义，故众生生极乐即生十方，见阿弥陀佛即见十方诸佛，能自度即普利一切。由无量寿义，故极乐人民，即是一生补处，皆定此生成佛，不至异生，当知离却现前一念无量光寿之心，何处有阿弥陀佛名号，而离却阿弥陀佛名号，何由彻证现前一念无量光寿之心。愿深思之。愿深思之。</p>
+<p><a name="a012"></a><span style="color:#333399">◎决定往生<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>吾人大事因缘，同居一关，最难透脱，唯极乐同居，超出十方同居之外。了此，方能深信弥陀愿力，信佛力，方能深信名号功德，信持名，方能深信吾人心性本不可思议也。具此深信，方能发于大愿。深信发愿，即无上菩提，合此信愿，的为净土指南。由此而执持名号，乃为正行，若信愿坚固，临终十念一念，亦决得生，若无信愿，纵将名号持至风吹不入，雨打不湿，如银墙铁壁相似，亦无得生之理，修净业者，不可不知也。</p>
+<p><a name="a013"></a><span style="color:#333399">◎善根福德因缘<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>菩提正道名善根，即亲因，种种助道施戒禅等名福德，即助缘，声闻缘觉菩提善根少，人天有漏福业福德少，皆不可生净土。唯以愿信执持名号，则一一声悉具多善根福德。散心称名，福善亦不可量。况一心不乱哉，故使感应道交，文成印坏，弥陀圣众，不来而来，亲垂接引，行人心识，不往而往，托质宝莲也。</p>
+<p><a name="a014"></a><span style="color:#333399">◎事持与理持<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>执持则念念忆佛名号，故是思慧。然有事持理持。事持者信有西方阿弥陀佛，而未达是心作佛，是心是佛，但以决志愿求生故，如子忆母，无时暂忘。理持者信西方阿弥陀佛，是我心具，是我心造，即以自心所具所造洪名，为系心之境，令不暂忘也。</p>
+<p><a name="a015"></a><span style="color:#333399">◎一心与四土往生<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>一心亦二种。不论事持理持，持至伏除烦恼，乃至见思先尽，皆事一心；不论事持理持，持至心开见本性佛，皆理一心。事一心不为见思所乱，理一心不为二边所乱，即修慧也。不为见思乱，故感变化身佛及诸圣众现前。心不复起娑婆界中三有颠倒，往生同居方便二种极乐世界。不为二边乱，故感受用身佛及诸圣众现前。心不复起生死涅槃二见颠倒，往生实报寂光二种极乐世界。</p>
+<p><a name="a016"></a><span style="color:#333399">◎观经专明作观，为何持名不劳观想<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>此义即出观经。彼经因胜观非凡夫心力所及，故于第十三别开劣像之观。而障重者犹不能念彼佛，故于第十六大开称名之门。今经因末世障重者多，故专主第十六观。当知人根虽钝，而丈六八尺之像身，无量寿佛之名字，未尝不心作心是。故观劣者不劳胜观，而称名者并不劳观想也。</p>
+<p><a name="a017"></a><span style="color:#333399">◎持名不必参究<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>天奇毒峰诸祖，皆主参念佛者是谁，何谓不必参究，此义即出天奇诸祖，前祖因念佛人不契释迦彻底悲心，故傍不甘，直下诘问。一猛提醒，何止长夜复旦，我辈至今日，犹不肯死心念佛，苦欲执敲门瓦子，向屋里打亲生爷娘，则于诸祖成恶逆，非善顺也。</p>
+<p><a name="a018"></a><span style="color:#333399">◎大本十念与宝王一念，平时耶，临终耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>十念通二时。晨朝十念属平时。十念得生，与观经十念称名同，属临终时。一念则但约临终。若无平时七日工夫，安有临终十念一念。纵下下品逆恶之人，并是夙因成熟。故感临终遇善友，闻便信愿。此事万中无一，岂可侥幸。</p>
+<p><a name="a019"></a><span style="color:#333399">◎西方此去十万亿佛土，何得即生<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>十万亿土，不出我现前一念心性之外，以心性本无外故，又仗自心之佛力接引，何难即生。如镜中照数十层山水楼阁，层数宛然，实无远近。一照俱了，见无先后，从是西方过十万亿佛土，有世界名曰极乐亦如是。其土有佛号阿弥陀，今现在谁说法亦如是。其人临命终时，阿弥陀佛与诸圣众现在其前，是人终时心不颠倒，即得往生阿弥陀佛极乐国土亦如是当知字字皆海印三昧，大圆镜智之灵文。</p>
+<p><a name="a020"></a><span style="color:#333399">◎自他不二<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>此之法门，全在了他即自，若讳言他佛则是他见未忘。若偏重自佛，却成我见颠倒。又悉檀四益，后三益事不孤起，傥不从世界深发庆信，则欣厌二益尚不能生，何况悟入理佛。唯即事持达理持。所以弥陀圣众现前，即是本性明显往生彼土，见佛闻法，即是成就慧身，不由他悟。法门深妙，破尽一切戏论，斩尽一切意见唯马鸣龙树智者永明之流，彻底担荷得去其余世智辩聪，通儒禅客，尽思度量，愈推愈远又不若愚夫妇老实念佛者，潜通佛智，暗合道妙也。</p>
+<p><a name="a021"></a><span style="color:#333399">◎不可思议功德<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>不可思议，略有五意。一，横超三界，不俟断惑。二，即西方横具四土，非由渐证。三，但持名号不假禅观诸方便。四，一七为期，不藉多劫多生多年月。五，持一佛名，即为诸佛护念，不异持一切佛名。此皆导师大愿行之所成就，故曰阿弥陀佛不可思议功德之利。又行人信愿持名，全摄佛功德成自功德，故亦曰阿弥陀佛不可思议功德之利。</p>
+<p><a name="a022"></a><span style="color:#333399">◎诸方必有净土，何偏赞西方<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>有三义，令初机易标心故。阿弥本愿胜故。佛与此土众生偏有缘故。盖佛度生，生受化，其间难易浅深，总在于缘，缘之所在，恩德弘深，种种教启能令欢喜信入。能令触动宿种。能令魔障难遮。能令体性开发。诸佛本从法身垂迹，固结缘种。若世出世，悉不可思议。尊隆于教乘，举扬于海会。沁入于苦海，慈契于寂光，所以万德钦承，群灵拱极当知佛种从缘起，缘即法界，一念一切念，一生一切生。一香一华，一声一色，乃至受忏授记，摩顶垂手十方三世，莫不遍融，故此增上缘因，名法界缘起。此正所谓遍缘法界者也，浅位人便可决志专求，深位人亦不必舍西方而别求华藏。若谓西方是权，华藏是实，西方小，华藏大者，全堕众生遍计执情，以不达权实一体，大小无性故也。</p>
+<p><a name="a023"></a><span style="color:#333399">◎诸佛护念<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span lang="EN-US"> </span></p>
+<p>杂乱垢心，虽诵我名而不为闻，以不能生决定信解，但获世间善报，不得广大深妙利益，若到一行三昧，则成广大微妙行心，名得相似无生法忍，乃为得闻十方佛名，此亦应尔。故须闻已执持至一心不乱，方为闻诸佛名，蒙诸佛护念。此局义也。通义者，诸佛慈悲，不可思议。名号功德，亦不可思议。故一闻佛名，不论有心无心，若信若否，皆成缘种。况佛度众生，不简怨亲，恒无疲倦。苟闻佛名，佛必护念，又何疑焉。</p>
+<p><a name="a024"></a><span style="color:#333399">◎今发愿当生！今生！<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>一约一期名今，现生发愿持名，临终定生净土。二约刹那名今，一念相应一念生念念相应念念生妙因妙果，不离一心。如称两头，低昂时等。何俟娑婆报尽，方育珍池。只今信愿持名，莲萼光荣，金台影现，便非娑婆界内人矣。极圆极顿，难议难思。唯有大智，方能谛信。</p>
+<p><a name="a025"></a><span style="color:#333399">◎圆转五浊<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">弥陀要解<span>&nbsp; </span></p>
+<p>诸佛功德智慧，虽皆平等，而施化则有难易，净土成菩提易，浊世难。为净土众生说法易，为浊世众生难。为浊世众生说渐法犹易，说顿法难。为浊世众生说余顿法犹易，说净土横超顿法尤难。为浊世众生说净土横超顿修顿证妙观，已自不易。说此无藉劬劳修证，但持名号，径登不退，奇特胜妙超出思议第一方便，更为难中之难。信愿庄严一声阿弥陀佛，转劫浊为清净海会。转见浊为无量光。转烦恼浊为常寂光。转众生浊为莲华化生。转命浊为无量寿，故一声阿弥陀佛，即释迦本师于五浊恶世，所得之阿耨多罗三藐三菩提法，今以此果觉，全体授与浊恶众生，乃诸佛所行境界，唯佛与佛能究尽，非九界自力所能信解也。</p>
+<p><a name="a026"></a><span style="color:#333399">◎毕竟得生</span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">往生净土忏愿仪<span>&nbsp; </span></p>
+<p>天亲论曰，明何义，观安乐世界，见阿弥陀佛，愿生彼国土，云何观，云何生信心，修五念门成就者，毕竟得生安乐国土，见阿弥陀佛何等为五，一者礼拜门，二者赞门，三者作愿门，四者观察门，五者回向门。</p>
+<p><a name="a027"></a><span style="color:#333399">◎行法既多，云何一心<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">往生净土忏愿仪<span>&nbsp; </span></p>
+<p>问，行法既多，云何一心，答，有理有事，一者理一心，谓出入道场。乃至毕竟，虽涉众事，皆是无性。不生不灭，法界一相，如法界缘，名理一心，二者事一心，谓若礼佛时，不念余事，但专礼佛。诵经行道，亦复如是。是名事一心也。</p>
+<p><a name="a028"></a><span style="color:#333399">◎坐禅法二示<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">往生净土忏愿仪<span>&nbsp; </span></p>
+<p>当于一处，绳床西向，易观想故，表正向故，加趺端坐，项脊相对，不昂不伛，调和气息定住其心，然所修观门，经论甚多，初心凡夫，那曾偏习，今从要易想，略示二种，于二种中，仍逐所宜，未必并用。其有于余观想熟者任便。但得不离净土法门，皆应修习，所言二种，一者扶普观意，坐已自想，即时所修，计功合生极乐世界，当便起心生于彼想于莲华中，结加趺坐，作莲华合想，作华开想当华开时，有五百色光来照身想，作眼目开想，见佛菩萨及国土想，即于佛前，坐听妙法，及闻一切音声，皆说所乐闻法，所闻要与十二部经合，作此想时，大须坚固，令心不散。心想明了，如眼所见，经久乃起，二者直想阿弥陀佛丈六金躯，坐于华上，专系眉间白毫一相，其毫长一丈五尺，周围五寸，外有八棱，其毫中空，右旋宛转，在眉中间，莹净明彻，不可具说，显映金颜，分齐分明，作此想时，停心注想，坚固勿栘。然复应观想念所见，若成未成，皆想念因缘，无实性相，所有皆空，一、如镜中面像，如水现月影，如梦如幻，虽空而亦可见，二、皆心性所现，所有者即是自心，心不自知心。心不自见心。心有想即痴，无想即泥洹，心有心无，皆名有想，尽名为痴，不见法性，三、因缘生法，即空假中，不一不异，非纵非横，不可思议，心想寂静，则能成就念佛三昧，久而乃起。</p>
+<p><a name="a029"></a><span style="color:#333399">◎十念门<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">往生净土忏愿仪<span>&nbsp; </span></p>
+<p>十念门者，每日清晨服饰已后，面西正立，合掌，连声称阿弥陀佛，尽一气为一念，如是十气，名为十念，但随气长短，不限佛数，唯长唯久，气极为度。其佛声不高不低，不缓不急，调停得中。如此十气，连属不断。意在令心不散，专精为功故。名此为十念者，显是藉气束心也。作此念已，发愿回向云。</p>
+<p>我弟子其甲。一心归命极乐世界阿弥陀佛，愿以净光照我，慈誓摄我，我今正念，称如来名，经十念顷，为菩提道，求生净土。佛昔本誓，若有众生，欲生我国，至心信乐，乃至十念。若不生者，不取正觉。唯除五逆，诽谤正法，我今自忆，此生已来，不造逆罪，不谤大乘，愿此十念，得入如来大誓海中，承佛慈力，众罪消灭，净因增长，若临欲命终，自知时至。身不病苦，心无贪恋，亦不倒散，如入禅定，佛及圣众，手持金台，来迎接我，如一念顷，生极乐国，华开见佛，即闻佛乘，顿开佛慧，广度众生，满菩提愿。</p>
+<p><a name="a030"></a><span style="color:#333399">◎为益最大—系缘门<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">往生净土忏愿仪<span>&nbsp; </span></p>
+<p>系缘门者，凡公临私养，历涉缘务，虽造次而常内心不忘于佛，及忆净土。譬如世人切事系心，虽经历语言去来坐卧种种作务，而不妨密忆，前事宛然念佛之心，亦应如是。或若失念，数数摄还。久久成性，任运常忆。楞严经云，譬如有人，一专为忆，一人专忘，如是二人，若逢不逢，或见非见，二人相忆，二忆念深，如是乃至从生至生，同于形影，不相乖异，十方如来怜念众生，如母忆子，若子逃逝，虽忆何为，子若忆母，如母忆时，母子历生不相违远，若众生心忆佛念佛，现前当来，必定见佛，去佛不远，不假方便，自得心开。如染香人，身有香气，如此系心，任运常遮一切恶念。设欲作恶忆佛之故，恶不能成。纵使随恶作恶业时，心常下软。如身有香，自然离臭又复觉心微起恶念，即便忆佛以佛力故，恶念自息。如人遇难，求彼强援，必得免脱。又若见他受苦时，以念佛心，怜悯于彼，愿其离苦。若断刑狱，以念佛故，生悯念心。虽依王法，当密作愿云，我行王法，非我本心，愿生净土，誓相救济，凡历一切境界，若善若恶。由心忆佛，皆心念作愿。故普贤愿王云，作一切恶，皆不成就，若作善业，皆悉和合，即此意尔。如是相续念佛在心，能办一切净因功德恐烦披览，不复具说，诚哉此门，为益最大。</p>
+<p><a name="a031"></a><span style="color:#333399">◎利钝二性修观<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">观经初心三昧门<span>&nbsp; </span></p>
+<p>净要一书，皆历代善知识吹大法螺，击大法鼓，摧邪显正之大闲也，灵峰铨衡，一字不滥，成时何物，敢浪参耶，窃以十六观经，净土胜典，以非凡夫境界，属想无从，论者非妄劝修持，便概杜措意，然妄修则堕落坑□，概杜则壅塞源流进退两乖，均失佛旨。不知经为利钝二性，平分胜劣两门。利者修前十二观，感三辈生。钝者唯修第十三一观，亦分三辈九品，是则人虽钝，观虽劣，而作是一心之宗，如来夙愿之力，原无钝劣。故名此为杂想观者，指杂乱垢心即是阿弥陀佛不思议身土也，</p>
+<p><a name="a032"></a><span style="color:#333399">◎既以大悲为业，何又求生净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>诸佛菩萨以大悲为业，若欲救度众生，只应愿生三界，于五浊三途中救苦众生，因何求生净土，自安其生，舍离众生，则是无大慈悲，专为自利，障菩提道。</p>
+<p>菩萨有二种，一者，久修行菩萨道，得无生忍者，实当所责，二者，未得已还，及初发心凡夫，凡夫菩萨者，要须常不离佛，忍力成就，方堪处三界内，于恶世中，救苦众生，故智度论云，具缚凡夫，有大悲心，愿生恶世，救苦众生者，无有是处。何以故，恶世界，烦恼强，自无忍力，心随境转，声色所缚，自堕三途，焉能救众生。假令得生人中，圣道难得或因施戒修福，得生人中，得作国王大臣，富贵自在，纵遇善知识，不肯信用，贪迷放逸，广造众罪，乘此恶业，一入三途，经无量劫，从地狱出，受贫贱身，若不逢善知识，还堕地狱，如此轮回，至于今日，人人皆如是此名难行道也。故维摩经云，自疾不能救，而能救诸疾人，又智度论云，譬如二人，各有亲眷为水所溺，一人情急，直入水救，为无方便力故，彼此俱没。一人有方便，往取船筏，乘之救接，悉皆得脱水溺之难。新发意菩萨，亦复如是。如是未得忍力，不能救众生，为此常须近佛，得无生忍已，方能救众生，如得船者。又论云，譬如婴儿，不得离母，若也离母，或堕坑井，渴乳而死。又如鸟子，翅羽未成，只得依树传枝，不能远去。翅翮成就，方能飞空，自在无碍。凡夫无力，唯得专念阿弥陀佛，使成三昧。以业成故，临终敛念得生，决定不疑。见弥陀佛，证无生忍已，还来三界，乘无生忍船，救苦众生，广施佛事，任意自在，故论云游戏地狱行者，生彼国得无生忍已，还入生死国，教化地狱受苦众生。以是因缘，求生净土，愿识其教。故十住婆沙论名易行道也。</p>
+<p><a name="a033"></a><span style="color:#333399">◎诸法体空，本来无生，何又求生<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>诸法体空，本来无生，平等寂灭，今乃舍此求彼，生西方弥陀净土，岂不乖理哉，又经云，若求净土，先净其心，心净故，即佛土净，此云何通。</p>
+<p>释有二义，一者总答，二者别答，总答者，汝若言求生西方弥陀净土，则是舍此求彼，不中理者，汝执住此不求西方，则是舍彼著此，此还成病，不中理也又转计云，我亦不求生彼，亦不求生此者，则断灭见。故金刚般若经云，须菩提汝若作是念，发阿耨菩提者，说诸法断灭相，莫作是念，何以故。发菩提心者，于法不说断灭相。二别答者，夫不生不灭者，于生缘中，诸法和合，不守自性，求于生体，亦不可得，此生生时，无所从来，故名不生不灭者。诸法散时，不守自性，言我散灭，此散灭时，去无所至，故言不灭，非谓因缘生外，别有不生不灭，亦非不求生净土，唤作无生。为此中论偈云，因缘所生法，我说即是空，亦名为假名，亦名中道义，又云，诸法不自生，亦不从他生，不共不无因，是故知无生，又维摩经云，虽知诸佛国，及与众生空，而常修净土，教化诸群生，又云，譬如有人造立宫室，若依空地，随意无碍，若依虚空，终不能成，诸佛说法，常依三谛，不坏假名，而说诸法实相，智者炽然求生净土，达生体不可得，即是真无生。此谓心净故，即佛土净。愚者为生所缚，闻生即作生解，闻无生即作无生解。不知生即是无生，无生即是生不达此理，横相是非，嗔他求生净土，几许误哉。此则是谤法众人，邪见外道也。</p>
+<p><a name="a034"></a><span style="color:#333399">◎既云法性平等，又偏求一佛净土，与平等性乖，云何得生<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>十方诸佛一切净土，法性平等，功德亦等，行者普念一切功德，生一切净土今乃偏求一佛净土，与平等性乖，云何生净土。</p>
+<p>一切诸佛土，实皆平等，但众生根钝，浊乱者多。若不专系一心一境，三昧难成。专念阿弥陀佛，即是一相三昧，以心专至，得生彼国如随愿往生经云，普广菩萨问佛，十方悉有净土，世尊何故偏赞西方弥陀净土，专念往生，佛告普广，阎浮提众生，心多浊乱，为此偏赞西方一佛净土，使诸众生专心一境，即易得往生，若总念一切佛者，念佛境宽，则心散漫，三昧难成，故不得往生。又求一佛功德，与一切佛功德无异，以同一佛法性故，为此念阿弥陀佛，即念一切佛，生一净土，即生一切净土。故华严经云，一切诸佛身，即是一佛身，一心一智慧，力无畏亦然，又云，譬如净满月，普应一切水，影像虽无量，本月未曾二，如是无碍智，成就等正觉，应现一切刹，佛身无有二，智者以譬喻得解，智者若能达一切月影即一月影，一月影即一切月影，月影无二故，一佛即一切佛，一切佛即一佛，法身无二故，炽然念一佛时，即是念一切佛也。</p>
+<p><a name="a035"></a><span style="color:#333399">◎偏念弥陀佛，为何<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>等是念求生一佛净土，何不十方佛土中，随念一佛净土，随得往生，何须偏念弥陀佛耶。</p>
+<p>凡夫无智，不敢自专，专用佛语故能偏念阿弥陀佛。云何用佛语，释迦大师一代说法，处处圣教，唯劝众生专心偏念阿弥陀佛，求生西方极乐世界。如无量寿经，观经，往生论等，数十余部经论文等，殷勤指授劝生西方，故偏念也。又弥陀佛别有大悲四十八愿，接引众生。又观经云，阿弥陀佛有八万四千相，一一相有八万四千好，一一好放八万四千光明，遍照法界念佛众生，摄取不舍若有念者，机感相应，决定得生。又阿弥陀经，大无量寿经，鼓音王陀罗尼经等云。释迦佛说经时，皆有十方恒沙诸佛，舒其舌相，遍覆三千大千世界，证成一切众生念阿弥陀佛。乘佛大悲本愿力故，决定得生极乐世界，当知阿弥陀佛，与此世界，偏有因缘何以得知，无量寿经云。末世法灭之时，特驻此经百年在世。接引众生，往生彼国，故知阿弥陀佛，与此世界极恶众生，偏有因缘其余诸佛一切净土，虽一经两经略劝往生。不如弥陀佛国，处处经论，殷勤叮咛劝往生也。</p>
+<p><a name="a036"></a><span style="color:#333399">◎具缚凡夫，恶业厚重，云何得生<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>具缚凡夫，恶业厚重，一切烦恼，一毫未断。西方净土出过三界，具缚凡夫云何得生。</p>
+<p>有二种缘，一者自力，二者他力，自力者，此世界修道，实未得生净土。是故璎珞经云，始从具缚凡夫未识三宝，不知善恶因之与果。初发菩提心，以信为本，住在佛家，以戒为本，受菩萨戒，身身相续，戒行不阙，经一劫二劫三劫，始至初发心住，如是修行十信十波罗蜜等，无量行愿。相续无间，满一万劫，方始至第六正心住。若更增进至第七不退住，即种性位。此约自力，卒未得生净土。他力者，若信阿弥陀佛大悲愿力，摄取念佛众生，即能发菩提心，行念佛三昧。厌离三界身。起行施戒修福，于一一行中，回愿生彼弥陀净土，乘佛愿力，机感相应，即得往生，是故十住婆沙论云，于此世界修道，有二种，一者难行道，二者易行道，难行者，在于五浊恶世，于无量佛时求阿鞞跋致，甚难可得，此难无数尘沙，说不可尽。略陈有五，一者，外道相善，乱菩萨法。二者，无赖恶人，破他胜德。三者，颠倒善果，能坏梵行。四者，声闻自利，障于大慈。五者，唯有自力无他力持。譬如跛人步行，一日不过数里，极大辛苦，谓自力也。易行道者，谓信佛语，教念佛三昧，愿生净土，乘弥陀佛愿力摄持，决定往生不疑也。如人水路行藉船力，故须臾即至千里，谓他力也。譬如劣夫从转轮王，一日一夜周行四天下，非是自力，转轮王力也。若言有漏凡夫不得生净土者，亦可有漏凡夫应不得见佛身，然念佛三昧，并无漏善根所起有漏凡夫，随分得见佛身粗相也。菩萨见微细相。净土亦尔，虽是无漏善根所起，有漏凡夫发无上菩提心，求生净土，常念佛故伏灭烦恼，得生净土。随分得见粗相，菩萨见微妙相，此何所疑，故华严经说，一切诸佛刹，平等普严净，众生业行异，所见各不同，即其义也。</p>
+<p><a name="a037"></a><span style="color:#333399">◎得生彼国，云何不退<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>设令具缚凡夫，得生彼国。邪见三毒等常起，云何得生彼国，即得不退，超过三界。</p>
+<p>得生彼国，有五因缘不退，云何为五，一者，阿弥陀佛大悲愿力摄持，故得不退。二者，佛光常照，故菩提心常增进不退。三者，水鸟树林风声乐响，皆说苦空，闻者常起念佛念法念僧之心，故不退。四者，彼国纯诸菩萨以为良友，无恶缘境。外无神鬼魔邪，内无三毒等，烦恼毕竟不起，故不退。五者，生彼国即寿命永劫，共菩萨佛齐等，故不退也。在此恶世，日月短促，经阿僧祇劫，复不起烦恼，长时修道，云何不得无生忍也。此理显然，不须疑也。</p>
+<p><a name="a038"></a><span style="color:#333399">◎不求兜率，反求西方何也<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>弥勒菩萨，一生补处，即得成佛，上品十善，得生彼处，见弥勒菩萨，随从下生，三会之中，自然而得圣果，何须求生西方净土耶。</p>
+<p>求生兜率，亦曰闻道见佛，势欲相似，若细比较，大有优劣，且论二种，一者，纵持十善，恐不得生，何以得知。弥勒上生经云，行众三昧，深入正定，方始得生，更无方便接引之义，不如阿弥陀佛本愿力，光明力，但有念佛众生，摄取不舍，又释迦佛说九品教门，方便接引，殷勤发遣，生彼净土，但众生能念弥陀佛者，机感相应，必得生也。如世间慕人，能受慕者机会相投，必成其事。二者，兜率天宫是欲界，退位者多，无有水鸟树林，风声乐响，众生闻者，悉念佛发菩提心，伏灭烦恼，又有女人，皆长诸天爱著五欲之心，又天女微妙，诸天耽玩，不能自勉。不如弥陀净土，水鸟树林，风声乐响，众生闻者，皆生念佛发菩提心，伏灭烦恼，又无女人二乘之心，纯一大乘清净良伴，为此烦恼恶业毕竟不起，遂至无生之位。如此比较，优劣显然，何须致疑也，如释迦佛在世之时，大有众生见佛不得圣果者如恒沙。弥勒出世亦尔，大有不得圣果者，未如弥陀净土，但生彼国已，悉得无生法忍，未有一人退落三界，为生死业缚也。又闻西国传云，有三菩萨，一名无著，二名世亲，三名师子觉，此三人契志同生兜率，愿见弥勒，若先亡者，得见弥勒，誓来相报，师子觉前亡，一去数年不来，后世亲无常，临终之时，无著语云，汝见弥勒，即来相报，世亲去已，三年始来，无著问曰，何意如许多时始来，世亲报云，至彼天中，听弥勒菩萨一座说法，旋绕即来相报，为彼天日长，故此处已经三年，又问，师子觉今在何处，世亲报云，师子觉为受天乐，五欲自娱，在外眷属，从去已来，总不见弥勒，诸小菩萨生彼，尚著五欲，何况凡夫，为此愿生西方，定得不退，不求生兜率也。</p>
+<p><a name="a039"></a><span style="color:#333399">◎临终十念，云何可通<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>众生无始以来，造无量业，今生一形不逢善知识，又复作一切罪业，无恶不造，云何临终十念成就，即得往生，出过三界结业之事，云何可通。</p>
+<p>众生无始以来，善恶业种多少强弱，并不得知。但能临终遇善知识，十念成就者，皆是宿善业强。始得遇善知识，十念成就，若恶业多者，善知识尚不可逢，何可论十念成就又汝以无始以来恶业为重，临终十念为轻者，今以道理三种较量轻重不定，不在时节久近多少。云何为三，一者在心，二者在缘，三者在决定。在心者，造罪之时，从自虚妄颠倒生，念佛者，从善知识，闻说阿弥陀佛真实功德名号生，一虚一实，岂得相比譬如万年闇室，日光暂至，而闇顿灭岂以久来之闇，不肯灭耶。在缘者，造罪之时，从虚妄痴闇心，缘虚妄境界颠倒生，念佛之心，从闻佛清净真实功德名号，缘无上菩提心生，一真一伪，岂得相比。譬如有人被毒箭中，箭深毒惨，伤肌破骨，一闻灭除药鼓，即箭出毒除。岂以箭深毒惨而不肯出也。在决定者，造罪之时，以有闲心，有后心也。念佛之时，以无闲心，无后心，遂即舍命，善心猛利，是以即生譬如十围之索，千夫不制，童子挥剑，须臾两分，又如千年积柴，以一豆火焚，少时即尽，又如有人，一生以来，修十善业，应得生天，临终之时，起一念决定邪见，即堕阿鼻地狱，恶业虚妄，以猛利故，尚能排一生之善业，令堕恶道，岂况临终猛心念佛，真实无间善业，不能排无始恶业，得生净土，无有是处。又云，一念念佛，灭八十亿劫生死之罪，为念佛时心猛利故，伏灭恶业决定得生，不须疑也。上古相传，判十念成就作别时意者，此定不可，何以得知摄论云，由唯发愿故，全无有行，杂集论云，若愿生安乐国土即得往生，若闻无垢佛名即得阿耨菩提者，并是别时之因，全无有行，若将临终无间十念猛利善行是别时意者，几许误哉。愿诸行者深思此理，自牢其心。莫信异见，自坠陷也。</p>
+<p><a name="a040"></a><span style="color:#333399">◎女人根缺，必不得生<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>西方去此十万亿佛刹，凡夫劣弱，云何可到，又往生论云，女人及根缺，二乘种不生，既有此教，当知女人及以根缺者，必定不得往生。</p>
+<p>为对凡夫肉眼生死心量说耳，西方去此十万亿佛刹，但使众生净土业成者，临终在定之心，即是净土受生之心，动念即是生净土时，为此，观经云弥陀佛国，去此不远。又业力不可思议，一念即得生彼，不须愁远。又如人梦，身虽在床，而心意识，遍至他方一切世界，如平生不异也。生净土亦尔，动念即至，不须疑也。女人及根缺，二乘种不生者，但论生彼国无女人，及无盲聋喑哑人，不道此间女人根缺人不得生彼，若如此说者，愚痴全不识经意，即如韦提夫人，是请生净土主。及五百侍女，佛授记悉得往生彼国。但此处女人，及盲聋喑哑人，心念弥陀佛，悉生彼国已，更不受女身，亦不受根缺身。二乘人但回心愿生净土，至彼更无二乘执心。为此故云，女人及根缺，二乘种不生。非谓此处女人，及根缺人，不得生也。故无量寿经四十八愿云，设我得佛，十方世界一切女人，称我名号，厌恶女身舍命之后，更受女身者，不取正觉，况生彼国，更受女身，根缺者亦尔。</p>
+<p><a name="a041"></a><span style="color:#333399">◎不断淫欲，得生彼否<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土十疑论<span>&nbsp; </span></p>
+<p>今欲决定求生西方，未知作何行业，以何为种子，得生彼国。又凡夫俗人皆有妻子，未知不断淫欲，得生彼否。</p>
+<p>欲决定生西方者，具有二种行，定得生彼。一者厌离行。二者欣愿行。言厌离行者，凡夫无始已来，为五欲缠缚。轮回五道，备受众苦，不起心厌离五欲，未有出期，为此常观此身，脓血屎尿，一切恶露，不净臭秽，故涅槃经云，如是身城，愚痴罗刹，止住其中，谁有智者，当乐此身，又经云，此身众苦所集，一切皆不净，扼缚廱疮等，根本无义利，上至诸天身，皆亦如是，行者若行若坐，若睡若觉常观此身，唯苦无乐，深生厌离，纵使妻房不能顿断，渐渐生厌，作七种不净观。一者观此淫欲身，从贪爱烦恼生，即是种子不净。二者父母交会之时，赤白和合，即是受生不净。三者母胎中在生脏下居熟脏上，即是住处不净。四者在母胎时，唯食母血，即是食啖不净。五者日月满足，头向产门，脓血俱出，臭秽狼藉，即是初生不净。六者薄皮覆上，其内脓血遍一切处，即是举体不净，七者乃至死后膨胀烂坏，骨肉纵横，狐狼食啖，即是究竟不净，自身既尔，他身亦然。所爱境界，男女身等，深生厌离，常观不净。若能如此观身不净之者，淫欲烦恼，渐渐减少，又作十想等观，广如经说，又发愿愿我永离三界杂食臭秽脓血不净耽荒五欲男女等身，愿得净土法性生身，此为厌离行。二明欣愿行者，复有二种，一者先明求往生之意，二者观彼净土庄严等事，欣心愿求，明往生意者，所以求生净土，为欲救拔一切众生苦故，即自思忖，我今无力，若在恶世，烦恼境强，自为业缚。沦溺三途，动经劫数，如此轮转，无始已来，未曾休息，何时能得救苦众生，为此求生净土，亲近诸佛，若证无生忍，方能于恶世中救苦众生，故往生论云，言发菩提心者，正是愿作佛心，愿作佛心者，则是度众生心，度众生心者，则是摄众生生佛国心。又愿生净土，须具二行，一者必须远离三种障菩提门法，二者须得三种顺菩提门法，何者为三种障菩提法，一者依智慧门，不求自乐，远离我心贪者自身故。二者依慈悲门，拔一切众生苦，远离无安众生心故，三者依方便门，当怜悯一切众生，欲与其乐，远离恭敬供养自身心故。若能远三种菩提障，则得三种顺菩提法，一者无染清净心，不为自身求诸乐故。菩提是无染清净处，若为自身求乐，即染身心障菩提门。是故无染清净心，是顺菩提门。二者安清净心，为拔众生苦故，菩提心是安隐一切众生清净处，若不作心拔一切众生，令离生死苦，即违菩提门。是故安清净心是顺菩提门，三者乐清净心，欲令一切众生得大菩提涅槃故，菩提涅槃是毕竟常乐处，若不作心令一切众生得毕竟常乐，即遮菩提门。此菩提因何而得，要因生净土，常不离佛。得无生忍已，于生死国中，救苦众生。悲智内融，定而常用。自在无碍，即菩提心。此是愿生之意。二明欣心愿求者。希心起想，缘弥陀佛。若法身，若报身等。金色光明，八万四千相，一一相中八万四千好，一一好放八万四千光明。常照法界，摄取念佛众生。又观彼净土七宝庄严妙乐等，备如无量寿经观经十六观等，常行念佛三昧，及施戒修等一切善行。悉以回施一切众生，同生彼国，决定得生。此谓欣愿门也。</p>
+<p><a name="a042"></a><span style="color:#333399">◎念佛名者，必成于三昧<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>夫心之二也，生于群妄，群妄虽虚，惑者犹滞。滞之不释，圣以之忧，玄韵畅而无说，法身空而具相，相之不明，说之不圆，一味之旨，绝言之路，讵可知其所归欤。三昧之宗者，欲令弱丧知不二法门，存乎语默，匪唯净名杜口，文殊兴赞而已矣。何则，夫帝网未张，千璎焉觌。宏纲忽举，万目齐开。浴大海者，已用于百川。念佛名者，必成于三昧。一言以蔽，其在兹焉，亦犹清珠下于浊水，浊水不得不清。佛想投于乱心，乱心不得不佛。既契之后，心佛双亡，双亡定也。双照慧也。即定慧齐均，亦何心而不佛，何佛而不心，心佛既然，则万境万缘无非三昧者也，</p>
+<p><a name="a043"></a><span style="color:#333399">◎诃欲<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>诃欲者，如菩萨诃色欲经云，女色者，世间之枷锁，凡夫恋者，不能自拔，女色者，世间之重患，凡夫困之，至死不免。女色者，世间之衰祸，凡夫遭之，无□不至。行者既得舍之，若复顾念。是为从狱得出，还复思入。从狂得止，而复乐之。从病得差，复思得病。智者愍之，知其狂而颠蹶，死无日矣凡夫重女，甘为仆使，终身驰骤，为之辛苦，虽复铁锧千刃，锋镝交至。甘心受之，不以为患，狂人乐狂，不是过也。行者若能弃之不顾，是则破枷脱锁，恶狂厌病。离于衰祸，既安且吉。得出牢狱，永无患难。女人之相，其言如蜜，其心如毒，譬如停泉澄波，而蛟龙居之。金山宝窟，而师子处之。当知此害，不可近也。室家不和，妇人之由，毁宗败族，妇人之罪，实为阴贼，灭人慧明，亦如猎围，鲜得出者。譬如高罗，群鸟落之，不能奋飞，又如密网，众鱼投之，则剖肠俎肌，亦如闇坑，无目投之，如蛾赴火，是以智者知而远之，不受其害，恶而秽之，不为此物之所惑也。</p>
+<p><a name="a044"></a><span style="color:#333399">◎放心<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>放心者，如大宝积经云，文殊师利告善住天子言，若人一心，专精自守，贪欲心发，即应觉知。方便散除，还令寂静。云何散除，应作是念。此是空，此是不净，求此欲心生处灭处，从何所来，去至何所是中谁染，谁受染者，谁为染法。如是观时，不见能染，不见所染，不见染事。以不见故，则无有取，以不取故，则无有舍。以不舍故，则无有爱。不舍不爱，则名离欲寂静涅槃也，若又恣心入诸尘劳生死之内，而亦不患贪恚痴等烦恼过患，是谓放心。</p>
+<p><a name="a045"></a><span style="color:#333399">◎佛想门<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>大集经云，若诸王臣打骂出家持戒破戒，罪同出百亿佛身血。若见被袈裟者，无论持犯，但生佛想，佛想者，念佛三昧也斯之金口，明不轻之深旨也，安得恣行打骂，而不惧哉。经云，宁为心师，不师于心。见悭贪人作施想。见破戒人作持戒想。夫然，则不为六蔽境界之所缠，盖成六度彼岸之观门焉。若住分别之心，自取冥司之罚，不亦哀哉。若能翻此见心，则念佛三昧，如川之流矣。</p>
+<p><a name="a046"></a><span style="color:#333399">◎未悟从何得醒<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>夫长江之源，滥乎一觞，大迷之本，存乎二见，若谓念外立无念，生外立无生，则生死异于涅槃也。万佛洪音，莫之能训矣，若了念而无念，观生而不生，烦恼即菩提也。</p>
+<p><a name="a047"></a><span style="color:#333399">◎遍缘一切，皆见如来<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>起心遍缘六尘三业，仍发妙愿，入佛境界，一一缘起，不离如来，名悉皆见矣。此是圆见，非由眼也，故涅槃经云，声闻人虽有天眼，名为肉眼，学大乘者，虽有肉眼，名为佛眼，可以故，晓了己身，有佛性故。又如胜天王经中，佛告天王，菩萨摩诃萨，以方便力，行般若波罗蜜，于一切法，心缘自在。缘一切色，愿得佛色，无所得故心缘众声，愿得如来微妙音声。心缘众香，愿得如来清净戒香。心缘诸味，愿得如来味中第一大丈夫相。心缘诸触，愿得如来柔软手掌。心缘诸法，愿得如来寂静之心。心缘自身，愿得佛身，心缘自口，愿得佛口。心缘自意，愿得如来平等之意。天王，菩萨摩诃萨，行般若波罗蜜，无有一心一行空过，不向萨婆若者，遍缘诸法，而能不著。观见诸法，无不趣向菩提之道，菩萨修习诸行，皆因外缘而得成立。</p>
+<p><a name="a048"></a><span style="color:#333399">◎念未来佛即与过现诸佛等<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>华严经云，一切诸如来，同共一法身，一心一智慧，力无畏亦然。楞伽偈云，迦叶拘留孙，拘那含我是。以此四种等，我为佛子说。言四等者，一字等，同名佛也。二语等，皆具迦陵频伽梵音声相。三法等，尽得菩提分法无障碍智也，四身等，法身色声相好无差也。起信论云，依方故转，方实不转。夫如是，则悟者悟于一方群方自正，念者念于一佛，诸佛现前经所谓水不上升，月不下降，光净因缘，虚空皓月，现于清水，彼佛不来，我身不往。念佛因缘，如来宝月，现于心水。如说颂曰，菩萨清凉月，游于毕竟空，众生心水净，菩提影现中。</p>
+<p><a name="a049"></a><span style="color:#333399">◎一念十念往生何者为正<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>如佛所说，谤佛毁经，打僧骂尊，五逆四重，皆一念恶业成，堕无间狱，犹如箭射。今之念佛生于净土，亦一念善业成，即登极乐，犹如屈臂。前一念五阴灭，后一念五阴生。如蜡印印泥，印坏文成，尚不须两念，岂要至十念哉。打僧骂尊，虽非正逆，是五逆之类也。又一念者。如经云，爱酪沙弥，生一念爱心，后生酪中作虫。又大萨婆长者妻，坐对明镜，自爱其身。海风破船，生故尸中作虫。嬉戏往来，不离其所，斯皆一念，非十念也。又大无量寿经，明一念念佛，皆得往生。观经十念，良有以也，盖为遘疾□羸，力微心劣，故须十称弥陀，以助其念。若心盛不昧一念生焉。亦犹栽植丝发，其茂百围也。</p>
+<p><a name="a050"></a><span style="color:#333399">◎佛光与魔光<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>魔光乃有影耀眼，佛光乃无影不耀眼。故楞伽偈曰，佛地名最胜，清净妙庄严，照耀如盛火，光明悉遍至，炽焰不坏目，周轮化三有。又光之真也，令念佛人身心澄渟清净。光之伪也，令念佛人心躁动恍惚，故涅槃经云，澄渟清净，即真解脱，真解脱者，即是如来明矣。</p>
+<p><a name="a051"></a><span style="color:#333399">◎宁起有见，不起空见<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>夫至人冥真体寂，虚空其怀，虽复万法并照，而心未尝有，则真智无缘，故无念可名。俗智有缘，故念想以生。又想不异空，空不异想，名第一义中道之理也。此显法身矣，空即是想，名俗谛之理也。恒沙万德，皆依俗谛，此显报身矣。想即是空，名真谛之理也。破二十五有，得二十五三昧。常空常化，和光利物，此显化身矣。是则以三观观三谛，证三德，成三身。乃至十种三法，有何不可。而欲摈于清净之想，取无想之想耶。塞于禅定之门，而取成佛之阈耶。楞伽密严经，皆曰：宁起有见如须弥者，谓信有因果，存想念佛，生极乐净国，故曰宁起有也。不起空见如芥子者，谓拨无因果，谛于念佛，生阿鼻地狱，故云不起空也。吁可畏者，其在兹焉。</p>
+<p><a name="a052"></a><span style="color:#333399">◎三昧</span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝三论<span>&nbsp; </span></p>
+<p>夫称三昧者何，思专想寂之谓也。思专则志一不移，想寂则气虚神朗，气虚则智恬其照，神朗则无幽不彻。斯二乃是自然之玄符，会一而致用也。</p>
+<p><a name="a053"></a><span style="color:#333399">◎佛有三身如何忆念<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>夫佛之三身，法报化也。法身者，如月之体。报身者，如月之光。化身者，如月之影。万水之内，皆有月焉。此月为多为一耶。不可言一，万水之月常差矣。不可言多，虚空之月常一也。如梵书伊字，摩醯三目，纵横并别。皆不可议也。经云，或现小身丈六八尺者，皆众生心水中佛也。佛尚无形，岂有二哉。净国秽土，亦自彼耳。若欲将念三身，破三种障。今试明之，尔佛身之生，从止观生。止观不均，其障必起。念佛之人，修止心沈，昏闇障起，而障化身佛。又须以观心策之。念白毫光，破昏闇障也。修观心浮，无恶不造，而障报身佛。还修于止，止一切恶。念诸佛昔因，恒沙功德，智慧圆满，酬因日报，破恶念障也，若二边障动，诡状殊形。万相纷纶，两贼强耎，障法身佛也。以中道第一义空破之，偈曰。无色无形相，无根无住处，不生不灭故，敬礼无所观。所观之理，如毗岚猛风，吹散重云，显明法身清净宝月，破逼恼障也，应病与药，不其然欤。我既化人，人亦化物，物我俱成，三昧弥兴，众生无尽，三昧不绝也。</p>
+<p><a name="a054"></a><span style="color:#333399">◎所念之佛，穷玄极圣，能念之人尚在凡位安得叨窃，言同正觉<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>三昧海经云，所念之佛，如出胎师子王，喻佛果也。能念佛人，如在胎师子王，喻佛子也。因果虽殊，威神相继。论其佛也，更何异焉。欲令在胎师子，便能哮吼飞落走伏者，未之有也。出胎之后，可翘足而待，曾何阙矣，而因果相同，其义一也。</p>
+<p><a name="a055"></a><span style="color:#333399">◎有念有思，有生有灭，安得无所念心而修念佛<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>无念之说，人多泣歧。不细精研，犹恐迷径，今以理事门辨之，言理门者。真无念也。释曰，有之与无，即此念而本无矣。何者。佛从念生，心即是佛。如刀不自割，指不自触，佛不自佛，心不自心，安得佛外立心，心外立佛。佛既不有，心岂有哉。无心念佛，其义明矣。故世人谓念佛，有念也。吾则谓念佛，无念也。更何惑焉。又念即是空，焉得有念，非念灭空，焉得无念念性自空，焉得生灭又无所念心者，应无所住也。而修念佛者，而生其心也。无所念心者，从无住本也。而修念佛者，立一切法也。无所念心者，念即是空也。而修念佛者，空即是念也。不异之旨，此明中道矣。</p>
+<p><a name="a056"></a><span style="color:#333399">◎六度万行未有一法不是念佛<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>如菩萨念佛三昧经破相偈曰，念佛真金色，安住无者心。观法何名佛，摄心恒相续。金色非如来，四阴亦如是。离色非如来，想色应当知。此是佛世尊，最胜寂静处。善能灭一切，外道诸邪见。如龙王降雨，泽及于一切。此经明六度万行，未有一法不是念佛三昧者也。</p>
+<p>夫佛生于心，般舟无念而已至。境出于我，法华不速而自来。无所念心者，绝诸乱想也。而修念佛者，善想一佛也。文殊所说摩诃般若经云，若人学射，久习则巧。后虽无心，箭发皆中，若人欲入一行三昧，随佛方所，专称名字，念念相续，即于念中见三世佛。如彼习射，既熟之后，无心皆中，非无念也，何耶，是以方等曰矻矻念，勿休息，佛当现也。璎珞经云，道名一心，多想非道，坐禅三昧经云，菩萨坐禅，不念一切，唯念一佛。如清泠海中，金须弥山王。乃至功德法身，亦如是念。</p>
+<p><a name="a057"></a><span style="color:#333399">◎无念是三昧，直超无念，更何迂回，而用于念<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>楞伽经云，用楔出楔。俗谚云，使贼捉贼，今则以念止念，有何不可。况念之熟也，不谋而自成，不用力矣。如剑客舞剑，忽挥之青云。以鞘背承，未尝或失。庖丁解牛，投刃皆虚，音合桑林之舞。此念之熟也。不亦明焉。故起信论云，若知虽说，无有能说可说，虽念亦无能念可念，名为随顺。若离于念，名为得入。得入者，真如三昧也。况乎无念之位，在于妙觉，盖以了心初生之相也。而言之初相者，所谓无念非菩萨十地所知。而今之人，尚未阶十信，即不依马鸣大士，从说入于无说，从念入于无念，实恐慕崇台而轻累土，倒裳索领，其可得哉。</p>
+<p><a name="a058"></a><span style="color:#333399">◎能念之心，所念之佛，岂非二妄耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>楞伽经云，了心及境界，妄想即不生，不生心者，即种种远离能相所相。吾今念千轮卍字，绀目白毫种种之相，皆吾自心，无佛可得。缘既不有，心岂有哉。则能相之念，所相之佛，自远离矣。安得住于二妄想耶。前圣所知，转相传授，妄想无性，于兹悟矣。又如观佛实相，观身亦然。遇境皆真，无心不佛。中道之理遍于一切，岂存于所缘之佛欤。又解云，如鼻有墨点，对之明镜，人恶其墨，但揩于镜，其可得耶。好恶是非，对之前境，不了自心，但尤于境，其可得耶。未若洗分别之鼻墨，则一镜圆净矣。万境咸真矣，执石成宝矣，众生即佛矣。</p>
+<p><a name="a059"></a><span style="color:#333399">◎念中道第一义—法身佛<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>依达摩大师称法之行，理观用心。皆是念中道第一义谛法身佛也。必不离念存于无念，离生立于无生。若谓离之而别立者，斯不了烦恼即涅槃，众生即诸佛。安得悟彼瓦砾如真珠哉。既离之不可即念佛，而真无念也，即往生，而真无生也夫如是，则其义焕然，若秋天澄霁，明月出云矣。岂同愚人观指而不观月哉。</p>
+<p><a name="a060"></a><span style="color:#333399">◎何不求自心，而求外佛耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝三论<span>&nbsp; </span></p>
+<p>子谓念佛三昧无上妙禅，非心行中求者，不然也，为子明之，夫心之为行者，行于三境也。一行善境，即念佛三昧，善中之善，天中之天，二行不善境，谓贪嗔痴等，诸恶境界，三行无记境，谓其心不住，善恶不缘，若论夫理性，理遍前三，语其顺理，唯留善境经云，所谓取我是垢，不取我是净者，谓不了法性体无悭贪，违于法性而不行施，纵施住施，不能舍施，非垢如何，若能了知随顺法性，行檀波罗蜜，无悭施相，善顺于理，非净如何，不善无记，乘于法性，不可与善联镳也。故胜天王问佛，云何菩萨通达禅波罗蜜，佛告天王，菩萨摩诃萨，学般若波罗蜜，行禅波罗蜜，当观此心，此行于何境，若善，不善，无记境界，若行善境，则勤修习，譬如莲华，不停水滴，一不善法，不得暂住。据斯金口，岂有不善无记而不摈之哉。是则顺理善心，行于善境，炽然念佛，解脱在心行中。若谓念佛心行而非解脱者，不善无记二种心行岂得有哉。如斯解脱，迷之则滞于浩劫，悟之则证如反掌。习禅明镜，允兹在兹。如来世雄，考彼群定，以念佛三昧为禅中王。诸余三昧有待有对者，皆匹夫之定耳。然宝王三昧，不住尊相，不住卑相，邪相，正相，生死相，涅槃相，烦恼相，菩提相，静相，乱相，成正觉相，度众生相，坐道场相，无所得相，以是等相，皆悉不住。犹如梦觉，廓无来去，故大品云，无去无来是佛，夫如是，则尚遣乎中道，岂住于边徼哉。</p>
+<p><a name="a061"></a><span style="color:#333399">◎三业供养，佛在灭后，献福何多<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>若如来在世，金山晃耀，严相赫然，谁有睹之，不发道意。献华伸恳，不亦易哉，洎世雄晦迹，月隐重山。不奉真仪，但传贝叶，对之形像，发无上意。能献一华，此志此心，足可嘉尚。有如是者，不亦难哉。涅槃云，乃至献一华，则生不动国。是则一香一华，一灯一乐，及以饮食，尽心乐得奉荐三世诸佛者，净土妙因，成圣元始安得轻易其事，而不遵之哉。若离于此行，而听无稽之言。献心华，点心灯，焚心香，礼心佛，而欲求于正觉者，亦何异骋猿猴之巧，守梅林之望欤，及令彼衣心衣，饭心饭，则困拒不已。至于六度万行，何乃排于空见之心哉。指心望空之言，其过若此，不可不慎也。</p>
+<p><a name="a062"></a><span style="color:#333399">◎念佛三昧—永明寿和尚<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">念佛三昧宝王论<span>&nbsp; </span></p>
+<p>法华三昧者，即念佛三昧也。是以如来名此胜定，为三昧宝王，为光明藏，为除罪珠，为邪见灯，迷衢者导，王子金印，贫夫宝藏，空三昧，圣三昧陀罗尼，真思惟，最胜观，如意珠，佛性，法性，僧性，无尽藏，胜方便，大慧光明，消恶观法三昧等，故知教理行果，八万四千波罗蜜门，皆是念佛三昧之异名也，夫如是，则献一华，遍奉于三世尘刹，念一佛体通于未来世雄。如大地而为射的，岂有箭发而不中者哉，不然则为思益经畏空舍空行空索空之诮耳。</p>
+<p><a name="a063"></a><span style="color:#333399">◎屈禅赞净，此疑非小<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>有禅无净土，十人九蹉路，无禅有净土，万修万人去，看他此等语言，主张净土，无少宽容，无乃自屈其禅，而过赞净土耶，此疑非小。</p>
+<p>大哉问也。当知永明非过赞也，深有功于宗教者也惜永明但举其纲，而发明未尽，故未能尽遣禅者之疑也，余忝学禅，未谙净土，然亦尝涉猎净土诸书，稍知其概，本是易行易入之方，亦是难说难信之法。所以释迦慈父现在世时，为诸弟子说弥陀经。预知末法众生，少能信向，故引六方诸佛出广长舌说诚实言，以起其信，以破其疑，及于经末，因诸佛所赞，乃复自言，当知我于五浊恶世，行此难事为一切世间说此难信之法，是为甚难。此皆苦口叮咛，劝人信向矣。且大悲世尊垂救末劫，凡金口所宣，一偈一句，而人非人等，莫不信受奉行。独于净土之说，则闲有疑者，何哉，良由净土教门，至广至大。净土修法，至简至易。以其广大而简易，故闻者不能不疑焉，所谓广大者，一切机根摄收都尽。上而至于等觉位中，一生补处菩萨，亦生净土，下而至于愚夫愚妇，与夫五逆十恶无知之徒，临终但能念佛悔过，归心净土者，悉获往生也。所谓简易者，初无艰难劳苦之行，又无迷误差别之缘。但持阿弥陀佛四字名号，由此得离娑婆，得生极乐，得不退转，直至成佛而后已也，其广大既如彼，其简易又如此故虽智者，亦不能无疑焉，汝如知此，则知永明之赞，深有意焉，而非过也。</p>
+<p><a name="a064"></a><span style="color:#333399">◎大事既明，何求净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>禅宗悟达之士，既曰见性成佛。大事既明，当行佛教，广度生灵。其肯复求净土之生乎。</p>
+<p>汝但未悟使汝既悟，则汝净土之趋，万牛不能挽矣。见卵而求时夜，何太早计耶。汝将谓一悟之后，习漏永除，便得不退转耶。汝将谓一悟之后，更无遍学佛法修行证果等事耶。汝将谓一悟之后，便可上齐诸佛，入生入死，不受障缘之所挠耶。审如是，则诸大菩萨修六度万行，动经恒河沙数劫者，反有愧于汝矣。古教有云。声闻尚有出胎之昧，菩萨亦有隔阴之昏，况近时薄解浅悟，而自救不了者乎，纵有悟处深远，见地高明，行解相应，志在度人者，奈何未登不退，力用未充。居此浊恶，化此刚强，此亦先圣之所未许。如以未完不固之舟，济多人于恶海，自他俱溺，其理必然。故往生论云，欲游戏地狱门者，必生彼土，得无生忍已，还入生死，救苦众生，以此因缘，求生净土。又先圣有云，未得不退转位，不可混俗度生。未得无生法忍要须常不离佛。譬如婴儿，常不离母。又如弱羽，只可传枝。</p>
+<p>今此国中，释迦已灭，弥勒未生。而况四恶苦趣，因果牵缠。外道邪魔，是非扇乱。美色淫声之相惑。恶缘秽触之交侵，既无现佛可依，又被境缘所挠，初心悟达之人，鲜有不遭其退败者。所以世尊殷勤指归极乐者，良有以也。盖彼弥陀，现在说法。乐土境缘，种种清净。倘依彼彿，忍力易成。高证佛阶，亲蒙授记，然后出化众生，去来无碍也。以是之故，虽上根利器，犹愿托生，况汝中下之辈，初得发明者乎。岂不见观佛三昧经中，文殊自叙宿因，谓得念佛三昧，常生净土，世尊复记之日，汝当往生极乐世界。又不见华严经中，普贤劝进善财童子，海会大众。以十大愿王，导归极乐。其偈云。愿我临欲命终时，尽除一切诸障碍，面见彼佛阿弥陀佛，即得往生安乐刹，又云，彼佛众会咸清净，我时于胜莲华生，亲观如来无量光，现前授我菩提记，蒙彼如来授记已，化身无数百俱胝，智力广大遍十方，普利一切众生界。又不见入楞伽经中，授记龙树偈云，南天竺国中，大名德比丘，厥号为龙树，能破有无宗，世间中显我，无上大乘法，得初欢喜地，往生安乐国。又不见起信论中，马鸣菩萨有求生之愿。无量寿论，天亲菩萨有愿往之心，又不见大宝积经中，印许净饭王，及七万释种，同生安养，十六观经中，指示韦提夫人，及五百侍女，同觐弥陀。且净饭韦提等，皆是现得无生法忍，西竺似此之流，不可得而胜数矣。东土如庐山远公，合社高人，天台贤首，诸宗尊者，自行化他，曰僧曰俗，同生净土者，又可得而胜数耶。只如文殊普贤，大菩萨也。善财海众，遍参知识，悟同诸圣者也。马鸣龙树等，亦菩萨也，亦禅宗以为大祖师也。此诸圣人，所悟所证，比今悟达之士，为何如哉。彼尚愿生乐国，赖近弥陀，而汝一悟之后，更不求生，则龙树马鸣普贤文殊等，反不若汝，汝何不自揣其心，自量其力所修所证，诚有过于二菩萨，二禅祖者乎。所参知识，所悟佛性，诚有过于善财海众者乎。所得无生法忍，受佛印证，诚有过于净饭韦提者乎。净饭国王，佛之父也七万释种，佛之亲属也。净土之生，倘无利益，佛忍自误其与亲属乎。向谓得无生法忍者，可许混俗度生，今其父王亲属既得此忍，而尚记往生。则如来护持保养之意，岂不深且远乎。多见今之禅者，不究如来之了义，不知达摩之玄机。空腹高心，习为狂妄。见修净土，则笑之曰，彼学愚夫愚妇之所为，何其鄙哉，余尝论其非鄙愚夫愚妇也，乃鄙文殊普贤龙树马鸣等也。非特自迷正道，自失善根自丧慧身，自亡佛种。且成谤法之业，又招鄙圣之殃，佛祖视为可哀怜者。</p>
+<p><a name="a065"></a><span style="color:#333399">◎唯心净土，本性弥陀，复求万亿土外之极乐，何也<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>净土摄机，诚乎广矣。愚不敢复议矣。然亦尝闻有唯心净土，本性弥陀之说。愚窃喜之。及观净土经论，所谓净土者，十万亿土外之极乐也，所谓弥陀者，极乐国中之教主也。是则彼我条然，远在唯心本性之外矣。果何谓耶。</p>
+<p>汝言局矣。不识汝心之广大而明妙者矣。楞严云，色身外洎山河虚空大地，咸是妙明真心中物。又云，诸法所生，唯心所现。安有佛土而不在吾心者哉，当知净土唯心，心外无土，如大海之现群沤，无一沤能外海也。唯心净土，土外无心犹众尘之依大地，无一尘不名地也。又当知先圣有云，唯此一心，具四种土，一曰凡圣同居，二曰方便有余，三曰实报无障碍，四曰常寂光也，一凡圣同居土者，自分二类，初曰同居秽。次曰同居净，初同居秽土者，娑婆之类是也。居其中者，有凡有圣，而凡圣各二，凡居二者一恶众生，即四趣也，二善众生，即人天也，圣居二者，一实圣，即四果辟支，通教七地，别十住，圆十信后心，通惑虽尽，报身犹在，皆名实也。二权圣，谓方便实报寂光土中法身菩萨及妙觉佛，为利有缘，应生同居，皆是权也。是等与凡共住，故云凡圣同居，四趣共住，故云秽土也。次同居净土者。且如极乐国，虽果报殊胜，非余可比，然亦凡圣同居。何以故，虽无四趣，而有人天，以生彼土者，未必悉是得道之人。如经云，犯重罪者，临终忏悔念佛，即得往生，故知虽具惑染亦得居也。圣居权实，类前可知，但以无四恶趣，故名为净。或曰，具明土相，复多不同，如无动界，虽是净土，犹有男女及须弥等。净土既其不同，秽土亦应不等也。二方便有余土者。二乘，三种菩萨，证方便道者之所居也，何则，若修二观，断通惑，尽尘沙。别惑无明未断，舍分段身而生界外，受法性身，即有变易。所居之土，名有余者，无明未断也。名方便者，方便行人之所居也，故释论云，出三界外有净土，声闻辟支佛出生其中，受法性身，非分段生也。三实报无障碍土者，无有二乘，纯诸法身菩萨所居。破无明，显法性，得真实果。而无明未尽，润无漏业，受法性报身，亦名果报国。仁王经云，三贤十圣住果报是也，以观实相，发真无漏，所得果报，故名为实。修因无定，色心无碍，故名实报无障碍土。华严明因陀罗网世界是也。四常寂光土者，妙觉极智所照如如法界之理，名之为国，亦名法性。但真如佛性，非身非土，而说身土，离身无土，离土无身，名身土者，一法二义，普贤观，毗卢遮那住处，名常寂光。前二土是应，即应佛所居，第三亦应亦报，即报佛所居。第四但是真净。非应非报，法身所居。又云，常即法身，寂即解脱，光即般若。如世伊三点，不纵横并别，名秘密藏。诸佛如来所游居处，真常究竟，极为净土，由是观之所谓十方微尘国土者，唯吾心中之土也。三世恒沙诸佛者，唯吾心中之佛也。知此，则知无一土不依吾心而建立。无一佛不由吾性而发现，然则十万亿外之极乐，独非唯心之净土乎。极乐国中之教主，独非本性之弥陀乎。又当知唯此一心，具含十界。身土融通，重重无碍，又当知心佛众生，三无差别，生佛互现，念念交参，所以云。诸佛心内众生，尘尘极乐，众生心中诸佛，念念弥陀。又云，十方净秽，卷怀同在于刹那。一念色心，罗列遍收于法界，并天真本具，非缘起新成。一念既然。一尘亦尔。故能一一尘中一切刹，一一心中一切心，一一心尘复互周，重重无尽无障碍，一时顿现非隐显，一切圆成非胜劣，若神珠之顿含众宝，犹帝网之交映千光。我心既然，生佛体等，如此，则方了迁神亿刹，实生乎自己心中。孕质九莲，岂逃乎刹那际内，又云，极乐遍在一切处，举一而全收也。如帝释殿上，千珠宝网，千珠光影咸入一珠。一珠光影遍入千珠。虽珠珠互遍，此珠不可为彼，彼珠不可为此。参而不杂，离而不分，一一遍彰，亦无所在极乐净土，即千珠之一。十万亿国，亦各千珠之一。至若三乘人天，下至地狱饿鬼畜生修罗，一一无非千珠之一。阿弥陀佛，亦千珠直示一珠。见一佛，即见十方诸佛，亦见十方九界众生。微尘刹海，十世古今。一印顿圆，无余法矣。如上所引，皆佛祖圣贤递相发扬之明训也，知此，则知诸刹诸尘，尘尘皆唯心之极乐也。一尘一佛，佛佛皆本性之弥陀也。复何疑哉。</p>
+<p><a name="a066"></a><span style="color:#333399">◎既谓净秽融通，尘尘极乐，可娑婆独不免于秽耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>凡夫业感，即净而秽。佛眼所观，即秽皆净。岂释迦报境而果秽哉。</p>
+<p><a name="a067"></a><span style="color:#333399">◎含摄无余，吾信唯心之大矣，圆融无碍，吾信唯心之妙矣，奈何尚滞迷情，未离秽业，则吾唯心之土，何由净耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>心垢土垢，心净土净，故维摩经云，欲得净土，当净其心，随其心净，则佛土净，夫欲净其心者，舍净土之修法，他无能焉。</p>
+<p><a name="a068"></a><span style="color:#333399">◎净土修法，其详可得闻乎<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>净土无修，修因迷有。法无高下，高下由根。根有多殊，修分多类，摄其多类，总有三门。一曰观想，二曰忆念，三曰众行，皆依极乐弥陀以为之主也。一曰观想者，如观经云，诸佛如来是法界身，入一切众生心想中，是故汝等心想佛时，是心即是三十二相，八十随形好，是心作佛，是心是佛。诸佛正遍知海，从心想生，是故应当一心系念谛观彼佛。天台疏曰，诸佛如来下，泛明诸佛，是故应当下，偏观弥陀，法界身者，报佛法性身也。众生心净，法身自在，故云入。如白日升天，影现百川，明佛身自在，能随物现也，又法界身是佛身无所不遍，法界为体，得此观佛三昧，解入相应，故云入心想也。是心作佛者，佛本是无，心净故有。是心是佛者。向闻佛本是无，心净故有，便谓条然，故云即是，始学名作，终成即是，妙宗释曰，欲想佛身，当明观体体是本觉，起成能观本觉乃是诸佛法界之身，以诸佛无别所证，全证众生本性故也。若始觉有功，本觉乃显，故云法身从心想生。又弥陀与一切佛，一身一智，应用亦然，弥陀身显，即诸佛身。诸佛相明，即弥陀体，故泛明诸佛，以为弥陀观体从法界身下，是约感应道交释。从又法界身下，约解入相应释，融心解云，若无初释，则观非观佛，若无次释，则生佛体殊，二释相成，是今观法妙宗又曰，今之心观，非直于阴观本性佛，乃托他佛显乎本性。故光明应佛入我想心，次明佛身全是本觉，故应佛显，知本性明，托外义成，唯心观立若论作是，即不思议三观也。以若破若立名作，空假二观也。不破不立名是，中道观也。全是而作，则三谛俱破俱立，全作而是，则三谛俱非破立。即中之空假名作，能破三惑，能立三法，故感他佛三身圆应，能成我心三身当果。即空假之中名是，则全惑即智，全障即德。故心是应佛，心是果佛。故知作是一心，修此三观，乃诸观之总体，一经之妙宗也。又曰，此观能令四佛土净，如是方为此经宗致，乃至云，此经本为韦提希厌同居秽，求同居净，故谈妙观，观彼依正，三观若成，虫垢先落。非有余净，更生何处，须知正为生同居净，故立三观，良由观妙，能破三惑，不独感于同居净土。随其惑断浅深之处，自然感得有余等三土，如病须药，本为身安，求得仙方，修合服之。不但身安，兼能轻骨，身安可喻生同居净，轻骨可喻感上三土。只是一药，效乃深胜，如一妙观，能净四土，解云，韦提本欲舍秽取净，而佛示观法，舍秽必尽，显净无遗如月盖为免舍离果报之病，故请观音，及乎宣咒，乃能消伏三毒之根，具足五眼之果，故一心三观求生净土者。以三惑为秽土之因，以三谛为净土之果。故别惑尽，则寂光净。究竟三谛也。别惑未尽，则实报净，分证三谛也云云，如上所明一心三观，能破三惑，能净四土，其惑未破而生安养同居者，托胜增修，则有余等三净可待矣。且教有云，五浊轻重，同居净秽。而圆观轻浊所感同居，依正最净，比修戒善及余经众善感安养土，其相天殊。故天台宗以圆观为定善也。二曰忆念者，或缘相好，或持名号，皆名忆念。而有理有事，如华严解脱长者云，我若欲见安乐世界无量寿如来，随意即见，如是十方一切世界所有如来，我若欲见，随意即见，我能了知一切如来，国土庄严，神通等事，无所从来，亦无所至。无有处所，亦无住处，亦如己身，无来无去，无行住处。然彼如来不来至此，我不往彼。知一切佛，及与我心，皆如梦故，如梦所见，从分别生，见一切佛，从自心起。又知自心如器中水，悟解诸法如水中影。又知自心犹如幻术，知一切佛如幻所作，又知自心诸佛菩萨，悉皆如响，譬如空谷，随声发响，悟解自心，随念见佛。我如是知，如是忆念。所见诸佛皆由自心。贞元疏曰。无所从来下，正辨唯心，即心无心，便入真如。了彼相虚，唯心现故，既了唯心，了心即佛，故随所念，无非佛矣，下例四喻，通显唯心，喻无来往，别喻兼明不出入等。四喻皆具四观。一正是唯心，二唯心故空，三唯心故假，四唯心故中，融而无碍，即华严意。梦喻不来不去，影喻不出不入，幻喻非有非无，响喻非合非散。又如般舟经，教修佛立三昧，专念弥陀。其略云。常念彼佛，譬如梦见金宝亲属，相与娱乐等，永明日，此喻唯心所作，即有而空，故无来去。又如幻非实，则心佛两忘。而不无幻相，则不坏心佛。空有无碍，即无去来，不妨普见。见即无见，常契中道。是以佛实不来，心亦不去，感应道交，唯心自见，又如楞严大势至云，子若忆母，如母忆时，母子历生不相违远，至我本因地，以念佛心，入无生忍，霅川以理事判之曰，观其母子相忆之喻，则是同居事相而已，观其自证无生法忍，则念佛心不可单约事相而解。念存三观，佛具三身，心破三惑，无生忍位，乃可入焉，又如弥陀经云，执持名号，至一心不乱，净觉曰，一心不乱，例前妙观，同名正受，即定心定善也。据往人之论，则有理事，若达此心四性不生，与空慧相应，是理一心。若用心存念，念念不间，名事一心也。真歇亦曰，一心不乱，兼含理事，若事一心，人皆可以行之。由持名号，心不乱故。如龙得水，似虎靠山。此即楞严忆佛念佛，现前当来必定见佛，去佛不远，不假方便，自得心开，连摄中下二根之义也。若理一心，亦非他法但将阿弥陀佛四字，做个话头，二六时中，直下提撕。不以有心念，不以无心念，不以亦有亦无心念，不以非有非无心念，前后际断，一念不生，不涉阶梯，径超佛地。余尝评之，不以有心念等，文有四节，可配三观，初节配空，次节配假，第三双离，第四双即，双离双即，可配中观，盖彼中观，亦含遮照之义也。合而言之，无非以修契性，显其当处即空，全体即有，亦非空有，亦是空有，不可凑泊，不可拟议，心路绝处，即名为佛。如上略举数条，通名忆念，而各分理事，其理念者，与圆观同。能破三惑，能净四土。此摄上上根也。若其事相念者，近则感同居净，远则可为上三土之因耳。降此以下，事相不等，如诸经所说，或一生系念，或三月系念，或晨朝十念，或七七日念，或十日十夜六时中念，或一日一夜不断专念。加以深信之力，净愿之力，佛加被力，皆生极乐。又下而至于逆恶凡夫，临终十念，亦许得生，此摄中根及下下根也。三曰众行者，如华严经，普贤菩萨劝进善财童子海会大众，发十大愿。一者礼敬诸佛。二者称赞如来，三者广修供养，四者忏悔业障，五者随喜功德，六者请转法轮，七者请佛住世，八者常随佛学，九者恒顺众生，十者普皆回向，其一一愿皆云。虚空界尽，众生界尽，众生业尽，众生烦恼尽，我愿乃尽。而虚空界乃至众生业烦恼不可尽故，我此愿王无有穷尽。念念相续，无有间断。身语意业，无有疲厌，至临命终时，最后刹那一切诸根，悉皆散坏。一切威势，悉皆退失。辅相大臣，宫殿内外，象马车乘，珍宝伏藏，无复相随，唯此愿王，不相舍离，于一切时，引导其前，一刹那间，即得往生极乐世界。到已，即见阿弥陀佛。其人自见生莲华中，蒙佛授记。得授记已，经无数劫，普于十方不可说不可说世界。以智慧力，随众生心，而为利益，乃至能于烦脑大苦海中，拔济众生，令其出离。皆得往生极乐世界，又如法华经云，闻是经典，如说修行，于此命终，即往极乐世界阿弥陀佛大菩萨众围绕住处，生莲华中，宝座之上，不复为贪欲所恼，亦复不为嗔恚愚痴所恼，亦复不为憍慢嫉妒诸垢所恼。得菩萨神通，无生法忍。又如大宝积经，发十种心，往生极乐，佛告弥勒，如是十心，非诸凡愚不善丈夫具烦恼者之所能发。何者为十，一者，于诸众生，起于大慈，无损害心。二者，于诸众生，起于大悲，无逼恼心，三者，于佛正法，不惜身命，乐守护心，四者，于一切法，发生胜忍，无执著心，五者，不贪利养恭敬尊重，净意乐心，六者，求佛种智，于一切时，无忘失心，七者，于诸众生，尊重恭敬，无下劣心，八者，不著世论，于菩提分，生决定心，九者，种诸善根，无有杂染，清净之心，十者，于诸如来，舍离诸相起随念心，是名菩萨发十种心，由是心故，当得往生。若人于此十心，随成一心，乐欲往生彼佛世界，若不得生，无有是处。又如观经云，欲生彼国者，当修三福。一者，孝养父母，奉事师长，慈心不杀，修十善业。二者，受持三归，具足众戒，不犯威仪。三者，发菩提心，深信因果，读诵大乘，劝进行者。此三种业，过去未来现在诸佛净业正因。疏曰，初业共凡夫，次业共二乘，后业乃大乘不共之法也，又如大本，三辈发菩提心及诸经论所明诵经持咒，建塔造像，礼拜赞颂，奉持斋戒，烧香散花，悬绘幡盖凡一行一事，足以求生者，资之以信愿回向之力，无不生也如上泛引，通名众行，然愿行既有大小之不等，而又各有理事之不同。且如华严十愿，宝积十心之类，生于极乐者，其所感依正之胜，及所见之佛，所闻之法，较诸小行常流应必悬异也。</p>
+<p><a name="a069"></a><span style="color:#333399">◎一生取办之因<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>吾闻善财童子圆顿利根，一生取办，今乃不生华藏，而劝生极乐，此何意耶。</p>
+<p>华严疏中，自有此问，彼所答云，有缘故。归凭情一故。不离华藏故。即本师故，谓华藏中所有佛刹，皆微尘数，极乐去此十万亿土，并未出于刹种之中，故不离也。经云，或有见佛无量寿，观自在等共围绕，此赞遮那随名异化，故即本师也。又曰，普贤为善财海众。结归极乐者。盖为信解圆宗之人，入文殊智，修普贤行。福慧事理皆称法界，此大心人，虽妙悟本明，顿同诸圣。然犹力用未充，未及如来出世普利众生。所以暂依净土，亲近弥陀，直至成佛，意在此也。</p>
+<p><a name="a070"></a><span style="color:#333399">◎众行门中，既云大小不等，理事有殊，所感生相，亦乃悬异，然则观想忆念二门，修各不等，其所感相，同耶异耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>皆不同也。故永明曰，九品往生，事非一等。或游化国，见佛应身，或生报土，见佛真体。或一夕，而便登上地。或经劫，而方证小乘。或利根钝根，或定意散意。或道悟迟速，而机器不同。或花开早晚，而时限有异，又慈云曰。虽分九品，犹是略分，若更细分，亦应无量。</p>
+<p><a name="a071"></a><span style="color:#333399">◎极乐只是同居，本非实报，何谓或生报土，见佛真体耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>你将谓同居之外，别有实报耶。当知三土，不离同居。特身境受用，递递不相同耳。如经云。弥陀佛身高六十万亿那由他恒河沙由旬等，古师曰，此实报身也。又霅川曰极乐国土，四土不同，岂但极乐为然。荆溪云，直观此土，四土具足，如当时华严海会，不离逝多林，而诸大声闻，不知不见，即此类也。</p>
+<p><a name="a072"></a><span style="color:#333399">◎既云此土四土具足，只消就此展转修行，反欲舍此而生彼国，何耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>此方虽具四土，奈何秽业难除。夫欲舍秽取净，势须彼国求生。四明云，此土浊重，十信方出苦轮。彼土境胜，九品悉阶不退。岂不闻大通佛世，受教之徒，已经尘点劫来，尚在声闻之地。皆因退转，故涉长时。如身子已证六心，犹自退落五道，况悠悠修行者乎。盖由此土，多值退缘。故云，鱼子庵罗华，菩萨初发心，三事因中多，及其结果少。若生极乐，藉彼胜缘。博地凡夫，便皆不退。以是之故，求生彼国也。</p>
+<p><a name="a073"></a><span style="color:#333399">◎同居净土，其类甚多，今偏指极乐，而又偏赞其境胜缘胜，何耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>经云，彼国众生，无有众苦，但受诸乐，故名极乐。今以娑婆对而比之。此则血肉形躯，有生皆苦。彼则莲华化生，无生苦也。此则时序代谢，衰老日侵。彼则寒暑不迁，无老苦也。此则四大难调，多生病患。彼则化体香洁，无病苦也。此则七十者稀，无常迅速。彼则寿命无量，无死苦也。此则亲情爱恋，有爱必离。彼无父母妻子，无爱别离苦也。此则仇敌怨仇，有怨必会。彼则上善聚会，无怨憎会苦也。此或困苦饥寒，贪求不足。彼皆衣食珍宝，受用现成。此或丑秽形骸，根多缺陋。彼则端严相貌，体有光明。此则轮转生死。彼则永证无生。此有四趣之苦。彼无三恶之名。此则丘陵坑坎，荆棘为林，土石诸山，秽恶充满。彼则黄金为地，宝树参天，楼耸七珍，花敷四色。此则双林已灭，龙华未来。彼则无量寿尊，现在说法。此则观音势至，徒仰嘉名。彼则与二上人，亲为胜友。此则群魔外道，恼乱正修。彼则佛化一统，魔外绝踪。此则媚色妖淫，迷惑行者。彼则正报清净，实无女人。此则恶兽魑魅，交扇邪声。彼则水鸟树林，咸宣妙法。二土较量，境缘回别，而乐邦之胜，其数无穷，未暇悉举也其境胜者，可以摄众生取净之情。其缘胜者，可以助生者修行之力。虽同居净类甚多，唯极乐修行缘具，故偏指也。</p>
+<p><a name="a074"></a><span style="color:#333399">◎十方如来，皆可亲近，今独推弥陀者，何耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>独推弥陀，其故有三，一誓愿深重，二娑婆有缘，三化道相关也。愿重者，经云，弥陀往昔因中，尝发种种广大誓愿，其略曰，若我成佛已来，其有众生愿生我国，或闻我名，修诸善本称我名号，乃至十念，若不生者，誓不取正觉，既生我国，若有退转，不决定成佛者，誓不取正觉。故华严钞曰，弥陀愿重，偏接娑婆众生也有缘者。我佛释迦现在世时，众生闻佛所教，归向弥陀，固已多矣。观佛灭后，末世众生，无问僧俗男女，贵贱贫富，稍闻佛教者，无不信向。未闻佛教者，亦会称名。纵是顽愚暴恶，无信之徒，或遭兄难危险之处，或发赞叹怨嗟之声，不觉信口，便叫阿弥陀佛。至于儿童女子戏弄之际，聚沙抟泥，图墙画壁，便作弥陀佛像。甚至于学行未稳，学语未成者，自然能唱阿弥陀佛，此皆不劝而发，不教而能。非有缘而何，又如无量寿经云，吾说此经，令见无量寿佛，及其国土，所当为者，皆可求之。无得以我灭度之后，复生疑惑。当来之世，经道灭尽，我以慈愍，特留此经，更住百岁。其有众生，值此经者，随意所愿，皆可得度。又经云，此经灭后，佛法全无，但留阿弥陀佛四字名号，救度众生。其有不信而谛毁者，当堕地狱，具受众苦。故天台云，当知彼佛于此恶世，偏有缘耳相关者，先觉谓两土圣人，示居净秽。以折摄二门，调伏众生。此以秽以苦以促以多魔恼而折之，俾知所厌彼以净以乐以延以不退转而摄之，俾知所欣既厌且欣，则化道行矣。又我释迦于三乘授道之外，其有度未尽者，度在弥陀故于诸大乘经，叮咛反覆，称赞劝往者，盖化道之相关也。以是三者之故，乃独推焉。</p>
+<p><a name="a075"></a><span style="color:#333399">◎偏指独推之说，旨哉言乎，欣厌取舍之方，至哉教矣，敢问欣厌取舍，得无爱僧能所之过乎<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>汝不知言也，此非世间之爱憎能所也，此乃十方如来转凡成圣之通法也，若非厌舍，何以转凡，若非欣取，何以成圣。故自凡夫预乎圣位，由圣位以至等觉，其间等而上之，无非欣厌。极乎妙觉，取舍始亡。故先德云取舍之极，与不取舍，无有异也。况此净土之法，只一化机。而释迦弥陀之所共立者也，此指其往，彼受其来，倘非厌舍，离此无由。倘非欣取，生彼无分，既舍此矣，又生彼矣，藉彼胜缘，直至成佛，然则爱僧能所，功莫大矣，何过之有哉。</p>
+<p><a name="a076"></a><span style="color:#333399">◎取舍之谈无敢议矣，但往生之说，能不乖于无生之理乎<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>天台云，智者炽然求生净土，达生体不可得，即是真无生。此谓心净故佛土净。愚者为生所缚闻生即作生解，闻无生即作无生解，不知生即无生，无生即生也，长芦曰，以生为生者，常见之所失也。以无生为无生者，断见之所惑也。生而无生无生而生者，第一义谛也。天衣曰，生则决定生，去则实不去。三家之说，其旨甚明，今余复以性相二字释之，妙真如性，本自无生，因缘和合，乃有生相，以其性能现相。故曰无生即生，以其相由性现，故曰生即无生也。知此，则知净土之生，唯心所生。无生而生，理何乖焉。</p>
+<p><a name="a077"></a><span style="color:#333399">◎往生之说，其旨昭然，但今之学者，不能晓了，千人万人，皆疑极乐远隔十万亿国，临命终时，恐难得到，复何策以晓之<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>是可笑也。说了许多心外无土，土外无心，到这里犹道不晓此无他，只是众生妄认自心在色身之内，方寸之间。不知自家心量，元自广大。岂不闻赞佛偈云。心包太虚，量周沙界。且十方虚空无量无边，被我心量都卢包了。恒沙世界，无量无数，我之心量，一一周遍。如此看来，十万亿国在我心中，其实甚近，何远之有。命终生时，生我心中，其实甚易，何难之有。岂不见十疑论云，十万亿刹，为对凡夫肉眼生死心量说耳。但使众生净土业成者，临终在定之心，即是净土受生之心。动念即是生净土时，为此观经云，弥陀佛国，去此不远又业力不可思议。一念即生，不须愁远。又如人梦，身虽在林，而心意识遍至他方。生净土亦尔，不须疑也。经云，一弹指顷，即得往生。又云，屈伸臂顷。又云，顷刻之间。故自信录云，十万亿刹顷刻至者，自心本妙耳此等重重喻说，只是言其生在自己广大心中，甚近而甚易者也。我如今且莫说广大心量，且只就汝色身之内，方寸之间，说个譬喻，譬如此方到西天竺，动经十万余里，一路之间，多经国土。有一人虽未亲到，曾闻他人讲说一遍，记忆在心，其人后时坐卧之间，忽动一念思量彼国，思量千里，便到千里，思量万里，便到万里。思量天竺。便到天竺。以此比之生净土，便是这个道理。岂不是弹指之顷，一念便到，何难到之有哉。汝若不修净业，要到极难。净业若成，要到极易。但办肯心，决不相赚。</p>
+<p><a name="a078"></a><span style="color:#333399">◎不修净业，要生极难，此诚言也，何故前举逆恶凡夫，临终亦生，吾未闻其详，而且有疑，幸详示而释之<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>观经云，下品下生者，或有众生作不善业，五逆十恶，具诸不善，如此愚人，以恶业故，应堕恶道，经历多劫，受苦无穷，如此愚人，临命终时，遇善知识，种种安慰，为说妙法，教令念佛，此人苦逼，不遑念佛，善友告言，汝若不能念者，应称无量寿佛，如是至心，令声不绝，具足十念称南无阿弥陀佛，称佛名故，于念念中，除八十亿劫生死之罪。念佛之时，见金莲华，犹如日轮，住其人前，如一念顷，即得往生极乐世界，于莲华中，满十二大劫，莲华方开，观世音大势至，以大悲音声，为其广说诸法实相，除灭罪法，闻已欢喜，应时即发菩提之心此其详也。虽十二劫处莲华中，而其受用快乐如忉利天，故古者云，华中快乐如忉利，不比人间父母胎，逆恶得生者，观经疏曰，以念佛除灭罪障，故即以念佛为胜缘也。余详经意，即是念佛灭罪而生，然以疏论参而明之，则有三义，一者，或问如何以少时心力，而能胜终身造恶耶。曰，心虽少时，而其力猛利。是心勇决，名为大心。以舍身事急故，如人入阵，不惜身命，名为健人也。二者，此虽造恶，或现世曾修三昧，故临终劝念，定心易成亦是乘急戒缓人也。纵现世不修三昧，亦是宿种今熟。以宿善业强故，临终得遇知识，十念功成也。三者，若非宿种，又非现修，则其念佛之时，必有重悔。故永明曰，善恶无定，因缘体空。迹有升沈，事分优劣。真金一两，胜百两之叠华，爝火微光，爇万仞之积草。</p>
+<p><a name="a079"></a><span style="color:#333399">◎五浊恶世，人皆有罪，纵未造五逆重罪，其余罪业，孰能无之，苟不忏悔消灭，但只临终念佛，能往生乎<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>亦得生也。此乃全藉弥陀不思议之大愿力也。那先经云，如持百枚大石置于船上，藉船力故，石不没水，若无其船，小石亦没，喻彼世人，一生造恶，临终念佛，不入泥犁。若非念佛，虽作小恶，亦入泥犁，况大恶乎。船喻佛力，石喻恶业，故昔人有带业往生之说。四土文中，亦云具惑染者，亦得生同居净也。又如僧雄俊，临入镬汤，并汾州人，屠牛为业，临终见群牛逼触其身，苦痛切己，及张钟馗，杀鸡为业，临终见神人驱群鸡，啄破两目，流血盈床。称佛名号，俱生净土，此非佛力而何。请复以喻明之，如人现犯官法，应入官囚，以投托国王，承王宣召，则官不能拘，而复达帝京也，所以西资钞云。得生净土，是假他力。弥陀愿摄，释迦劝赞，诸佛护念。如渡大海，既得巨舟，仍有良导，加以便风，必能速到彼岸也，若其不肯登舟，迟留恶国者，谁之过欤。</p>
+<p><a name="a080"></a><span style="color:#333399">◎前云博地凡夫，便阶不退，此必已无恶业者也，今此带业而生，能不退乎<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>例皆不退也，经云，其有生者，悉住正定之聚，又云，众生生者，皆是阿鞞跋致。又十疑论云，有五因缘，能令不退，一者，阿弥陀佛大悲愿力摄持，故不退。二者，佛光常照，菩提心常增长，故不退。三者，水鸟树林，风声乐响，皆说苦空。闻者常起念佛念法念僧之心，故不退。四者，彼国纯诸菩萨以为良友，无恶缘境。外无鬼神邪魔，内无三毒等，烦恼毕竟不起，故不退。五者，但生彼国，即寿命永劫，共菩萨佛等故不退也。又古人云，不愿生净土则已，愿生则无不得生，不生则已，生则永不退转也。</p>
+<p><a name="a081"></a><span style="color:#333399">◎怜儿不觉丑<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>一生造恶，临终念佛，带业得生，又无退转，此弥陀愿力，诚乎不可思议矣，然则我于生前且做世间事业，直待临终，然后念佛，可乎。</p>
+<p>苦哉苦哉，何等愚谬之言也。砒霜酖酒，毒中之毒，今汝此言，毒于砒霜酖酒者也。非特误赚自己，又且误赚天下若僧若俗善男信女，皆此言也。向所谓逆恶凡夫临终念佛者乃是宿有善根福德因缘，方遇知识，方得念佛，此等侥幸，万万人中，无一个半个。汝将谓人人临终，有此侥幸哉，岂不见群疑论云，世间有十种人临终不得念佛。一者，善友未必相遇，故无劝念之理。二者，业苦缠身，不遑念佛。三者，或偏风失语，不能称佛。四者，狂乱失心，注想难成。五者，或遭水火，不暇至诚。六者，遭遇豺狼，无复善友。七者，临终恶友坏彼信心。八者，饱食过度，昏迷致死。九者，军阵斗战，奄忽而亡。十者，忽坠高岩，伤坏性命。如此等十种之事，皆是寻常耳闻眼见，不论僧俗男女，人皆有之。或宿业所招，现业所感。忽尔现前，不容回避。你又不是神通圣人，有宿命通，能知临终有业无业，又不是有他心天眼，能知临终好死恶死。如上十种恶缘，忽然遭著一种，便休了也。便做手脚不得了也。便有知识活佛围绕，救你不得了也。便须随业受报，向三途八难中受苦受罪。到那时要闻佛名，不闻了也。直饶你无此恶缘，只是好病而死。亦未免风刀解体，四大分离，如生龟脱筒，螃蟹落汤。痛苦逼迫，怕怖慞惶，念佛不得了也。便饶你无病而死，又或世缘未了，世念未休，贪生怖死，扰乱胸怀。若是俗人，又兼家私未明，后事未办。妻啼子哭，百种忧煎，念佛不得了也。便饶你未死以前，只有些少病痛在身。忍疼忍苦，叫唤呻吟。问药求医，祈祷忏悔。杂念纷飞，念佛不得了也。便饶你未病以前，只是年纪老大，衰相现前。困顿龙钟，悉叹忧恼。只向个衰老身上左安右排，念佛不得了也。便饶你未老以前，正是少壮之日，正好念佛之时。稍或狂心未歇，俗务相关。东攀西缘，杂思乱想，业识茫茫，念佛不得了也。更饶你清闲自在，有志修行，稍于世相之中，照不破放不下，把不定，坐不断。忽遭些子境界现前，一个主人，随他颠倒，念佛不得了也。你看他老病之时，少壮清闲之日。稍有一事挂心，早是念佛不得。况待临终时哉何况你更道且做世间事业，你真痴人，说此痴话。敢保你错用身心了也。且世间事业，如梦如幻，如影如响，那一件有实效。那一件替得生死。纵饶广造伽蓝，多增常住，攀求名位，交结官豪，你将谓多做好事，殊不知犯了如来不体道本，广造伽蓝等戒。岂不见道，有为之功，多诸过咎。天堂未就，地狱先成，生死未明，皆成苦本。眼光落地，受苦之时，方知平生所作，尽是枷上添枷，锁上添锁，镬汤下增柴炭。剑树上助刀枪。袈裟下失却人身，万劫难复。铁汉闻之，也须泪落。祖师如此苦口劝人，曾许你且做事业，待临终方念佛乎。又不见死心禅师道，世间之人，财宝如山，妻妾满前，日夜欢乐。他岂不要长生在世，争奈前程有限，暗里相催，符到奉行，不容住滞，阎罗老子，不顺人情，无常鬼王，有何面目，且据诸人眼里亲见，耳里亲闻。前街后巷，亲情眷属，朋友兄弟，强壮后生，死却多少。世人多云，待老来方念佛，好教你知，黄泉路上无老少，能有几人待得老到，少年夭死者多矣。古人云，莫待老来方念佛，孤坟多是少年人。又云，自从早年，索妻苌儿，经营家计，受尽万千辛苦，忽然三寸气断，未免一旦皆休。若是孝顺儿孙，斋得几僧，看得部经，烧得陌纸，春三秋九，做得碗羹饭，哭得几声，犹是记忆爷娘，若是不肖之子，父母方死，骨头未冷，作打财产，出卖田园，恣意作乐，以此较之，著甚么急。儿孙自有儿孙福，莫与儿孙作马牛。复引古德云，冷笑富家翁，营生忙似箭，囤内米生虫，库中钱烂贯，日里把称称，夜间点灯算，形骸如傀儡，莫教绳索断，死心如此苦口劝人，曾许你且做事业，待临终方念佛乎。当思人生在世，能有几时。石火电光，眨眼便过。趁此未老未病之前，抖擞身心，拨弃世事。得一日光阴，念一日佛名。得一时工夫，修一时净业。由他临命终时好死恶死，我之盘缠预办了也。我之前程稳稳当当了也。若不如此后悔难追。思之思之。</p>
+<p><a name="a082"></a><span style="color:#333399">◎吾之言过矣，驷不及舌矣，承师之教，谁不寒心，奈何人心易进易退，一闻警策，勇猛精勤，忽于目前逢一障难，便转念头，别求方便，都道净业只是身后之事，于今目前无所利济，从此身心一时放退，是亦无怪其然耶<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>汝之所见未广也。岂不见经中道，受持佛名者，现世当获十种胜利。一者，昼夜常得一切诸天，大力神将，河沙眷属，隐形守护。二者，常得二十五大菩萨，如观世音等，及一切菩萨，常随守护。三者，常得诸佛昼夜护念，阿弥陀佛常放光明，摄受此人。四者，一切恶鬼，若夜叉，若罗刹，皆不能害。一切毒蛇毒龙毒药，悉不能中。五者，火难水难，怨贼刀箭，牢狱枷锁，横死枉生，悉皆不受。六者，先所作业，悉皆消灭。所杀怨命，彼蒙解脱，更无执对。七者，夜梦正直，或复梦见阿弥陀佛胜妙色像。八者，心常欢喜，颜色光泽，气力充盛，所作吉利。九者，常为一切世间人民恭敬供养，欢喜礼拜，犹如敬佛。十者，命终之时，心无怖畏，正念现前，得见阿弥陀佛，及诸圣众，持金莲华，接引往生西方净土，尽未来际，受胜妙乐。如上十种利益，经文具载，乃佛口之所宣也。既是现生来世，皆有利益。然则世出世间要紧法门，无如念佛者矣，但当精进，不用怀疑。</p>
+<p><a name="a083"></a><span style="color:#333399">◎念佛之门，多承开导，群疑尽释，正信现前矣，但上文所谓抖擞身心，拨弃世事，今世网中人，间有境缘顺便，身意安闲者，则可依此而行，其有世事不容拨弃者，又当何以教之<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>世网中人，若是痛念无常，用心真切者。不论苦乐逆顺，静闹闲忙，一任公私干办，迎宾待客，万缘交扰，八面应酬，与他念佛，两不相妨。不见古人道，朝也阿弥陀，暮也阿弥陀，假饶忙似箭，不离阿弥陀。又云，竹密不妨流水过，山高岂碍白云飞。其有世缘稍重，力量稍轻者，亦须忙里偷闲，闹中取静。每日或念三万声，一万声，三千声，一千声，定为日课，不容一日放过。又有冗忙之极，顷刻无闲者，每日晨朝，必须十念积久功成，亦不虚弃。念佛之外，或念经礼佛，忏悔发愿。种种结缘，种种作福，随力布施，修诸善功以助之。凡一毫之善，皆须回向西方如此用功，非惟决定往生，亦且增高品位矣。</p>
+<p><a name="a084"></a><span style="color:#333399">◎泛言念佛，未有其方，且十念回向之法，亦所未喻，幸详以示之<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>念佛者，或专缘三十二相，系心得定。开目闭目，常得见佛。或但专称名号，执持不散。亦于现身，而得见佛。此间现见多是称佛名号为上。称佛之法，必须制心不令散乱。念念相续，系缘佛号。口中声声唤阿弥陀佛，以心缘历，字字分明。称佛名时，无管多少，并须一心一意，心心相续。如此，方得一念灭八十亿劫生死之罪。若不然者，灭罪良难。十念者，每日清晨，面西，正立合掌。连声称阿弥陀佛。尽一气为一念。如是十气，名为十念。但随气长短，不限佛数多少，唯长唯久，气极为度。其佛声不高不低，不缓不急，调停得中。如是十气，连属不断，意在令心不散，专精为功故。名此为十念者，显是藉气束心也。尽此一生，不得一日暂废。回向发愿者，念佛既毕，即云，弟子某，一心皈命极乐世界阿弥陀佛，愿以净光照我，慈誓摄我，我今正念，称如来名，为菩提道，求生净土，佛昔本誓，若有众生，欲生我国，至心信乐，乃至十念，若不生者，不取正觉，愿此念佛因缘，得入如来大誓海中，承佛慈力，众罪消灭，净因增长，若临命终，自知时至，身无病苦，心不贪恋，意不颠倒，如入禅定，佛及众圣，手持金台，来迎接我，如一念顷，生极乐国，华开见佛，即闻佛乘，顿开佛慧，广度众生，满菩提愿。如上念佛之法，至于回向，乃先德垂训切要之方，盛传于世久矣。当遵而行之。</p>
+<p><a name="a085"></a><span style="color:#333399">◎世网中人，随量指授微细方法，靡不详明矣，然则我辈世外之人，又当何以加其功焉<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>前不云乎，修有多类，摄成三门，如是三门，门门可入。或单或兼。随意之所取耳。</p>
+<p><a name="a086"></a><span style="color:#333399">◎圆观之修，唯心之念，似乎上器之行门，华严十愿，宝积十心，亦乃大根之功用，倘根器之不对，则功行之难成，今吾自揣其根，观吾自好。惟在专持名号，暇则或加礼拜忏悔而已。师以为如何<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>善哉善哉汝知量矣。观汝之言，政合善导专修无闲之说矣。专修者，谓众生障重，境细心粗识扬神飞，观难成就，是以大圣悲怜，直劝专称名号。政由称名易故，相续即生。若能念念相续，毕命为期。十即十生，百即百生。何以故。无外杂缘，得正念故。与佛本愿相应故。不违教故。顺佛语故。若舍专修，而修杂业，以求生者，百中希得一二，千中希得三四。乃由杂缘乱动，失正念故，与佛本愿不相应故。与教相违故。不顺佛语故。系念不相续故。心不相续报佛恩故。虽有业行，常与名利相应故。乐近杂缘，自障障他生净土故。无问修者，身须专礼阿弥陀佛，不杂余礼。口须专称阿弥陀佛，不称余号，不诵余经。意须专想阿弥陀佛，不杂余想。又若贪嗔痴来间者，随犯随忏，不令隔日隔夜隔时。常使清净。亦名无间修也。善导和尚者，天竺传中，称为弥陀化身也。观其专修无间之说，要紧只在念念相续。故孤山亦云。不可等闲发愿，散乱称名。永明亦云，直须一心归命，尽报精修。坐卧之间，常面西向。当行道礼敬之际，念佛发愿之时，恳苦翘诚，无诸异念。如就刑戮若在狴牢，怨贼所追水火所逼，一心求救愿脱苦轮。速证无生，广度含识。绍隆三宝，誓报四恩。如斯至诚，方不虚弃。如或言行不称，信愿轻微。无念念相续之心，有数数间断之意。恃其懈怠，临终望生，但为业障所遮，恐难值其善友，风火逼迫，正念不成何以故，如今是因，临终是果。应须因实，果则不虚。声和则响顺，形宜则影端故也。</p>
+<p><a name="a087"></a><span style="color:#333399">◎念念相续，照顾不牢，何策以治之<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>念念相续之修，岂非余所愿也，奈何定力未成，念头无主。或旧学未忘。或邪思乱起。或境缘相触，照顾不牢。或情想纷飞，遏捺不住。不觉念头东走西走。眨得眼来，千里万里去了。又或惹著一毫世事，便是五日十日，半月一月，摆脱不去。岂特间断而已哉。言之可惭，思之可恸。又当何策以治之。</p>
+<p>呜呼，此天下学者之通病也。汝当间断之时，若不痛加鞭策，则专修无间之念，永无成就之期。余闻古人有三种痛鞭之策，今复为汝献之。汝当谛而听之，一曰报恩，二曰决志，三曰求验，第一报恩者，既修净土，当念报恩。佛恩国恩，固未暇论，只如父母养育之恩，岂非重恩。师长作成之德，岂非重德。你最初出家，便说要报重恩。后来行脚，又说要报重德。离乡别井，二三十年，父母师长艰难困苦，你总不顾，父母老病，你又不看，及闻其死，你也不归，如今或在三途受罪受苦，望你救他，望你度他。你却念念间断，净土不成。净土不成，自救不了。自救不了，如何救他。既不能相救，你是忘恩负义，大不孝人。经云，不孝之罪，当堕地狱，然则一念间断之心，便是地狱业也。又且不蚕而衣，不耕而食，僧房卧具，受用现成，你当勤修净业，图报信施之恩。祖师道，此是施主妻子分上，减刻将来。道眼未明，滴水寸丝，也须牵犁拽耙偿他始得。你却念念间断，净土不成。净土不成，酬偿有分，然则一念间断之心，便是畜生业也。第二决志者，若学专修，志须决定。你一生参禅，禅既不悟，及乎看教，教又不明，弄到如今，念头未死，又要说几句禅，又要说几句教，又要写几个字，又要做几首诗情挂两头，念分四路，祖师道，毫厘系念，三途业因。瞥尔情生，万劫羁锁。你却志无决定，情念多端。因此多端，间断正念，然则一念间断之心，便是三途羁锁业也。又且守护戒根，志不决定，或因身口，念念驰求，教中道，宁以洋铜灌口，不可以破戒之口，受人饮食。宁以热铁缠身，不可以破戒之身，受人衣服，况因诸戒不严，邪心妄动。因此妄动，间断专修，然则一念间断之心，何止热铁洋铜业也。又且断除憎爱，志不决定，每于虚名浮利，自照不破。名利属我，便生贪爱，名利属他，便生憎妒。古人云，贪名贪利，同趋鬼类。逐爱逐憎，同入火坑。你却因此爱憎，间断净土，然则一念间断之心，便是饿鬼火坑业也。第三取验者，既学专修，当求灵验。你如今发白面皱，死相现前。知道临终，更有几日。须在目前，便要见佛。只如卢山远法师，一生之中，三度蒙佛摩顶，又如怀感法师，称念佛名，便得见佛。又如少康法师，唱佛一声，众见一佛从口飞出，唱佛十声，则有十佛从口飞出，如贯珠焉。此等灵验，万万千千，你若心无间断，见佛不难。间断心生，决不见佛。既不见佛与佛无缘，既无佛缘，难生净土。净土不生，必堕恶道，然则一念间断之心，便是三途恶道业也，戒之戒之。如上三策，当自痛鞭。使其念不离佛，佛不离念、感应道交，现前见佛。既见乐邦之佛，即见十方诸佛。既见十方诸佛，即见自性天真之佛。既见自性天真之佛，即得大用现前。然后推其悲愿，广化一切众生，此名净土禅，亦名禅净土。也。然则永明所谓有禅有净土，犹如戴角虎。现世为人师，来生作佛祖。岂不验于此哉。勉之勉之。</p>
+<p><a name="a088"></a><span style="color:#333399">◎念佛法门（蕅祖开示）<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土或问<span>&nbsp; </span></p>
+<p>念佛法门，别无奇特，只深信力行为要耳。佛云，若人但念弥陀佛，是名无上深妙禅。天台云，四种三昧，同名念佛，念佛三昧，三昧中王。云栖云，一句阿弥陀佛，赅罗八教，圆摄五宗。可惜今人，将念佛看做浅近勾当，谓愚夫愚妇工夫。所以信既不深，行亦不力，终日悠悠，净功莫克。设有巧设方便，欲深明此三昧者，动以参究谁字为向上。殊不知现前一念能念之心，本自离过绝非，不消作意离绝。即现一句所念之佛，亦本自超情离计，何劳说妙谭玄。只贵信得及，守得稳，直下念去，或昼夜十万，或五万三万，以决定不缺为准。毕此一生，誓无变改。若不得往生者，三世诸佛便为诳语。一得往生，永无退转，种种法门，咸得现前。切忌今日张三，明日李四。遇教下人，又思寻章摘句。遇宗门人，又思参究问答。遇持律人，又思搭衣用钵。此则头头不了，帐帐不清。岂知念得阿弥陀佛熟，三藏十二部极则教理，都在里许。千七百公案，向上机关，亦在里许。三千威仪，八万细行，三聚净戒，亦在里许。真能念佛放下身心世界，即大布施。真能念佛，不复起贪嗔痴，即大持戒。真能念佛，不计是非人我，即大忍辱。真能念佛，不稍间断夹杂，即大精进。真能念佛，不复妄想驰逐，即大禅定。真能念佛，不为他歧所惑，即大智慧。试自简点，若身心世界犹未放下，贪嗔痴念犹自现起，是非人我犹自挂怀，间断夹杂犹未除尽，妄想驰逐犹未永灭，种种他歧犹能惑志，便不为真念佛也。要到一心不乱境界，亦无他术。最初下手，须用数珠，记得分明，刻定课程，决定无缺。久久纯熟，不念自念，然后记数亦得，不记亦得。若初心便要说好看话，要不著相，要学圆融自在，总是信不深，行不力。饶汝讲得十二分教，下得千七百转语，皆是生死岸边事。临命终时，决用不著，珍重。</p>
+<p><a name="a089"></a><span style="color:#333399">◎邪见<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">宝王三昧念佛直指<span>&nbsp; </span></p>
+<p>行人欲生彼国，出离生死，先当深识求生彼土真妄之心。且谓如是极乐世界，为是在境，为是在心，若在于心，但有虚想，无土可生。若在于境，虽然生处，又复失心。若谓心境二俱求生，则我身心是一，宁生两处。若谓心境是一，一心求生，则自今心境宛尔，难说是一。又极乐娑婆，净秽不同，况是世尊垂教，敕令舍秽求净，一义奚得，四句既不可求，或谓处处皆是西方极乐，或谓心净则是极乐，或云极乐不离这个，若作此解，皆名邪见。</p>
+<p><a name="a090"></a><span style="color:#333399">◎西方即我真心<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">宝王三昧念佛直指<span>&nbsp; </span></p>
+<p>若谓极乐在心，即便妄认此心住在我今身中，既在身中，但名求心，何名求生。岂我世尊不知极乐在心，而说在西方十万亿国土之外耶。又岂不能指说内心，而但能说外境耶。今西方极乐世界阿弥陀佛，现在说法，实境宛然。此是圣人诚言，焉敢不信，而不知此缘影心外之极乐，正即是我真心，我此真心，如彼大海不增不减，而汝妄谓为境。汝谓极乐在缘影心，此缘影心，如海一沤，生灭全妄，而汝妄谓为心。汝若固执妄见，不信外有极乐，信在汝缘影心内者，汝缘影心无体，不可以心求生于心。而不知彼极乐虽在西方，西方即我真心，真心无性，即彼名体，以显我心。名体本空，亦即我心而示其相心境一体，生佛同源，求彼佛，即求自心，非外求也。</p>
+<p><a name="a091"></a><span style="color:#333399">◎生佛互感，三昧乃成<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">宝王三昧念佛直指<span>&nbsp; </span></p>
+<p>极乐国土，非依缘影妄心。又彼弥陀色身，非在众生阴体。若向我今四大缘影身心中，求本性自己之佛，不求西方极乐之佛，则妄心生灭，佛亦生灭。佛生灭故，三昧不成。纵求有得，但成生灭之佛，还生生灭之土，不成正行。经云，以轮回心，生轮回见，彼圆觉性，亦同轮转，即此义也。若欲离诸妄见，直生彼者，但求西方十万亿国土外极乐弥陀之佛，以称性妙观，如实观之，使彼如来本觉相好于彼显现，合我众生始觉真心，于此发明始本相冥，生佛互感。三昧乃成，正行斯立。不生灭土，始可生也。</p>
+<p><a name="a092"></a><span style="color:#333399">◎以圆妙三观释十六观经要旨<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">宝王三昧念佛直指<span>&nbsp; </span></p>
+<p>夫三观者，一念即空即假即中也，自我如来恢扬，至于智者妙悟。所谓空则一切皆空，假则一切皆假，中则一切皆中，俱破俱立，俱非破立，圆融绝待，难议难思，统诸部之玄门，廓生佛之境智，极万法之源底，显净土之圆修，念佛三昧，非此法门，则有所未尽也。四明大师发扬妙旨，以谕后学，今悉用其语，求生净土，虽不外乎世间小善，及彼事想，若非以大乘圆妙三观法门，释彼十六观经奥旨，使人开解起行，何由必生，十六观者，初观落日，所以先标送想向彼佛也。初心行人，虽了根尘皆是法界，而心想赢劣，胜境难现，是故如来设异方便，即以落日为境，想之令起观中之日，圆人妙解，知能想心，本具一切依正之法，今以具日之心，缘于即心之日，令本性日，显现其前。斯乃以法界心，缘法界境，起法界日。既皆法界，岂不即空假中。此犹总示，若别论三观成日功者，以根境空寂，则心日无碍。以缘起假立，故累想日生，以其心日皆法界，故当体显现。日观既成，则三观同在一心。非一非三，而一而三，不可思议。日观既尔，余观例然，应知十六，皆用即空假中一心三观以为想相之法。次观清水，复想成冰，良以彼土琉璃为地，此地难想，且今想冰，冰想若成，宝地可见。如上且以所见落日及冰以为方便。次观地，观树，观池，及以总观楼地池等，已上六观，皆所以观彼土之依报也，至于观华座者，为三圣之亲依。观宝像者，类三圣之真体。欲观于佛，先观于座，真佛难观，要先观像。乃至普观往生，杂观佛菩萨等，七观，皆所以观彼土之正报也，后三观者，明三辈九品之人自此而生彼也，既然修因不同，是故感果差降。今亦观者，为今行人识别三品优劣，舍于中下而修习上品往生故也。然诸观皆用经所示相，忆持在心为所观境，仍了自心本具此法，托境想成，发明心目，又经题云佛说观无量寿佛经者，佛是所观胜境，举正报以收依果，述化主以包徒众。观虽十六，言佛便周，则当但观彼佛也。欲观彼佛者，则当先观彼佛如虚空量端严微妙广大色身。一一身分，八万四千相，一一相中，八万四千随形好，一一好中，八万四千光明，一一光明之中，一一世界海，彼世界海中，一切十方诸佛菩萨声闻缘觉僧众，一一微妙广大，不可具说，但当忆想，令心眼见。见此事者，即见十方诸佛，以见诸佛故，名念佛三昧。作是观者，名观一切佛身，以观佛身故，亦见佛心，佛心者，大慈悲是。以无缘慈摄诸众生，作此观者，舍身他世，生诸佛前，得无生忍，又云，观无量寿佛者，从一相好入。但观眉间白毫，极令明了。见眉间白毫者，八万四千相好自然当现。见无量寿佛者，即见十方无量诸佛。得见无量诸佛故，诸佛现前授记，是为遍观一切色身相，故知十六妙观，以观佛为要，八万相好都想难成，故令但观眉间毫相如五须弥，此想若成，八万皆现，此为要门也。</p>
+<p><a name="a093"></a><span style="color:#333399">◎何相而观如来<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">宝王三昧念佛直指<span>&nbsp; </span></p>
+<p>大乘行人，知我一心，具诸佛性。托境修观，佛相乃彰，今观弥陀依正为缘，熏乎心性。心性所具极乐依正，由熏发生，心具而生，岂离心性，全心是佛，全佛是心，终日观心，终日观佛其旨明矣。又应了知，法界圆融不思议体，作我一念之心，亦复举体作生作佛，作依作正，作根作境，一心一尘，至一极微，无非法界全体而作，既一一法全法界作，故趣举一，即是圆融法界，全分既全，法界有何一物不具诸法，以一切法，一一皆具一切法故。是故今家立于唯色唯香等义。又云，毗卢遮那，遍一切处，一切诸法，皆是佛法，所谓众生性德之佛，非自非他，非因非果，即是圆常大觉之体，故知果佛圆明之体，是我凡夫本具性德，故四三昧，通名念佛。若此观门，托彼安养依正之境，用微妙观，专就弥陀，显真佛体，虽托彼境，须知依正，同居一心。心性周遍，无法不造，无法不具。若一毫法从心外生，则不名为大乘观也。又仁王般若经云，佛问波斯匿王，汝以何相而观如来，王言，观身实相，观佛亦然。无前际中际后际，不住三际，不离三际。不住五蕴，不离五蕴。不住四大，不离四大。不住六处，不离六处。不住三界，不离三界。乃至非见闻觉知，心行处灭，言语道断，同真际，等法性，我以此相观如来身。佛言，应如是观，若他观者，名为邪观。</p>
+<p><a name="a094"></a><span style="color:#333399">◎净土指诀—此二门精进修行，念佛三昧必定成就<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">宝王三昧念佛直指<span>&nbsp; </span></p>
+<p>行人，了知此土实苦，彼土实乐。虽闻观慧法门，圆融微妙，而直见二土俨然，皆即实境。非如浅信之人，谓彼土心有则有，心无则无，光影幻化，虚妄不实，处处皆是西方等解，深知彼土，亦如此土端确的实而无谬误，若人能具此智，不为世间一切邪解偏见，诸恶知识之所回转，则当正观二土苦乐净秽。于其境上，生二种心，以为方便，非此二心，不能生彼。何谓二心，一者厌离心，二者忻乐心，于此娑婆生厌离故，则能随顺释迦所说折门，于彼极乐生忻乐故，则能随顺弥陀所示摄门，以此二门，精进修行。念佛三昧，必定成就。何谓折门，以闻如上所说极乐胜妙，则应如理观察此娑婆世界皆苦，无一乐者。三途地狱，日夜烧然。饿鬼旁生，不可堪忍。修罗忿战。人处何安。根尘与八苦交煎，因果共四生升坠。时有寒暑，境是沙泥。昼夜推迁，无常不住。又复受身臭秽男女异形。所需衣食，艰难粗恶。寿命不永，众苦相生。纵有生于天宫，报尽还归极苦，又不知人中乐即是苦，亲正是怨。颠倒攀缘，不求出路。从业致业，展转不休。如是苦恼，不可具陈。故当厌离也。何谓摄门，行人闻说娑婆实苦如是，则于彼土西方极乐生大忻乐，彼极乐土，宝地宝池，无三恶道。庄严妙胜，超过十方。无寒暑昼夜推迁，无生老病死结业。纯男无女，莲华化生。衣食自然，能成法喜。寿命无量，身光莫穷。闻法音则应念知归，观相好而刹那悟道。如是种种，快乐无量，得名极乐。故当忻乐也。若能于此二门，精进修习，日夜不休，随顺佛教于此土声色诸境，作地狱想，作苦海想，作火宅想，于诸宝物，作苦具想，饮食衣服，如脓血铁皮想，于诸眷属，作夜叉罗刹啖人鬼想，况复生死不住，长劫奔跋，实可厌离。于知识若经卷中，闻彼佛愿力，国土庄严，于念念中，称彼理趣，生安隐想，生宝所想，生家业想，解脱处想，弥陀如来菩萨僧众，如慈父想，如慈母想，生接引想，生津梁想。于怖畏急难之中，称名即应，功不唐捐，刹那便至速来救护想，应念出离想。如是功德无量，实可忻乐。若于此折门不能修行，厌离不深，则娑婆业系不脱，若于彼摄门不能修行，忻乐不切，则极乐胜境难跻，是以行人欲生净土，成就念佛三昧。当齐修二门，为发行最初一步也，若不修此二门，虽了观慧之旨，但成虚解，纵欲生彼，以不忻厌，无因可得。若能修此二门，不识观慧之旨，虽可生彼，但事想故，位非上辈。若能炽然忻厌，圆修观慧，既生而复上品者矣。</p>
+<p><a name="a095"></a><span style="color:#333399">◎珍地左券—十大碍行<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">十大碍行<span>&nbsp; </span></p>
+<p>详夫一心平等，体性无亏，众生虽缠绵于业识之中，靡不有出尘之志。方欲究道，魔境先彰。一事亏心，万善俱失。成小败广，得者还稀。况乎物欲交倾，死生迁变，递相仿效，易地皆然。使我如来于三大阿僧祇劫，舍无数头目髓脑，国城妻子，身肉手足，戒忍精进，承事知识，不惜身命，修行道品所得法门。因兹障碍，退其心故，一旦在我而灭，可不痛伤。我今既为释迦之子，不以力争。坐令法界群有，永失慧目，甚于割切身肉也。是故我今依经，创立十种大碍之行，名十不求行人虽不故愿于碍，但于此间，或不得已，有一切障碍现前之时，俾我身心先居碍中，而众魔诸恶障碍之境，不能侵我，不能障我。譬如金火同炉，火虽欺金，金必成器，其十种大碍之行，今当说，一念身不求无病。二处世不求无难。三究心不求无障。四立行不求无魔。五谋事不求易成。六交情不求益我。七于人不求顺适。八施德不求望报。九见利不求沾分。十被抑不求申明。此十种大碍之行，摄一切诸碍，惟上智者堪任。中下之人，不敢希冀。若有得闻此十句义，于诸碍中，一一皆能照察觉悟，省身体道，持之不失，则能入诸魔界，不为群魔退转其心，循诸色声，不为色声惑乱其志，乃至憎爱利名之境，人我得失之场。我心先居碍中，彼碍岂能为碍。碍若无碍，则于道行尚可直进，何况得于自然无碍之境，道岂不可进哉。譬如高崖之木，虽久早如焚，尚不改其秀色，何况雨泽滂霈，而又加于三春之令，岂不敷荣茂实者乎，又如根缺之人，运用虽艰，而于求食之计，有不胜之巧。若以求得之计，移之于求道，岂在碍不能行道乎。当知此碍，即是一切众生大善知识，亦是一切众生良佑福田，可以了死脱生，可以超凡入圣，于诸世间所有美味上服，金刚珠玉，一切众宝所不能及。是故若非以碍为通，则于非碍。反成为碍。何以故，身无病，则贪欲乃生。世无难，则骄奢必起。心无障，则所学躐等。行无魔，则誓愿不坚。事易成，则志存轻慢。情益我，则亏失道义。人顺适，则内必自矜。德望报，则意有所图。利沾分，则痴心必动。抑申明，则人我未忘。以是义故，则知十无碍道，能生是过，及成如是一切不吉祥事，为障道因缘。何以故，贪欲生，必破戒退道。骄奢起，必欺厌一切。学躐等，必未得谓得。愿不坚，必未证谓证。志轻慢，必称我有能。亏道义，必见人之非。内自矜，必执我之是。意有图，必华名欲扬。痴心动，必恶利毁已。存人我，必怨恨滋生。是十种过，从凡妄生。皆名邪见。展转生起无量恶法，遍虚空界，必令众生，堕于地狱。岂可于此，不生敬慎。若能体兹碍境，识病因缘，知病性空，病不能恼。了难境界，体难本妄，难亦奚伤。解障无根，即障自寂，障不为碍。达魔妄有，究魔无根，魔何能娆。量事从心。成事随业，事不由能。察情有因，于情难强，情乃依缘。悟人处世，观人妄为，人但酬报。明德无性，照德非常，德亦非实。世利本空，欲利生恼，利莫妄求，受抑能忍，忍抑为谦，抑何伤我。是故大圣化人，以病苦为良药。以患难为解脱。以障碍为逍遥。以群魔为法侣。以事难为安乐。以弊交为资粮，以逆人为园林。以施德为弃屣。以疏利为富贵。以受抑为行门。如是则居碍反通，求通反碍。于此障碍，皆成妙境。故得之与失，自不能知。人奚于中，强生取舍。是以如来于障碍中得菩提道。</p>
+<p><a name="a096"></a><span style="color:#333399">◎三昧宝王<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">十大碍行<span>&nbsp; </span></p>
+<p>夫念佛三昧者，名一行三昧也，盖彼行人既了深旨，能持一心，唯念彼土，唯忆彼佛，知身土无二，了忆念亦一，乃得名为一行也。虽名一行，亦当以彼一切世出世间无量法门诸功德行以为助道，则往生行疾，是故一切诸行，悉为净土而修，无别歧路，名一行耳。譬如众流入海，同得海名，万善同归，得名一行。以是义故，则一切念处正勤根力觉道，四弘六度，皆净土行，乃至弹指之善，及散心念佛，或一称名，或举一手，一礼一赞，或一瞻仰，乃至或奉一香一水，一华一灯，一供养具。或一念修习，至于十念，或发一施一戒一忍，禅定智慧，一切善根，回向极乐愿力持故，虽有迟疾，皆得往生，如经所说喻，昔有人以小滴水寄于大海，愿不坏不失，不异不竭，虽经多劫，要还原水，其人经多劫已，如寄所取，果得原水，不坏不竭，此亦如是。以小善根，回向极乐，如寄滴水，虽经异生，善根不失，亦不坏竭，生彼无疑。是以大乘小乘，有漏无漏，散心定善，事想观慧，皆名一行，悉得往生。惟除外道种性。故云，但办肯心，必不相赚，又经所谓一称南无佛，皆已成佛道，良可深信，其有因心未起，善行未立，身心未屈，先期感应者，不可与其同语也。是故释迦圣主一代至谈，有无量三昧，无量解脱，无量行愿，总持相应无量法门，唯念佛一门，圆摄无外，悉皆具足，如彼大海，吞纳众流，性无增减、如如意珠，置高幢上，能满一切众生愿求，体无亏损，此三昧宝王，能摄能具，亦复如是。</p>
+<p><a name="a097"></a><span style="color:#333399">◎往生瑞应<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">十大碍行<span>&nbsp; </span></p>
+<p>行人因佛捍魔，非止此身安乐，又得三昧成就，天人护助，临终正念往生。其往生之际。瑞应非一，或天乐盈空，或异香满室，或光明照体，或宝座现前，或弥陀垂臂亲自来迎，或菩萨执台授手而接，乃至预知时至，正念不谬，诸障忽空，自能沐浴加跌，会众说法，叉手告别，或更勉人进道，书偈掷笔，合掌而逝，或临终之后，举体如生，齿骨数珠，烧之不坏，光焰异常，五色鲜明，祥物于空，盘旋不散，烟所至处，舍利流珠，触物而生，此耳目之所常有者也。</p>
+<p><a name="a098"></a><span style="color:#333399">◎必生净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">十大碍行<span>&nbsp; </span></p>
+<p>经云，孝养父母，奉事师长，慈心不杀，修十善业，受持三归，具足众戒，不犯威仪，发菩提心，深信因果，读诵大乘，劝进行者，以上每句是一法行，古人各有法训一章，兹不能述，又复当护人心勿使夸嫌，动用自若，诵大乘经，解第一义，亲近善友，请问先觉，不执己见，不引己长，志存忍辱，行当依经，听闻正法，不毁僧尼，息世杂善，不贪名利，远离邪恶，处事必忠，将过归已，深诫绮语，一心不乱，视人如佛，捐弃伎能，唯求往生，身必清净，如是等无量善行，悉宜修习，能助正道，更能割世染心，于憎爱二境，无诸留难。凝心如一，必生净土。</p>
+<p><a name="a099"></a><span style="color:#333399">◎称佛一声灭八十亿生死重罪之义何在<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">十大碍行<span>&nbsp; </span></p>
+<p>至哉问也，彼世间未悟之人，因子所问，于此三昧必不退转，直生净土矣。今世行人，皆谓此说是方便劝进之语，岂知是佛真实之说，必不我欺也。子岂不闻汝于无量劫前，与世尊释迦牟尼，同为凡夫之义否，而我世尊成道以来，已经尔所尘点劫数，此尘点劫，妙经委明，然我亦于尔所劫中，在凡夫地，漂零六道，造诸结业，不可限量，同佛至今，久远无异，如此尘劫，安可称量，假使有人，于一生内，不说余善，但称佛名，尽寿声声不绝，随其所称之名，一一皆灭八十亿劫生死重罪，然尽一生以及他生称佛，灭罪劫数虽多。若比如是极大久远尘点之劫，正如指上土，欲比大地土耳。岂可谓称佛名能灭多劫罪故，更无余劫之业，障我生净土耶，而不知未灭之罪，劫数长久，无始无际，与佛同寿，实过如是八十亿等数量劫外。又如炬火虽热，欲消大地之雪，岂易融泮。故虽念佛灭罪，未得生者，其义如是，况人长劫造业心坚，念佛片时心弱，退易进难。又况与佛同为凡夫之前，劫数转倍，乃至烦恼无始，发心在近，罪岂易灭，可不思之。今谓一日至七日，一心不乱，即得往生。及临命终时，一心不乱，称佛一声，即灭八十亿劫生死重罪。乃至极恶逆人，临终狱火相现，能称十念，悉生净土者，盖仗我称佛名号，灭罪威神一隙之功，承佛速疾救护。大愿之力譬如壮士正战堕围，临危仓卒之际，得一勇夫，与之强弓锐刃，良马善策，即便猛发其志，踊身马上，奋扬威武，努力挥挽，突围而出，战胜获功，偃寇施恩。归奉其主，永享丰乐，此亦如是。彼佛接引生极乐国，其义若此，故云称佛一声，灭八十亿劫生死重罪。非谓如今念佛人，今日三，明朝四，且犹且豫。或见目前些儿声色境界，便被牵拽将去，全无把捉，与不曾念者一般，欲因一称之中，真实灭多劫罪，使便不为障，即生净土，其可得乎。然如此念者，声声非不灭如是劫数罪，但因初心缓故，报生亦缓，止可作他世生缘耳。或能称念不息，虽成聚露成流之功，岂得与前说较优劣速疾哉。若人精进，能如前说，生犹反掌，如箭取的，决无不中。故知散心念者，及虽志诚未离妄想者，或被如是劫外之罪所障，但报在他生，不能即应其功，若励声竭志勇猛念者，既灭尔所劫罪，由勇疾力，余劫之罪，不为障碍便得十念成就，往生净土。此义了然可见，决定无疑，岂可因悠悠念佛之人，依旧业识茫茫，死时如落汤螃蟹，而疑佛为妄语，但是劝进之说哉。故知佛力广大，遍覆一切时处，能摄我小善，入佛大愿，使同一味。拔诸众生置安乐地，使一切劫罪皆得消灭，何止灭八十亿劫之罪耶。如是称佛功德，实难可测，大乘圆顿横超直截之旨，于斯可见。</p>
+<p>又称佛属口，惟论其功。念佛在心，乃彰其德。论功则在我不倦。彰德乃见佛现前。二义不同，优劣可见。口称尚尔，况心念乎。</p>
+<p><a name="a100"></a><span style="color:#333399">◎一真法界<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土生无生论<span>&nbsp; </span></p>
+<p>一真法界，即众生本有心性。</p>
+<p>得意为言，即性具，是性体性量。性体离过绝非，即性具十界离过绝非。性体体性坚凝，清净无染，不生不灭，常住不坏，性具十界亦然，性量竖穷横遍，无尽无尽，无量无量，性具十界亦然。正报五阴，同性体性量，清净周遍，依报国土亦然。此之三法，亦名三谛，性体即中谛，性量即真谛，性具即俗谛。</p>
+<p><a name="a101"></a><span style="color:#333399">◎三身四土，由心变造<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土生无生论<span>&nbsp; </span></p>
+<p>华严经云，能随染净缘，具造十法界。谓真如性中所具九法界，能随染缘，造事中九法界，真如性中所具佛法界，能随净缘，造事中佛法界。所以能者，正由性具，性若不具，何所称能。天台家言，并由理具，方有事用，此之谓也。是知事中十法界三身四土，悉由真如随缘变造，既曰真如不变随缘，随缘不变，则事中染净身土，当体即真，无一丝毫可加损于其间者。楞严经云，见与见缘，并所想相，如虚空华，本无所有，此见及缘，元是菩提妙净明体是也。若然，则娑婆极乐，此世众生，当生九品，弥陀已成吾心当果，悉由心性之所变造。心具而造，岂分能所，即心是佛，即佛是心，即心是土，即土是心，即心是果，即果是心，能造因缘，及所造法，当处皆是心性，故明此宗而求生乐土者，乃生与无生两冥之至道也。</p>
+<p><a name="a102"></a><span style="color:#333399">◎介尔之心，居于方寸，何能包许远佛土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土生无生论<span>&nbsp; </span></p>
+<p>介尔之心，昧者谓小达人大观，真妄无二，盖此妄心，全性而起，性既无边，心亦无际性如大海，心如浮沤。全海为沤，沤还匝海。盖真如不变随缘，随缘不变。既曰随缘不变，岂可以真妄而局大小哉。</p>
+<p><a name="a103"></a><span style="color:#333399">◎才举心念，即便圆成<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土生无生论<span>&nbsp; </span></p>
+<p>盖诸佛乃悟众生心内诸佛。众生乃迷诸佛心内众生。所以悟者，悟众生本具性体性量性具也。所以迷者，迷诸佛所证性体性量性具也。心性之妙，岂受其迷，迷而不迷，斯言有在，故众生本有性体，即诸佛所证法身。性量即报身，性具即应身，四智十力四无所畏十八不共等功德，会合可知。故古德云，诸佛心内众生，尘尘极乐。众生心内诸佛，念念证真。故弥陀即我心，我心即弥陀未举念时，早已成就。才举心念，即便圆成。感应道交，为有此理。故念佛人，功不唐捐。</p>
+<p><a name="a104"></a><span style="color:#333399">◎唯心念佛法门（解脱长者示善财）<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土生无生论<span>&nbsp; </span></p>
+<p>十万亿佛土不远，而弹指顷不近。以心法无形，贯满十方，无远近故。娑婆众生，耳根最利，非五根所能及。试于耳根中观之，如危楼百尺，洪钟在□，遥杵一击，声闻百里，声既不来，耳亦不往。声闻同时，历历现前。讵非唯心之明验乎。非唯土是唯心。而土中之佛，亦唯心现，故无量寿经云，佛告阿难，汝起整衣服，合掌恭敬，礼无量寿佛，阿难禀教，正面西向，五体投地，即见无量寿佛，放大光明，普照一切诸佛世界，威德巍巍，如须弥山，高出一切诸世界上，此会四众，一时悉见，彼见此土，亦复如是。夫礼拜之顷，举念即见阿弥陀佛，放光普照者，是亦唯心之明征也。又解脱长者，示善财唯心念佛法门云。我欲见安乐世界阿弥陀佛，随意即见，乃至云，然彼如来不来至此，我身亦不往诣于彼，知一切佛，及与我心，悉皆如梦如影，如幻如响，我如是知，如是忆念所见诸佛，皆由自心。夫由自心者，一法界心也。既云知一切佛，及与我心，悉如梦等，则若佛若心，皆从一法界真心现起，当体寂灭，故无来往也。清凉国师云，既了境唯心，了心即佛。故随所念，无非佛矣。况无境非心，无心非佛，加以志一不挠，精诣造微。佛应克诚，于何不见。问，即佛之心，为如梦心，为法界心，答，达得心佛是梦，则当处寂灭，即法界心，非有二也。</p>
+<p><a name="a105"></a><span style="color:#333399">◎真如本体离一切相，云何复说体有如是种种功德<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土生无生论<span>&nbsp; </span></p>
+<p>西方依正庄严，皆性功德者。起信论云，复次真如自体相者，一切凡夫声闻缘觉菩萨诸佛，无有增减。非前际生，非后际灭。从本已来，自性满足一切功德。所谓自体有大智慧光明义故，遍照法界义故，真实识知义故，自性清净心义故，常乐我净义故，清凉不变自在义故，具足如是过于恒沙，不离，不断，不异，不思议佛法，乃至满足无有所少义故，名为如来藏，亦名法身。虽有此诸功德义，而无差别之相，等同一昧，唯一真如云云。由此观之。西方极乐世界，依正二报，功德庄严，如弥陀经中，珠网丽天，琼林矗地，池流八德，莲吐四光，天乐韵于六时，祴华散于亿刹，化禽演道品，风树传法音，如是等无量功德，皆是极乐国土依报庄严也。又如相好八万，举光明以遍收，功德喻沙，言寿命以统括。成佛十劫，简过未以释疑。声闻皆发大心，菩萨多居补处。生者咸归于定聚，趣途即预于阿鞞。如是等无量功德，皆是寿尊一佛二菩萨，及海会眷属等正报庄严也。如上依正二报无量功德，原非他物，乃是真如体上本有之性功德。</p>
+<p><a name="a106"></a><span style="color:#333399">◎诸佛各有愿力，摄受众生，何以不念十方诸佛，而偏念西方阿弥陀佛，求生极乐（佛佛同体）<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土生无生论<span>&nbsp; </span></p>
+<p>以诸佛如来同一法身。念阿弥陀佛，即是念十方诸佛。故一称弥陀万德洪名，而十方诸佛一时齐现。何以故，同一法界身故。故华严经云，一切如来一法身，真如平等无分别。又云，一切诸如来，同共一法身。一心一智慧，加无畏亦然。以此观之，若称阿弥陀佛，而诸佛不现前，则阿弥陀佛非法界身，以有身外诸佛故。阿弥陀佛既是法界身，则诸佛何以不现前。以是知行人至心称念阿弥陀佛，而诸佛现，复何疑乎。</p>
+<p><a name="a107"></a><span style="color:#333399">◎心佛同一体<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土生无生论<span>&nbsp; </span></p>
+<p>我现前感佛之心，是法身真我。而所感之佛，即我法身。即感即应，无前后也。何以故，以心佛同体，感应一时。感是我心之感，应是我心之应也，是以阿弥陀佛居法身地，与法界众生心心相照，吻然契合，无二无别。行人能以信行愿感之，当处现前，不爽毫发也。唐解脱和尚，五台县人，姓邢氏，七岁出家，初从慧超禅师，超器之。后于五台专诵华严，依经作观，求见文殊，文殊现身诲云，汝不须礼觐于我，应自悔责，必当大悟。因反求，乃大悟。感诸佛现身，说偈曰，诸佛寂灭甚深法，旷劫修行今乃得。若能开晓此法眼，一切诸佛皆随喜。解脱问，寂灭之法，若为可说，得教人耶，诸佛即隐。复有声告曰方便智为灯，照见心境界，欲究真实法，一切无所见。以此观之，诸佛与文殊解脱，同一法性，解脱以真诚心，求见文殊，而文殊现。感诸佛，而诸佛应，念佛行人求见阿弥陀佛，亦复如是。心外无佛，佛外无心感应道交，炳然齐现也。</p>
+<p><a name="a108"></a><span style="color:#333399">◎临终在定之心，即净土受生之心<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土生无生论<span>&nbsp; </span></p>
+<p>天台智者大师云，临终在定之心，即是净土受生之心，是因中有果也。华开见佛，悟无生忍，繁兴万行，尘刹利生，是果中有因也。世间草木之华，或先华后果，或先果后华，唯莲华，华果同时。华中有莲，是因中有果也。莲中有蔤，是果中有因也。因果互具，三际一时。故华严经，一切处文殊师利说偈云，一念普观无量劫，无法无来亦无住。如是了知三世事，超诸方便成十力。故净业行人，当拳拳致意于末后临终一念，蓦直而去，永无后念，如此成就，始是生净土之明验也。智度论云，临终少时，能胜终身修行之力。以猛利故，如火如毒。唯恐其障缘现前，此一念不成就耳。故行愿品，普贤菩萨教行人预发愿云，愿我临欲命终时，尽除一切诸障碍，面见彼佛阿弥陀，即得往生安乐刹。又净名经，文殊菩萨问维摩诘云，生死有畏，菩萨当何所依，维摩诘言，菩萨于生死畏中，当依如来功德之力。夫菩萨于生死畏中，尚须依如来功德。况博地凡夫，而欲自恃天真，作增上慢人，非自赚乎。然如来功德无量，略具于观无量寿佛经。净业行人，但能随念其名字，及相好光明寿量等，少分功德，倘不能久持，但一念顷专心瞻仰，而五畏一时可息，不特生死畏也。故华严云，若念如来少功德，乃至一念心专仰。诸恶道怖悉永除，智眼于此能深悟，如子依母则得大安乐也。</p>
+<p><a name="a109"></a><span style="color:#333399">◎爱不重不生娑婆，念不一不生极乐（刮翳眼之金錍，治膏肓之圣药）<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土法语<span>&nbsp; </span></p>
+<p>夫修行法门，乃如来对病之良药也。药随病广，数逾恒沙，求其至捷径，最简要者，莫胜于念佛求生净土法门。可谓速出生死之玄关，疾成觉道之秘诀也。盖凡修行，求出离生死，须仗三种力，一自力，二他力，三本有功德之力。若惟务自修，悟明心地，裂无明网，出爱欲河，成佛作祖，谓之自力。是为没量好汉，真大丈夫。如佛在世，及正法中诸大菩萨声闻缘觉，及诸大祖师，是其人也。若像末之世，去古既远，根器谫劣。有虽修而不悟，悟而不精，内照似脱，对境仍迷，纵使不迷，犹然坯器。菩萨有隔阴之昏，初果有入胎之昧。方之博地，安免随流。此自力之无功，出尘之不效，一错百错，实可寒心。是以诸佛菩萨，曲垂方便，又有仗他之法门兴焉。此之法门，经论发明，其品亦伙，求其苦口叮咛，极言称叹。列祖弘通，人心崇奉。惟极乐世界念佛一门为究竟。可谓言言阐唯心净土之心宗，句句演本性弥陀之妙法。悟此者，达生心与佛心平等，心土与佛土无差。修此者，获妙观与妙境相符，自力与他力兼济，况本有功德之力，无始性具者，因此以全彰。旷劫积累者，藉之而顿发。故得娑婆报满，净土现前，莲华化生，不迷生阴，一入永入，更不退转。故曰众生生者，皆是阿鞞跋致，其数甚多。比夫在娑婆而入道，历尘境之粗强。险难恶道，无处不有，固不侔矣，然而说之匪难，行之为难。行之匪难，心要为难。此昔人之所诫，在我辈之当遵。若求其为吾真切教诫，莫要乎杨次公之两言。谓爱不重不生娑婆，念不一不生极乐。夫念佛以一其心，恳切持名，专志不乱，此吾所当尽心者。然或忘之而不能念，念之而不能一，无他，为情爱之所牵也。夫轻爱以杜其妄，斩断情根，脱离爱网，此吾所当尽心者。然或念之而不能忘，忘之而不能尽，此无他，为念心之不能一也。故念佛求生净土之人，寻常有娑婆一爱之不轻，则临终为此爱之所牵，而不得生，矧多爱乎。即极乐有一念之不一，则临终为此念之所转，而不得生。矧多念乎，盖爱之所以为爱者，有轻焉，重焉，厚焉，薄焉，正报焉，依报焉，历举其目，则父母妻子，昆弟朋友，功名富贵，文章诗赋，道术技艺，衣服饮食，屋室田园，林泉花卉，珍宝玩物，种种妙好，不可枚尽。大而重于泰山，小而轻于鸿毛。有一物之不忘，爱也。有一念之不遗，爱也。有一爱之存于怀，则念不一。有一念之不归于一，则不得生。呜呼，爱不重不生娑婆，念不一不生极乐，此两语，可谓刮翳眼之金錍，治膏肓之圣药。</p>
+<p><a name="a110"></a><span style="color:#333399">◎杜境有道乎<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土法语<span>&nbsp; </span></p>
+<p>或问。轻爱有道乎，曰，轻爱莫要乎一念。又问，一念有道乎，曰，一念莫要乎轻爱。或者莞尔谓曰，师言首鼠两端，似无主正，俾学者乎何从，曰，非两端也，欲明一念之所以也，盖念之所不能一，由散心异缘之使然。散心异缘，又由逐境纷驰之使然。故娑婆有一境，则众生有一心。众生有一心，则娑婆有一境。故曰，心生故，种种法生，法生故，种种心生，聚缘内摇，趣外奔逸，心境交驰，尘沙莫尽。爱苟不妄，念能一乎。故欲一其念者，莫若轻其爱。欲轻并爱者莫若一其心。一其心者，莫若杜其境。众境皆空，则万缘都寂。万缘都寂，则一念自成。一念若成，则爱缘俱尽。故曰，欲一其念，莫若轻爱。欲轻其爱，莫若一念。盖爱之与念，势不两立。若日月之代行，明暗之相背也。或曰，杜境有道乎，曰，余所谓杜境者，非屏除万有也。亦非闭目不观也。将即境以了其虚，会本以空其末也。正以万法本自不有，有之者情。故情在物在，情空物空。物空而本性现，本性现而万法空，万法空而情念息。自然而然，非加勉强。</p>
+<p><a name="a111"></a><span style="color:#333399">◎预知时至<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土法语<span>&nbsp; </span></p>
+<p>若口称佛名，系心在缘。声声相续，心心不乱。设心缘外境，摄之令还。此须生决定心，断后际念。拨弃世事，放下缘心，使此念心渐渐增长。从渐至久，自少至多。若一日二日，乃至七日，毕竟要成一心不乱而后已。此事一心也。苟得此已，则极乐之净因成就，而垂终之正念必然。身无病苦，不受恶缠。预知时至，身心欢喜。吉祥而逝，坐脱立亡。亲见弥陀，垂光接引。若理一心者，此无他法，但于事一心中，念念了达能念之心，所念之佛，三际平等，十方互融，非空非有，非自非他，无去无来，不生不灭，现前一念之心，便是未来净土之际，念而无念，无念而念，无生而生，生而无生。于无可念中，炽然而念，于无生中，炽然求生，是为事一心中明理一心也。</p>
+<p><a name="a112"></a><span style="color:#333399">◎微妙助行<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">净土法语<span>&nbsp; </span></p>
+<p>助行亦有二，一者世间之行。如孝顺父母，行世仁慈，慈心不杀，具诸戒律，凡是一切有利益之事，若能回向西方，无非助道之行。二者出世之行。如六度万行，种种功德，读诵大乘，修诸忏法，亦须以回向心而修之，无非净土助行。更有一种微妙助行，当于历缘对境，处处用心，如见眷属，当作西方法眷之想，以净土法门而开导之。令其轻爱以一其念，永作将来无生眷属。若生恩爱想时，当念净土眷属无有情爱，何当得生净土，远离此苦。若生嗔恚时，当念净土眷属无有触恼，何当往生净土，得离此苦。若受苦时，当念净土，无有众苦，但受诸乐。若受乐时，当念净土之乐，其乐无央。凡是所历缘境，皆以此意而推广之。则于一切时处，无非净土之助行也。</p>
+<p><a name="a113"></a><span style="color:#333399">◎两般人，于净土法门，必不能入<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>禅者执悟门，矜自力，视念佛不啻依草附木，摇尾乞邻。儒者咀名理，艳清言，视念佛不啻臭腐残馊，食唾欲呕。此两者，一长眙深瞫，而不见睐毛，一如觅龙肝凤髓，而厌弃本分茶汤也，何从接而入哉。傥冀其入，须向此人眼底盘踞鸱蹲，扬声大呼，使其睒晹失据或俟枵腹垂涎时，进以箪食豆羹，使其馋□厌足，然非寻常禅者儒者及念佛者可能也。禅能灭却正法眼藏，灼见永明楚石用处，儒能裂断文字缚，彻悟君子之道，果造端乎夫妇之知能。然后从而发挥净土，庶可死两般人偷心耳。</p>
+<p><a name="a114"></a><span style="color:#333399">◎洞了本源，此心即是佛，更于何处觅佛。此心即是土更于何处觅土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>约理而言，世间一蚤一虱，皆具有如来清净觉体，无二无别。乃至诸佛成等正觉，证大涅槃，本体未尝增得一分。众生堕三途，趋生死海，本体未尝减却一分。如如之体，常自不动。生死涅槃，等是妄见。亦无如来，亦无众生。于此证入，亦无能证之人，亦无所证之法。泯绝心量，超越情有。大地无寸土，佛之一字向何处安著。至于进修法门，于无修证中修证，于无等级中等级，千差万别。虽位至等觉，尚不知如来举足下足之处。从上祖师所以呵佛斥教，一切皆遮者，止因人心执滞教相，随语生解，不悟言外之本体，漫执语中之方便。一向说心说性，说空说幻，说顿说渐，说因说果，千经万论，无不通晓。及问渠本命元辰，便将经论现成语言抵对。除却现成语言，依旧茫然无措。所谓数他家宝，己无分文，其或有真实修行之人，不见佛性，辛苦行持，如盲无导，止获人天之果，不生如来之家。于是诸祖知其流弊，遂用毒手，划其语言，塞其解路，拶其情识。令其苦参密究，逆生灭流，生灭情尽，取舍念空。始识得亲生父母，历劫宝藏。却来看经看教，一一如道家中事。然后如说进修，以佛知见，净治余习，拜空华之如来。修水月之梵行。登阳焰之阶级。度谷响之众生。不取寂证，是谓佛种。正如杲日当空，行大王路，不同长夜趋走，攀荆堕棘。岂谓一悟之后，即同极果。如供奉问岑大虫，果上涅槃，天下善知识证否。岑曰，未证。奉曰，何以未证。岑曰，功未齐于诸圣。奉曰，若尔，何得名为善知识。岑曰，明见佛性，亦得名为善知识也。弘辨禅师曰，顿明自性，与佛同俦。然有无始染习，故假对治，令顺性起用。如人吃饭，不一口便饱。沩山曰，初心从缘顿悟自理。犹有无始旷劫习气，未能顿净。须教渠净除现业流识，即修也，不可别有法，教渠修行趣向。若论诸祖师为人之处，壁立万仞，大火聚中，触之即烂，刀枪林里，动著便创，未曾开口，已隔千里万里。至机缘之外，平实商量，未尝尽绝阶级，尽遮修行。传灯录中，分明详悉。大慧中峰言教，尤为紧切，血诚劝勉。惟恐空解著人，堕落魔事。何曾言一悟之后，不假修行，顿同两足之尊，尽满涅槃之果。后世不识教意，不达祖机，乃取喝佛骂祖，破胆险句，以为行持。昔之人为经论所障，犹是杂食米麦，不能运化。后之人饱记禅宗语句，排因拨果，越分过头，是日取大黄巴豆以为茶饭也。自误误人，弊岂有极。是以才入此门，便轻十方如来，莫不自云无佛可成，无行可修，见人念佛，则曰自性是佛，见人修净土，则曰即心是净土，言参禅，则尊之九天之上，言念佛，则蹂之九地之下，全不思参禅念佛，总之为了生死。同是出苦海之桥梁，越界有之宝筏。事同一家，何胜何劣。参门之中，所悟亦有浅深。念佛之众，所修亦有高下。如何执定参者即是上根，念者便为中下。自达摩西来立此宗门，已云二百年。后明道者多，行道者少，说理者多，通理者少。今传灯录中，如麻似粟，同云入悟，其实迥别。至如般若缘深，灵根夙植，迦陵破卵，香象截流。或见根宗于片言，或显威用于一喝。一闻千悟，得大总持。或有怀出世之心，具丈夫之志。舍彼尘情，究此大事。不怙小解，惟求实知。卧薪尝胆。饮冰吞檗。如此三十年四十年后，或遇明师，痛与针劄。偷心死尽，心华始开。此后又须潜行密修，销融余习。法见尚舍，何况非法。若赵州除粥饭是杂用心。涌泉四十年尚有走作。香林四十年打成一片。兢兢业业，如护头目。直至烟销灰灭，自然一念不生，业不能系。生死之际，随意自在。诘其所证，恐亦未能超于上品上生之上。何以明之，龙树菩萨，宗门之鼻祖也。得大智慧，具大辩才，住持佛法。故世尊数百年前，于楞伽会上，遥为授记。然亦不过曰，证初欢喜地，往生安乐国而已。而观经中上品上生，生于彼间，一刹那顷，亦证初地。今宗门诸大祖师，纵使见离盖缠，语出窠臼，岂能即过龙树，龙树已悟无生无相之义，已具不堕阶级之见。而生于安养，与上品上生所证之果正等。则禅门诸人所证，岂能独过良以上品上生解第一义，还同禅门之悟深信因果，还同禅门之修止是念佛往生别耳。然吾以为禅门悟修之士，既不能取无余涅槃，同于如来，又不肯取有余涅槃，同于二乘，必入普贤行愿之海。若不舍一身受一身，济度众生。则当从一刹至一刹，供养诸佛。既见诸佛，还同往生。究竟与上品上生，止在雁行伯仲之间，何以高视祖师，轻言净侣。其或悟门已入，休歇太早，智不入微，道难胜习，一念不尽，即是生死之根，业风所牵，复入胞胎。</p>
+<p><a name="a115"></a><span style="color:#333399">◎悟达之人，业不能系<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>夫谓业不能系，非谓有而不有，正以无而自无。生既随境即动，死安得不随业受生。眼前一念嗔相，即是怪蟒之形。眼前一念贪相，即是饿鬼之种。无形之因念甚小，有形之果报甚大。一念之微，识田持之，历千万劫，终不遗失。如一比丘，以智慧故，身有光明，以妄语故，口流蛆虫。一言之微，得此恶果。虽有智慧，终不能消。况今无明烦恼，炽然不断，欲以相似见解，消其恶业，冀出三途，无有是处。</p>
+<p><a name="a116"></a><span style="color:#333399">◎毗卢遮那净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>毗卢遮那净土者，即诸佛本报国土，十莲华藏世界海。一一莲华藏最下世界，皆有十佛世界微尘数广大刹，清净庄严。一一广大刹，复有十佛世界微尘数诸小刹围绕，倍倍增广。一一华藏世界，皆满虚空，互相彻入，净秽总含，重重无尽。如法而论，一草一木，一毛一尘，各各皆具此无尽法界。佛及众生，无二无别。或曰，此是众生实报庄严，不同权教推净土于他方，是为实教。或曰，众生虽具此实报，争奈真如无性，不能自证。漫漫长夜，无见日期。波波劫海，无到岸期。虽云地狱起妙觉之心，佛果现泥犁之界，其如眼前铁床铜柱何哉，譬之饿鬼渴死于海边，贫人数钱于金窟，只见其虚，何名为实。若非假之方便，由权入实，众生岂有证毗卢之日也，答曰若约诸佛化仪则可，实相土中，无此戏论。夫毗卢遮那，此云遍一切处。遍一切处，即无量寿表义，岂有胜劣。只因如来为一分取相凡夫故，说有阿弥陀在于西方。亦如大云经中阿弥陀佛告一菩萨言，有释迦在于娑婆世界也。夫当释迦为主，则释迦遍一切，而阿弥陀为所遍之一处。当阿弥为主，则阿弥遍一切，而释迦牟尼为所遍之一处。如一人之身，当自自时，不妨为一切人之他。当他他时，不妨为一切人之自。以是义故，自他不成。自他不成，即自亦遍一切处，他亦遍一切处。岂定有他方可执。是故西方毗卢，非自他故。何以故，毗卢无不遍故。若言权，言方便，即有不遍。有不遍者，毗卢之义不成。</p>
+<p><a name="a117"></a><span style="color:#333399">◎唯心净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>唯心净土者，直下自证，当体无心，即是净土。如维摩经云，宝积当知，直心是菩萨净土。菩萨成佛时，不谄众生来生其国。深心是菩萨净土。菩萨成佛时，具足功德众生来生其国。大乘心是菩萨净土。菩萨成佛时，大乘众生来生其国。经文繁多，不能广引。大约谓欲得净土，当净其心。随其心净，则佛土净。夫心是即土之心，土是即心之土。心净土净，法尔如故。此语岂非西方注脚。多有执心之士，卑此法门以为单接钝根者，由于心外见土故也。夫念即是心，念佛岂非心净。心本含土，莲邦岂在心外。故知约相非乖唯心，称心实碍普度矣。</p>
+<p><a name="a118"></a><span style="color:#333399">◎恒真净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>恒真净土者，即灵山会上所指净土。引三乘中权教菩萨，令知此土即秽恒净。诸众信而未见。夫秽性本寂，俗相恒空。本寂故，菩萨居秽常寂。恒空故，菩萨入俗常空。正显净义，但以众生执海难清，识绳易缚。言业本空，则恣情作业。言行无体，即肆意冥行。犯永嘉之所呵，堕善星之所坠。以至生遭王难，死为魔眷者，往往而是。嗟夫，使尽大地皆菩萨，则斯言诚为利益。天下之菩萨少而凡夫多，则斯言之利天下也少，而害天下多矣。</p>
+<p><a name="a119"></a><span style="color:#333399">◎变现净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>变现净土者，如法华经，三变净土，移诸人天置于他方。维摩经，世尊以足指按地，即时三千大千世界，若百千珍宝严饰。此是如来暂令显现。亦是法尔。然智如鹙子，尚且如盲，劣根众生，无缘获见，且人天置诸方外，全无接引之缘。神力暂现还无，讵是恒常之土。岂若安养净邦，尘劫常住。阿弥慈父，十恶不遗者哉。国土胜劣，居然可知。</p>
+<p><a name="a120"></a><span style="color:#333399">◎寄报净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>寄报净土者。如摩醯首罗天，如来于彼成等正觉。此为实报净土。起信论云。菩萨功德成满，于色究竟处，示一切世间最高大身。谓以一念相应慧，无明顿尽，名一切种智。自然有不思议业，能现十方利益众生。藏和尚云。何故受用报身在此天者。以寄报十王，显别十地。第十地寄当此天王。即于彼身，示成菩提。然彼天虽云无漏，未若莲邦直出三界。何以故，在色究竟故。</p>
+<p><a name="a121"></a><span style="color:#333399">◎分身净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>分身净土者，如涅槃经，佛答高贵德王云，善男子，西方去此娑婆世界，度三十二恒河沙佛土，有世界名曰无胜，犹如西方极乐世界，我于彼土，出现于世。为化众生故，于此世界现转法轮。又央掘经，佛谓央掘曰。我住无生际，而汝不觉知。央掘云，若住无生际，何以生于此土。佛云，东方有佛，汝往问之。央掘往问，彼佛答言，释迦者即是我身，大意谓彼净土是佛实报，此是分身，虽彰一佛之报境，未具摄化之义。佛分上即有，众生分上即无，未为殊胜。</p>
+<p><a name="a122"></a><span style="color:#333399">◎依他净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>依他净土者，如梵网经云，我今卢舍那，方坐莲华台。周匝千华上，复现千释迦。一华百亿国，一国一释迦等者。以初地化百佛刹，则有百叶之华。二地化千佛刹，故华有千叶。若至三地，应现万叶。四地亿叶。次第倍增。为是依他受用身，分示报境，入地乃见。非如莲池会上，十念众生，顿见净佛国土故。</p>
+<p><a name="a123"></a><span style="color:#333399">◎诸方净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>诸方净土者。如东方药师佛，南方日月灯佛，上方香积佛，佛佛各有净土。诸经所述，不可具载。皆是诸佛实报庄严。经中或有以佛神力暂令显现。或诸大菩萨诣彼供养。缘彼佛未言摄生，故诸众生亦无缘生彼。即如妙喜世界，释迦虽记有往生者，未闻无动有普引之言。且其国有铁围须弥诸山，及鬼神妇女。当知严净不如安养也。又如药师如来以十二大愿度诸有情，经中亦言有信心者应当来生。稽彼愿力，多是解脱一切忧苦，究竟安乐。未若阿弥如来纯以念佛，摄一切人往生彼土。</p>
+<p><a name="a124"></a><span style="color:#333399">◎一心四种净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>一心四种净土者，一曰凡圣同居土。二曰方便有余土。三曰实报无障碍土。四曰常寂光土。一凡圣同居土者，自分二类，初同居秽土，次同居净土，秽土之中，凡居圣居各二。凡居二者，一恶众生，即四趣也。二善众生，即人天也。圣居二者，一实圣即四果，辟支，通教七地，别十住，圆十信后心。通惑虽尽报身犹在，皆名实也。二权圣，谓方便实报寂光土中，法身菩萨，及妙觉佛。为利有缘，应生同居，皆是权也。是等与四趣共住，故名秽土。次同居净者。如极乐中有众生，妙喜国中有铁围男女之类。以无四恶趣，故名净土。余按同居秽土之中，既有诸圣，亦可名同居净土。如娑婆世界在华藏世界第十三重，亦云华藏也。二方便有余土者。二乘，三种菩萨，破见思惑，证方便道。尘沙别惑无明未断。舍分段身而生界外。名曰有余。故释论云。出三界外有净土，声闻辟支佛出生其中。受法性身，非分段也。三实报无障碍土者。无有二乘，纯诸法身菩萨所居。尽尘沙惑，分破无明，得真实果。而无明未尽，润无漏业。受法性报身。亦名果报国。故仁王经云，三贤十圣住果报，以观实相，发真无漏，感报殊胜。七宝庄严具净妙五尘，故名为实，色心不二，毛刹相容，故名无障碍。华严明因陀罗网世界是也。四常寂光土者。妙觉极智所照如如法界，名之为国。亦名法性土。但一真如佛性，非身非土而说身土。离身无土，离土无身。诸佛如来所游居处。妙宗曰，经论中言寂光无相，乃是已尽染碍之相，非如太虚，空无一物。良由三惑究竟清净，则依正色心究竟明显。大经曰，因灭是色，获得常色。受想行识，亦复如是。仁王称为法性五阴，是为极果。然十方刹土随心异见，七宝砂砾当处差别。故霅川曰，极乐国土，四土不同。何则。约人天二乘，即前二种土。约菩萨佛，即后二种土。故知六十万亿那由他恒河沙由旬等身，不妨更有丈六之身，华藏故海会无边佛土，不妨更有尼连河土，何以故，是法尔故。非是神力变现故。</p>
+<p><a name="a125"></a><span style="color:#333399">◎摄受十方一切有情不可思议净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>摄受十方一切有情不可思议净土者，即阿弥陀佛西方净土。其中所有大功德海，大悲智海，大愿力海，若具说者，假使尽十方世界诸佛菩萨声闻辟支天人鬼畜，下至蜎飞蠕动，及一切无情草木瓦砾邻虚微尘之类，一一具无量口，口中一一具无量舌，舌中一一出无量音声。常说，倍说，炽然说，无间说，经百亿万尘沙阿僧祇劫，亦不能尽。今且略释，一身土不思议义，二性相不思议义，三因果不思议义，四去来不思议义，五毕竟不可思议不思议义，一身土不思议义者。阿弥身中有无量众生，众生身中有无量阿弥。国土亦然。是故一众生念阿弥，一阿弥现。众众生念阿弥。众阿弥现。众生念念阿弥，即念念阿弥现。若众生身中无阿弥者，阿弥不现。如阳燧身中，不能得水。非本有故。阿弥身中无众生者，阿弥亦不现。如石女求生儿，必不可得。以非应得故。是故身中含身，身中含身身。土中含土，土中含土土。身土交含，重重无尽。是身土不思议义。二性相不思议义者。若离性言土，土即心外，是幻化故。幻化者即断灭相，众生不生。若即性言土，性是有形，是一定故。一定者即无变易，无变易众生亦不生。即性即相，非性非相。存非非亡，存即即坏。是性相不思议义。三因果不思议义者，有二义，一因先果后义。如念佛是因，见佛是果。见佛是因，成佛是果。成佛是因，度众生是果。二因果无前后义。即念即见即成即度，一时具足，如人三十至四十岁，三十是因，四十是果，然三十四十无间断相，若无四十，三十不立。无三十者，四十不成。是故当知非离三十至四十故。若离三十至四十者，中间即有分限相。而我此身，无分限故。若由三十至四十者，中间即有相续相。而我此身，乃至相续不可得故。念佛因果，亦复如是。是因果不思议义。四去来不思议义者，若阿弥陀佛因念而来此，众生因忆佛而生彼，即有去来。有去来，即有程途。有程途，即有险易。如人近京师则觐君易，远则难，果尔，念佛求生应有难易。而阿弥仆仆道途，亦无说法日矣。故般舟三昧经曰，不于是间终，生彼间佛刹。佛无所从来，我亦无所至。又先德云，生则决定生，去则实不去。如天鼓鸣，远近齐闻，非去来故。如水中月，东行则东，西行则西，非去来故。是去来不思议义。五毕竟不可思议不思议义者，如澄潭山影。如春旸百草，如众生业力。如日月光相。如胎中根。如身中我。如齿坚舌柔。如眉横发长。是毕竟不可思议不思议义。所以十方诸佛吐心吐胆，亦只道得个希有难信而已。虽有遍覆三千大千舌相，讵能分疏其万一哉。孔子曰，夫妇之愚可以与知，及其至也，圣人不知，至哉言也。无量法门，一以贯之矣。</p>
+<p><a name="a126"></a><span style="color:#333399">◎一大事<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>众生处五浊世，如囚处狱，但以罪之轻重，受等不等罚。或干小法，或投极网，罪虽不同，至于缧绁之苦，笞杖之罚，未有一人得免者，何也，以入狱者皆罪人。处人天者，皆是业报分段之身故也。然罪人一入狱，未有时刻不求出离者。则以知狱之煎苦难忍难堪，棘墙之外更有许大安乐世界故也。今众生以烦恼为家，以生死为园观。系心衣冠之囚长，适情金玉之桁杨。岂知大铁围山，是我棘墙，三界法场之外，各各自有家乡田地也。诸佛悯此，酸心痛骨。是故为分别净秽，指以脱归路程。而岁久抛业之人，了无归处。诸佛又大建宅舍以安之。一则往来狱门，为治道途。一则长伺狱外，修饰旅馆。如是之恩，何身可报。嗟夫。烛三界之长夜，揭亿生之覆盆。诸佛既不惜垂手，众生独何苦恋恋也。经曰，如来为一大事出现于世。大事者，即此事也。众生种种，反恋此毛头许事。以小易大，甘心瘐死。何哉。</p>
+<p><a name="a127"></a><span style="color:#333399">◎正因<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>三世诸佛与诸有情，自清净体如万象依空，山川依地，谷依种子，华果依仁。若无此因，佛果不成。何以故，一切悲智，纯依此因而得建立故。长者合论曰，如来藏身，即法身也，诸佛智海莫不居中，故称为藏。若不见法身，一切福智大慈大悲，悉皆不办，总属生灭，法身者，即正因是。</p>
+<p><a name="a128"></a><span style="color:#333399">◎正愿<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>法藏比丘于世自在王如来所，发四十八大愿，一愿不成，不取菩提。此是依自性无量悲智，发如是不可思议愿力。非是心外见有众生，发愿欲度，以众生非心外故。</p>
+<p><a name="a129"></a><span style="color:#333399">◎正行</span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>正行者，如本经言发是愿已，如是安住种种功德，修习如是菩萨行，经于无量无数亿那由他百千劫。又如一向出生菩萨经云，阿弥陀佛昔为太子，闻此微妙法门，奉持精进。七千岁中，胁不至席。不念爱欲财宝。不问他事。常独处止。意不倾动。复教化八千亿万那由他人，得不退转。此是自性行持，自性精进，非是有作有为功德。虽历亿劫，不离一念。以微妙法门，离一切行，一切劫故是谓正因正愿正行，如伊三点，缺一不成，非是作得，非不作得。故先德云，根深果茂，源远流长，宿因既深，教起亦大，诚然乎哉。</p>
+<p><a name="a130"></a><span style="color:#333399">◎依正无碍<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>一切诸佛取佛果者，依于众生。若无众生，佛果不成。譬如汉王以救民故，而有百战。以百战故，登大宝位。登宝位故，百姓乐业。若无百姓，即无如上等事。究而论之，凡行一德一事一利一名者，若无众生，皆悉不成。是故我无众生，即不成我。众生是依，我即是正。众生是正，我即是依。人我平等，依正无碍，是法尔故。</p>
+<p><a name="a131"></a><span style="color:#333399">◎博地凡夫十念即生，何故<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>一切众生，皆有如是净性。譬一精金，冶为钗钏及溺器等，金性是一。溺器者，是器具秽，非金秽。故若加销冶为种种玩好等物，金亦不易。生佛亦然，同一净性。但以钗钏溺器而有差别，非是性异。是故博地凡夫十念即生者，以本净故。阿弥陀佛欲摄受是众生即摄受者，以众生本净故。如镜中之光，不从磨得。生净土者，非是行愿及与念力所能成就，何以故，念行如炉锤等，但能销金，无别有金生故。</p>
+<p><a name="a132"></a><span style="color:#333399">◎径中之径—胜方便<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>胜方便者，为此方便非是自力，亦非他力。缘自性海中，具有如是自在功德，一切现成，是故一句圣号，无复烦词，十念功成，顿超多劫。如万窍怒号，力在扶摇，因窍显故。如幽谷洞明，功在晨曦，因谷现故。如一线之蚁孔，能穿连山之堤。是水之力，非蚁力故。又如一叶之苇席，能运万斛之舟。是风之力，非苇力故。总之皆是法界性海无作无为不思议力所现，非自非他，一切具足，故有如是殊胜方便。是谓捷中之捷，径中之径，舍此不修，是真愚痴。</p>
+<p><a name="a133"></a><span style="color:#333399">◎菩萨常不离佛<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>菩萨未入菩萨位，未得阿鞞跋致受记□故，若远离诸佛，便坏诸善根，没在烦恼。自不能度，安能度人。如人乘船，中流坏败。欲度他人，反自没水。又如少汤投大冰池，虽消少处，反更成冰。菩萨未入法位，若远离诸佛，以少功德无方便力，欲化众生。虽少利益，反更坠落。以是故新学菩萨不应远离诸佛。</p>
+<p>复次菩萨作是念，我未得佛眼故，如盲无异。若不为佛所引导，则无所趣，错入余道。设闻佛法异处行者，未知教化时节，行法多少。复次菩萨见佛，得种种利益。或眼见，心清净。若闻所说，心则乐法，得大智慧。随法修行而得解脱。如是等值佛无量益利，岂不一心常欲见佛。譬如婴儿，不应离母。又如行道，不离粮食。如大热时，不离冷风凉水。如大寒时，不欲离火。如度深水，不应离船。譬如病人，不离良医。菩萨不离诸佛，过于上事。何以故，父母亲属知识人天王等，皆不能如佛益利，佛益利诸菩萨离诸苦处，住世尊之地，以是因缘故，菩萨常不离佛。</p>
+<p><a name="a134"></a><span style="color:#333399">◎悟达之士见性成佛，大事即明，当行佛教，广度生灵。何故求生净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>悟达之士，正愿求生，汝但未悟，使汝既悟，净土之趋，万牛莫挽。</p>
+<p>汝将谓一悟之后，习漏永除，便得不退转耶。将谓一悟之后，更无遍学佛法修行证果等事耶。将谓一悟之后，便可上齐诸佛，入生死不受障缘之所挠耶。审如是，则诸大菩萨修六度万行，动经恒河沙数劫者，是皆愧汝。古教有云，声闻尚有出胎之昧，菩萨亦有隔阴之昏，况近时薄解浅悟，自救不了者。纵有悟处深远，见地高明，行解相应，志在度人者。奈何未登不退，力用未允。居此浊恶，化此刚强，此亦先圣之所未许。如以未完不固之舟，济多人于恶海，自他俱溺，其理必然。故往生论云，欲游戏地狱门者，必生彼土，得无生忍已，还入生死，救苦众生。以此因缘，求生净土。又先圣有云，未得不退转位，不可混俗度生。未得无生法忍，要须常不离佛。譬如婴儿，常不离母。又如弱羽，只可传枝。今此国中，释迦已灭，弥勒未生。四恶趣苦，因果牵缠。外道邪魔，是非扇乱。美色淫声之相惑。恶缘秽触之交侵。既无现佛可依，又被境缘所挠。初心悟达之人，少有不遭其退败者。所以世尊殷勤指归极乐，良有以也。盖彼弥陀，现在说法。乐土境缘，种种清净，倘依彼佛，忍力易成。高证佛阶，亲蒙授记，然后出化众生，去来无碍。多见今之禅者，不究如来之了义，不知达摩之玄机。空腹高心，习为狂妄。见修净土，则笑之曰，彼学愚夫愚妇之所为。余尝论其非鄙愚夫愚妇，乃鄙文殊普贤龙树马鸣等也。非特自迷正道，自失善根，自丧慧身，自亡佛种，且成谤法之业，又招鄙圣之殃。佛祖视为可哀怜者。于是永明和尚，深怜痛哀。剖出心肝，主张净土，既以自修，又以化世。故其临终有种种殊胜相现，舍利鳞砌，径生极乐上品，乃至阎罗以为希有，图像礼敬，夫永明既悟达摩直指之禅，又能致身于极乐上品。以此解禅者之执情，以此为末法之劝信，是真大有功于宗教者，岂特永明为然。如死心新禅师作劝修净土之文。又如真歇了禅师作净土说有云，洞下一宗，皆务密修，其故何哉。良以念佛法门，径路修行，正按大藏接上上根器，傍引中下之机。又云，宗门大匠，已悟不空不有之法，秉志孜孜于净业者，以净业见佛，尤简易于宗门故。又云，乃佛乃祖，在教在禅，皆修净业，同归一源。入得此门，无量法门悉皆能入。至如天衣怀禅师，圆照本禅师，慈受净禅师，南岳思禅师，法照禅师，净霭禅师，净慈大通禅师，天台怀玉禅师，梁道珍禅师，唐道绰禅师，毗陵法真禅师，姑苏守讷禅师，北僩简禅师，天目礼禅师等诸大老，皆是禅门宗匠，究其密修显化，发扬净土之旨，则不约而同。广如彼文，不能尽录，是故当知禅宗密修，不离净土初心顿悟，未出童真。入此门者，方为坚固不退之门。</p>
+<p><a name="a135"></a><span style="color:#333399">◎诸大法门，一声阿弥陀佛悉皆证入<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>一切修行法门，言空即断，言有即常，未为究竟。唯此念佛三昧，即念而净，净非是无，即净而念，念非是有，达净无依，即是念体。了念本离，即是净用。是故非净外有念能念于净。若净外有念，念即有所。所非净故。非念外有净能入诸念。若念外有净，净即有二。二非净故。当知诸佛顺寂灭心而严净土，是故念净土者当入一切寂灭门。诸佛顺常乐我净心而严净土，是故念净土者当入一切常乐我净门。诸佛顺平等众生心而严净土，是故念净土者当入一切平等众生门。诸佛顺大悲智业而严净土，是故念净土者当入一切大悲智业门。诸佛顺无作无为不可思议业而严净土，是故念净土者当入一切无作无为不可思议门。诸佛顺尘劳烦恼性而严净土，是故念净土者当入一切尘劳烦恼门。诸佛顺微尘芥子相而严净土，是故念净土者当入一切微尘芥子门。以上诸大法门，但一声阿弥陀佛皆悉证入，亦无能证所证之相。若不尔者，则是有余之净，念佛三昧，即不如是。</p>
+<p><a name="a136"></a><span style="color:#333399">◎发十种心，往生极乐<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>佛告弥勒。发十种心，往生极乐，何者为十，一者于诸众生起于大慈，无损害心。二者于诸众生起于大悲，无逼恼心。三者于佛正法，不惜身命乐守护心。四者于一切法，发生胜忍，无执著心。五者不贪利养恭敬尊重，净意乐心。六者求佛种智，于一切时无忘失心。七者于诸众生，尊重恭敬，无下劣心。八者不著世论，于菩提分，生决定心。九者种诸善根，无有杂染，清净之心。十者于诸如来，舍离诸相，起随念心。是名菩萨发十种心。由是心故，当得往生，若人于此十心随成一心，乐欲往生彼佛世界，若不得生，无有是处。</p>
+<p><a name="a137"></a><span style="color:#333399">◎成就八法，生于净土<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>菩萨成就八法，于此世界，行无疮疣，生于净土。何等为八，饶益众生而不望报。代一切众生受诸苦恼，所作功德尽以施之。等心众生，谦下无阂。于诸菩萨，视之如佛。所未闻经，闻之不疑。不与声闻而相违背。不嫉彼供，不高己利，而于其中调伏其心。常省己过不讼彼短。恒以一心求诸功德。是为八。</p>
+<p><a name="a138"></a><span style="color:#333399">◎一行三昧<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>文殊般若经云，佛告文殊，欲入一行三昧者。应处空闲，舍诸乱意，不取相貌。系心一佛，专称名字。随彼方所，端身正向。能于一佛，念念相续。即是念中，能见过去未来现在诸佛。念一佛功德，与念无量佛功德无二。阿难所闻佛法，犹住量数。若得一行三昧，诸经法门，一一分别，皆悉了知。昼夜宣说，智慧辩才终不断绝。阿难多闻辩才，百千等分不及其一。</p>
+<p><a name="a139"></a><span style="color:#333399">◎人生造恶，临终念佛，得生佛国，我不信是语<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>那先经云，王问那先，人生造恶，临终念佛，得生佛国，我不信是语，那先答言，如持大石置于船上，因得不没。人虽本恶，因念佛故，不入泥犁。其小石没者，如人作恶，不知念佛，便入泥犁中，颂曰，</p>
+<p>如来金口言，赞叹西方土。如入长安城，东西南北入。入已即一城，</p>
+<p>无别天子都。普贤佛长子，文殊七佛师，授记及回向，是果位往生。</p>
+<p>释种得法忍，善财证佛果，面奉阿弥陀，是菩萨往生。龙树破有无，</p>
+<p>折婆最胜根，皆得佛授记，是禅师往生。闻佛心信乐，诵念与持讽，</p>
+<p>大石置船上，是下劣往生。阿难世多闻，佛子中第一。不如念一佛，</p>
+<p>顿了诸经法，云何义解家，得轻易念佛。诸正念法门，经中皆悉载。</p>
+<p>但一大乘法，无二亦无三。奉劝悟达士，趁时歇狂解。一心念阿弥，</p>
+<p>莲华念念生。此是常寂光，非报非方便。作是观为正，勿妄生分别。</p>
+<p>禅教律三乘，同归净土海。一切法皆入，是无上普门。教海义无量，</p>
+<p>瓮观拾少许。一脔遍鼎味，是中有全藏。</p>
+<p><a name="a140"></a><span style="color:#333399">◎无情作佛（蕅祖评—透澈之极。清凉国师当让一筹）<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>权教中言。有情有佛性。无情无佛性。一切草木器界，不能成道及转法轮。此是执情强计。属意即有，属物即无。不了诸法皆住法位。何以故。意是色故。是空根故。是往古来今故。是无情故。一无一切无故。青黄是意故。风鸣谷响是意故。草木瓦砾是意故，是有情故。一有一切有故。故知情之为情，亦可说自，亦可说物。不应说言谁无谁有。如一夫妻共生一子，不应说言谁生谁不生。夫发毛爪齿，亦是无情。与我俱佛耶，抑与我不俱佛耶。梦中见山见水见木见石，亦是无情。是情想摄耶，抑非情想摄耶。当知是中尚无是我非我，云何更计有情无情。是故经中道场宝树，能净诸根。风枝水响，咸宣妙法。无一物非佛身，无一物不转法轮。岂是情见妄知所能计度。</p>
+<p><a name="a141"></a><span style="color:#333399">◎慈善根力（单提正念，一句佛号，功不唐捐）<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>众生妄计佛身即有去来，而实佛身无去无来，亦无不去不来。譬如鸟飞空中，一日千里。空非随鸟，鸟不离空。是故经言，阿弥陀佛常在西方。又言至一切行人之所。如涅槃经，佛言，善男子，波罗奈城，有优婆夷，已于过去无量先佛，种诸善根，是优婆夷，夏九十日，请命众僧，奉施医药，是时众中有一比丘，身婴重病。良医诊之，当须肉药。若不得肉，病将不痊。时优婆夷寻自取刀，割其髀肉，切以为□，送病比丘，比丘服已，病即得差。是优婆夷患疮苦恼，不能堪忍。即发声言，南无佛陀。南无佛陀。我于尔时在舍卫城，闻其音声，于是女人，起大慈心。是女寻见我持良药涂其疮上，还合如本，我即为其说种种法，闻法欢喜，发阿耨多罗三藐三菩提心。善男子，我于尔时，实不往至波罗奈城，持药涂是优婆夷疮。当知皆是慈善根力，令彼女人见如是事。复次善男子，调达恶人贪不知足，多服酥故，头痛腹满，受大苦恼，发如是言。南无佛陀。南无佛陀。我时住在优禅尼城，闻其音声，即生慈心。尔时调达寻便见我往至其所。手摩头腹，授与盐汤。而令服之。服已平复。善男子，我实不往调达所，摩其头腹，授汤令服。当知皆是慈善根力，令调达见如是事。复次善男子，憍萨罗国有五百贼，群堂钞掠，波斯匿王遣兵伺捕。得已，挑目，逐著黑闇丛林之下，受大苦恼。各作是言，南无佛陀。南无佛陀。啼哭号啕。我时住在只桓精舍，闻其音声，即生慈心。时有凉风吹香山中种种香药，满其眼眶。寻还得眼，如本不异。诸贼开眼，即见如来住立其前，而为说法。贼闻法已，发阿耨多罗三藐三菩提心。善男子，我于尔时实不作风吹香山中种种香药，住其人前而为说法。当知皆是慈善根力，令彼群贼见如是事。如上之法，岂容思议。总之皆是一真法界不得言是自心感现。亦不得言心佛和合。以佛地中，离自离他，离和合故。是故入此门者，莫同凡夫情见，分别计度。如清凉云，阿弥陀佛，即本师卢舍那。犹属情量何以故。十方世界，惟一智境，无别佛故。</p>
+<p><a name="a142"></a><span style="color:#333399">◎见佛<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>夫即性即相，非有非空。理事之门不碍，遮表之诠互用。言无者，如水月镜华，不同龟毛兔角。言有者，似风起云行，不同金坚石碍。是故若滞名著相，即有漏凡夫。若拨果排因，即空见外道。梦中佛国，咸愿往生。泡影圣贤，誓同瞻仰。说真说相，似完肤之加疮。道有道无，类红炉之点雪。</p>
+<p>心包太虚，量周沙界。又云。心如工画师，造种种五阴。一切世间中，莫不从心造。是故极乐国土，宝树宝地宝池，弥陀海众正报之身，三十二相等。皆是我心本具，皆是我心造作。不从他得，不向外来。能了此者，方可论于即心观佛。</p>
+<p>观心观佛，皆属妄境。意在了妄即真。不须破妄，然后显真。故荆溪云。唯心之言，岂唯真心。须知烦恼心遍，子尚不知烦恼心遍，安能了知生死色遍。色何以遍，色即心故。若尔，不须摄佛归心，方名约心观佛。如此明之，非但深得佛意，亦乃迥出常情。宗镜录曰。自心遍一切处，所以若见他佛，即是自佛。不坏自他之境，唯是一心众生如像上之模。若除模，既见自佛，亦见他佛何者。虽见他佛，即是自佛。以自铸出故。亦不坏他佛。以于彼本质上虽变起他佛之形，即是自相分故。又曰，自心感现，佛身来迎，佛身常寂，无有去来，众生识心，托本佛功德胜力，有来有去。如面镜像，似梦施为。镜中之形，非内非外梦里之质，非有非无。但是自心，非关佛化。故知净业纯熟，目睹佛身。恶果将成，心现地狱。如福德之者执砾成金，业贫之人变金成砾。砾非金而金现，金非砾而砾生。金生但是心生，砾现唯从心现。转变是我，金砾何从。</p>
+<p>菩萨如是，欲见何方佛，即见。何以故，持佛威神力。持佛三昧力。持本功德力。用是三事，故得见佛。譬如年少之人，端正姝好。以持净器盛好麻油及盛净水，或新磨镜，或无瑕水精。于是自照，悉自见影。何以故，以明净故，自见其影，其影亦不从中出，亦不从外入。菩萨以善清净心，随意悉见诸佛。见已欢喜，作是念言，佛从何所来，我身亦不去。即时便知，佛无所从来，我亦无所去。复作是念，三界所有，皆心所作。何以故。随心所念，悉皆得见，以心见佛。以心作佛。心即是佛，心即我身。心不自知，亦不自见。若取心相，悉皆无智。心亦虚诳，皆从无明出。因是心相，即入诸法实相。是故当知心外见佛，即成魔境。何以故，以心外无一法可得故。以心性无故。以一切十方三世诸法，皆不在心外故。若达心外无法，则魔界即佛界，以一如无二如故。</p>
+<p><a name="a143"></a><span style="color:#333399">◎诸佛国土，皆如虚空，观众生如第五大，何得取著有相，舍此生彼<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>诸佛说法，不离二谛。经云，成就一切法，而离诸法相。成就一切法者，世谛诸法也。离诸法者，第一义谛无相也。又云，虽知诸佛国，及与众生空。而常修净土，教化于群生。汝但见说圆成实相之教，破遍计所执毕竟空无之文。不信说依他起性因缘之教。即是不信因果之人。说于诸法断灭相者，是为邪见外道。又十疑论曰，夫不生不灭者，于生缘中，诸法和合，不守自性，求于生体，亦不可得。此生生时，无所从来，故名不生。诸法散时，不守自性。此散灭时，去无所至，故言不灭。非因缘生灭外，别有不生不灭。亦非不求生净土。唤作无生偈云。因缘所生法，我说即是空。亦名为假名，亦名中道义。又云，诸法不自生。亦不从他生，不共不无因，是故说无生。又云，譬如有人造立宫室。若依空地，随意无碍。若依虚空，终不能成。诸佛说法，常依二谛，不坏假名，而说诸法实相。智者炽然求生净土，达生体不可得，即是真无生。此谓心净故佛土净。愚者为生所缚，闻生即作生解，闻无生即作无生解。不知生即无生，无生即生。不达此理，横相是非。嗔他求生净土，几许误哉。长芦曰。以生为生者，常见之所失也。以无生为无生者，断见之所惑也。生而无生无生而生者，第一义谛也。永明曰。即相之性，用不离体。即性之相，体不离用。若欲赞性，即是赞相。若欲毁相，只是毁性。天如曰，性能现相，无生即生。相由性现，生即无生。是则无声声中，风枝水响，非色色里，宝树栏干，岂同灰飞烟灭之顽空，与拨无因果之魔属哉。</p>
+<p><a name="a144"></a><span style="color:#333399">◎实相念佛<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>非心非相门者。婆沙论明新发意菩萨，先念佛色相，相体相业相果相用，得下势力，次念佛四十不共法心，得中势力。次念实相佛，得上势力。不著色法二身。偈云。不贪著色身，法身亦不著。善知一切法，永寂如虚空。宝性论曰。依佛义故，经云。佛告阿难言，如来者，非可见法，是故眼识不得见故。依法义故。经云。所言法者，非可说事，是故非耳识所闻故。依僧义故，经云。所言僧者，名无为，是故不可身心供养礼拜赞叹故。摩诃般若经曰。菩萨摩诃萨念佛，不以色念，不以受想行识念。以诸法自性空故。不应以三十二相，八十随形好念。不应以戒定慧，解脱，解脱知见而念。不以十力，四无所畏，四无碍智，十八不共法而念。何以故。是诸法自性空故。自性空，则无所念。无所念故。是为念佛。智度论曰。若菩萨于过去诸佛取相分别回向，是不名回向。何以故。有相是一边。无相是一边。离是二边行中道，是诸佛实相。是故说诸过去佛，堕相数中。若不取相数回向，是为不颠倒。佛藏经曰，见诸法实相，名为见佛。何等名为诸法实相。所谓诸法毕竟空无所有。以是毕竟空无所有法念佛。乃至又念佛者，离诸想。诸想不生，心无分别，无名字，无障碍，无欲无得，不起觉观。何以故。舍利弗。随所念起一切诸想，皆是邪见。舍利弗。随无所有，无觉无观，无生无灭。通达是者，名念佛如是念中，无贪无著，无逆无顺，无名无想。舍利弗。无想无语，乃名念佛。是中乃至无微细小念，何况粗身口意业。无身口意业处，无取无舍，无诤无讼，无念无分别。空寂无性。灭诸觉观。是名念佛。舍利弗。若人成就如是念者，欲转四天下地，随意能转。亦能降伏百千亿魔。况弊无明，从虚诳缘起。无决定相。是法如是无想无戏论，无生无灭，不可说，不可分别，无暗无明。魔若魔民所不能测。但以世俗言说，有所教化，而作是言。汝念佛时，莫取小想，莫生戏论，莫有分别。何以故。是法皆空，无有体性，不可念一相。所谓无相。是名真实念佛。又止观明念佛三昧者，当云何念，为复念我当从心得佛，从身得佛。佛不用心得，不用身得。不用心得佛色。不用色得佛心。何以故。心者佛无心。色者佛无色。故不用色心，得三菩提。佛色已尽，及至识已尽。佛所说尽者。是痴人不知。智者晓了，不用身口得佛，不用智慧得佛。何故智慧索不可得。自索我，了不可得。亦无所见。一切法本无所有。坏本。绝本。若如是念者。是名实相念佛之门，亦名绝待门。</p>
+<p><a name="a145"></a><span style="color:#333399">◎真疑情，真悟<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>如有人远行，独宿空舍。夜中有鬼担一死人。来著其前。复有一鬼随逐嗔骂，云是我物，先鬼言我自持来。后鬼言实我担来。二鬼各执一手争之。前鬼言。此中有人可问，后鬼即问。是谁担来。是人思惟，二鬼力大，妄语亦死。何若实语。即言前鬼担来。后鬼大嗔，捉此人手，拔断著地。前鬼取死人一臂附之，即著。如是两臂两脚头胁，举身皆易。于是二鬼共食所易人身，拭口而去。其人思惟，眼见我身被鬼食尽。今此我身，尽是他肉，即于一切时作他身想。乃至五欲，亦不贪著。是他身故，不应供养乃至妻子，亦不生染。是他身故，不应有染。乃至种种诃斥苦辱，亦皆顺受。是他身故，无复憍慢。后忽自计，若是他者，不应有我。若非他者，他身现在，是中非他，非非他。非我，非非我。我亦不可得，他亦不可得，从本已来，恒自如是。即时得知一切法，是我非我，皆为妄计。</p>
+<p><a name="a146"></a><span style="color:#333399">◎信为根本<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>经云。信为道元功德母。一切诸行，无不以信为正因。乃至菩提果满，亦只完此信根。如谷子堕地，迨于成实，不异初种。如稚笋参天，暨至丛叶。本是原竿。初心菩萨，无不依是信力而成就者。是故莲宗门下，全仗此信为根本。一者信阿弥陀佛不动智，根本智，与己无异。如一太虚空，日映则明，云来则翳。虚空本无是故。又则云与日皆即虚空故。二者信阿弥陀佛从发愿来那由他劫内，一切难行难忍种种修习之事，我亦能行何以故。自忆无始劫中，漂溺三途，生苦，死苦，披毛戴角苦，铁床铜柱苦，一切无益之苦，皆能受之。何况如今菩萨万行济众生事，岂不能为。三者信阿弥陀佛无量智慧，无量神通，及成就无量愿力等事，我亦当得何以故。如来自性方便，具有如是不思议事。我与如来同一自体清净性故。四者信阿弥陀佛不去不来，我亦不去不来。西方此土不隔毫端，欲见即见。何以故。一切诸佛皆以法性为身土故。五者信阿弥陀佛修行历劫，直至证果，不移刹那。我今亦不移刹那，位齐诸佛。何以故。时分者是业收。法界海中，业不可得故。如是信解，是谓入道初心，信一切诸佛净土之行。</p>
+<p><a name="a147"></a><span style="color:#333399">◎念佛一声入三观<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>念存三观者。如一声佛，遂了此能念体空，所念无相，即念存空观。所念之佛即应身，即心破见思惑也。虽能念体空所念无相，不妨能念分明所念显然，即念存假观。所念之佛即报身，即心破尘沙惑也。正当能念所念空时。即能念所念显然。正当能念所念显时，即是能念所念寂然。空假互存，即念存中观。所念之佛即法身，即心破无明惑也。是又即念佛因，究竟三谛，净彼四土。如拈一微尘，变大地作黄金。</p>
+<p><a name="a148"></a><span style="color:#333399">◎念佛一声，能赅诸行<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>智度论曰。菩萨观一切法毕竟空，不生悭贪心，何以故。毕竟空中，无有悭贪。悭贪根本断故。乃至般若波罗蜜毕竟空故，常不生痴心。所以者何，佛说一切法无施无受，非戒非犯，乃至不智不愚故。又云，菩萨虽不见布施，以清净空心布施。作是念。是布施空无所有，众生须故施与。如小儿以土为金银，长者则不见是金银。便随意与，竟无所与。其余五法亦复如是。是谓菩萨行于六度。修净土者，即无如是差别名相。然亦不越一行，具此六义。一者舍诸杂念，是行于施。又则系佛，不住舍念，是性施故。二者念念中净，是行于戒。又则系佛，不求灭念，是性戒故。三者世念尽寂，是行于忍。又则系佛，非关摧念，是性忍故。四者毕念不退，是行精进。又则一念即是，不著苦行，是性精进故。五者得念三昧，是行于定。又则念念是佛，不贪禅昧，是大定故。六者了念佛因，即念而佛，是行于智。又则念本非有，佛本非无，不落断常，是一切种智故。是故念佛一门，能赅诸行。何以故，念佛是一心法门，心外无诸行故。然亦不废诸行。若废诸行，即是废心故。</p>
+<p><a name="a149"></a><span style="color:#333399">◎一切法毕竟空，法尚不应有，何况死后复生余处<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>诸法毕竟空，而亦不断灭。生死虽相续，亦不是常。无量阿僧祇劫业因缘虽过去，亦能生果报而不灭。是为微妙难知。若诸法都空，佛不应说往生。何有智者，前后相违。若生死相实有，云何言诸法毕竟空。但为除诸法中爱著邪见颠倒故，说毕竟空。不为破后身。又为遮罪业因缘故，说种种往生佛法不著有，不著无，有无亦不著，非有无亦不著，不著亦不著。如是人则不容难。如以刀斫空，则无所伤。是为毕竟空相，毕竟空，不遮生死业因缘，是故说往生。此疑甚浅，少有知者皆能断之。以世间人作此见最多，故首破之。为是求往生者之第一障难故。</p>
+<p><a name="a150"></a><span style="color:#333399">◎迷成则处胎狱，念成即入莲胞<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>凡夫但知业力，不知业性空故。所以若众生业性实者，尽虚空界亦无容受处。如黑云障空，风至则灭。若云实者，吹亦不去。虚空喻性。黑云喻业。念佛喻风。又则业性即是法性，力用至大。以结使故，神力不现。如鸟刍瑟摩闻空王佛说，多淫人成猛火聚。却后遍观四支百骸诸冷暖气，神光内凝，化多淫心，成智慧火。夫同一热恼，方其淫，成大火聚。及其离，成大宝焰。若淫性实者，云何是中而得三昧。是故迷成则处胎狱，念成即入莲胞。以胎性即是化性，非从外来。如浊水中清，非来故。</p>
+<p><a name="a151"></a><span style="color:#333399">◎法中之王<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>佛以大圆觉，充满十方界。我以颠倒想，出没生死中。云何以一念，得往生净土。我造无始业，本从一念生。既从一念生，还从一念灭。生灭灭尽处，则我与佛同，如投水海中，如风中鼓橐，虽有大圣智，亦不能分别。净土诀云。人之念头所系最急。如水之必赴海。如火之必炎上。如利刃之必伤。毒药之必杀。无空过者。念佛之念，亦复如是。淫男子，淫念坚故，化为猛焰，延烧神庙。又如月光童子观想水故，弟子窥屋，唯见清水。又如僧清辩与外道论议，外道坚执己见，忽化为石。清辩犹书目于石上。明日往视之，亦有答辞。久之忽自破碎。而吼声于空中。是等皆以念力坚猛，无因变化。云何念佛而佛不现。当知念力是一切法中之王。</p>
+<p><a name="a152"></a><span style="color:#333399">◎极乐此去十万亿刹，凡夫命终觅刻即至，何也！<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>楞严云，汝犹未明一切浮尘诸幻化相，当处出生，随处灭尽。因缘和合，虚妄有生。因缘别离，虚妄名灭。以此推之。当命终时，染浊缘离，故娑婆当处幻灭。清净缘合，故极乐当处幻生。此灭彼生，间不容发，亦何顷刻之可论。</p>
+<p><a name="a153"></a><span style="color:#333399">◎文言尚空，何况名号<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>经曰，佛告宝明菩萨。汝且观是诸佛名字，若是有，说食与人，应得充饥。若名字无者，定光如来不授我记，及于汝名，如无授者，我不应得佛。当知名字，其已久如。以我如故，备显诸法名字性空，不在有无。华严经曰。譬如诸法不分别自性，不分别音声。而自性不舍，名字不灭。群疑论曰。若言名字无用不能诠诸法体。亦应唤水，火来。故知筌蹄不空，鱼兔斯得。称斯弘名，生实净土，何得言虚。</p>
+<p><a name="a154"></a><span style="color:#333399">◎若以念佛生心动念成妄想，息心无念亦成妄想<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>首楞严经云。纵灭一切见闻觉知，内守幽闲，犹为法尘分别影事。若以念佛著有为患。则执空之人，其患尤甚。永嘉云。豁达空，拨因果。漭漭荡荡招殃祸。若以外求他佛为未达。则内执已心，不达尤甚。长沙云，学道之人不识真，只为从来认识神，无量劫来生死本，痴人唤作本来人。若以别求净土为偏见，则执目前为净土者，其失尤甚。</p>
+<p><a name="a155"></a><span style="color:#333399">◎即心是佛，何假修行<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>只为是故，所以修行如铁无金，虽经锻炼，不成金用。贤首国师曰。今佛之三身十波罗蜜，乃至菩萨利他等行，并依自法融转而行。由众生心中有真如，体大相大用大，今日修行，引出法报身等。由众生心中有真如，法性自无悭贪，今日修行顺法性无悭，引出檀波罗蜜等。涅槃经，佛告师子吼菩萨。一切众生皆有念心，慧心，发心，勤精进心，信心，定心。如是等法，虽念念灭。犹故相似相续不断，故名修道。及至如灯虽念念灭，而有光明除破暗冥。如众生食虽念念灭，亦能令饥者而得饱满。譬如上药虽念念灭，亦能愈病。日月光明虽念念灭，亦能增长草木树林。宝积经曰。若无正修者，猫兔等亦应成佛。牛头融大师曰，若言修生，则造作非真。若言本有，则万行虚设。</p>
+<p>观佛礼念，本自天真，岂应独乖。二义不成，即大妄语。是故当知随缘任运，非是无碍。若无碍是随缘者。蚓壤蛙泥，亦是随缘，何不成佛。错认祖机，执砾为玉，与市井儿所宗之无为教，何以异哉。</p>
+<p><a name="a156"></a><span style="color:#333399">◎但净自心，何须分别<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>汝言心净土净，不须分别者。引汝入厕室中，能久住不。入死尸场，秽气熏灼，不掩鼻不。与疥癞脓血之人，能同应器及床褥不。若不能者，此相即是厌五浊相。偌居住尚须净室，同游尚宜净侣者，此相即是忻净土相。忻厌炽然，何谓平等。纵汝难忍能忍如上所说种种浊秽，不求远离，则诸蜣螂鸦犬，亦能亲近。此种种物，岂皆得道。脱汝净秽俱离，依然取舍，于唯心义，亦不相应。是故当知诸佛以唯心故，忻厌出生。以唯心故，说名平等。以唯心故，庄严佛土。若不唯心，岂能随念。若非平等，凡夫无分。秽尚不舍，何独舍净。舍既是心，取亦何乖。皆由不了佛旨，致斯妄执，但识唯心，疑义斯遣。</p>
+<p><a name="a157"></a><span style="color:#333399">◎今世禅人，尚不求作佛，何况往生<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>不求作佛者，舍身之后，将灰断永灭耶，抑尚受后有耶。若受后有者，为生净土耶，为生三界耶。若居三界，即不如净土。若净土者，即同往生。又先德曰。夫善知识者，虽明见佛性，与佛同等。若论其功，未齐诸圣。须从今日，步步资熏。又云，未悟而修，非真修也。唯此顿悟渐修，既合佛乘，不违圆旨。如顿悟顿修，亦是多生渐修，今生顿熟。此在当人时中自验。若所言如行，所行如言，量穷法界之边，心合虚空之理。八风不动，三受寂然。种现双销，根随俱尽。譬诸无病，不应服药。如或现行未断，烦恼习气又浓。寓目生情，触尘成滞。虽了无生之义，其力未充。不可执云。我已悟了，烦恼性空。若起心修，却为颠倒。然则烦恼性虽空，能令受业。业果无性，亦作苦因。苦痛虽虚，只么难忍。如遭重病，病亦全空。何求医人，遍服药饵。</p>
+<p><a name="a158"></a><span style="color:#333399">◎无量国土本无净秽，焉有往来，西方净土，是权非实，非法界如如之本<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>若曰真论，则华藏世界亦是权立，何独西方如论中言。理智无边，名之为普。知随根益，称之曰贤。是普贤菩萨亦权也。文殊师利，是自心善简择妙慧。觉首目首等菩萨，是随信心中理智现前。是文殊菩萨等亦权也。又如此方圣贤尼父颜渊等，论中皆云此是表法，本无是人。是一切圣贤皆权也。今试定量，文殊普贤，及与此方贤圣，权耶，实耶。若言权，则现有其人，及诸遗言往行若言实，则是长者诳凡灭圣，犯大妄语，于此辨得。</p>
+<p>西方亦入刹尘，刹尘亦含西方，岂有权实。莲华藏体，是法身随行无依住智体之所报得。宫殿，总大悲含育之所报得。楼阁，即是智照观根，顺悲济物之所报得。其地金刚，平等自性法身之所报得。摩尼庄严，法身戒体随行报得。金刚轮围山，大悲戒防护之业之所报得。众华庄严，万行利生开敷之所报得。宝树，建行利生覆荫含识之所报得。但业不相应者，同住居而不见。犹如灵神及诸鬼趣，与人同处，人不能见。若尔，则所谓华藏世界者，与汝所见之刹尘，同耶，异耶。若云同者，目连鹙子，视听尚隔。若云异者，何名一真。</p>
+<p><a name="a159"></a><span style="color:#333399">◎如何念佛得无间断<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>一信之后，更不再疑，即是不间断也。</p>
+<p>是故若人修行，未能顿悟。当深植信根，不惊不动。一者信金口诚言，决定当生故。二者信自心广大，具有如是清净功德故。三者信因果如形影，决定相随故。四者信此身形识，及一切世界建立，如阳焰空华，无所有故。五者信五浊恶世，寒热苦恼，秽相熏炙，不容一刻居住故。六者信一切法唯心，如忆梅舌酸故。七者信念力不可思议，如业力故。八者信莲胞不可思议，如胞胎故。九者信佛无量身，无量寿，无量光，不可思议，如蚁子身，蜉蝣岁，萤火光，同一不思议故。十者信此身决定当死故。若人具有如是信根，举足下足，无非念佛。故知信之一字，通上中下。但信有大小。若无甚深信力，如无羽之鸟，决定不得飞故。</p>
+<p><a name="a160"></a><span style="color:#333399">◎无始黑业（妙辩）<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>今生虽不偷盗，但所求不如意，即是盗业未尽。今生虽不邪淫，但值不随意眷属，即是淫业未尽。今生虽不谤法妄语，但言出人或疑信相半，即是谤法及妄语业未尽。于一切果中，察一切因。当知前生无恶不造，一一当忏悔。</p>
+<p><a name="a161"></a><span style="color:#333399">◎舍诸恶处<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>学道之人，既有志出尘，应当舍诸恶处。若不舍者，应是厌离未极。若厌离未极者。应是忻净土未极。龙树曰，菩萨心不贵转轮圣王，人天福乐，但念诸佛，是故随心所重，而生佛土。今小小适意处，尚不能舍，何况转轮圣王。如缚足欲行，系翅求飞。去住皆累，两心虚萦。一繁华喧阗处当远故。二歌楼酒肆处当远故。三热焰熏灼处当远故。四论除目，及朝事处当远故。五恩爱缠缚，及熟游历处当远故。六诗坛文社，斗章摘句处当远故。七讥刺古今，较长竞短处当远故。八讲无义味道学处当远故。九义解家斗名相，矜小智之处当远故。十宗乘狂解，妄谈顿悟，轻视戒律之处当远故。是等挠道，与魔不异是故当远。行者若离是诸处，一切道业即当成办。</p>
+<p><a name="a162"></a><span style="color:#333399">◎净侣<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>一切悟机非友不发。一切恶法非友不止。如车二轮，去一则蹶。是故世间文字，诸戏论法，尚须同心印正。何况志求无上大道因缘。经曰，譬如风性虽空。由栴檀林薝卜林吹香而来，风有妙香。若经粪秽臭尸而来，其风便臭。又如净衣置之香箧，出衣衣香。若置臭处，衣亦随臭。友亦如是。是以行道求友者，当严别净秽。一山林闲适之友当近，能止躁心故。二严持戒律之友当近，能淡诸欲故。三智慧广大之友当近，能出迷津故。四总持文字之友当近，能决疑难故。五寂寞枯槁之友当近，能恬进取故。六谦卑忍辱之友当近，能销我慢故。七直心忠告之友当近，能抑诸过故。八勇猛精进之友当近，能速道果故。九轻财好施之友当近，能破大悭故。十仁慈覆物，不惜身命之友当近，能摧人我等执故。若无如是净侣，即当屏人独处，自办道业。以像设为师。以经论为侣，其他嬉戏之徒，宁绝勿通。如入园中，虽无佳华，不植臭草。以无益赏心，徒增厌秽故。</p>
+<p><a name="a163"></a><span style="color:#333399">◎极乐净土日月有无<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>经言昼夜六时，及与清旦食时等事。明知亦是权说。借此昼夜，喻彼时分，非为实事。且昼夜往来者，是众生心明暗倾夺，感有此相。故净佛国土，不应有此。如忉利而上，尚不假明日月，何况极乐。纵令有者，亦是彼化国众生色空见未尽，现有如是日月相故。而实佛土无有日月。如大论曰。释迦文佛更有净国土，如阿弥陀佛。亦有不严净国。如释迦文佛，此随机感说，亦不妨说有故。</p>
+<p><a name="a164"></a><span style="color:#333399">◎疑城<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">西方合论<span>&nbsp; </span></p>
+<p>不信自善根故，依他起信，即是疑城。信自善果者，即顿了自心，不从他得以入悟方能脱疑。是故未悟而修，终隔疑胎。胎以裹蔽为义。未悟之人，诸障未彻，合得是报。此等当在中下下上品摄。何故。下品后二种，经历六劫十二劫，方得华开。此但五百岁故。若如王本，则信佛猛利，未若最后二种。艾所生在其刹边地，不应五百岁得见佛故。</p>
+<p><a name="a165"></a><span style="color:#333399">◎一函遍复<span lang="EN-US"></span></span></p>
+<p align="right" style="text-align:right;text-indent:24.0pt;word-break:break-all">民国二十一年 印光大师<span>&nbsp; </span></p>
+<p>净土法门，三根普被，利钝全收。乃如来普为一切上圣下凡，令其于此生中，即了生死之大法也。于此不信不修，可不哀哉。此法门，以信、愿、行三法为宗。信、则信我此世界是苦，信极乐世界是乐。言我是业力凡夫，决定不能仗自力，断惑证真，了生脱死。信阿弥陀佛，有大誓愿。若有众生，念佛名号，求生佛国，其人临命终时，佛必垂慈接引，令生西方。愿，则愿速出离此苦世界，愿速往生彼乐世界。行、则至诚恳切，常念南无阿弥陀佛，时时刻刻，无令暂忘。朝暮于佛前礼拜持诵，随自身闲忙，立一课程。此外，则行、住、坐，卧及做不用心的事，均好念。睡时当默念，不宜出声。宜只念阿弥陀佛四字，以免字多难念。若衣冠不整齐，或洗澡，抽解，或至不洁净处，均须默念。默念功德一样。出声于仪式不合。无论大声念，小声念，金刚念，心中默念。均须心里念得清清楚楚。口里念得清清楚楚，耳中听得清清楚楚。如此，则心不外驰，妄想渐息，佛念渐纯，功德最大。</p>
+<p>念佛之人，必须孝养父母，奉事师长。慈心不杀，修十善业，又须父慈、子孝、兄友、弟恭，夫和、妇顺、主仁、仆忠、恪尽己分。不计他对我之尽分与否，我总要尽我之分。能于家庭，及与社会，尽谊尽分，是名善人。善人念佛求生西方，决定临终，即得往生。以其心与佛合，故感佛慈接引也。若虽常念佛，心不依道，或于父母、兄弟，妻室，儿女，朋友、乡党，不能尽分，则心与佛背，便难往生。以自心发生障碍，佛亦无由垂慈接引也。</p>
+<p>又须劝父母、兄弟、姊妹，妻室、儿女，乡党、亲友，同皆常念南无阿弥陀佛，及南无观世音菩萨。以此事利益甚大，忍令生我之人，及我之眷属，并与亲友，不蒙此益乎。况且现在是一个大患难世道，灾祸之来，无法可设。若能常念佛及观音，决定蒙佛慈庇，逢凶化吉。即无灾难，亦得业消智朗，障尽福隆。况劝人念佛求生西方，即是成就凡夫作佛，功德最大。以此功德回向往生，必满所愿。</p>
+<p>凡诵经、持咒，礼拜、忏悔，及救灾、济贫，种种慈善功德，皆须回向往生西方。切不可求来生人天福报。一有此心，便无往生之分。以生死未了，福愈大则业愈大，再一来生，难免堕于地狱、饿鬼、畜生之三恶道中。若欲再复人身，再遇净土即生了脱之法门，难如登天矣。佛教人念佛求生西方，是为人现生了生死的。若求来生人天福报，即是违背佛教。如将一颗举世无价之宝珠，换取一根糖吃，岂不可惜。愚人念佛，不求生西方，求来生人天福报，与此无异。</p>
+<p>念佛之人，不可涉于禅家参究一路。以参究者，均不注重于信愿求生。纵然念佛只注重看念佛的是谁，以求开悟而已。若生西方，无有不开悟者若开悟而惑业净尽，则可了生死。若惑业未尽，则不能仗自力了生死。又无有信愿，则不能仗佛力了生死。自力佛力，两皆无靠，欲出轮回，其可得乎。须知法身菩萨、未成佛前、皆须仗佛威力。何况业力凡夫，侈谈自力，不仗佛力。其语虽高超，其行实卑劣。佛力自力之大小，何止天渊之别，愿同人悉体此义。</p>
+<p>念佛之人，不可效愚人，做还寿生、寄库等佛事。以还寿生，不出佛经，系后人伪造。寄库，是愿死后做鬼、预先置办做鬼的用度。既有愿做鬼的心，便难往生。如其未作，则勿作。如其已作，当禀明于佛，弟子某，惟求往生，前所作寄库之冥资，通以赈济孤魂，方可不为往生之障。凡寿生、血盆、太阳、太阴、眼光、灶王、胎骨、分珠、妙沙等经，皆是妄人伪造，切不可念。愚人不知念大乘经。偏信此种瞎造之伪经。必须要还寿生，破地狱，破血湖，方可安心。有明理人，为说是伪，亦不肯信。须知做佛事，惟念佛功德最大。当以还寿生、破地狱、破血湖之钱，请有正念之僧念佛，则利益大矣。</p>
+<p>念佛之人，当吃长素。如或不能，当持六斋，或十斋。由渐减以至永断，方为合理。虽未断荤，宜买现肉，勿在家中杀生。以家中常愿吉祥，若日日杀生，其家便成杀场。杀场，乃怨鬼聚会之处，其不吉祥也，大矣。是宜切戒家中杀生也。</p>
+<p>念佛之人，当劝父母念佛求生西方，然欲父母临终决定往生西方，非预为眷属说临终助念，及瞎张罗，并哭泣之利害不可。故欲父母临终得眷属助念之益，不受破坏正念之害者，非平时为说念佛之利益。令彼各各常念不可。如是，则不独有益于父母，实有益于现生眷属，后世子孙也。临终助念，无论老少，均当如是。详看饬终津梁，及后列临终三要，自知。</p>
+<p>女人临产，每有苦痛不堪，数日不生，或致殒命者。又有生后血崩，种种危险，及儿子有慢急惊风，种种危险者。若于将产时，至诚恳切出声朗念南无观世音菩萨。不可心中默念，以默念心力小，故感应亦小。又此时用力送子出，若默念，或致闭气受病。若至诚恳切念，决定不会有苦痛难产，及产后血崩，并儿子惊风等患。纵难产之极，人已将死，教本产妇，及在旁照应者，同皆出声念观世音。家人虽在别房，亦可为念。决定不须一刻工夫，即得安然而生。外道不明理，死执恭敬一法，不知按事论理，致一班念佛老太婆，视生产为畏途。虽亲女亲媳，亦不敢去看，况敢教彼念观音乎。须知菩萨以救苦为心，临产虽裸露不净，乃出于无奈，非特意放肆者比。不但无有罪过，且令母子种大善根。此义系佛于药师经中所说，非我自出臆见，我不过为之提倡而已。</p>
+<p>女人从十二三岁，至四十八九岁，皆有月经。有谓当月经时，不可礼拜持诵，此语不通情理。月经短者，二三日即止，长者六七日方止。修持之人必须念念无间，何可因此天生之小恙，意令废弃其修持乎。今谓当月经时，可少礼拜，念佛诵经，均当照常。宜常换洗秽布，若手触秽布，当即洗净。切勿以触秽之手，翻经及焚香也。佛法，法法圆通，外道只执崖理。世人多多只信外道所说，不知佛法正理，故致一切同人，不能同沾法益也。</p>
+<p>观世音菩萨，誓愿宏深，寻声救苦。若遇刀兵、水火、饥馑、虫蝗、瘟疫旱涝、贼匪、怨家、恶兽、毒蛇、恶鬼、妖魅、怨业病、小人陷害等患难者。能发改过迁善，自利利人之心，至诚恳切念观世音，念念无间，决定得蒙慈护，不致有何危险。倘仍存不善之心，虽能称念，不过略种未来善根，不得现时感应。以佛菩萨，皆是成就人之善念，绝不成就人之恶念。若不发心改过迁善，妄欲以念佛菩萨名号，冀己之恶事成就者，决无感应，切勿发此颠倒之心也。念佛最要紧是敦伦尽分，闲邪存诚，诸恶莫作，众善奉行。存好心，说好话，行好事。力能为者，认真为之。不能为者，亦当发此善心，或劝有力者为之。或见人为，发欢喜心，出赞叹语，亦属心口功德。若自不能为，见他人为，则生妒忌，便成奸恶小人心行，决定折福折寿，不得好结果也，宜痛戒之。切不可做假招子，沽名钓誉。此种心行，实为天地鬼神所共恶。有则改之，无则加勉。</p>
+<p>世有女人，不明至理，或不孝公婆，欺侮丈夫，溺爱儿女，虐待婢仆。或属填房，虐待前房儿女。不知孝公婆，敬丈夫，教儿女，惠婢仆，教养恩抚前房儿女，实为世间圣贤之道，亦是佛门敦本之法。具此功德，以修净土，决定名誉日隆，福增寿永，临终蒙佛接引，直登九莲也。须知有因必定有果，己若种孝敬慈爱之因，自得孝敬慈爱之果。为人即是为己，害人甚于害己。固宜尽我之职分，以期佛天共鉴也。</p>
+<p>小儿从有知识时，即教以孝、弟、忠、信、礼、义、廉、耻之道，及三世因果，六道轮回之事。令彼知自己之心，与天、地、鬼、神、佛、菩萨之心，息息相通。起一不正念，行一不正事，早被天、地、鬼、神、佛菩萨、悉知悉见，如对明镜，毕现丑相，无可逃避。庶可有所畏惧，勉为良善也。无论何人，即婢仆小儿，亦不许打骂。教其敬事尊长，卑以自牧。务须敬惜字纸，爱惜五谷、衣服、杂物、护惜虫蚁。禁止零食，免致受病。能如此教，大了决定贤善。若小时任性惯，概不教训，大了不是庸流，便成匪类。此时后悔，了无所益。古语云，教妇初来，教儿婴孩。以其习与性成，故当谨之于始也。天下之治乱、皆基于此，切勿以为老僧腐谈，无关紧要也。</p>
+<p>光老矣，精神日衰，无力答复来信。但以邮路大通，致远近误闻虚名，屡屡来信，若一概不复，亦觉有负来意。若一一为复，直是无此精神，以故印此长信，凡有关修持，及立身涉世，事亲教子之道，皆为略说。后有信来，以此见寄。纵有一二特别之事。即在来信略批数字，庶彼此情达，而不至过劳也。若欲大通经教、固当请教高竖法幢之大通家法师。须知大通经教者，未必即生能了生死。欲即生了生死。当注重于信愿念佛求生西方也。</p>

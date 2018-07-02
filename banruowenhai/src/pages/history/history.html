@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-buttons end>
+      <button ion-button icon-only (click)="presentDeleteAllConfirm()">
+        <ion-icon name="trash"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title class="one-button-adjustedCenter">历史</ion-title>
+  </ion-navbar>  
+</ion-header>
+
+<ion-content no-padding>
+
+  <p class="center" *ngIf="globalVars.histories.length == 0">您没有任何阅读历史</p>  
+    
+  <ion-list>
+      <button ion-item no-padding *ngFor="let history of globalVars.histories | orderBy:'date':false" class="gukeLarge" (click)="gotoArticle(history)">
+        <table style="width:100%">
+          <tr>
+            <td style="padding-left:5px">{{history.historyName}}</td>
+            <td class="global-right" style="padding-right:10px;width:30px;">
+              {{history.percentage}}%
+            </td>
+          </tr>
+        </table>
+      </button>
+    </ion-list>
+</ion-content>

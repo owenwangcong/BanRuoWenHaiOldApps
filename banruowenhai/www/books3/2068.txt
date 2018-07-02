@@ -1,0 +1,157 @@
+<p align="center" style="text-align:center"><b><span style="font-size:36.0pt;color:#FF6600">净业持名四十八法<span lang="EN-US"></span></span></b></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">郑韦庵居士著<span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a00">自序</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a01">护意根</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a02">戒口业</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a03">端身</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a04">过珠</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a05">高声</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a06">低声</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a07">金刚持</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a08">默然</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a09">调息</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a10">随分</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a11">到处</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a12">有定无定</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a13">对像离像</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a14">忙中</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a15">闲中</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a16">尊贵</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a17">卑贱</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a18">静细</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a19">老实</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a20">喜庆</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a21">许愿</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a22">解释</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a23">愧奋</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a24">恳切</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a25">供养</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a26">报答</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a27">布施</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a28">心念心听</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a29">声中</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a30">光中</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a31">镜中</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a32">不断</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a33">不杂</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a34">不住</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a35">即禅即佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a36">即戒即佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a37">即教即佛</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a38">不持而持</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a39">持而不持</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a40">孤身</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a41">结期</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a42">聚会</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a43">成就他人</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a44">难中</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a45">梦中</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a46">病中</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a47">临终</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a48">发愿忏悔</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a49">附：莲池大师净土疑辩</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p><a name="a00"></a><span style="color:#333399">净业持名四十八法自序<span lang="EN-US"></span></span></p>
+<p>若论净土，法门广大。诸上善人，依佛教而往生者，十方纷来，数如雨点。于修行中不专念佛，于念佛中不专持名，而已高标姓字，稳坐金台。此盖或乘大愿，或由妙悟，或备众福，或秉戒力，或精观想，故不假方便，自得心开。以今言之，观既未易成就，戒又未易全持，众福非旦夕可期，妙悟非钝根可得，大愿坚固，更罕有焉。若不再从老实持名上出一头地，必致长沉苦海，永受轮回。千佛慈悲，亦难救汝。故持名一法，普摄三根，速归净土。方便之胜，无过于斯。深浅合离，惟人自取。勉矣前程，幸毋自误。</p>
+<p><a name="a01"></a><span lang="EN-US" style="color:#333399">1、护意根持名</span></p>
+<p>既以此心念佛，凡一切杂善杂恶之事，皆不必念，即日用应缘，万不得已之务，应毕则舍。勿令缠绵，障我心念。且我心念之所以缠绵者，意地用事故也。若念到心地光明时，意地自妙于观察。当知念佛能转凡为圣，为世出世间第一了脱之方。</p>
+<p><a name="a02"></a><span lang="EN-US" style="color:#333399">2、戒口业持名</span></p>
+<p>既以此口念佛，凡一切杀盗淫妄之事，不可在口头播弄。若一涉及，当自思维，念佛之人不当如是。猛念佛数声，以提醒而涤荡之。</p>
+<p><a name="a03"></a><span lang="EN-US" style="color:#333399">3、端身持名</span></p>
+<p>既以此身念佛，于一切行住坐卧时，务常端正。身若端正，心即清净。当人自验，诚不我欺。</p>
+<p></p>
+<p><a name="a04"></a><span lang="EN-US" style="color:#333399">4、过珠持名</span></p>
+<p>念佛一声，手过一珠，单念四字，勿杂六字，以四字易成片也。于四字中或在阿字上过珠，或在陀字上过珠，划定规模，不得错乱。此借珠束心之一法也。</p>
+<p><a name="a05"></a><span lang="EN-US" style="color:#333399">5、高声持名</span></p>
+<p>若神志昏沉时，或妄想纷起时，振作精神，高声念佛，到得数百声，自换一番境界，且耳根最灵，外缘易入，声感心动，杂想炽然。惟高声念佛，能护耳根而启心灵。心听自声，声声快足，一切闲是闲非，自然罢遣也。</p>
+<p><a name="a06"></a><span lang="EN-US" style="color:#333399">6、低声持名</span></p>
+<p>若精神散失时，或劳极逼迫时，不必高声。自收敛神明，低声细念，候气息完固，精神勃兴，便可高声念佛。</p>
+<p><a name="a07"></a><span lang="EN-US" style="color:#333399">7、金刚持名</span></p>
+<p>若心气不适，或人地有碍，高声低声总觉不便，则但动口唇，用金刚持法。不拘多少，总要字字从心里过。</p>
+<p><a name="a08"></a><span lang="EN-US" style="color:#333399">8、默然持名</span></p>
+<p>又或高声低声，都不相宜，手过珠又嫌烦琐，金刚持仍嫌著迹。古有至巧方便，无用动口，不出声音。但使系心一缘，微以舌根敲击前齿，心念随应，音声历然。声不越窍，闻性内融。心印舌机，机抽念根，从闻入流，反闻自性。是三融会，念念圆通，久久遂成唯心识观。</p>
+<p><a name="a09"></a><span lang="EN-US" style="color:#333399">9、调息持名</span></p>
+<p>或于气静心平时，先想己身，在圆光中，默观鼻端，想出入息，每一息默念阿弥陀佛一声。方便调息，不缓不急，心息相依，随其出入。行住坐卧，皆可行之，勿令间断，常自密持。摄心既久，息念两忘，即此身心，与虚空等。持至纯熟，心眼开通，三昧忽尔现前，即是唯心净土矣。</p>
+<p><a name="a10"></a><span lang="EN-US" style="color:#333399">10、随分持名</span></p>
+<p>或时昏沉多，则经行以持之。或时杂乱多，则端坐以持之。即使行坐皆不合宜，或跪或立，乃至暂卧，亦广作方便，持名随分而自救之。要于四字洪名，不肯一念忘却，乃降伏心魔之要术也。</p>
+<p><a name="a11"></a><span lang="EN-US" style="color:#333399">11、到处持名</span></p>
+<p>不问净处秽处，闲处忙处，高兴处，失意处，但自回光返照。自思曰：此等境界，我从久远劫来，经历过百千万亿遭也。惟于念佛往生一事，未能办得了当，所以轮回辗转，不得出头。我今亦不管他念得念不得，但誓此念佛心，至死也不断此念头。何以故？念佛的念头一断，一切善恶无记种种杂念则又生也。虽至大小便利时，女人生产时，只管念。越苦越念，越痛越念，如儿呼母，那管母之嫌与不嫌。若怕他嫌我，便不呼唤，则小儿之堕落坑厕者，有死而已，何日见母哉？</p>
+<p><a name="a12"></a><span lang="EN-US" style="color:#333399">12、有定无定持名</span></p>
+<p>有定者，早晚二时，划定常课，从今至死，不增不减。其余十二时中，能念一句则念一句，不论高声低声。古人云：少说一句话，多念一声佛。然哉！然哉！</p>
+<p><a name="a13"></a><span lang="EN-US" style="color:#333399">13、对像离像持名</span></p>
+<p>对像时，即以此像为真佛，不拘一方，不问三身。但思我止一心，心止一佛。面对心念，诚敬可知。诚敬之至，必邀灵感。若无佛像时，端坐宜向西方，起心动念时，当念阿弥陀佛光明住我顶上，字字句句，自不落空，黑业自能消灭也。</p>
+<p><a name="a14"></a><span lang="EN-US" style="color:#333399">14、忙中持名</span></p>
+<p>能一句则一句，能十句则十句。但使百忙中，得片刻之暇，便可放下身心，朗然持诵。白乐天诗曰：行也阿弥陀，坐也阿弥陀，假饶忙似箭，不离阿弥陀。古人之用心，亦可见矣。</p>
+<p><a name="a15"></a><span lang="EN-US" style="color:#333399">15、闲中持名</span></p>
+<p>世间一切苦人，求闲不得，故不能修行。今闲矣，又闻此念佛之法，务须绵密持续，振作收敛，方能不负光阴。若使悠忽念去，不能济事。虚延岁月，辜负四恩，一朝阎老来追，将何抵对耶？</p>
+<p><a name="a16"></a><span lang="EN-US" style="color:#333399">16、尊贵持名</span></p>
+<p>今世之福，从前世修来。尊贵一辈，大半苦行高僧转世。但虽有荣华，不能长久，设再造孽，必致沉沦。当自思维，与其带业归去，不如借水行舟。或置念佛堂，或选念佛僧，或刻净土书，或置弥陀像，登高而呼，事半功倍，更宜决志往生，为富贵贫贱一切人修行榜样。法王使者，尊胜何如！</p>
+<p><a name="a17"></a><span lang="EN-US" style="color:#333399">17、卑贱持名</span></p>
+<p>呜乎！身为人役苦矣。不求出离，苦之苦矣！当知四字佛名，不论尊卑贵贱、老少男妇，但能每日清晨，至心西向，十称名号，求生极乐，不间不断，现世自获利益，没世自得往生。阿弥陀佛，真苦海中救命船也。</p>
+<p><a name="a18"></a><span lang="EN-US" style="color:#333399">18、静细持名</span></p>
+<p>既有智慧，勿令入狂。最宜静细念佛，以坚固之。当知智慧人念佛，则天下之念佛者必多，智慧人念佛，则外道之修行者易返。何以故？有智慧之声名以启之，有智慧之作用以救之也。</p>
+<p><a name="a19"></a><span lang="EN-US" style="color:#333399">19、老实持名</span></p>
+<p>既不求名利，又不逞才能，老实修行，最为难得。祖师云：参禅中，觅个痴钝人，不可得。今之念佛人，正患其不痴钝耳。老实二字，是生西方之一直大路。何以故？老实者，不于阿弥陀佛四字外，添一毫妄想也。</p>
+<p><a name="a20"></a><span lang="EN-US" style="color:#333399">20、喜庆持名</span></p>
+<p>或因人而喜，或因事而庆，虽细小之端，皆人生乐境也。当知此乐虚幻，不能久常。乘此好时，回光念佛，则仗佛光明，于顺境去多少恶念。吉祥连绵，如意修行，直至命终，往生极乐，不亦大快也哉！</p>
+<p><a name="a21"></a><span lang="EN-US" style="color:#333399">21、许愿持名</span></p>
+<p>持名原为往生，然诸佛威光，不可思议。念彼名号，所愿从心。所以经言念佛，有十种利益也。与其祈祷鬼神，杂修事忏，广许恶愿，旁信巫师，不如以念佛期之也。或曰：其如不应何？答曰：子未念佛，先忧不应。即此不应之因，必招不应之果。如是因，如是果，可畏哉！</p>
+<p><a name="a22"></a><span lang="EN-US" style="color:#333399">22、解释持名</span></p>
+<p>凡一切逆境当前，俱是宿缘照面。不可再起恶念，引起将来未完。只须顺受，可避则避之，可消则消之。但随因缘，勿忘念佛。佛有无量智慧福德，光明所加，境缘即转，无疑也。</p>
+<p><a name="a23"></a><span lang="EN-US" style="color:#333399">23、愧奋持名</span></p>
+<p>凡今生前世，恶果成就，苦报必来。故一分苦即一分恶也。不可诿于命运之不齐，但当愧其修行之不早。每一想佛，身毛皆竖，五内若裂，悲伤感奋，痛不欲生。如此则字字从肝髓中流出，方是念佛真境。今之僧俗念佛者，或口念而心驰，或念时心摄，歇即心昏。又有正念佛时，间以杂语。如此虽念到终身，绝无灵感。人之见之者，遂谓念佛往生，终成虚语也。岂佛之咎哉？</p>
+<p><a name="a24"></a><span lang="EN-US" style="color:#333399">24、恳切持名</span></p>
+<p>处一切无可如何之境，而不悲者，非人情矣。然处一切无可如何之境而徒悲者，又岂明佛性乎？既悲矣，则当思出苦，当思与一切众生毕竟出苦，当思佛之所以称大悲者，为其能拔众生出苦也。我以悲心念佛，求佛之悲，拔我之苦，其念宜何如恳切耶。</p>
+<p><a name="a25"></a><span lang="EN-US" style="color:#333399">25、供养持名</span></p>
+<p>凡遇佳节，或佛诞日，香花灯果，随分供养，是谓财供，非法供也。心之法供，胜于一切财供。近来邪教盛行，上供之法，广罗祭品，何益修行？如清净、普度、皇极、寿元、无为、大乘等种种邪教，招魂引鬼，耗人家财，欺世妄言，而于念佛一门，迥然各别，有识者万勿为所惑也。</p>
+<p><a name="a26"></a><span lang="EN-US" style="color:#333399">26、报答持名</span></p>
+<p>天地君亲之恩，恩之最大者也。宜如何报之哉？一切饮食供奉，立功扬名，衡以世间之法，报非不善，然究非了局。我惟报以念佛，为彼回向西方，已为下一金刚种子，再出头来，自有解脱时分。况无边罪障，悉能消释乎。欲报恩者，不可不知此法。</p>
+<p><a name="a27"></a><span lang="EN-US" style="color:#333399">27、布施持名</span></p>
+<p>凡见苦恼者，先安其身，然后开导其心，劝之念佛。所谓救一时之苦，布施为急，救历劫之苦，念佛为要。或见人物有难，力不能救，当急为彼念佛，安其魂识。或清夜朗诵，以施鬼神。凡大兵大疫之年，五更持诵佛号，能消冤厉。当思我此一声阿弥陀佛，上穷有顶，下极风轮，尘刹众生，一时受益，其布施不可思议也。</p>
+<p><a name="a28"></a><span lang="EN-US" style="color:#333399">28、心念心听持名</span></p>
+<p>心忆而后动于舌，舌动而复返于心。舌既有声，耳还自听，是为心念心听也。心念心听，则目自不能妄视，鼻自不能妄嗅，身自不能妄动，一个主人翁，被阿弥陀佛四字请出来也。</p>
+<p><a name="a29"></a><span lang="EN-US" style="color:#333399">29、声中持名</span></p>
+<p>念佛之声，既已纯熟，于六尘中，惟一声尘。六根之用，全寄于耳。身亦不觉其旋绕也，舌亦不觉其鼓动也，意亦不觉其分别也，鼻亦不觉其呼吸也，眼亦不觉其开闭也，观音势至两圆通，即是一也。无不通也，无不圆也。根即尘也，尘即根也，根尘即识也。十八界融成一界也。初或未调，久当自入。凡念佛时，取净地四五尺，右绕一匝，然后徐徐出声，渐渐声高。如是念到三匝之后，觉自己心声透露，旋绕太空，圆里十方，遍周法界，是安住身心世界于念佛声中也。是以此身心安住于念佛声中而念佛也。此是胜境，能灭心垢，宜勤习之。</p>
+<p><a name="a30"></a><span lang="EN-US" style="color:#333399">30、光中持名</span></p>
+<p>声者心声也，光者亦心光也。心声旋绕之处，即心光焕发之处。安住于心声中而念佛，即安住于光明中而念佛也。此亦胜境，能灭心垢，宜勤习之。</p>
+<p><a name="a31"></a><span lang="EN-US" style="color:#333399">31、镜中持名</span></p>
+<p>心声旋绕，心光焕发，心体自然披露矣。夫此一真心，如大圆镜，洞达无遮。十方三世，我佛众生，浊世苦轮，净邦莲萼，皆镜中影也。声中即是光中，光中即是镜中。此是最胜境，能永灭心垢，宜加意勤习之。</p>
+<p><a name="a32"></a><span lang="EN-US" style="color:#333399">32、不断持名</span></p>
+<p>朝也念，暮也念，无事也念，有事也念，净处也念，秽处也念，无有一念非佛者。即使日用应酬，有时间断，然断其言句，不能断其真命脉也。功夫至此，成片易矣。</p>
+<p><a name="a33"></a><span lang="EN-US" style="color:#333399">33、不杂持名</span></p>
+<p>不杂者，即是止也。止者，定之机也。止杂念而正念现矣。杂念有三：一善念，一恶念，一无记念。三者除尽，方为不杂。心要寂寂，寂寂则善恶念不生。心要惺惺，惺惺则无记念不生。佛外无念，故常寂寂；念中有佛，故常惺惺。</p>
+<p><a name="a34"></a><span lang="EN-US" style="color:#333399">34、不住持名</span></p>
+<p>不住者，即是观也。观者，慧之机也。前一句过去矣，后一句未来也，中一句亦不住。前一句过去矣，后一句未来也，现在一句亦不住，了了分明而不可得，不可得而了了分明。</p>
+<p><a name="a35"></a><span lang="EN-US" style="color:#333399">35、即禅即佛持名</span></p>
+<p>或看一话头者，谓之参禅。或坐或息念者，谓之坐禅。参也，坐也，总是禅也。禅也，佛也，总是心也。禅即佛之禅，佛即禅之佛。念佛法门，何碍于参禅坐禅乎？且参禅者，能将此阿弥陀佛四字，当做一句话头，念来念去，反覆不舍，不言参禅，禅在其中矣。坐禅者，要到一念相应，豁然如托空，方为得手。念佛念到一心不乱时，非相应乎？念到心空时，非永远相应乎？于念佛时，不昏不散，止观定慧，念念圆成。若欲别求禅那，禅当更在何处？</p>
+<p><a name="a36"></a><span lang="EN-US" style="color:#333399">36、即戒即佛持名</span></p>
+<p>持佛戒以治身也，持佛名以治心也。持之久而心纯，持之久而心空。念性戒性，非有二也。板板持戒，不得出头。板板念佛，则临命终时，打破鬼关，跳出三界矣。若奉戒已有工夫，即以此回向西方，必生中品。若未能兼顾者，且勤念佛，如救头燃。</p>
+<p><a name="a37"></a><span lang="EN-US" style="color:#333399">37、即教即佛持名</span></p>
+<p>一大藏经，皆从心起。心若无佛，教亦徒然。然心中亦何人无佛哉？自不念耳。教下未有不看楞严者也，看楞严未有不轻势至而重观音者也。即此一见，已成生死根本。纵学遍种种知能，不过滋润苦芽。生死关头，总不得力。愿速放下，往生西方，亲觐弥陀。若不能放下，即将此学经演说功德，回向西方。发四宏愿，亦不唐捐。若弘扬净土一门，详说念佛功德，则举目动念，皆是庄严西方。上品往生，更复何疑？</p>
+<p><a name="a38"></a><span lang="EN-US" style="color:#333399">38、不持而持</span></p>
+<p>一事才完，一语才罢，尚未打点念佛，而四字佛名，滚滚出来。此三昧易成之象也。</p>
+<p><a name="a39"></a><span lang="EN-US" style="color:#333399">39、持而不持</span></p>
+<p>持名不懈，快足又快足。于念佛时，明明持此四字，念头不转，而四字忽然一停，亦非有即四字之念，亦非有离四字之念，亦非有四字以外之念。此谓暂得胜境，非真心空也。然勤勤念佛，此境屡现，则渐渐心空。若因一念心空，遂逐昏沉，是谓无慧。当知心愈空，则念愈灵；心愈空，则念愈净。以佛心中之我，念我心中之佛，空与不空，更在何处？譬如日与月，赫濯乘宝宫，旋绕须弥山，周流照天下。噫！此何如妙觉圆明哉。</p>
+<p><a name="a40"></a><span lang="EN-US" style="color:#333399">40、孤身持名</span></p>
+<p>比丘修道，不求伴侣。念佛之境，孤寂最佳。高低有宜，缓急随分，打成一片。正在此时，当知身孤而心不孤也。诸佛及弥陀之心，未尝暂舍乎我。举意佛知，开口佛闻，何忧孤寂乎？若净土法门，未能了了，须多购净土书读之。如弥陀经、观经、智者大师十疑论、天如则禅师净土或问、大佑禅师净土指归、龙舒净土文、净土晨钟、西方公据、西方确指、云栖法汇、弥陀疏钞等书，宜勤披阅，此姑举明白易晓者言之。此外尚有举不胜举也，访通晓净土者叩问之。</p>
+<p><a name="a41"></a><span lang="EN-US" style="color:#333399">41、结期持名</span></p>
+<p>结期者，结七日为期也。若独自结期，可用干粮、水果、生姜、麻油四种为食物，炉香、灯油、蒲团、坐椅、棉衣、风帽、净桶、草纸八种为用物，除十二种外，一概不留。便可七日中不与人来往，畅然念佛也。若有五六人，同发心结期者，则必延请护七师一位。严立条规，约束在前。一切起居饮食香花灯果，护七师照应全备，则同七者亦可于七日中至心念佛也。若局于情见，不知修行利害者，未可草率为之。念佛警策下卷载：三峰禅师追顶念佛法，结期者不可不知。</p>
+<p><a name="a42"></a><span lang="EN-US" style="color:#333399">42、聚会持名</span></p>
+<p>四五人偶然同聚，作念佛会者，务先束约而后开口。单念四字，一字一鱼，用小引磬专击陀字，不得参差错落，反致纷心。</p>
+<p><a name="a43"></a><span lang="EN-US" style="color:#333399">43、成就他人持名</span></p>
+<p>或静处安置，或同结念期，或告以净土之事，或借以净土之书，或破其念佛之疑，或坚其念佛之志。一切功德，此为胜矣。若于人临命终时，为之念佛。或令病人记取阿弥陀佛四字，随忆随念，得见如来，使此人气尽往生，是成就其法身慧命矣。</p>
+<p><a name="a44"></a><span lang="EN-US" style="color:#333399">44、难中持名</span></p>
+<p>凡难中有发心念佛者，必有奇应。虽遍地干戈，一乡疫疠，而求佛呵护者，一即一安，百即百安。非佛之有私也，亦平等光中无心而应也。何以故？动念发声，觉阿弥陀佛光明住我顶上，则自然念念具足，念念坚固，念念长久，佛光所加，吉神拥护，自能离难，勿转念也。</p>
+<p><a name="a45"></a><span lang="EN-US" style="color:#333399">45、梦中持名</span></p>
+<p>愿力坚，功夫熟，昼既绵密，夜间亦然，则梦中自能念佛。此往生的兆也，当调和精进，勿退勿狂。</p>
+<p><a name="a46"></a><span lang="EN-US" style="color:#333399">46、病中持名</span></p>
+<p>病者，死之机也。死者，凡圣净秽之关也。病中当作死想，勤念佛名，决定待死，必有光明接引，遂我往生之愿。若于病中略一停想，则一切爱恋恐怖，烦恼安排，种种杂念，一齐现前，生死关头，如何济事？昔有一僧病甚，呼啊耶，自觉其非，即念阿弥陀佛，如是痛不自止。一声啊耶，一声阿弥陀佛，昼夜不绝。病愈，谓人曰：我病中念啊耶念阿弥陀佛，今病好，阿弥陀佛尚在，啊耶二字，不知何往矣。善哉！此病中之精进者也。</p>
+<p><a name="a47"></a><span lang="EN-US" style="color:#333399">47、临命终持名</span></p>
+<p>但记取阿弥陀佛四字勿忘也。能高念便高念，能低念便低念，或高低皆不能，亦宜将四字默记于心，不令忘失。左右侍奉之人，亦宜常将此四字，频频提醒。当知百劫千生，所有乱走之路，全在此时一念，断得清楚。何以故？六道轮回，皆一念为主。若一念专注在佛，则形虽败坏，而神不散乱，即随一念，而往生净土矣。呜呼！但记取阿弥陀佛四字勿忘也。</p>
+<p><a name="a48"></a><span lang="EN-US" style="color:#333399">48、发愿忏悔持名</span></p>
+<p>呜呼！世之不知念佛者众矣。儒中人摈佛为异端而不肯念。出家人以念佛为故套，而不知所以念。狂慧者知有佛而不屑念，愚痴者不知佛而不能念。此大较也。即间有村愚夫妇，闻说因果，亦知念佛，而又希求来生得受福报，依旧为轮回种子。求一为了生死而念佛者，百中少有一二也。须知人既念佛，则当如佛慈心，行佛悲行，发广大愿，济度众生。一切众垢冤缠，普为忏悔，一切钜细功德，回向西方。如此乃为念佛之正因也。</p>
+<p><a name="a49"></a><span style="color:#333399">附：莲池大师净土疑辩<span lang="EN-US"></span></span></p>
+<p>或问净土之说盖表法耳，智人宜直悟禅宗，而今只管赞说净土，将无执著事相，不明理性？</p>
+<p>答<span lang="EN-US">:归元性无二，方便有多门。晓得此意，禅宗净土，殊途同归。子之所疑，当下冰释。昔人于此，递互阐扬，不一而足。如中峰大师曰：禅者净土之禅，净土者禅之净土，而修之者，必贵一门深入。此数语尤万世不易之定论也。故大势至菩萨得念佛三昧，而曰以念佛心入无生忍。普贤菩萨入华严不思议解脱，而曰愿命终时，生安乐刹。是二大士，一侍娑婆教主，一侍安养导师，宜应各立门户，而乃和会圆融，两不相碍。此皆人所常闻习知，那得尚执偏见。且尔云净土表法者，岂不以净心即是净土？岂复更有七宝世界？则亦将谓善心即是天堂，岂复更有夜摩忉利？恶心即是地狱，岂复更有刀剑镬汤？愚痴心即是畜生，岂复更有披毛戴角等耶？又尔喜谈理性，厌说事相，都缘要显我是高流，怕人说我不通理性。噫！若真是理性洞明，便知事外无理，相外无性。本自交彻，何须定要舍事求理，离相觅性？况土分四种，汝谓只有寂光土，更无实报庄严等土乎哉？若一味说无相话以为高，则资性稍利者，看得两本经论，记得几则公案，即便能之，何足为难。且汝既了彻自心，随处净土，吾试问汝，还肯即厕溷中作住止否？还肯就犬豕马牛，同槽而饮啖否？还肯入邱冢，与臭腐尸骸同睡眠否？还肯洗摩饲哺伽摩罗疾，脓血屎尿，诸恶疾人，积年累月否？于斯数者，欢喜安稳，略不介意，许汝说高山平地总西方。其或外为忍勉，内起疑嫌，则是净秽之境未忘，憎爱之情尚在，而乃开口高谈大圣人过量境界，拨无佛国，蔑视往生，可谓欺天诳人，甘心自昧，苦哉苦哉！又汝若有大力量，有大誓愿，愿于生死海中，头出头没，行菩萨行，更无畏怯，则净土之生，吾不汝强。如或虑此土境风浩大，作主不得，应诸佛出世难值，修学无繇，虑忍力未固，不能于三界险处度脱众生，虑尽此报身，未能永断生死，不受后有，虑后有既在，舍身受身，前路茫茫，未知攸往;则弃净土而不生，其失非细。此净土法门，似浅而深，似近而远，似难而易，似易而难，他日汝当自知。汝今参禅念佛，不妨随便一门深入，但忌认钰作金，得少为足，便以管窥小解，恣意妄谈，非诋净土，喻如痴狂之子，骂斥父母，父母慈怜，虽不加责，其如天理之不容，王法之必戮何？可惧也夫！可悲也夫！</span></p>

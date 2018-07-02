@@ -1,0 +1,373 @@
+<p align="center" style="text-align:center"><b><span style="font-size:36.0pt;color:#FF6600">佛法修证心要问答集</span></b></p>
+<p align="center" style="text-align:center"><b><span style="font-size:36.0pt;color:#FF6600">（教理）<span lang="EN-US"></span></span></b></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span style="color:#003300">元音老人著<span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center">&nbsp;</p>
+<p align="center" style="text-align:center"><span style="color:#333399">（一）佛学常识</span><span lang="EN-US" style="&quot;Courier New&quot;"></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a01">1.什么是外道？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a02">2.何为感应道交？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a03">3.何为‘不即不离’？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a04">4.什么叫身内身，身外身？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a05">5.什么是无念？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a06">6.什么是无住用心？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a07">7.什么叫无漏？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a08">8.什么是无生法忍？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a09">9.什么叫微细流注？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a10">10.什么是见、定，行？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a11">11.对各种境界不留痕迹的功夫是不是修行正路？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a12">12.我们修法的人该看什么书？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a13">13.什么叫观自在？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a14">14.什么叫起疑情？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a15">15.悟个什么？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a16">16.什么是心中心法？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a17">17.修心中心法讲不讲成佛资粮？若讲，指的是什么？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a18">18.什么是阴神？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a19">19.什么是密法？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a20">20.密宗为什么一定要灌顶？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a21">21.什么是现量？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a22">22.缘从何来？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a23">23.佛性与觉性有什么关系？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a24">24.《金刚经》云：‘一切圣人皆以无为法而有差别。’圣人怎么有差别？什么差别？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a25">25.问︰实相念佛的要点是什么？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a26">26.问︰到率兜天还会退转吗？在兜率天比在西方净土成佛快些，是吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a27">27.关于度众生，在自己尚未证悟本来以前是否可减少外缘，安心修法，以自度众主呢？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a28">28.何种情况不是无记空？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a29">29.菩萨是觉有情，怎样理解？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a30">30.‘法性尽地’是什么意思？心密里如何讲即身成就？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a31">31.中道义有真实之相吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a32">32.有人问太虚：蛇斩二断，佛性在那一段？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a33">33.我们看的经书太多了，好不好呢？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a34">34.今世不能成佛怎么办？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a35">35.因果也是缘起的假相吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a36">36.梦中佛事是否指没有见性的人拜佛念经做功德一类的事？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a37">37.我们学生读书应如何起用？考试的时候又该怎么办？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a38">38.做功夫有什么决窍？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a39">39.道理说来说去是这么简单，可做起来总是走失？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a40">40.怎么能迅速成就？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a41">41.听说中脉及左右二脉通后就是报身成就，可有此说法？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a42">42.密勒日巴尊者已至‘修行是个大妄念，不修亦是大妄念。’的境界。但却厌烦<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a43">43.近来对一切有相佛法难以众生恭敬心，看得见的世界尚属虚幻<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a44">44.如何才能振兴佛教？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a45">45.我想在师父出国前，与几位同修来拜见您，聆听教诲，可否？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a46">46.不动心，脑子是否会迟钝？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a47">47.我有时会用经书上看到的知识来评判自己的情况，这对吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a48">48.《大集经》里说：‘末法时代罕一得道’，这个得道是指什么？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a49">49.怎样理解无念为宗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a50">50.处处要空，会不会落空？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a51">51.有人念弥陀心咒一千座后又去念阿弥陀佛，这样可以吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a52">52.证到佛位还会迷失吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a53">53.我们为什么要发愿呢？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a54">54.我确实感到周围的众生，有我的存在。佛感觉到吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a55">55.兜率净土与西方净土有何区别？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a56">56.有没有极乐世界？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a57">57.《净土十要》对修净土者很重要吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a58">58.我心中没有妄念，与西方净土有什么两样？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a59">59.如何是戒？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a60">60.善行是否主要是对治自己以往自私自利的习惯，达到‘无我之境’的一种方便呢？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a61">61.世上很多人不信佛，还讥笑学佛人。故要发愿救度一切众生是否很难或不切实际？<span style="font-family:&quot;Courier New&quot;;">……</span></a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a62">62.要度众生，首先自己要开悟，<span style="font-family:&quot;Courier New&quot;;">……</span>。但只顾自己修法，又不度人，会被斥为自了汉<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a63">63.请问师父理上悟的和亲证的体应该是一个吧？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a64">64.正定和普通睡眠的区别？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a65">65.怎样才是真性妙用？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a66">66.我现在知道了，一切东西全是佛性的变化。但还会感到痛苦，尤其生病时<span style="font-family:&quot;Courier New&quot;;">……</span>。</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a67">67.真正修行的人，知道得越少，见解越少越好。只须依止善知识与一两部经典，<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a68">68.请师父谈谈‘意生身’？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a69">69.现在还没有见性，能不能起用？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a70">70.中阴身与意生身的区别？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a71">71.灵魂与佛性有什么区别？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a72">72.等觉菩萨尚有一品生相无明未破，我等凡夫怎么能在二、三年中修了心中心法<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a73">73.修到什么程度才能传法？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a74">74.只怕心不死，不怕不活。先将心死透了，还会活得起来吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a75">75.万法皆空，唯有佛性不空。这样的话，佛性与万物岂不看作二物了？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a76">76.‘地狱不空，誓不成佛’，地藏王菩萨成佛了吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a77">77.‘是法住法位，世间相常住’。怎么理解？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a78">78.见山是山，见水是水，进一步，见山不是山，见水不是水。到后来，见山还是山<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a79">79.动念是妙用吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a80">80.虚云老和尚在高闵寺眼睛能透过墙壁，见到屋外有人小解，这能说是开悟了吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a81">81.明心见性的时候，会展现图像吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a82">82.一切言谈举止，包括我现在提笔写信，都是本性的妙用。其本身‘不生不灭、<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a83">83.弟子认为上座按师父要求的心念耳闻，尽量多加坐；下座观心。<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a84">84.见性之后，最精进的用功就是时时刻刻不忘失本来吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a85">85.不忘失本来，就是要在觉知上用功。做事时知是本性的妙用，无事时灵知觉性<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a86">86.时时与自性相应，就是和上师相应。如法修行，上师、佛就在身边。这认识正确吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a87">87.要归无所得，一切皆了不可得。但是，空空然而有觉知的光景不是还在吗？<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a88">88.这个无相的性体，尽管无相，但可以于无念时体会到它。是吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a89">89.古代禅师开悟偈中曾写到：渠今正是我，我今不是渠。<span style="font-family:&quot;Courier New&quot;;">……</span>这不是空有不二的注脚吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span style="color:#333399">（二）关于禅密<span lang="EN-US"></span></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a90">90. 既然佛性不在修，却又何必要修法呢？不如在生活中时时返照，<span style="font-family:&quot;Courier New&quot;;">……</span>。</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a91">91.《心经》里说：‘无无明，亦无无明尽。’<span style="font-family:&quot;Courier New&quot;;">……</span>怎么归纳在十二因缘内？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a92">92.我认为妄心无处所，真心有处所。</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a93">93.智慧是一下子打开的，还是一点一点开启的呢？什么是后得智？<span style="font-family:&quot;Courier New&quot;;">……</span></a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a94">94.明心见性后，是否八识田中的种子翻腾得更为剧烈呢？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a95">95.心死后又活起来，怎么办？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a96">96.初见性人是否脚跟就点地了？照这条路走下去，后来还要来个大翻身。对吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a97">97.念起不随，是不是到了法身正位？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a98">98. 见性后为什么还要打坐？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a99">99.神会大师讲‘知’之一字，众妙之门。又有祖师讲是众祸之门。该如何理解？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a100">100.明心见性后能否修大圆满中的脱噶？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a101">101.本性不生不灭，是不动体。怎么理解？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a102">102.经过一段时间的体会，弟子对见性一事有了较深的认识。从前以为开悟以后大事<span style="font-family:&quot;Courier New&quot;;">……</span></a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a103">103.‘末等于初’怎么理解？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a104">104.末法时期，心密复出，犹如当空红日，殊胜无比。</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a105">105.自从拜读了您老的文章后，我对佛所说的法，有了正确的认识，佛法不光靠理解，<span style="font-family:&quot;Courier New&quot;;">……</span></a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a106">106.等觉菩萨尚有一品生相无明未破，我等凡夫怎么能在二、三年中修了心中心法<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a107">107.我们心中法靠佛菩萨加持，这不是心外有佛吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a108">108.有人说从六识下手，易用功易成就，从八识下手，上根者才可成就。对吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a109">109.到什么程度方可开心密道场弘法？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a110">110.我们初学的人是不是得先将身心化空，将‘有’先破掉，然后将‘空’破掉呢？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a111">111.请师父开示‘凡所有相，皆是虚妄’之义。</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a112">112.为什么说‘肉眼不能见道’？又为什么说‘肉眼能见道’？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a113">113.《金刚经》说：‘无人相，无我相’。谁说谁闻？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a114">114.憨山大师说：‘生死昼夜，水流花谢。今日乃信鼻孔向下。’请解释？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a115">115.抱定一句话头，朝参夕究，脚跟点地，步步踏实，直教铁树开花，冷灰爆豆<span style="font-family:&quot;Courier New&quot;;">……</span>？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a116">116.不跟语脉转，不是答非所问吗？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a117">117.师父一篇《往生西方关键问题》，《广东佛教》登了一篇文章提出了不同看法<span style="font-family:&quot;Courier New&quot;;">……</span></a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a118">118.请谈谈心与境的关系，什么是内境、外境？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a119">119.有时自己放空无念，脑子很清明，有时散步亦可自然放空，但一晃又没有了，不稳定。</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US"><a href="#a120">120.入定以后是不是就醒不过来了？</a></span></p>
+<p align="center" style="text-align:center"><span lang="EN-US">&nbsp;</span></p>
+<p><a name="a01"></a><span style="color:#333399">（一）佛学常识<span lang="EN-US"></span></span></p>
+<p><span lang="EN-US" style="color:#333399">1. 问：什么是外道？</span></p>
+<p>答：心外有法就是外道。不受佛化，别行邪法；心游道外，故名外道。究竟来说，罗汉也是外道，因为他有法可得，法执未除。</p>
+<p><a name="a02"></a><span lang="EN-US" style="color:#333399">2. 问：何为感应道交？</span></p>
+<p>答：此感彼应也。念佛持咒为‘感’，佛菩萨加被行者为‘应’，彼此打成一片为道交也。</p>
+<p><a name="a03"></a><span lang="EN-US" style="color:#333399">3. 问：何为‘不即不离’？</span></p>
+<p>答：不即者，不就是也；不离者，离开它也就没有了也。此乃说性相不二，色空无异也。</p>
+<p><a name="a04"></a><span lang="EN-US" style="color:#333399">4. 问：什么叫身内身，身外身？</span></p>
+<p>答：身内身即佛性，真身。在认识本性后，时时保护它，到六根不为境界所动，清净了，我们的神识就出来了，不必等到死才出来。出来的身叫身外身，即意生身。它还是假身，是第七识。出来后还会有变化。第一次叫三味乐正受意生身，靠打坐的功夫。这时还不能要出就出，要入定才能出，动中出不来。超过五地就能出三个了。到八地以上，就是种类俱足无行作意生身。动植物山河大地一切东西都能变化自在。如不认识本性，纵然出阳神，还是有生死。吕纯阳祖师后来见了黄龙祖师，才完全醒悟说：‘自从得见黄龙后，方悔从前枉用功。’道教里有住著，要到最后才能化空，气功更有住著，所以不能了生死。道教、气功是以炼精气神为本，而佛法是以菩提心为根本，精修定慧积累功德而成道。一是有为之体，一是无为之德，故不可同日而语。</p>
+<p><a name="a05"></a><span lang="EN-US" style="color:#333399">5. 问：什么是无念？</span></p>
+<p>答：无念不是压念不起，与死人相似，而是念起不随，念念不停留。尽管做一切事，心中不留丝毫痕迹，无一点执著。</p>
+<p><a name="a06"></a><span lang="EN-US" style="color:#333399">6. 问：什么是无住用心？</span></p>
+<p>答：佛法不是消极厌世的，而是积极入世的，佛子故应身先大众干一切繁忙的工作，不可逃避现实，在工作时须应缘而作，心中不可存丝毫功德相。脑筋里没有一点东西，空空荡荡地就像没有做过一样才是无住用心。</p>
+<p><a name="a07"></a><span lang="EN-US" style="color:#333399">7. 问：什么叫无漏？</span></p>
+<p>答：修行是从有漏修到无漏。无漏是把你的一切妄想执著与一切功德相都漏光了，到了无善，无恶，无喜，无烦恼可漏了，这时就是无漏。有一点喜乐与烦恼在，还是有漏。你现在有妄心、妄想、妄念，赶快放下，不跟它走，把它都消光，没有东西再漏了叫无漏。所以应一切放手，一切不要执著。证到无漏时，十方圆明，道通具足，成就无畏妙德。</p>
+<p><a name="a08"></a><span lang="EN-US" style="color:#333399">8. 问：什么是无生法忍？</span></p>
+<p>答：真智安住于实相理体而不动，叫无生法忍。我们的佛性根本是不生不灭的。没有生哪有死？忍是安住不动，就是定力。最苦的，他也不觉苦了，在牛胎马腹也不苦，这就是自性大忍的力量，就是法身不生不灭。事相都是假的，不接纳它就没有苦，你接受它就有苦。忍苦者无苦可忍也就是无心可动。无生法忍要有力量才能证到。在六道尽管走，也是无生，不是坐在界外净土是无生。我们现在说，一念断处，能起了了分明的大功量是我们的佛性。你认可它，一点不疑惑，不动摇，叫无生法。更进一步，这无生法也不可得。才叫无生法忍。无生法忍是行人证到本性，更无生灭的自然状态，此时也就成道了。</p>
+<p><a name="a09"></a><span lang="EN-US" style="color:#333399">9. 问：什么叫微细流注？</span></p>
+<p>答：指微细的妄念，就是法相宗五遍行心所的‘意’，如水一样不停地流。平时人都不能见，因为它流得快。须入金刚喻定才能见它流动。</p>
+<p><a name="a10"></a><span lang="EN-US" style="color:#333399">10. 问：什么是见、定，行？</span></p>
+<p>答：见是见性，空悲不二；不著相就是大定，空明无依；行是指度生的行为而不著度生相，自性圆照，六度齐施。</p>
+<p><a name="a11"></a><span lang="EN-US" style="color:#333399">11. 问：对各种境界不留痕迹的功夫是不是修行正路？</span></p>
+<p>答：此不留痕迹的功夫正是修持正路。但于无住中仍要圆现大悲妙用，开显无量功德。</p>
+<p><a name="a12"></a><span lang="EN-US" style="color:#333399">12. 问：我们修法的人该看什么书？</span></p>
+<p>答：在修法前，显教的书都可以看。但重点应看明白正知见，开发菩提悲愿，建立正确身心行为的书。在师父传你法后，应该看有关修这个法的经论和其他参考书。</p>
+<p><a name="a13"></a><span lang="EN-US" style="color:#333399">13. 问：什么叫观自在？</span></p>
+<p>答：观照自己在本位上不动摇。这个自己不是肉身的自己，了了灵知才是自己。但又不住了了灵知。</p>
+<p><a name="a14"></a><span lang="EN-US" style="color:#333399">14. 问：什么叫起疑情？</span></p>
+<p>答：叫你死无葬身之地。</p>
+<p><a name="a15"></a><span lang="EN-US" style="color:#333399">15. 问：悟个什么？</span></p>
+<p>答：三世诸佛也不识！还会么？宗下答语切忌说理，须意在言外。现在人根机太钝，修禅定不易开悟，唯有净密双修似较合宜，此诚无可奈何之事也。但遇有缘之志者，亦可摄受一、二以教之。</p>
+<p><a name="a16"></a><span lang="EN-US" style="color:#333399">16. 问：什么是心中心法？</span></p>
+<p>答：全名是‘心中心又心’，即假心，真心，真假心都不可得的心，即证悟妙心。心中心法是大圆满法中的精髓，是中心的中心，是借假心打开真心，彻显妙心的无上。</p>
+<p><a name="a17"></a><span lang="EN-US" style="color:#333399">17. 问：修心中心法讲不讲成佛资粮？若讲，指的是什么？</span></p>
+<p>答：成佛的资粮：（一）打坐入定，除障开智慧；（二）广做善事，积累福德。因佛是二足尊，即智慧福德二俱圆满。</p>
+<p><a name="a18"></a><span lang="EN-US" style="color:#333399">18. 问：什么是阴神？</span></p>
+<p>答：人家看不见你，但你自己知道。</p>
+<p><a name="a19"></a><span lang="EN-US" style="color:#333399">19. 问：什么是密法？</span></p>
+<p>答：打开秘密宝藏叫密法，是以三密加持来修法的。三密加持即以本尊的身、口、意来加持。身体不动，手结印，腿跏趺而坐，是身密；口持咒不停，是口密；意不想，不思，静静听自己的持咒声音，是意密。能以无相密法打开秘密宝藏，见得本性，是真正的密宗。</p>
+<p><a name="a20"></a><span lang="EN-US" style="color:#333399">20. 问：密宗为什么一定要灌顶？</span></p>
+<p>答：灌顶是个仪式。灌顶可以给你消业障，给你开梵穴，给你菩提的种子。灌顶后修法，可以得到加持。所以灌顶后往往会拉肚子或呕吐，这是灌顶的力量。密宗要灌顶后才能修法。</p>
+<p><a name="a21"></a><span lang="EN-US" style="color:#333399">21. 问：什么是现量？</span></p>
+<p>答：现量者，如实而现，没有分别。像照相机照相，照出影子而不分别。前五识为成所作智，它是现量。坏就坏在第六识加进去了，这是张三，那是李四，张三对我好，李四对我坏，这是比量。我们做功夫要不分别，意识不跟前五识跑，也不随内影尘转，离一切对待，当体圆现，正量分明，即是真现量境。</p>
+<p><a name="a22"></a><span lang="EN-US" style="color:#333399">22. 问：缘从何来？</span></p>
+<p>答：缘是过去世所造的业感得的。业感缘起，心动就是缘。缘也是本性的妙能，大悲缘起，佛土庄严，都从菩提因缘而现。</p>
+<p><a name="a23"></a><span lang="EN-US" style="color:#333399">23. 问：佛性与觉性有什么关系？</span></p>
+<p>答：佛性就是觉性。什么叫佛性呢？它是成佛的根本。还有法性，法性是一切事物的根本，三者合起来就是我们一灵真性，也叫一真法界。它是最真实，最珍贵的大宝贝，是一切事物的根本。</p>
+<p><a name="a24"></a><span lang="EN-US" style="color:#333399">24. 问：《金刚经》云：‘一切圣人皆以无为法而有差别。’圣人怎么有差别？什么差别？</span></p>
+<p>答：圣人有位次，四圣六凡。罗汉，辟支佛、菩萨、佛都是圣人，不是有差别吗？除此还有愿、悲、智、方便等缘起差别，方成之为利生的大用。</p>
+<p><a name="a25"></a><span lang="EN-US" style="color:#333399">25. 问︰实相念佛的要点是什么？</span></p>
+<p>答：不著相，念自性。内照念头起处，不跟它跑即名念实相佛。</p>
+<p><a name="a26"></a><span lang="EN-US" style="color:#333399">26. 问︰到率兜天还会退转吗？在兜率天比在西方净土成佛快些，是吗？</span></p>
+<p>答：没有退转，同样是阿毗跋致。至于成佛快慢全看自己的修行。释迦佛与阿难一起修行，释迦佛早已成果地佛了，而阿难还没开悟呢。不管什么地方，都要看你用功的精进程度而定。</p>
+<p><a name="a27"></a><span lang="EN-US" style="color:#333399">27. 问：关于度众生，在自己尚未证悟本来以前是否可减少外缘，安心修法，以自度众主呢？</span></p>
+<p>答：对！</p>
+<p><a name="a28"></a><span lang="EN-US" style="color:#333399">28. 问：何种情况不是无记空？</span></p>
+<p>答：一念不生时，一切都不知道了，就是无记空。</p>
+<p><a name="a29"></a><span lang="EN-US" style="color:#333399">29. 问：菩萨是觉有情，怎样理解？</span></p>
+<p>答：觉是觉破，把你的情见觉破了。一切众生，都是有情。这情最坏，情就是爱，爱就生水，水向下流，生死不能了。所以我们要觉破这爱欲情见，自觉还要觉他，帮助他人也觉破情见。憨山大师说：‘一句阿弥陀佛，要将自己的情见斩断，才能生西。’情重生不到西方。又，觉即菩提正觉，有情即众生。菩萨自觉已证，以慈悲心去觉悟一切众生，所以称为觉有情。</p>
+<p><a name="a30"></a><span lang="EN-US" style="color:#333399">30. 问：‘法性尽地’是什么意思？心密里如何讲即身成就？</span></p>
+<p>答：‘法性尽地’即修到最后，非但无法可得，连所谓法性亦不可得；非但神通不可得，连佛亦不可得，方是即身成就。</p>
+<p><a name="a31"></a><span lang="EN-US" style="color:#333399">31. 问：中道义有真实之相吗？</span></p>
+<p>答：非也。真假皆不可得。中道义乃既不废假，亦不执真也。空假皆不住也，无取无舍也。</p>
+<p><a name="a32"></a><span lang="EN-US" style="color:#333399">32. 问：有人问太虚：蛇斩二断，佛性在那一段？</span></p>
+<p>答：佛性无所不在。</p>
+<p><a name="a33"></a><span lang="EN-US" style="color:#333399">33. 问：我们看的经书太多了，好不好呢？</span></p>
+<p>答：太多就开杂货店了，这样就知解太多。所以我们师父说在百座中不要看书，免得干扰你打坐的专一心。知见多了，不易得定。</p>
+<p><a name="a34"></a><span lang="EN-US" style="color:#333399">34. 问：今世不能成佛怎么办？</span></p>
+<p>答：可往生净土，也可再来投胎做人。要发大愿，愿力不可思议，要真心切愿，成佛度众生。世尊发愿在五浊恶世度众生，到最苦的地方度众生。</p>
+<p><a name="a35"></a><span lang="EN-US" style="color:#333399">35. 问：因果也是缘起的假相吗？</span></p>
+<p>答：当然了！唯佛一人超出因果，大菩萨还跳不出因果的圈子。</p>
+<p><a name="a36"></a><span lang="EN-US" style="color:#333399">36. 问：梦中佛事是否指没有见性的人拜佛念经做功德一类的事？</span></p>
+<p>答：说法度生，也是梦中佛事也。</p>
+<p><a name="a37"></a><span lang="EN-US" style="color:#333399">37. 问：我们学生读书应如何起用？考试的时候又该怎么办？</span></p>
+<p>答：老师讲课的时候，你听得清爽，记在脑子里，明白了，就是启用。如果读书时，你想别的事情，老师讲的你没听到，考试考不出来，那就不起用了嘛！不是死记，要懂。‘得意忘言道义亲’，不能死在句下。</p>
+<p><a name="a38"></a><span lang="EN-US" style="color:#333399">38. 问：做功夫有什么决窍？</span></p>
+<p>答：不要著神奇，玄妙，认识这一念不生，了了分明的灵知就是当人的本性。以平常心，处理一切事务而一丝不可得。</p>
+<p><a name="a39"></a><span lang="EN-US" style="color:#333399">39. 问：道理说来说去是这么简单，可做起来总是走失？</span></p>
+<p>答：佛法本来就这么简单，没什么玄妙复杂。但多生积习，非一日可除，因这积习也非一生所积，故除起来也须长时期的精修磨炼。学人只须时时觉察，损之又损，自有水到渠成，圆证果地之日。</p>
+<p><a name="a40"></a><span lang="EN-US" style="color:#333399">40. 问：怎么能迅速成就？</span></p>
+<p>答：一切众生本来是佛，还想成就个什么？一切无求无著，但息妄，莫求真，自然归家稳坐。</p>
+<p><a name="a41"></a><span lang="EN-US" style="color:#333399">41. 问：听说中脉及左右二脉通后就是报身成就，可有此说法？</span></p>
+<p>答：这好像是外道、邪门的说法。我们的色身是业报身，不是佛报身。你在这色身上做工夫，是大大的错误，你如此修法，直到弥勒佛下世，亦成就不了佛。</p>
+<p><a name="a42"></a><span lang="EN-US" style="color:#333399">42. 问：密勒日巴尊者已至‘修行是个大妄念，不修亦是大妄念。’的境界。但却厌烦酬答施主，希望往雪山修行。为什么？是习气未尽么？</span></p>
+<p>答： 其实话已说尽，还要请他说法，说一句无说之说：到雪山无人处，无话说时，看是什么？会么？</p>
+<p><a name="a43"></a><span lang="EN-US" style="color:#333399">43. 问：近来对一切有相佛法难以众生恭敬心，看得见的世界尚属虚幻，看不见的世界又如何令人产生绝对信心呢？</span></p>
+<p>答：相虽属虚幻，但不是没有作用。所以说非空非有，有即是空，空即是有，二边具不能住。天空之大，世界之多，现代科学尚不能测其端倪。只有佛眼明净，一清二楚。你只一心按佛法修持，到根尘脱落时，所谓看不见的世界自然得见。</p>
+<p><a name="a44"></a><span lang="EN-US" style="color:#333399">44. 问：如何才能振兴佛教？</span></p>
+<p>答：著相的人多，无住的人少；迷信的人多，智信的人少；求佛的人多，用功的人少。出家人做佛事赶经忏的多，真正用功修行的也很少。很可惜，所以佛教才不景气。只要大家都好好地用功修行，那佛教就有希望了。</p>
+<p><a name="a45"></a><span lang="EN-US" style="color:#333399">45. 问：我想在师父出国前，与几位同修来拜见您，聆听教诲，可否？</span></p>
+<p>答：一切无住，潇洒自在是大神用。佛法精华全具于此。此外有说，皆是魔说。不见云门大师说：‘即此见闻非见闻，无余声色可呈君。’还有什么可说的呢？何必再徒劳往返，浪费精神？还是在家安养吧。</p>
+<p><a name="a46"></a><span lang="EN-US" style="color:#333399">46. 问：不动心，脑子是否会迟钝？</span></p>
+<p>答：不会的，脑子反应反而快。不动心，不是说不起心用而是不执著假相，为它所转而已，我们知道一切事相都是假的，不动心，什么事情来了，一来马上就反应，更灵敏了。妄想多了反而会迟钝。我们做事情要善运正念，否则怎么做事？但做事时心不住相，随缘应付，没有杂念，清清楚楚，明明白白。</p>
+<p><a name="a47"></a><span lang="EN-US" style="color:#333399">47. 问：我有时会用经书上看到的知识来评判自己的情况，这对吗？</span></p>
+<p>答：是有用的。可以将自己的言行与经书上的道理对照，检查自己有什么不对。寺院里早晚课的作用，就是教我们怎么做人，明白怎么修行。诵晚课是对照经文检查自己，这一天的行为做得对不对；早课是提醒自己，这一天的行为须按经文所说去做。</p>
+<p><a name="a48"></a><span lang="EN-US" style="color:#333399">48. 问：《大集经》里说：‘末法时代罕一得道’，这个得道是指什么？</span></p>
+<p>答：解决分段生死，断思惑，证无生，超轮回而常住。末法时代众生障重慧浅，恶习深厚很难做到。</p>
+<p><a name="a49"></a><span lang="EN-US" style="color:#333399">49. 问：怎样理解无念为宗？</span></p>
+<p>答：无是无一切妄念分别，念是念真如觉性。念真如即念本性，一念不生，了了分明，念念在本位上，保护它，时时刻刻见性，这是真用功。我们用功是灵活的，巧妙得很，不是死板的。</p>
+<p><a name="a50"></a><span lang="EN-US" style="color:#333399">50. 问：处处要空，会不会落空？</span></p>
+<p>答：佛法所说的空是说一切事物皆不可得，不是说无有事物也，所说真空妙有！空是空却执妄相的幻念。不是说不起妙用也，有由心得显，有而不有，所以无可执著。有人口口声声说空，但却心心著有，不行。即使真能‘空诸所有’，不能显现大悲妙用，正是‘实诸所无’落在空无一边。</p>
+<p><a name="a51"></a><span lang="EN-US" style="color:#333399">51. 问：有人念弥陀心咒一千座后又去念阿弥陀佛，这样可以吗？</span></p>
+<p>答：弥陀心咒就是阿弥陀佛。心咒是佛菩萨的心力，力量大，七遍咒相当于一千遍佛号。当然也应该多念阿弥陀佛的名号。因为除了深入阿弥陀佛的法界心体外，更要显现弥陀的慈悲愿海，救度方便，使自利利他的功德能圆满成就。所以心咒乃佛的心体妙能，佛名是佛悲愿外显，内外一致，体用不二，方能圆成净土的事理功德。</p>
+<p><a name="a52"></a><span lang="EN-US" style="color:#333399">52. 问：证到佛位还会迷失吗？</span></p>
+<p>答：不会的。佛经中形容它如出矿之金，不与泥沙矿石混在一块了。众生犹如在矿之金，不是没有金，但与砂石混在一起，所以迷于事物。修行断尽了无明就是去净了沙、石的纯金。就不会再迷失了。</p>
+<p><a name="a53"></a><span lang="EN-US" style="color:#333399">53. 问：我们为什么要发愿呢？</span></p>
+<p>答：愿为一切事物成功之母。愿能成事。所以修行须发大愿，要成佛度众生，即不怕艰难困苦，勇猛精进，遇任何挫折也不会退失初心。人如果没有愿，碰到困难就不肯修行了。我们心中心法第一印就是菩提心印，要发成佛的大愿。成佛必须靠众生，佛是福德、智慧两足尊。没有大愿，不做度众生的事，福德从何而来？</p>
+<p><a name="a54"></a><span lang="EN-US" style="color:#333399">54. 问：我确实感到周围的众生，有我的存在。佛感觉到吗？</span></p>
+<p>答：佛是圆觉遍照，圆证普利。如果他有此感觉，就不是佛了。以你的凡夫心去度量佛的心，大错了！</p>
+<p><a name="a55"></a><span lang="EN-US" style="color:#333399">55. 问：兜率净土与西方净土有何区别？</span></p>
+<p>答：是一样的。兜率净土是我们娑婆世界的净土。释迦佛是从兜率天下降的，将来弥勒佛也要从兜率天下降，而且将来的佛都要从兜率天下降。我们这个劫是贤劫，有千尊佛出世。释迦佛是第四尊佛，还有九百九十六尊佛出世。一切佛都从兜率内院下降。所以许多禅宗大祖师都是上升兜率内院去。西方，东方都不出我们本性之外、西方的净土和兜率净土无二无别。</p>
+<p><a name="a56"></a><span lang="EN-US" style="color:#333399">56. 问：有没有极乐世界？</span></p>
+<p>答：有。但非实有，乃真空妙有。心经云：色即是空，空即是色，色空不二，不可执著。阿弥陀佛也要退位的，由观世音菩萨继位。它比现在的极乐世界还要好。因为观世音菩萨的功德大，他早已成佛，为度众生而现菩萨身。但他也要退位的，由大势至菩萨继位。所以金刚经云：凡所有相皆是虚妄。</p>
+<p><a name="a57"></a><span lang="EN-US" style="color:#333399">57. 问：《净土十要》对修净土者很重要吗？</span></p>
+<p>答：《净土十要》实为修净土的重要典籍。惜今人多不重视，只贪便利，说什么散心念佛亦能生西。因之等到腊月三十到来，不免手忙脚乱，不能生西。</p>
+<p><a name="a58"></a><span lang="EN-US" style="color:#333399">58. 问：我心中没有妄念，与西方净土有什么两样？</span></p>
+<p>答：心体没有两样。因为随其心净则佛土净。但有人说大话，心不肯空。事情来了他还著相，著相了就不是净土。理明，事跟不上，没用。著相生西方，只能是生凡圣同居土。西方有四土的不同，一者，一心用功念佛了但不知一切皆幻现，执为实有，而生事相的净土，亦得极乐庄严的受用。二者心空无住，证无生正定，了见思惑，则入方便有余净土。三者，以广大菩提悲愿，普行六度万行，四相顿空，实报妙现，则生实报庄严土。四者，果德圆极，三身圆证，四智圆明，寂光圆常，则生常寂光净土。如果只是不生妄念，心不具净土之德，则离真净土远矣！</p>
+<p><a name="a59"></a><span lang="EN-US" style="color:#333399">59. 问：如何是戒？</span></p>
+<p>答：戒者，戒你心不妄动而易于入定也，故最要紧的是心戒。心不为境界所动，于一切境，无染、无著是一切戒的根本。再由不动的妙心起饶益众生的大悲方便，处处摄受利济，方能具足一切戒的功德。</p>
+<p><a name="a60"></a><span lang="EN-US" style="color:#333399">60. 问：善行是否主要是对治自己以往自私自利的习惯，达到‘无我之境’的一种方便呢？</span></p>
+<p>答：善行的确很重要，但不是最主要的，主要还在开智慧。‘佛’者，乃觉悟不著相之人也。如不开智慧只作善事，充其量不过做个享福之人罢了。福享完了，还要下地狱，仍不能了生死。但如果明悟心性后，以菩提心去做一切利生之善行，则一切善行又能成为道上的增上缘。</p>
+<p><a name="a61"></a><span lang="EN-US" style="color:#333399">61. 问：世上很多人不信佛，还讥笑学佛人。故要发愿救度一切众生是否很难或不切实际？是不是只救有缘众众生？</span></p>
+<p>答：发愿要广，不可分别有缘无缘以及亲疏远近。至于能否得度，这就须看因缘如何了，佛亦不能度无缘众生啊！</p>
+<p><a name="a62"></a><span lang="EN-US" style="color:#333399">62. 问：要度众生，首先自己要开悟，要有神通。否则谈不上度人，人家也不信你。但如果只顾自己修法，又不度人，会被斥为自了汉。如何看待这种观点？</span></p>
+<p>答：你的观点错了。现在自己修法正是为了度人而修的，不是为了自己寻快乐而修行，这就是菩萨心肠的大乘法。反之，只为了自己出苦海，不顾他人即为小乘法。另外，度人不在神通，而在道眼明正，不致指人入歧途。假如以神通来度人，那么外道与魔王都有神通，他们都能度人吗？你们修法都著神通，这是大错！须知成佛不在神通而在开发般若！</p>
+<p><a name="a63"></a><span lang="EN-US" style="color:#333399">63. 问：请问师父理上悟的和亲证的体应该是一个吧？</span></p>
+<p>答：对！体虽无异，但事用不同。理悟的只是知解，遇事则非，证悟的，则能遇事不惑，对境不动。</p>
+<p><a name="a64"></a><span lang="EN-US" style="color:#333399">64. 问：正定和普通睡眠的区别？</span></p>
+<p>答：等你定功深入，睡著亦是了了分明的，而不是昏昏沉沈的。</p>
+<p><a name="a65"></a><span lang="EN-US" style="color:#333399">65. 问：怎样才是真性妙用？</span></p>
+<p>答：做事而不著相，不起二念，做等于没有做，这就是真性的妙用。乃至穿衣吃饭、迎宾、送客等等，都是自性的全体大用。</p>
+<p><a name="a66"></a><span lang="EN-US" style="color:#333399">66. 问：我现在知道了，一切东西全是佛性的变化。但还会感到痛苦，尤其生病时感肉体上的痛苦。碰到物质上有障碍时，亦作不了主了。</span></p>
+<p>答：你还是著相心未曾空啊！而且定力很差，你应该多打坐，培养定力。理解是妄识，不管用。必须将你身心世界化空，那才行。真正保护心不随境界转，走路也会脱掉，没有个‘我’在走路，没有马路，没有汽车，照样会到目的地。真做功夫时，睡梦中也会脱掉。解悟不行，一定要证悟。要透得过，一定要好好做功夫。</p>
+<p><a name="a67"></a><span lang="EN-US" style="color:#333399">67. 问：真正修行的人，知道得越少，见解越少越好。只须依止善知识与一两部经典，而不必广研经论，老实参禅念佛，必能大事成就。这种说法对吗？</span></p>
+<p>答：修法不是不研习经论。不懂道理，怎么修呢？这种说法是怕人著在文字里，钻牛角尖，不去实修，而耽误了修行。如能在精通教理后，一切放下，不再执文字相，而脚踏实地的去修，那是最好了。</p>
+<p><a name="a68"></a><span lang="EN-US" style="color:#333399">68. 问：请师父谈谈‘意生身’？</span></p>
+<p>答：意生身个个都能出，它是从第七识生出来的。上面的眼、耳、鼻、舌、身、意封住它时，它就出不来了。现在我们六根不清净，乱动脑筋，见相著相，就把它封住了。等你清净到一定程度，它就自己出来了。做气功做得好的，心清净了，也能出来。不过只能出一个，还不能够要出就出。入三昧时能出，不入三昧时就不能出。</p>
+<p><a name="a69"></a><span lang="EN-US" style="color:#333399">69. 问：现在还没有见性，能不能起用？</span></p>
+<p>答：一切时用都是我们佛性的作用，否则怎么会讲话，听话呢？这就是启用啊！我们在作用中不住相就是妙用。坐在那里不动，不起作用。要灵活，要认真做事而不著相，这就是起用。</p>
+<p><a name="a70"></a><span lang="EN-US" style="color:#333399">70. 问：中阴身与意生身的区别？</span></p>
+<p>答：两者不同。中阴身是前身已死，后身未形成，还没有投胎时的阴身。而意生身不是每个人都有的，要修行有一定功夫的人才有。是为济度众生如意受生的菩萨身，意生身有三种：三昧乐正受意生身、觉法自性性意生身、种类俱足无行作意生身。</p>
+<p><a name="a71"></a><span lang="EN-US" style="color:#333399">71. 问：灵魂与佛性有什么区别？</span></p>
+<p>答：灵魂是佛性与无明的和合。如你没有识得本性，著相的，就是灵魂。有分别心，有粘染的就是灵魂。魂与魄也有区别。有人说三魂七魄，就是三分灵魂七分魄。魂是阳气，魄是阴气。人身上都有阴阳，阴极、阳极。凡夫身上光明的一面只有三分，黑暗的一面有七分，所以要将黑暗的一面，执著的习气化掉。纯阳祖师叫纯阳，即阴气都消光了。著相出不了三界，著了阳神还是有生死，须一点都不著才好。</p>
+<p><a name="a72"></a><span lang="EN-US" style="color:#333399">72. 问：等觉菩萨尚有一品生相无明未破，我等凡夫怎么能在二、三年中修了心中心法而破无明，并能住六道里而度生呢？</span></p>
+<p>答：不是修心中心法的人都能破尽无明住六道里度生，而是看各人所证深浅，随自己愿望往生净土或随众生住世。</p>
+<p><a name="a73"></a><span lang="EN-US" style="color:#333399">73. 问：修到什么程度才能传法？</span></p>
+<p>答：修法人真正开悟证道，才有资格传法，‘欲知山下路，须问过来人’你不是过来人，不知道路径怎么可以乱传人。修法过程中有疑问需要人指点，如行人在十字路口向那里转弯，要人指点，你自己没过这条路，怎么能瞎指点人，岂不是以盲引盲，一齐走向地狱去了。</p>
+<p><a name="a74"></a><span lang="EN-US" style="color:#333399">74. 问：只怕心不死，不怕不活。先将心死透了，还会活得起来吗？</span></p>
+<p>答：心死透，是死去你的执著，不是死去你的妙用。用功过程中应注意适度锻炼。你心在事物上真正死透，不粘著了，当下神用就一起现前了。</p>
+<p><a name="a75"></a><span lang="EN-US" style="color:#333399">75. 问：万法皆空，唯有佛性不空。这样的话，佛性与万物岂不看作二物了？</span></p>
+<p>答：万物皆空，佛性不空是对初学佛人讲的；万法即佛性是对悟后人说的。二者不可混为一谈。</p>
+<p><a name="a76"></a><span lang="EN-US" style="color:#333399">76. 问：‘地狱不空，誓不成佛’，地藏王菩萨成佛了吗？</span></p>
+<p>答：誓不成佛，是誓不取佛位。如果地藏王菩萨没有佛的资格，他怎能到地狱去度众生？怎能度化十方的菩萨成佛呢？他有佛的资格而不取佛位。其实在地藏王菩萨看来，地狱本来是空的，《心经》讲诸法空相嘛！而且无佛可成才真正成佛！</p>
+<p><a name="a77"></a><span lang="EN-US" style="color:#333399">77. 问：‘是法住法位，世间相常住’。怎么理解？</span></p>
+<p>答：世间法都是桑田沧海，瞬息万变，不常久。我们的身体也不常久。苏东波在《前赤壁赋》里有两句说得很清楚：‘客亦知夫水与月乎？逝者如斯，而未尝往也……’你们看水和月亮，水在哗哗地流，水尽管在流却没有减少啊。同样，月亮虽有圆缺时，但也没增减啊！这就告诉我们，事相就是如此，这不就是常住吗？‘是法住法位’，就是说一切事相离不开真性，真性常住，世相也常住，世间只是因缘变迁而已，都是假相。</p>
+<p><a name="a78"></a><span lang="EN-US" style="color:#333399">78. 问：见山是山，见水是水，进一步，见山不是山，见水不是水。到后来，见山还是山，见水还是水。怎么理解？</span></p>
+<p>答：见山不是山，见水不是水，是正做功夫真切的时候，无所见，一切不著。反过身来，噢，山不过是山，水不过是水，法尔如是，没什么玄妙。于是随缘自在任运无碍了。如果一定要山不是山，水不是水，那就是断灭了。山水都是本性的显现，一切色相都是我们佛性变现的，都是妙用，那么自然就不著相了。</p>
+<p><a name="a79"></a><span lang="EN-US" style="color:#333399">79. 问：动念是妙用吗？</span></p>
+<p>答：是，动念都是妙用。具体说，动念不住相就是妙用；动念住相是妄想。‘恰恰用心时，恰恰无心用；无心恰恰用，常用恰恰无。’这就是妙用。用心时没有心，要‘常用恰恰无’，动念不住相，那是海印放光。</p>
+<p><a name="a80"></a><span lang="EN-US" style="color:#333399">80. 问：虚云老和尚在高嚰寺眼睛能透过墙壁，见到屋外有人小解，这能说是开悟了吗？</span></p>
+<p>答：这不是开悟，是色蕴境界。不能执著，一执著就要入魔了。虚云老和尚在自传中写道：顿断疑根，庆快平生。这八个字才是写的茶杯落地，疑根顿断。</p>
+<p><a name="a81"></a><span lang="EN-US" style="color:#333399">81. 问：明心见性的时候，会展现图像吗？</span></p>
+<p>答：它没有图像，也没东西，但不是断灭相，它了了分明。这个灵知了了就是我们的本来面目。明白这个以后，要注意，不是到家了，而是正好用功夫，时时保护它。可以用佛号，也可以用咒来保护它。禅宗大慧杲祖师就是用我们心中心法大随求陀罗尼保护自己。禅师都会念咒的。憨山大师说得很明白，历代禅师都秘密持咒，任何一宗都离不开密法。</p>
+<p><a name="a82"></a><span lang="EN-US" style="color:#333399">82. 问：一切言谈举止，包括我现在提笔写信，都是本性的妙用。其本身‘不生不灭、不增不减、不垢不净’。但非同土木草石，而是一种灵知觉性，人人本身具足，悟此则为见性。对吗？</span></p>
+<p>答：不对，这只是理解，不是见性。这种理解，遇事不得力，无用。见性悟道首先要将身心世界化空，悟理后还须在事上透得过，如遇事透不过，亦不为见性。如果事上透得过，但住于空灵而不开显大悲妙用，仍不算真见性。</p>
+<p><a name="a83"></a><span lang="EN-US" style="color:#333399">83. 问：弟子认为上座按师父要求的心念耳闻，尽量多加坐；下座观心。知行住坐卧，念佛持咒等都是自性所为，尽可能让真心常现，对吗？</span></p>
+<p>答：对，又不对。对者，须努力用功修持，不可轻忽。不对者，在‘尽可能让真心常现’一句，因为真心无隐藏，时时在你面门放光。你既知一切举措作用，皆是真心的妙用，它岂不是时时现前，还用什么‘尽可能让真心常现’呢？！</p>
+<p><a name="a84"></a><span lang="EN-US" style="color:#333399">84. 问：见性之后，最精进的用功就是时时刻刻不忘失本来吗？</span></p>
+<p>答：不对！本性不会失去的，只是你著相，被境迷了，就像太阳被乌云遮盖而不现一样。精进用功只是绵密保护。用功时如率兵攻敌，义无反顾；不用时则一切放下，视若无事，这叫真精进。</p>
+<p><a name="a85"></a><span lang="EN-US" style="color:#333399">85. 问：不忘失本来，就是要在觉知上用功。做事时知是本性的妙用，无事时灵知觉性并不曾减少，自然就随时间因缘而成大道吗？</span></p>
+<p>答：不对！古人云：‘但尽凡情，别无圣解’，你时时执在灵知性上，就是有所住著。须不著一切相，随缘起用才是。灵知觉性亦不可著。在觉知上用功更是大错。</p>
+<p><a name="a86"></a><span lang="EN-US" style="color:#333399">86. 问：时时与自性相应，就是和上师相应。如法修行，上师、佛就在身边。这认识正确吗？</span></p>
+<p>答：对！</p>
+<p><a name="a87"></a><span lang="EN-US" style="color:#333399">87. 问：要归无所得，一切皆了不可得。但是，空空然而有觉知的光景不是还在吗？若将此扫光，岂不断灭了？</span></p>
+<p>答：不是将此灵觉扫光，而是不住此灵觉。以不住故，即无能觉与所觉，故归无所得也。有个觉知的光景，早不是了，还说什么空空然？</p>
+<p><a name="a88"></a><span lang="EN-US" style="color:#333399">88. 问：这个无相的性体，尽管无相，但可以于无念时体会到它。是吗？</span></p>
+<p>答：不对！不仅于无念时体会，更须于作用事相上体会。因作用与事相皆是自性的显现，相即性，性即相，不可分离。若仅于无念时体会，岂不落死水一潭么？</p>
+<p><a name="a89"></a><span lang="EN-US" style="color:#333399">89. 问：古代禅师开悟偈中曾写到：‘渠今正是我，我今不是渠。’又：‘春到花香处处秀，山河大地是如来。’这不是空有不二的注脚吗？</span></p>
+<p>答：不可一概而论。上偈的‘我今不是渠’，须认清宾主，不可禙侗颟顸认为是不二。当证体时，一物不立；但启用时，物物显现而不住。证体启用合起来即是‘山河大地是如来’了。证体不是住在真如位上不动，死在那里，而是活泼妙用，应物随缘而无所住的。</p>
+<p><a name="a90"></a><span style="color:#333399">（二）关于禅密<span lang="EN-US"></span></span></p>
+<p><span lang="EN-US" style="color:#333399">90. 问： 既然佛性不在修，却又何必要修法呢？不如在生活中时时返照，尤其是烦恼现前透不过去时。</span></p>
+<p>答：因为你有无明在，遇事执相，不得自在，故须修行。修，不是修佛性，而是消除无明习气。你能时时处处常摄在定，不随境转，这即是修。修到圆熟，定也不可得，那才不用修了。</p>
+<p><a name="a91"></a><span lang="EN-US" style="color:#333399">91. 问：《心经》里说：‘无无明，亦无无明尽。’‘无无明’，已破无明，‘亦无无明尽’连无无明亦不立，这两句应该已到最高佛位，怎么归纳在十二因缘内？</span></p>
+<p>答：说无无明尽者，正是扫其悟迹，去其法执，归无所得而入大乘佛位也。</p>
+<p><a name="a92"></a><span lang="EN-US" style="color:#333399">92. 问：我认为妄心无处所，真心有处所。</span></p>
+<p>答：不对，妄心执境，故有处所。真心无物，无所不在，故无处所。</p>
+<p><a name="a93"></a><span lang="EN-US" style="color:#333399">93. 问：智慧是一下子打开的，还是一点一点开启的呢？什么是后得智？明心见性与开大智慧有什么关系？</span></p>
+<p>答：小悟无其数，大悟十八、九。由小而大，而彻。但这也无一定的规范，不须渐进。后得智是对根本智说的，是启用的智慧。即于得根本智后，起用度生，磨光自己的习气，启发神通。随众生不同的根性，说不同的法，是度脱众生之妙智也。</p>
+<p><a name="a94"></a><span lang="EN-US" style="color:#333399">94. 问：明心见性后，是否八识田中的种子翻腾得更为剧烈呢？</span></p>
+<p>答：种子翻腾包含在修行的整个过程中。到彻悟后，即无种子翻腾了。所以我叫你不要得少为足，须慢慢在境上打扫习气，将这些污染种子去光，以臻彻悟之境。</p>
+<p><a name="a95"></a><span lang="EN-US" style="color:#333399">95. 问：心死后又活起来，怎么办？</span></p>
+<p>答：难免的。师祖在《解脱歌》里讲：‘几回生，几回死，亘古亘今只如此。’一回死不透，要大死才行，否则又心动了。我们修法时有：‘大悟十七八，小悟无其数’的历程。</p>
+<p><a name="a96"></a><span lang="EN-US" style="color:#333399">96. 问：初见性人是否脚跟就点地了？照这条路走下去，后来还要来个大翻身。对吗？</span></p>
+<p>答：初悟只是法身边事，成道的路还长，要精勤走下去。下面还有法身正位和法身向上。什么是法身正位，磨炼到一定程度习染消融了，能度化自在，发现神通。心中污染未去，神通就不能显现。心不动，压住不动还不行，须自自然然地不动，一点儿不著相，一点不追求才行。</p>
+<p><a name="a97"></a><span lang="EN-US" style="color:#333399">97. 问：念起不随，是不是到了法身正位？</span></p>
+<p>答：念起不随是有点小成绩了，能受生自在了。但不演算法身正位，一定要断思惑，才能到法身正位。到了法身正位还要向上，要离开这个位子，著在这个位子还不行。修禅人：‘朗月当头时，尤是阶下汉。’要月落时相见，才是全体圆明。</p>
+<p><a name="a98"></a><span lang="EN-US" style="color:#333399">98. 问： 见性后为什么还要打坐？</span></p>
+<p>答：那没有一定，假如执著的习气还在，定力不够，保不住才要打坐增加定力以透重关。（有人说我一打坐觉得妄念比平时多。不是打坐妄念多了，而是打坐了，你才看见妄念。不打坐时像一盆混水，有泥沙看不见，打坐之后水静下来了，看见泥沙了）。</p>
+<p><a name="a99"></a><span lang="EN-US" style="color:#333399">99. 问：神会大师讲‘知’之一字，众妙之门。又有祖师讲是众祸之门。该如何理解？</span></p>
+<p>答：不错，这能知的是谁？你知道了本性，不是众妙之门吗？大鹏金翅鸟一飞万里，全靠脚下点地的一点劲。我们修行全靠这个‘知’。后来人执著在这个‘知’上便成窠臼，又不对了。所以祖师说是众祸之门。什么时候说什么话，法无定法。</p>
+<p><a name="a100"></a><span lang="EN-US" style="color:#333399">100. 问：明心见性后能否修大圆满中的脱噶？</span></p>
+<p>答：大圆满中分二步，<span lang="EN-US">(1)‘彻却’就是‘立断’。(2)‘脱噶’是顿超，身体化虹光。要住山闭关修。你们年青人往往好高鹜远，你们能于见性后，进一步刻苦用功修吗？</span></p>
+<p><a name="a101"></a><span lang="EN-US" style="color:#333399">101. 问：本性不生不灭，是不动体。怎么理解？</span></p>
+<p>答：它没有来去，所以叫不动体。没有生死，没有方位，但能随缘显现。这个人要显男身才能得度，那就显个男身去度他；那个人要以女身得度，那就显个女身去度他，随缘变现。真成道，牛胎马腹也能去，但本性无有变异。</p>
+<p><a name="a102"></a><span lang="EN-US" style="color:#333399">102. 问：经过一段时间的体会，弟子对见性一事有了较深的认识。从前以为开悟以后大事已了毕，除习气只是个次要的过程。现在才真正知道见性只是刚断了见惑，充其量也只做到了理上明白。习气依然还在，境界来了照样会动心，透不过去。欲真了生死还需继续努力，万万松懈不得。待破尽思惑、尘沙惑、无明惑后大事方才了毕。如以为自己现在生死已了，那是自欺欺人，瞒那阎王老子不得。</span></p>
+<p>答：来函所说甚当，见性有悟与证之别。真正打开亲见本性者，只断见惑，未断思惑，故生死未了。须悟后用功，断尽思惑，才能了分段生死；更须上上升进，破尘沙与无明惑，方了变易生死，非一悟即能了生死也。近来人心多躁，以为开一点知见即为见性，不再用心修了，真是荒唐之极！</p>
+<p><a name="a103"></a><span lang="EN-US" style="color:#333399">103. 问：‘末等于初’怎么理解？</span></p>
+<p>答：即最后成道了与当初没有学佛一样。当初学佛时六道轮回，最后也是六道轮回，但不是被业障所牵，而是大愿所致。在六道中度众生，不著境界了。从现象上看是一样的，但实质不同。初学佛在六道里受苦，后来认识这些境界是虚幻的，就不受苦了。不受一切受，是正受，这就是三昧。其实本无生死，来去都是假相。又，初发心时所见之道与末后所证之果，完全一致，所以《华严经》中说：‘初发心时，便成正觉’。可见初见道的根本智对于末后成就是何等重要。</p>
+<p><a name="a104"></a><span lang="EN-US" style="color:#333399">104. 问：末法时期，心密复出，犹如当空红日，殊胜无比。</span></p>
+<p>答：心中心密法是密法中的心髓部份，是大根器人才能修的。</p>
+<p><a name="a105"></a><span lang="EN-US" style="color:#333399">105. 问：自从拜读了您老的文章后，我对佛所说的法，有了正确的认识，佛法不光靠理解，更要靠自己脚踏实地修行。</span></p>
+<p>答：很好，你有了正解，就应不懈地努力修行，以期亲证本来面目。只是理解不务正修，那是谈食不饱的。</p>
+<p><a name="a106"></a><span lang="EN-US" style="color:#333399">106. 问：等觉菩萨尚有一品生相无明未破，我等凡夫怎么能在二、三年中修了心中心法而破无明，并能往六道去度众生呢？</span></p>
+<p>答：不是修心中心法的人都能住六道里度生，而是看各人修证的深浅，随自己愿望是往生净土以了手，或随众生住世度生。</p>
+<p><a name="a107"></a><span lang="EN-US" style="color:#333399">107. 问：我们心中法靠佛菩萨加持，这不是心外有佛吗？</span></p>
+<p>答：佛是有的。如释迦佛，阿弥陀佛、弥勒佛，燃灯佛……，都是有的。但千佛万佛共一体，法身是一个。学佛的人必须做到理事不二、自他不二。</p>
+<p><a name="a108"></a><span lang="EN-US" style="color:#333399">108. 问：有人说从六识下手，易用功易成就，从八识下手，上根者才可成就。对吗？</span></p>
+<p>答：这话大错特错！从六识下手不易掀翻妄识巢穴，成功很难；从八识下手易于掀翻妄识巢穴，有事半功倍之效。净土宗有些人，不识其他宗的优点，而且叫人散心念佛也能生西，这不知害了多少人。我们修法并不一定修几种法，随人喜欢，要选一个适合自己的法专心致志地去修。心中心法是集禅、净、密于一体的。经文中说：第四印可以于命终时往生西方极乐世界，也可随缘往生十方净土。由此可见，修心中心法即是修净土，而且可以上品上生。</p>
+<p><a name="a109"></a><span lang="EN-US" style="color:#333399">109. 问：到什么程度方可开心密道场弘法？</span></p>
+<p>答：好好用功，能纵横自在，遇境不惑，顺逆无拘时，自开心密道场，即能大弘圣教矣。</p>
+<p><a name="a110"></a><span lang="EN-US" style="color:#333399">110. 问：我们初学的人是不是得先将身心化空，将‘有’先破掉，然后将‘空’破掉呢？</span></p>
+<p>答：修心中心法，你只管修，到一定时候，一下子就爆开了，身心世界全化空，空也不可得。但你不能求爆开，有这个妄心，就遮住它了。</p>
+<p><a name="a111"></a><span lang="EN-US" style="color:#333399">111. 问：请师父开示‘凡所有相，皆是虚妄’之义。</span></p>
+<p>答：‘凡所有相，皆是虚妄’，是说影子都是假的，我们这个佛性是连影子也没有，无相的。要反过来认识到影子是你自己的佛性所起的妙用。如果反不过来，去认影子就倒楣了。譬如这房子、椅子、桌子等等东西，都是我们的影子。你要执著它不就倒楣了吗？但是影子可以起妙用啊！房子可以避风寒，衣裳可以遮体保暖，桌子可以工作、吃饭，这不是起妙用吗？但你不能执著它，跟著影子跑就坏了。影子就是心中起的妙用，影子都是我们心中所显现变化的。不是说没有影子，因为这个心是活的，它不是死的，它是能起妙用的。我们具足法报化三身，不是只有法身，法身是体啊，它要起诸现象起诸妙用啊！如果不能起诸现象，不能起用就不值钱了。打坐不是死在那里不动啊，死在那里不动，那有什么用？！所以要起诸妙用。但是，要认识体，不认识什么是体，你怎么起用？著相是不得了的，造业生死。你明白这个能起各种妙用的本体，不著相了，它就不造生死业。迷体著相，就造生死业，这是不能推翻的定理。又相由性造，相是幻像，但不离自性，故见相即是见性，性相不二，全妄即真，关键在不要粘境著相。若能念而无住，用而不著，即是解脱法门。</p>
+<p><a name="a112"></a><span lang="EN-US" style="color:#333399">112. 问：为什么说‘肉眼不能见道’？又为什么说‘肉眼能见道’？</span></p>
+<p>答：我们初见道时，肉眼不能见道，因为法身无相，肉眼怎么能见道呢？它是心地法眼，就是用无眼之眼，用智慧眼来体会。反过来，肉眼能见道，就是见相了，一切相都是我们心中显现变化的。肉眼见道就彻底了，就能够从体起用了。体相用…法报化三身都有了，不是只有法身，而没有报化身。一开始不能说肉眼见道，只好说心地法眼才能见道，肉眼不能见道。反过来肉眼见道，就圆满了，体相用都有了。无可取无可废，无可取…都是影子，得不到；无可废…都是自己心中变化的，无可废离。佛教讲的圆满，一开始只好这样讲，法身体无相，见到一切相都不对；反过来，要现种种相，起种种妙用。</p>
+<p><a name="a113"></a><span lang="EN-US" style="color:#333399">113. 问：《金刚经》说：‘无人相，无我相’。谁说谁闻？</span></p>
+<p>答：只是无相，不是无说，不是无闻，一切没有就落断灭空了。常住真心无相，犹如虚空一样。因空故，一切东西都能容得下。法身犹如虚空，但不能住在空相上，一住就有落处。说法也是，一有知见分别就有落处。所以，最后就以无说无闻来破言说的执著，归于无相灵活妙用。</p>
+<p><a name="a114"></a><span lang="EN-US" style="color:#333399">114. 问：憨山大师说：‘生死昼夜，水流花谢。今日乃信鼻孔向下。’请解释？</span></p>
+<p>答：是说今日乃明本分事也。昔日为生死昼夜，水流花谢等梦幻事所迷。今日幸何如之，亲证本来面目，不费丝毫力，即是目前的自然景物也。本分事，本来如此，无有丝毫奇特，不用费心探索寻觅。故只须一切放下，愈用力愈不是，越轻松越好也。</p>
+<p><a name="a115"></a><span lang="EN-US" style="color:#333399">115. 问：抱定一句话头，朝参夕究，脚跟点地，步步踏实，直教铁树开花，冷灰爆豆。始信宗门中，有奇特事在。虽然如此，须具通方手段，始能定界外乾坤，要有作家眼目。何为通方手段？</span></p>
+<p>答：一通宗通教；二识诸方设施门庭之妙要；三，识各方来参者之根器；四，随宜教以相应参究之话头。</p>
+<p><a name="a116"></a><span lang="EN-US" style="color:#333399">116. 问：不跟语脉转，不是答非所问吗？</span></p>
+<p>答：禅宗机锋，主要是不能落著，如水上葫芦，按著便转，故谓之‘转语’，不是答非所问。不跟语脉转是要针对问题答，但又不著相。举个例子：如问你们镇江金山寺宝塔有几层？（有人答：七层，上师不许。）你要离开宝塔来答，又要针对这个问题。怎么答呢？你可以打个○反相，反问对方‘这有几层？’你功夫到了自然会答。</p>
+<p><a name="a117"></a><span lang="EN-US" style="color:#333399">117. 问：师父曾写过一篇《往生西方关键问题》的文章，《广东佛教》上登了一篇文章提出了不同看法，请师父谈谈您的意见。</span></p>
+<p>答：这篇文章我已看到，意思是：你提的要求这样高，吓得别人不敢修净土宗了，你这不是害了别人吗？其实我并没有否认带业往生，不少人错会了，以为带业往生就不必用功，莽莽荡荡的就可往生西方了。这去得了吗？莲池大师说过‘念佛者多，生西者少。’念佛不痛切故。我这篇文章不是否认带业往生，而是要大家好好用功，做到一心不乱。《弥陀经》说：‘若一日、二日乃至七日，一心不乱，才得生彼国。’我看到很多人，没有功夫，临终时佛号提不起来，昏迷了。还有人说：‘痛死了，还念什么佛？！’试问这样怎么能带业往生呢？所以要看问题的中心，做到功夫成片。一心不乱并不困难，能够时时刻刻绵绵密密地在心中念‘阿弥陀佛’，遇到再好的境界也不乐，遇到再坏再烦恼的境界也不烦恼，仍一心念佛，心不动摇。这要求并不高，带业是对的，加重语气说，一个人修到等觉菩萨，他还有业在。因为等觉菩萨还有一分生相无明在，无明就是造业的因，有无明才会造业。藕益大师也说：要有‘信愿行’，就是要人在真信切愿上做工夫啊。只有‘信愿’而不‘行’不能成就，就像鼎有三足，缺一不可。‘行’能概括信愿。‘不行’，就是空信，空愿，不是真信切愿。不做功夫，怎么能带业往生？！这才是真的害人！知见已正，至于功夫做到那一步，就有品位高低的差异，与不做一心功夫的人自有极大之不同。</p>
+<p><a name="a118"></a><span lang="EN-US" style="color:#333399">118. 问：请谈谈心与境的关系，什么是内境、外境？</span></p>
+<p>答：境，就是我们思想起的幻境。一个念头起，就有一个影子。心就是境，境就是心。没有心，视而不见，听而不闻，就没境了。果能把心境消光了，就好了。‘心境顿消溶’就是一下子心和境都消光了。打坐时，能念所念一起脱落，心与境都没有了。内境是我们的身心世界、思想，外境就是山河大地。‘方明色与空’并明白这就是我们自己本性的显现，学佛就是学这一点。</p>
+<p><a name="a119"></a><span lang="EN-US" style="color:#333399">119. 问：有时自己放空无念，脑子很清明，有时散步亦可自然放空，但一晃又没有了，不稳定。</span></p>
+<p>答：自然放空很好，没有就让他没有，自然不住，否则是死定。</p>
+<p><a name="a120"></a><span lang="EN-US" style="color:#333399">120. 问：入定以后是不是就醒不过来了？</span></p>
+<p>答：没有的话，你现在还做不到醒不过来，现在你定的时间不会长。要入定时间长，须经过几次入灭受想定才行，不是一下子就能做到的。刚开始灭受想定也不是很长，顶多定一二天。慢慢可以加长，一个星期，十几天，半个月，一个月，那以后可能一下子定得时间长了，但也不是一下子长多少年，这不可能。有些人对能入定几年，几百年甚至上千年的人很羡慕。但是要知道这个灭受想定不好，那是死定。叫死水不藏龙，不起妙用，没用。大定是活泼泼的，在境界上能大用，对境不粘著。无住才是大定，才是真定。要时时刻刻在定中，大定是无出入的。有出定和入定都不是真定。禅宗有个公案，一个女子在释迦佛前入定。文殊菩萨走来一看，哎哟，这个女子不像话，怎么坐在佛前入定了；要拉她出定。他对这个女子弹指，不出定。又把她举到三十三天，不出定。再把她打到十八层地狱，还是不出定。释迦佛说：下方有个罔明菩萨能叫她出定。正说著，下方的罔明菩萨来了。这位菩萨在女子面前也是一弹指，她就出定了。文殊菩萨是七佛之师，为什么不能叫她出定啊？而罔明菩萨却可以呢？有人说是缘的问题。不相干！问题在不能起知见。文殊菩萨起执见了：‘这女子怎么能在佛前入定？’这个执见不能起。文殊菩萨是代表大智慧的，大智慧不能起执见，这是表法的。罔明是什么意思呢？罔者，不可得。就是一切聪明智慧不可得。所以没有这些执见，一弹指就出定了。所以要把你的聪明打掉才行。老子说：‘掊击尔智’就是说：空掉你的世智聪辩，要心空空的，就能证大道。</p>

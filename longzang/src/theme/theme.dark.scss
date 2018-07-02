@@ -1,0 +1,91 @@
+
+
+.dark-theme {
+
+    .guke { 
+      font-family: guketi;
+      color:black !important;
+    }
+
+
+    ion-content {
+      background-color: #000000;
+      color: #e5e5e5;
+    }
+   
+    ion-list {
+        background-color: #000000;
+        color: #e5e5e5;
+      }
+
+      ion-item {
+        background-color: #000000;
+        color: #e5e5e5;
+      }
+
+      ion-label {
+        color: #e5e5e5 !important;
+      }
+
+      .item {
+        background-color: #000000;
+        color: #e5e5e5;
+      }
+
+      .toolbar-title {
+      color: #e5e5e5;
+    }
+
+    .header .toolbar-background {
+      border-color: #ff0fff;
+      background-color: #000000;
+    }
+    
+    span[style="color:#003300"]{
+        color: #e5e5e5 !important;
+    }
+
+    span[style="color:#333399"]{
+        color: #8686f1 !important;
+    }
+
+    span[style="color:teal"]{
+        color: rgb(12, 180, 180) !important;
+    }
+    
+    span[class="button-inner"]{
+        color: white !important;
+    }
+    
+    span[style="float:left;font-size:1.2em"]{
+      color: #e5e5e5 !important;
+    }
+
+    .volume-book-title{
+      border-style: solid; 
+      border-width: 10px 0px 10px 0px; 
+      -moz-border-image: url(./../assets/images/border-image-dark.png) 26 0 repeat; 
+      -webkit-border-image: url(./../assets/images/border-image-dark.png) 26 0 repeat; 
+      -o-border-image: url(./../assets/images/border-image-dark.png) 26 0 repeat; 
+      border-image: url(./../assets/images/border-image-dark.png) 26 0 fill repeat;
+      border-image-outset: 5px;
+  
+      overflow: ellipsis; 
+      text-overflow: ellipsis;
+      white-space: nowrap;
+  }
+  
+  .content-border-background{
+      border-style: solid; 
+      border-width: 14px; 
+      -moz-border-image: url(./../assets/images/content-border-image-dark.png) 20 21 repeat; 
+      -webkit-border-image: url(./../assets/images/content-border-image-dark.png) 20 21 repeat; 
+      -o-border-image: url(./../assets/images/content-border-image-dark.png) 20 21 repeat; 
+      border-image: url(./../assets/images/content-border-image-dark.png) 20 21 repeat;
+  }
+
+  .bookAuthor{
+    color:lightgray
+  }
+
+}  

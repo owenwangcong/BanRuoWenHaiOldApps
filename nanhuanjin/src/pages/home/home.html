@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title class="home-page-header-title">
+      南怀瑾全集
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding> 
+  
+  <div style="position: relative;top:25px;">
+    <table width="100%">
+      <tr>
+        <td>
+          <img src="{{imageUrlPrefix}}/images/nanhuaijin.jpg" alt="NanHuaiJin" style="display: block;margin: auto;width:75%;">
+        </td>
+      </tr>
+    </table>
+    <br/>
+
+    <button ion-button menuToggle class="center">开始阅读</button><br/>
+
+    <div *ngIf="globalVars.lastReadHistory != undefined">
+        <button  ion-button (click)="continue()" class="center">继续上次的阅读</button>
+        <span class="center" style="color:gray;font-size:0.8em">{{globalVars.lastReadHistory.historyName}} - {{globalVars.lastReadHistory.percentage}}%</span>
+        <span class="center" style="color:gray;font-size:0.8em">{{globalVars.lastReadHistory.date|date:'MM/dd/yyyy hh:mm:ss'}}</span>  
+      </div>
+  </div>
+  
+</ion-content>
